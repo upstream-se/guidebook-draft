@@ -1,12 +1,12 @@
 # Upstream Software Engineering
 
-*A guidebook for governing the development, operation, maintenance, and evolution of software systems*
+*A guidebook for governing the construction and evolution of software systems*
 
 
 ## What this guidebook is
 
 This guidebook presents a framework for **Upstream Software Engineering**:  
-the discipline concerned with **governing** the conception, definition, development, operation, maintenance, and evolution  software systems **across the whole lifecycle**.
+the discipline concerned with governing the intent, structure, and evolution of software systems, including context, boundaries, and valid transformations before and across realization.
 
 It addresses questions such as:
 
@@ -27,7 +27,7 @@ This guidebook is not:
 - a set of mandatory documents or procedures
 - a replacement for Software Engineering practices
 
-It does not prescribe how to code, test, deploy, or operate software.  Instead, it focuses on the **intent, constraints, and transformations** that downstream activities are expected to respect.
+It does not prescribe downstream engineering practices, implementation techniques, or operational procedures.  Instead, it focuses on the **intent, constraints, and transformations** that downstream activities are expected to respect.
 
 
 ## How the guidebook is organized
@@ -107,19 +107,36 @@ This guidebook evolves over time.
 
 ## Intended audience
 
-This guidebook is primarily intended for:
+This guidebook is intended for professionals and researchers involved in the **governance, definition, and long-term evolution of software products**, including:
 
-- technical and product leads
-- product owners
+### Product and Technology Leadership
 - software architects
-- project managers/leads
-- software development teams
-- software operations teams
-- enterprise architects
-- consultants, auditing, and governance roles
-- researchers and educators
+- technical leads and principal engineers
+- product leads and product managers
+- engineering managers responsible for product direction
 
-It assumes familiarity with Software Engineering concepts and practices.
+### Governance and Organizational Roles
+- roles responsible for product, portfolio, or architectural governance
+- decision-makers defining boundaries, ownership, and accountability
+- consultants supporting organizations in product governance and evolution
+
+### Software Engineering Practice (Upstream-focused)
+- senior software engineers involved in architectural and structural decisions
+- practitioners operating across multiple teams, products, or providers
+- roles bridging business intent and technical realization
+
+### Research and Education
+- researchers studying software systems, evolution, and governance
+- educators designing curricula or teaching advanced software engineering topics
+
+### Assumptions
+
+This guidebook assumes familiarity with:
+- software engineering concepts and terminology
+- modern software development practices
+- organizational contexts where software products evolve over time
+
+It is **not intended as an introductory text** to software development.
 
 
 ## How this guidebook relates to practice
@@ -154,3 +171,21 @@ If you are new to the guidebook, proceed in the following order:
 Use **Guidelines** as a source of inspiration and operational advice.  
 
 Consult **Resources** for reusable materials you can download or adapt.
+
+
+## Resources
+
+In addition to the guidebook itself, this initiative produces a set of **reusable resources** that can be downloaded and used independently.
+
+These resources include:
+- white papers and technical reports
+- research papers and preprints
+- books and long-form texts
+- templates, canvases, and reference artifacts
+- teaching and presentation materials
+
+Resources are **not part of the normative core** of the guidebook.  They do not define concepts, impose requirements, or prescribe practices.
+
+They are provided to support learning, application, dissemination, and citation of upstream software engineering.
+
+→ Explore the available materials in **[Resources](./resources/index.md)**.
