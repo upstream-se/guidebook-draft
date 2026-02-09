@@ -5,8 +5,7 @@
 
 ## What this guidebook is
 
-This guidebook presents a framework for **Upstream Software Engineering**:  
-the discipline concerned with governing the intent, structure, and evolution of software systems, including context, boundaries, and valid transformations before and across realization.
+This guidebook presents a framework for **Upstream Software Engineering**:  the discipline concerned with **defining, governing, and evolving software systems** before and across their realization.
 
 It addresses questions such as:
 
@@ -25,7 +24,7 @@ This guidebook is not:
 - a development methodology
 - a project management framework
 - a set of mandatory documents or procedures
-- a replacement for Software Engineering practices
+- a replacement for downstream engineering practices
 
 It does not prescribe downstream engineering practices, implementation techniques, or operational procedures.  Instead, it focuses on the **intent, constraints, and transformations** that downstream activities are expected to respect.
 
@@ -39,7 +38,7 @@ The guidebook is organized into four main **parts**, each with a distinct role.
 
 The **Motivation** part explains **why Upstream Software Engineering is needed**.
 
-It describes the problem space, the limitations observed in current practice, and the pressures that motivate the formulation of a dedicated discipline for governing software systems over time.
+It describes the problem space and the limitations observed in current practice that motivate the need for a dedicated discipline to govern software systems over time.
 
 This part prepares the reader for the normative definitions introduced in the Foundations.
 
@@ -51,8 +50,8 @@ The **Foundations** part defines the **normative core** of Upstream Software Eng
 It contains:
 
 - **Discipline** — the formal definition of Upstream Software Engineering, including its scope and boundaries
-- **Model** — the conceptual structures used to reason about software systems, their context, governance, and evolution
-- **Plays** — the valid transformation patterns over the model
+- **Metamodel** — the normative conceptual structure that defines the concepts, relationships, and constraints used to reason about software systems and their evolution
+- **Plays** — the valid transformation patterns that operate over models conforming to the metamodel
 
 Foundations define **what is considered valid**.  Compliance is assessed against this part.
 
@@ -63,10 +62,13 @@ The **Guidelines** part provides **recommended ways** to enact the Foundations i
 
 It contains:
 
-- **Artifacts** — suggested carriers (documents) for model representations
+- **Artifacts** — suggested ways of representing, documenting, or managing models that conform to the metamodel
 - **Practices** — situational ways of executing plays in concrete organizational contexts
 
-Guidelines are **not mandatory**.  They are meant to be adapted, combined, or replaced as needed.
+Guidelines are **non-normative**.  
+They are meant to be adapted, combined, or replaced as needed.
+
+Different practitioners and tool builders may choose different representations, as long as the underlying models conform to the metamodel defined in the Foundations.
 
 
 ### Resources
@@ -100,41 +102,48 @@ It serves as the **reader’s contract** for the entire guidebook.
 
 This guidebook evolves over time.
 
-- Each released version is frozen  
-- The current version reflects the latest accepted state  
-- Future changes are introduced incrementally and transparently  
+- Each released version is frozen
+- The current version reflects the latest accepted state
+- Future changes are introduced incrementally and transparently
 
 
 ## Intended audience
 
-This guidebook is intended for professionals and researchers involved in the **governance, definition, and long-term evolution of software products**, including:
+This guidebook is intended for professionals and researchers involved in the **definition, governance, and long-term evolution of software systems**, including:
+
 
 ### Product and Technology Leadership
+
 - software architects
 - technical leads and principal engineers
 - product leads and product managers
 - engineering managers responsible for product direction
 
+
 ### Governance and Organizational Roles
+
 - roles responsible for product, portfolio, or architectural governance
 - decision-makers defining boundaries, ownership, and accountability
-- consultants supporting organizations in product governance and evolution
+- consultants supporting organizations in software system governance and evolution
+
 
 ### Software Engineering Practice (Upstream-focused)
+
 - senior software engineers involved in architectural and structural decisions
-- practitioners operating across multiple teams, products, or providers
+- practitioners operating across multiple teams, systems, or providers
 - roles bridging business intent and technical realization
 
+
 ### Research and Education
+
 - researchers studying software systems, evolution, and governance
 - educators designing curricula or teaching advanced software engineering topics
 
-### Assumptions
-
 This guidebook assumes familiarity with:
+
 - software engineering concepts and terminology
 - modern software development practices
-- organizational contexts where software products evolve over time
+- organizational contexts where software systems evolve over time
 
 It is **not intended as an introductory text** to software development.
 
@@ -162,30 +171,12 @@ Their instantiation belongs to the context in which they are applied.
 
 If you are new to the guidebook, proceed in the following order:
 
-1. **[How to Read This Guidebook](./how-to-read.md)** — to understand interpretation and normativity  
-2. **[Motivation](./motivation/index.md)** — to understand why the discipline is needed  
-3. **[Foundations → Discipline](./foundations/discipline.md)** — to see how Upstream Software Engineering is defined  
-4. **[Foundations → Models](./foundations/models/index.md)** — to learn the conceptual structures  
-5. **[Foundations → Plays](./foundations/plays/index.md)** — to understand valid transformations  
+1. **[How to Read This Guidebook](./how-to-read.md)** — to understand interpretation and normativity
+2. **[Motivation](./motivation/index.md)** — to understand why the discipline is needed
+3. **[Foundations → Discipline](./foundations/discipline.md)** — to see how Upstream Software Engineering is defined
+4. **[Foundations → Metamodel](./foundations/metamodel/index.md)** — to learn the normative structure
+5. **[Foundations → Plays](./foundations/plays/index.md)** — to understand valid transformations
 
 Use **Guidelines** as a source of inspiration and operational advice.  
 
 Consult **Resources** for reusable materials you can download or adapt.
-
-
-## Resources
-
-In addition to the guidebook itself, this initiative produces a set of **reusable resources** that can be downloaded and used independently.
-
-These resources include:
-- white papers and technical reports
-- research papers and preprints
-- books and long-form texts
-- templates, canvases, and reference artifacts
-- teaching and presentation materials
-
-Resources are **not part of the normative core** of the guidebook.  They do not define concepts, impose requirements, or prescribe practices.
-
-They are provided to support learning, application, dissemination, and citation of upstream software engineering.
-
-→ Explore the available materials in **[Resources](./resources/index.md)**.
