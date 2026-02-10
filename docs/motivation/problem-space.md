@@ -1,4 +1,4 @@
-# Introduction
+# Problem space
 
 Before discussing challenges, limitations, or possible approaches, it is necessary to understand the **problem space** in which software systems exist and evolve.
 
@@ -11,7 +11,7 @@ This page describes the **baseline conditions** under which software systems are
 The purpose of this page is therefore **descriptive**. It characterizes the environment in which software systems operate, establishing a shared understanding of the setting that motivates the rest of the guidebook.
 
 
-# Software Systems as Long-Lived Entities
+## Software Systems as Long-Lived Entities
 
 Software systems are commonly initiated as projects, but they rarely remain confined to the temporal boundaries of those projects.  In practice, many software systems persist for years or decades, continuing to operate and evolve long after their initial development phase has concluded.
 
@@ -29,7 +29,7 @@ The longevity of software systems also implies that knowledge about original int
 Recognizing software systems as long-lived entities is therefore essential to understanding the broader problem space addressed by this guidebook.  Longevity is not an anomaly to be corrected, but a baseline condition that must be assumed.
 
 
-# Continuous Change as a Baseline Condition
+## Continuous Change as a Baseline Condition
 
 Software systems do not evolve through isolated episodes of change separated by long periods of stability.  Instead, change is a **baseline condition** under which software systems operate throughout their lifetime.
 
