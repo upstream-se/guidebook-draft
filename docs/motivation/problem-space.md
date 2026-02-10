@@ -90,6 +90,21 @@ The fact that boundaries and context are variable and perspective-dependent is a
 This observation does not prescribe how boundaries should be defined or represented.  It establishes that boundary-setting and contextualization are unavoidable aspects of reasoning about software systems and their evolution within complex environments.
 
 
-# Time, Drift, and Accumulation
+## Time, Drift, and Accumulation
+
+Software systems evolve over extended periods of time, during which decisions, assumptions, and modifications accumulate.  The passage of time is therefore not a neutral background condition; it actively shapes the state and meaning of a software system.
+
+Decisions made at different moments in a system’s lifetime interact in ways that are not always anticipated.  Early design choices may constrain later options, while later changes may reinterpret, bypass, or invalidate earlier assumptions.  Over time, the system that exists may differ significantly from the system that was originally envisioned, even if it continues to serve its intended purpose.
+
+This phenomenon is often described in terms of **drift**.  Architectural drift and erosion literature observes that, as systems are modified incrementally, their structure may diverge from their original architectural intent without any single change being clearly responsible ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992)).  Drift emerges gradually, through the accumulation of locally rational decisions made under changing constraints.
+
+In parallel, knowledge about the system accumulates unevenly and decays over time.  Rationale for past decisions may be lost as individuals leave, documentation becomes outdated, or implicit knowledge remains uncodified.  The system retains the consequences of past decisions, even when the reasons for those decisions are no longer visible.
+
+Research on technical debt further highlights how accumulated design and implementation choices can shape future evolution.  While often framed in evaluative terms, technical debt literature underscores a descriptive reality: present states of software systems reflect layers of historical decisions whose effects persist over time ([Kruchten, Nord, & Ozkaya, 2012](../resources/bibliography.md#kruchten-nord-ozkaya-2012)).
+
+The combined effects of time, drift, and accumulation constitute a defining dimension of the problem space addressed by Upstream Software Engineering as a discipline.  Reasoning about software systems in such environments requires acknowledging that current structures, constraints, and possibilities are the result of historical trajectories, not solely of present intent.
+
+This observation does not prescribe how drift should be prevented, corrected, or managed.  It establishes that temporal accumulation and interpretive drift are inherent characteristics of long-lived, evolving software systems.
+
 
 # Summary: Characteristics of the Problem Space
