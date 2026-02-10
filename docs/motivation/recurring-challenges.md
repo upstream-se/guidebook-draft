@@ -22,7 +22,7 @@ The challenge is not that decisions are made implicitly, but that their implicit
 
 As software systems evolve, the original intent behind decisions often becomes inaccessible. Design rationale, strategic motivations, and contextual assumptions may not be preserved, or may decay as individuals leave, documentation becomes outdated, or informal knowledge is lost.
 
-Research on design rationale and architectural knowledge has long observed that the reasons *why* decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992)). Over time, systems retain the consequences of decisions while losing access to the reasoning that justified them.
+Research on design rationale and architectural knowledge has long observed that the reasons why decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992); [van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006)).  Over time, systems retain the consequences of decisions while losing access to the reasoning that justified them.
 
 This loss of intent complicates later evolution. When rationale is unavailable, changes must be made without knowing which assumptions remain valid, which constraints were deliberate, and which were incidental. The challenge is therefore not merely one of missing documentation, but of diminished interpretability of the system’s current state.
 
