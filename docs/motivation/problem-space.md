@@ -31,6 +31,19 @@ Recognizing software systems as long-lived entities is therefore essential to un
 
 # Continuous Change as a Baseline Condition
 
+Software systems do not evolve through isolated episodes of change separated by long periods of stability.  Instead, change is a **baseline condition** under which software systems operate throughout their lifetime.
+
+Empirical and theoretical work on software evolution has shown that once a software system is deployed and used, it must continually adapt to remain useful.  Changes arise from multiple sources, including evolving user needs, organizational restructuring, regulatory requirements, technological advances, and interactions with other systems.  As a result, software systems are rarely “finished” in any meaningful sense ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003)).
+
+Importantly, change is not necessarily driven by defects or failures.  Even well-functioning software systems are subject to ongoing modification as their context changes.  This observation challenges the implicit assumption—common in project-centric views—that stability is the normal state and change is an exception.  In practice, the opposite is often true: stability is temporary, while change is continuous.
+
+Modern software engineering practice increasingly acknowledges this reality by treating evolution as an integral part of development rather than a separate phase.  Studies of continuous software engineering emphasize that systems are shaped through a steady flow of incremental changes rather than discrete handovers between development, maintenance, and operation ([Fitzgerald & Stol, 2017](../resources/bibliography.md#fitzgerald-stol-2017)).
+
+The continuous nature of change also implies that decisions made at different points in time interact in non-trivial ways.  Early assumptions may constrain later options, while later changes may reinterpret or override earlier intent.  Understanding software systems as continuously changing entities is therefore essential for characterizing the environment in which upstream concerns arise.
+
+Recognizing continuous change as a baseline condition does not, by itself, prescribe how change should be governed or managed.  It simply establishes that any approach to reasoning about software systems must assume ongoing evolution rather than episodic modification.
+
+
 # Organizational and Social Context
 
 # Multiplicity of Actors and Providers
