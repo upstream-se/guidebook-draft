@@ -34,9 +34,31 @@ Fitzgerald, B., & Stol, K.-J. (2017). Continuous software engineering: A roadmap
 Herbsleb, J. D., & Mockus, A. (2003). An empirical study of speed and communication in globally distributed software development. *IEEE Transactions on Software Engineering, 29*(6), 481–494. https://doi.org/10.1109/TSE.2003.1205177
 
 
+## I
+
+<a id="iso-42010-2011"></a>
+ISO/IEC/IEEE. (2011). *ISO/IEC/IEEE 42010:2011—Systems and software engineering — Architecture description*. International Organization for Standardization. https://www.iso.org/standard/50508.html
+
+
+## K
+
+<a id="kruchten-nord-ozkaya-2012"></a>
+Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). Technical debt: From metaphor to theory and practice. *IEEE Software, 29*(6), 18–21. https://doi.org/10.1109/MS.2012.167
+
+
 ## L
 
 <a id="lehman-ramil-2003"></a>
 Lehman, M. M., & Ramil, J. F. (2003). Software evolution—background, theory, practice. *Information Processing Letters, 88*(1–2), 33–44. https://doi.org/10.1016/S0020-0190(03)00382-X
 
 
+## M
+
+<a id="maier-1998"></a>
+Maier, M. W. (1998). Architecting principles for systems-of-systems. *Systems Engineering, 1*(4), 267–284. https://doi.org/10.1002/(SICI)1520-6858(1998)1:4<267::AID-SYS3>3.0.CO;2-D
+
+
+## P
+
+<a id="perry-wolf-1992"></a>
+Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes, 17*(4), 40–52. https://doi.org/10.1145/141874.141884
