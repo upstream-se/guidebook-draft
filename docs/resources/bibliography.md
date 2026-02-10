@@ -16,6 +16,12 @@ Baxter, G., & Sommerville, I. (2011). Socio-technical systems: From design metho
 Bennett, K. H., & Rajlich, V. T. (2000). Software maintenance and evolution: A roadmap. In A. Finkelstein (Ed.), *Proceedings of the Conference on The Future of Software Engineering* (pp. 73–87). ACM. https://doi.org/10.1145/336512.336534
 
 
+## F
+
+<a id="fitzgerald-stol-2017"></a>
+Fitzgerald, B., & Stol, K.-J. (2017). Continuous software engineering: A roadmap and agenda. *Journal of Systems and Software, 123*, 176–189. https://doi.org/10.1016/j.jss.2015.06.063
+
+
 ## L
 
 <a id="lehman-ramil-2003"></a>
