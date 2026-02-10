@@ -72,7 +72,23 @@ Over the lifetime of a software system, actors and providers may change repeated
 This observation does not imply that multiplicity is undesirable or should be reduced.  Rather, it establishes that software systems commonly exist within ecosystems of actors whose composition and relationships change over time, forming a key dimension of the problem space addressed by the Upstream Software Engineering discipline.
 
 
-# Boundaries, Context, and Environment
+ecosystems of actors whose composition and relationships change over time, forming a key dimension of the problem space addressed by the Upstream Software Engineering discipline.
+
+
+## Boundaries, Context, and Environment
+
+Software systems do not exist in isolation.  They operate within an environment composed of other software systems, technical infrastructure, organizational arrangements, regulatory constraints, and external actors.  Their behavior and evolution are therefore shaped not only by their internal structure, but also by how they are situated within this broader context.
+
+In practice, the boundaries of a software system are rarely fixed or universally agreed upon.  What is considered “inside” or “outside” a system may vary depending on perspective, responsibility, or purpose.  Over time, these boundaries may shift as systems are integrated, decomposed, replaced, or reinterpreted in response to contextual change.
+
+Systems engineering and software architecture literature emphasize that understanding a system requires explicit consideration of its environment and the relationships it maintains with external elements.  Software systems are often part of larger systems-of-systems, where independent systems interact while retaining their own objectives and governance structures ([Maier, 1998](../resources/bibliography.md#maier-1998)).
+
+Similarly, software architecture standards highlight the importance of distinguishing a system from its context while explicitly representing their interaction.  Descriptions of software systems that ignore stakeholders, external systems, and environmental constraints risk oversimplifying the conditions under which those systems operate and evolve ([ISO/IEC/IEEE 42010, 2011](../resources/bibliography.md#iso-42010-2011)).
+
+The fact that boundaries and context are variable and perspective-dependent is a fundamental characteristic of the problem space addressed by Upstream Software Engineering as a discipline. Addressing upstream concerns requires acknowledging that decisions about what constitutes the system, what lies in its environment, and how those elements interact are themselves subject to interpretation and change over time.
+
+This observation does not prescribe how boundaries should be defined or represented.  It establishes that boundary-setting and contextualization are unavoidable aspects of reasoning about software systems and their evolution within complex environments.
+
 
 # Time, Drift, and Accumulation
 
