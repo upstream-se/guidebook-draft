@@ -18,9 +18,11 @@ The challenge is not that decisions are made implicitly, but that their implicit
 
 ## Loss of Intent and Rationale Over Time
 
-As software systems evolve, the original intent behind decisions often becomes inaccessible.  Design rationale, strategic motivations, and contextual assumptions may not be preserved, or may decay as individuals leave, documentation becomes outdated, or informal knowledge is lost.
+Over time, the effects of implicit decisions are compounded by a second phenomenon: the gradual loss of the intent and rationale that originally justified them.
 
-Research on design rationale and architectural knowledge has long observed that the reasons why decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992); [van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006)).  More recent studies confirm that architectural knowledge and decision rationale tend to decay or become inaccessible over time, a phenomenon sometimes described as architectural knowledge vaporization ([Capilla et al., 2016](../resources/bibliography.md#capilla-etal-2016)).
+As software systems evolve, the original intent behind decisions often becomes inaccessible. Design rationale, strategic motivations, and contextual assumptions may not be preserved, or may decay as individuals leave, documentation becomes outdated, or informal knowledge is lost.
+
+Research on design rationale and architectural knowledge has long observed that the reasons why decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992); [van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006)). More recent studies confirm that architectural knowledge and decision rationale tend to decay or become inaccessible over time, a phenomenon sometimes described as architectural knowledge vaporization ([Capilla et al., 2016](../resources/bibliography.md#capilla-etal-2016)).
 
 This loss of intent complicates later evolution.  When rationale is unavailable, changes must be made without knowing which assumptions remain valid, which constraints were deliberate, and which were incidental.  The challenge is therefore not merely one of missing documentation, but of diminished interpretability of the system’s current state.
 
