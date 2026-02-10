@@ -11,7 +11,7 @@ This page identifies and characterizes these recurring challenges.  It remains *
 
 Many decisions that shape a software system are made implicitly, without being explicitly articulated, examined, or recorded.  These include decisions about scope, boundaries, architectural assumptions, quality trade-offs, and acceptable forms of change.
 
-Such decisions are often made under time pressure or as part of local problem solving.  Once enacted, they become embedded in the system’s structure and behavior, even when they were never intended to be long-term commitments.  Over time, these implicit decisions acquire normative force simply by having been made.
+Such decisions are often made under time pressure or as part of local problem solving. Once enacted, they become embedded in the system’s structure and behavior, even when they were never intended to be long-term commitments. Over time, these implicit decisions acquire normative force simply by having been made, a phenomenon that has been repeatedly observed in studies of architectural decision-making in practice ([Kruchten et al., 2015](../resources/bibliography.md#kruchten-etal-2015)).
 
 The challenge is not that decisions are made implicitly, but that their implicit nature makes them difficult to question, revisit, or reinterpret as context changes.  As a result, later actors may inherit constraints without visibility into the assumptions that produced them.
 
@@ -20,7 +20,7 @@ The challenge is not that decisions are made implicitly, but that their implicit
 
 As software systems evolve, the original intent behind decisions often becomes inaccessible.  Design rationale, strategic motivations, and contextual assumptions may not be preserved, or may decay as individuals leave, documentation becomes outdated, or informal knowledge is lost.
 
-Research on design rationale and architectural knowledge has long observed that the reasons why decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992); [van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006)).  Over time, systems retain the consequences of decisions while losing access to the reasoning that justified them.
+Research on design rationale and architectural knowledge has long observed that the reasons why decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992); [van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006)).  More recent studies confirm that architectural knowledge and decision rationale tend to decay or become inaccessible over time, a phenomenon sometimes described as architectural knowledge vaporization ([Capilla et al., 2016](../resources/bibliography.md#capilla-etal-2016)).
 
 This loss of intent complicates later evolution.  When rationale is unavailable, changes must be made without knowing which assumptions remain valid, which constraints were deliberate, and which were incidental.  The challenge is therefore not merely one of missing documentation, but of diminished interpretability of the system’s current state.
 
@@ -29,7 +29,7 @@ This loss of intent complicates later evolution.  When rationale is unavailable,
 
 In long-lived and multi-actor environments, understanding of a software system is typically fragmented.  Knowledge is distributed across people, teams, tools, documents, and codebases, with no single, stable point of synthesis.
 
-Studies of large-scale and distributed development show that work is often partitioned across organizational and geographical boundaries, leading to partial and localized views of the system ([Herbsleb & Mockus, 2003](../resources/bibliography.md#herbsleb-mockus-2003)).  As actors change over time, these fragments are recombined imperfectly, if at all.
+Studies of large-scale and distributed development show that work is often partitioned across organizational and geographical boundaries, leading to partial and localized views of the system ([Herbsleb & Mockus, 2003](../resources/bibliography.md#herbsleb-mockus-2003); [Tamburri et al., 2018](../resources/bibliography.md#tamburri-etal-2018); [LaToza & Myers, 2010](../resources/bibliography.md#latoza-myers-2010)).  As actors change over time, these fragments are recombined imperfectly, if at all.
 
 Fragmented understanding is not necessarily a failure of coordination or competence.  It is a structural consequence of the problem space.  However, it limits the ability to reason about the system as a whole, particularly when making decisions that span components, teams, or organizational boundaries.
 
@@ -38,14 +38,14 @@ Fragmented understanding is not necessarily a failure of coordination or compete
 
 Over time, software systems may diverge from their original intent, even when they continue to function and deliver value.  Strategic goals, architectural principles, or quality objectives articulated at one point in time may no longer be reflected in the system’s realized form.
 
-This misalignment often emerges incrementally, through a sequence of locally rational changes made under evolving constraints.  No single modification may appear problematic in isolation, yet their cumulative effect can lead to a system whose structure and behavior no longer correspond to its stated or assumed intent.
+This misalignment often emerges incrementally, through a sequence of locally rational changes made under evolving constraints.  No single modification may appear problematic in isolation, yet their cumulative effect can lead to a system whose structure and behavior no longer correspond to its stated or assumed intent ([de Silva & Balasubramaniam, 2012](../resources/bibliography.md#de-silva-balasubramaniam-2012); [Garcia et al., 2013](../resources/bibliography.md#garcia-etal-2013)).
 
 The challenge here is not that systems change, but that changes occur without a clear basis for assessing whether the resulting system remains consistent with its intended role, scope, or constraints.  This sets the stage for later questions of validity, without yet answering them.
 
 
 ## Difficulty Governing Change
 
-In environments characterized by continuous evolution, organizations often struggle to govern change effectively.  Governance mechanisms may focus on process compliance, approval workflows, or control structures, without providing clear criteria for evaluating the *substance* of proposed changes.
+In environments characterized by continuous evolution, organizations often struggle to govern change effectively. Governance mechanisms may focus on process compliance, approval workflows, or control structures, without providing clear criteria for evaluating the substance of proposed changes. As a result, it becomes difficult to determine which changes are acceptable, which are risky, and which undermine previously established intent ([ISO/IEC, 2015](../resources/bibliography.md#iso-38500-2015)).
 
 As a result, it becomes difficult to determine which changes are acceptable, which are risky, and which undermine previously established intent.  Decisions may be deferred, escalated, or justified retrospectively, rather than assessed against explicit and shared criteria.
 
@@ -58,7 +58,7 @@ Once decisions are embedded in a software system, they are often treated as irre
 
 However, the inability to reconsider decisions is itself a recurring challenge.  As context changes, assumptions that were once valid may no longer hold.  Without structured means to re-evaluate earlier decisions, systems accumulate constraints that are no longer justified but remain operative.
 
-This limitation concerns **capability**, not intent.  Even when organizations recognize the need to revisit decisions, they may lack the conceptual structures required to do so in a disciplined and non-disruptive way.
+This limitation concerns capability, not intent.  Even when organizations recognize the need to revisit decisions, they may lack the conceptual structures required to do so in a disciplined and non-disruptive way.  Empirical studies of architectural decision-making and technical debt show that decisions are frequently treated as irreversible, despite changing context and understanding ([Zimmermann et al., 2019](../resources/bibliography.md#zimmermann-etal-2019); [Kruchten et al., 2019](../resources/bibliography.md#kruchten-etal-2019)).
 
 
 ## Summary: Patterns of Recurring Challenges
