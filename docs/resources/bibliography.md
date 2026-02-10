@@ -28,8 +28,15 @@ Conway, M. E. (1968). How do committees invent? *Datamation, 14*(4), 28–31.
 Fitzgerald, B., & Stol, K.-J. (2017). Continuous software engineering: A roadmap and agenda. *Journal of Systems and Software, 123*, 176–189. https://doi.org/10.1016/j.jss.2015.06.063
 
 
+## H
+
+<a id="herbsleb-mockus-2003"></a>
+Herbsleb, J. D., & Mockus, A. (2003). An empirical study of speed and communication in globally distributed software development. *IEEE Transactions on Software Engineering, 29*(6), 481–494. https://doi.org/10.1109/TSE.2003.1205177
+
+
 ## L
 
 <a id="lehman-ramil-2003"></a>
 Lehman, M. M., & Ramil, J. F. (2003). Software evolution—background, theory, practice. *Information Processing Letters, 88*(1–2), 33–44. https://doi.org/10.1016/S0020-0190(03)00382-X
+
 
