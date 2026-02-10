@@ -63,7 +63,7 @@ This limitation concerns **capability**, not intent.  Even when organizations re
 
 ## Summary: Patterns of Recurring Challenges
 
-Across diverse contexts, the problem space described in the previous page gives rise to a recurring set of challenges:
+The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of challenges arises repeatedly across organizations, domains, and technological contexts:
 
 - decisions that are implicit rather than explicit,
 - loss of original intent and rationale over time,
