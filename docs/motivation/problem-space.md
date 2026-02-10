@@ -44,7 +44,18 @@ The continuous nature of change also implies that decisions made at different po
 Recognizing continuous change as a baseline condition does not, by itself, prescribe how change should be governed or managed.  It simply establishes that any approach to reasoning about software systems must assume ongoing evolution rather than episodic modification.
 
 
-# Organizational and Social Context
+## Organizational and Social Context
+
+Software systems are not purely technical constructs.  They are developed, operated, and evolved within organizations composed of people, roles, incentives, power structures, and communication channels.  As a result, the structure and behavior of software systems are deeply intertwined with the social and organizational contexts in which they exist.
+
+Decisions affecting software systems are made by individuals and groups operating under constraints such as time, budgets, organizational priorities, and institutional norms.  These decisions are influenced by reporting lines, team structures, contractual arrangements, and informal practices.  Consequently, the evolution of a software system cannot be understood solely by examining its technical artifacts; it must also be understood in relation to the organizational environment that shapes it.
+
+The influence of organizational structure on software systems has long been observed.  Conway famously noted that the structure of a system reflects the communication structure of the organization that produces it ([Conway, 1968](../resources/bibliography.md#conway-1968)).  While often cited in architectural discussions, this observation has broader implications: organizational changes—such as team reorganization, outsourcing, or changes in governance—can directly affect how software systems evolve over time.
+
+From a broader perspective, software systems are best understood as **socio-technical systems**, in which technical components and social elements co-evolve.  Research in socio-technical systems emphasizes that technical change and organizational change are interdependent, and that attempts to address one in isolation are often insufficient ([Baxter & Sommerville, 2011](../resources/bibliography.md#baxter-sommerville-2011)).
+
+Recognizing the organizational and social context of software systems does not imply prescribing organizational structures or management practices.  Rather, it establishes that software systems are embedded in human and institutional settings that shape their lifecycle, constraints, and evolution.  This embeddedness is a fundamental characteristic of the problem space addressed by this guidebook.
+
 
 # Multiplicity of Actors and Providers
 
