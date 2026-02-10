@@ -17,4 +17,5 @@ Baxter, G., & Sommerville, I. (2011). Socio-technical systems: From design metho
 ## L
 
 <a id="lehman-ramil-2003"></a>
-Lehman, M. M., & Ramil, J. F. (2003). Software evolution—background, theory, practice. *Information Processing Letters, 88*(1–2), 33–44. https://doi.org/10.1016/S0020-0190(03)00309-5
+Lehman, M. M., & Ramil, J. F. (2003). Software evolution—background, theory, practice. *Information Processing Letters, 88*(1–2), 33–44. https://doi.org/10.1016/S0020-0190(03)00382-X
+
