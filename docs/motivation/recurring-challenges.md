@@ -1,6 +1,6 @@
 # Recurring Challenges
 
-The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of challenges arises repeatedly across organizations, domains, and technological contexts.
+The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of recurring patterns of difficulty arises across organizations, domains, and technological contexts.
 
 These challenges are not isolated incidents or the result of individual mistakes.  They emerge as **systemic patterns** shaped by longevity, continuous change, organizational context, multiplicity of actors, shifting boundaries, and historical accumulation.
 
@@ -40,9 +40,11 @@ When understanding of the software system is fragmented across actors, artifacts
 
 Over time, software systems may diverge from their original intent, even when they continue to function and deliver value. Strategic goals, architectural principles, or quality objectives articulated at one point in time may no longer be reflected in the system’s realized form.
 
-This misalignment often emerges incrementally, through a sequence of locally rational changes made under evolving constraints.  No single modification may appear problematic in isolation, yet their cumulative effect can lead to a system whose structure and behavior no longer correspond to its stated or assumed intent ([de Silva & Balasubramaniam, 2012](../resources/bibliography.md#de-silva-balasubramaniam-2012); [Garcia et al., 2013](../resources/bibliography.md#garcia-etal-2013)).
+This misalignment often emerges incrementally, through a sequence of locally rational changes made under evolving constraints.  No single modification may appear problematic in isolation, yet their cumulative effect can lead to a system whose structure and behavior no longer correspond to its stated or assumed intent ([de Silva & Balasubramaniam, 2012](../resources/bibliography.md#de-silva-balasubramaniam-2012); [Garcia et al., 2013](../resources/bibliography.md#garcia-etal-2013)).  Because this divergence persists across time and actors, it complicates reasoning about future change and the governance of the software system in a principled way.
 
-The challenge here is not that systems change, but that changes occur without a clear basis for assessing whether the resulting system remains consistent with its intended role, scope, or constraints.  This sets the stage for later questions of validity, without yet answering them.
+The challenge here is not that systems change, but that changes occur without a clear basis for assessing whether the resulting system remains consistent with its intended role, scope, or constraints. This sets the stage for later questions of validity, without yet answering them.
+
+This divergence often complicates efforts to evaluate and govern subsequent changes.
 
 
 ## Difficulty Governing Change
@@ -51,9 +53,7 @@ In environments characterized by continuous evolution, organizations often strug
 
 As a result, it becomes difficult to determine which changes are acceptable, which are risky, and which undermine previously established intent. Decisions may be deferred, escalated, or justified retrospectively, rather than assessed against explicit and shared criteria ([ISO/IEC, 2015](../resources/bibliography.md#iso-38500-2015)).
 
-The challenge is therefore not a lack of governance mechanisms, but the absence of explicit criteria grounded in a shared understanding of the software system and its evolving intent.
-
-This difficulty is not primarily procedural. It reflects the absence of a stable, explicit basis for reasoning about change in relation to the system’s purpose, constraints, and context over time.
+The challenge is therefore not a lack of explicit governance mechanisms, but the absence of criteria grounded in a shared understanding of the software system and its evolving intent.  This difficulty is not primarily procedural; it reflects the absence of a stable and explicit basis for reasoning about change in relation to the system’s purpose, constraints, and context over time.
 
 
 ## Limited Ability to Revisit and Re-evaluate Decisions
@@ -69,9 +69,9 @@ This limitation concerns capability, not intent.  Even when organizations recogn
 
 The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of challenges arises repeatedly across organizations, domains, and technological contexts:
 
-- decisions that are implicit rather than explicit,
+- implicit and unexamined decisions,
 - loss of original intent and rationale over time,
-- fragmented and partial understanding of the system,
+- fragmentation of understanding of the software system,
 - divergence between intent and realized structure,
 - difficulty assessing and governing change,
 - limited ability to revisit and re-evaluate past decisions.
