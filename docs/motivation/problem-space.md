@@ -8,7 +8,7 @@ Moreover, software systems are subject to continuous evolution.  Change is not a
 
 This page describes the **baseline conditions** under which software systems are conceived and evolve.  These conditions are not exceptional; they are common across domains, industries, and technologies.  They provide the background against which upstream concerns emerge, without yet characterizing them as problems or proposing solutions.
 
-The purpose of this page is therefore **descriptive**.  It characterizes the environment in which software systems operate, establishing a shared understanding of the setting that motivates the Upstream Software Engineering discipline.
+The purpose of this page is therefore **descriptive**.  It characterizes the environment in which software systems operate, establishing a shared understanding of the setting that motivates Upstream Software Engineering as a discipline.
 
 
 ## Software Systems as Long-Lived Entities
@@ -26,14 +26,16 @@ Maintenance and evolution therefore become dominant activities over a system’s
 
 The longevity of software systems also implies that knowledge about original intent, design rationale, and governing assumptions is subject to gradual loss.  As time passes, decisions made early in the system’s life may no longer be explicitly documented, remembered, or even recognized as decisions.  This temporal distance between decision and consequence is a defining characteristic of long-lived software systems, and it fundamentally shapes how they must be governed and evolved.
 
-Recognizing software systems as long-lived entities is therefore essential to understanding the broader problem space addressed by the Upstream Siftware Engineering discipline.  Longevity is not an anomaly to be corrected, but a baseline condition that must be assumed.
+Recognizing software systems as long-lived entities is therefore essential to understanding the broader problem space addressed by Upstream Software Engineering as a discipline.  Longevity is not an anomaly to be corrected, but a baseline condition that must be assumed.
+
+Recognizing software systems as long-lived entities naturally leads to a second foundational condition of the problem space: the fact that such systems are subject to continuous change throughout their lifetime.
 
 
 ## Continuous Change as a Baseline Condition
 
 Software systems do not evolve through isolated episodes of change separated by long periods of stability.  Instead, change is a **baseline condition** under which software systems operate throughout their lifetime.
 
-Empirical and theoretical work on software evolution has shown that once a software system is deployed and used, it must continually adapt to remain useful.  Changes arise from multiple sources, including evolving user needs, organizational restructuring, regulatory requirements, technological advances, and interactions with other systems.  As a result, software systems are rarely “finished” in any meaningful sense ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003)).
+Empirical and theoretical work on software evolution has shown that once a software system is deployed and used, it must continually adapt to remain useful.  This observation is formalized in Lehman’s law of continuing change, which states that a system in a real-world environment must be continually adapted or it becomes progressively less satisfactory ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003)).  Changes arise from multiple sources, including evolving user needs, organizational restructuring, regulatory requirements, technological advances, and interactions with other systems.
 
 Importantly, change is not necessarily driven by defects or failures.  Even well-functioning software systems are subject to ongoing modification as their context changes.  This observation challenges the implicit assumption—common in project-centric views—that stability is the normal state and change is an exception.  In practice, the opposite is often true: stability is temporary, while change is continuous.
 
@@ -42,6 +44,8 @@ Modern software engineering practice increasingly acknowledges this reality by t
 The continuous nature of change also implies that decisions made at different points in time interact in non-trivial ways.  Early assumptions may constrain later options, while later changes may reinterpret or override earlier intent.  Understanding software systems as continuously changing entities is therefore essential for characterizing the environment in which upstream concerns arise.
 
 Recognizing continuous change as a baseline condition does not, by itself, prescribe how change should be governed or managed.  It simply establishes that any approach to reasoning about software systems must assume ongoing evolution rather than episodic modification.
+
+Because change is enacted through decisions and actions, understanding continuous evolution requires examining the organizational and social contexts in which those decisions are made.
 
 
 ## Organizational and Social Context
@@ -55,6 +59,8 @@ The influence of organizational structure on software systems has long been obse
 From a broader perspective, software systems are best understood as **socio-technical systems**, in which technical components and social elements co-evolve.  Research in socio-technical systems emphasizes that technical change and organizational change are interdependent, and that attempts to address one in isolation are often insufficient ([Baxter & Sommerville, 2011](../resources/bibliography.md#baxter-sommerville-2011)).
 
 Recognizing the organizational and social context of software systems does not imply prescribing organizational structures or management practices.  Rather, it establishes that software systems are embedded in human and institutional settings that shape their lifecycle, constraints, and evolution.  This embeddedness is a fundamental characteristic of the problem space addressed by the Upstream Software Engineering discipline.
+
+Within these organizational and social contexts, software systems are rarely shaped by a single, stable group, but instead by a succession of actors and providers over time.
 
 
 ## Multiplicity of Actors and Providers
@@ -71,8 +77,7 @@ Over the lifetime of a software system, actors and providers may change repeated
 
 This observation does not imply that multiplicity is undesirable or should be reduced.  Rather, it establishes that software systems commonly exist within ecosystems of actors whose composition and relationships change over time, forming a key dimension of the problem space addressed by the Upstream Software Engineering discipline.
 
-
-ecosystems of actors whose composition and relationships change over time, forming a key dimension of the problem space addressed by the Upstream Software Engineering discipline.
+As multiple actors and providers interact with a software system, perspectives on what constitutes the system and its environment naturally diverge and evolve.
 
 
 ## Boundaries, Context, and Environment
@@ -85,9 +90,11 @@ Systems engineering and software architecture literature emphasize that understa
 
 Similarly, software architecture standards highlight the importance of distinguishing a system from its context while explicitly representing their interaction.  Descriptions of software systems that ignore stakeholders, external systems, and environmental constraints risk oversimplifying the conditions under which those systems operate and evolve ([ISO/IEC/IEEE 42010, 2011](../resources/bibliography.md#iso-42010-2011)).
 
-The fact that boundaries and context are variable and perspective-dependent is a fundamental characteristic of the problem space addressed by Upstream Software Engineering as a discipline. Addressing upstream concerns requires acknowledging that decisions about what constitutes the system, what lies in its environment, and how those elements interact are themselves subject to interpretation and change over time.
+The fact that boundaries and context are variable and perspective-dependent is a fundamental characteristic of the problem space addressed by Upstream Software Engineering as a discipline.  Addressing upstream concerns requires acknowledging that decisions about what constitutes the system, what lies in its environment, and how those elements interact are themselves subject to interpretation and change over time.
 
 This observation does not prescribe how boundaries should be defined or represented.  It establishes that boundary-setting and contextualization are unavoidable aspects of reasoning about software systems and their evolution within complex environments.
+
+Over time, decisions about boundaries and context accumulate, interact, and change in ways that shape the long-term trajectory of the software system.
 
 
 ## Time, Drift, and Accumulation
@@ -134,3 +141,8 @@ Taken together, these conditions characterize software systems as:
 These characteristics are not anomalies to be corrected.  They are defining features of the environment in which software systems exist and evolve.
 
 This problem space is addressed by Upstream Software Engineering as a discipline.  The guidebook conveys this discipline by defining the conceptual structures and reasoning needed to operate within these conditions, which are introduced in the subsequent parts.
+
+
+## Where to go next
+
+The characteristics described on this page define the environment in which software systems exist and evolve.  The next page, **[Recurring Challenges](./recurring-challenges.md)**, examines the recurring difficulties that arise within this problem space, without yet proposing solutions or norms.
