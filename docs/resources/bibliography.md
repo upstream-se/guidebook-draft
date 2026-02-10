@@ -16,6 +16,12 @@ Baxter, G., & Sommerville, I. (2011). Socio-technical systems: From design metho
 Bennett, K. H., & Rajlich, V. T. (2000). Software maintenance and evolution: A roadmap. In A. Finkelstein (Ed.), *Proceedings of the Conference on The Future of Software Engineering* (pp. 73–87). ACM. https://doi.org/10.1145/336512.336534
 
 
+## C
+
+<a id="conway-1968"></a>
+Conway, M. E. (1968). How do committees invent? *Datamation, 14*(4), 28–31.
+
+
 ## F
 
 <a id="fitzgerald-stol-2017"></a>
