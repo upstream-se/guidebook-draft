@@ -1,26 +1,24 @@
 # Recurring Challenges
 
-The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve. Within this environment, a set of challenges arises repeatedly across organizations, domains, and technological contexts.
+The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of challenges arises repeatedly across organizations, domains, and technological contexts.
 
-These challenges are not isolated incidents or the result of individual mistakes. They emerge as **systematic patterns** shaped by longevity, continuous change, organizational context, multiplicity of actors, shifting boundaries, and historical accumulation.
+These challenges are not isolated incidents or the result of individual mistakes.  They emerge as **systemic patterns** shaped by longevity, continuous change, organizational context, multiplicity of actors, shifting boundaries, and historical accumulation.
 
-This page identifies and characterizes these recurring challenges. It remains **diagnostic**: it does not propose solutions, prescribe practices, or establish norms. Those concerns are addressed later by **Upstream Software Engineering** as a discipline and conveyed by this guidebook.
-
+This page identifies and characterizes these recurring challenges.  It remains **diagnostic**: it does not propose solutions, prescribe practices, or establish norms.  Those concerns are addressed later in this guidebook.
 
 
 ## Implicit and Unexamined Decisions
 
-Many decisions that shape a software system are made implicitly, without being explicitly articulated, examined, or recorded. These include decisions about scope, boundaries, architectural assumptions, quality trade-offs, and acceptable forms of change.
+Many decisions that shape a software system are made implicitly, without being explicitly articulated, examined, or recorded.  These include decisions about scope, boundaries, architectural assumptions, quality trade-offs, and acceptable forms of change.
 
-Such decisions are often made under time pressure or as part of local problem solving. Once enacted, they become embedded in the system’s structure and behavior, even when they were never intended to be long-term commitments. Over time, these implicit decisions acquire normative force simply by having been made.
+Such decisions are often made under time pressure or as part of local problem solving.  Once enacted, they become embedded in the system’s structure and behavior, even when they were never intended to be long-term commitments.  Over time, these implicit decisions acquire normative force simply by having been made.
 
-The challenge is not that decisions are made implicitly, but that their implicit nature makes them difficult to question, revisit, or reinterpret as context changes. As a result, later actors may inherit constraints without visibility into the assumptions that produced them.
-
+The challenge is not that decisions are made implicitly, but that their implicit nature makes them difficult to question, revisit, or reinterpret as context changes.  As a result, later actors may inherit constraints without visibility into the assumptions that produced them.
 
 
 ## Loss of Intent and Rationale Over Time
 
-As software systems evolve, the original intent behind decisions often becomes inaccessible. Design rationale, strategic motivations, and contextual assumptions may not be preserved, or may decay as individuals leave, documentation becomes outdated, or informal knowledge is lost.
+As software systems evolve, the original intent behind decisions often becomes inaccessible.  Design rationale, strategic motivations, and contextual assumptions may not be preserved, or may decay as individuals leave, documentation becomes outdated, or informal knowledge is lost.
 
 Research on design rationale and architectural knowledge has long observed that the reasons why decisions were made are often more fragile than the decisions themselves ([Perry & Wolf, 1992](../resources/bibliography.md#perry-wolf-1992); [van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006)).  Over time, systems retain the consequences of decisions while losing access to the reasoning that justified them.
 
