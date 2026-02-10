@@ -2,13 +2,13 @@
 
 Before discussing challenges, limitations, or possible approaches, it is necessary to understand the **problem space** in which software systems exist and evolve.
 
-Software systems are not isolated technical artifacts. They are created, operated, and evolved within organizational, social, economic, and regulatory contexts, and they persist over long periods of time. Their behavior, structure, and evolution are shaped not only by technical decisions, but also by human activity, organizational arrangements, and external constraints. This socio-technical nature of software systems has been widely recognized in the literature ([Baxter & Sommerville, 2011](../resources/bibliography.md#baxter-sommerville-2011)).
+Software systems are not isolated technical artifacts.  They are created, operated, and evolved within organizational, social, economic, and regulatory contexts, and they persist over long periods of time.  Their behavior, structure, and evolution are shaped not only by technical decisions, but also by human activity, organizational arrangements, and external constraints.  This socio-technical nature of software systems has been widely recognized in the literature ([Baxter & Sommerville, 2011](../resources/bibliography.md#baxter-sommerville-2011)).
 
-Moreover, software systems are subject to continuous evolution. Change is not an exception triggered by failure, but a normal condition driven by shifting requirements, technologies, organizational structures, and external pressures. Decades of research on software evolution show that long-lived software systems inevitably change and adapt over time ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003)).
+Moreover, software systems are subject to continuous evolution.  Change is not an exception triggered by failure, but a normal condition driven by shifting requirements, technologies, organizational structures, and external pressures.  Decades of research on software evolution show that long-lived software systems inevitably change and adapt over time ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003)).
 
-This page describes the **baseline conditions** under which software systems are conceived and evolve. These conditions are not exceptional; they are common across domains, industries, and technologies. They provide the background against which upstream concerns emerge, without yet characterizing them as problems or proposing solutions.
+This page describes the **baseline conditions** under which software systems are conceived and evolve.  These conditions are not exceptional; they are common across domains, industries, and technologies.  They provide the background against which upstream concerns emerge, without yet characterizing them as problems or proposing solutions.
 
-The purpose of this page is therefore **descriptive**. It characterizes the environment in which software systems operate, establishing a shared understanding of the setting that motivates the rest of the guidebook.
+The purpose of this page is therefore **descriptive**.  It characterizes the environment in which software systems operate, establishing a shared understanding of the setting that motivates the Upstream Software Engineering discipline.
 
 
 ## Software Systems as Long-Lived Entities
@@ -26,7 +26,7 @@ Maintenance and evolution therefore become dominant activities over a system’s
 
 The longevity of software systems also implies that knowledge about original intent, design rationale, and governing assumptions is subject to gradual loss.  As time passes, decisions made early in the system’s life may no longer be explicitly documented, remembered, or even recognized as decisions.  This temporal distance between decision and consequence is a defining characteristic of long-lived software systems, and it fundamentally shapes how they must be governed and evolved.
 
-Recognizing software systems as long-lived entities is therefore essential to understanding the broader problem space addressed by this guidebook.  Longevity is not an anomaly to be corrected, but a baseline condition that must be assumed.
+Recognizing software systems as long-lived entities is therefore essential to understanding the broader problem space addressed by the Upstream Siftware Engineering discipline.  Longevity is not an anomaly to be corrected, but a baseline condition that must be assumed.
 
 
 ## Continuous Change as a Baseline Condition
@@ -54,10 +54,23 @@ The influence of organizational structure on software systems has long been obse
 
 From a broader perspective, software systems are best understood as **socio-technical systems**, in which technical components and social elements co-evolve.  Research in socio-technical systems emphasizes that technical change and organizational change are interdependent, and that attempts to address one in isolation are often insufficient ([Baxter & Sommerville, 2011](../resources/bibliography.md#baxter-sommerville-2011)).
 
-Recognizing the organizational and social context of software systems does not imply prescribing organizational structures or management practices.  Rather, it establishes that software systems are embedded in human and institutional settings that shape their lifecycle, constraints, and evolution.  This embeddedness is a fundamental characteristic of the problem space addressed by this guidebook.
+Recognizing the organizational and social context of software systems does not imply prescribing organizational structures or management practices.  Rather, it establishes that software systems are embedded in human and institutional settings that shape their lifecycle, constraints, and evolution.  This embeddedness is a fundamental characteristic of the problem space addressed by the Upstream Software Engineering discipline.
 
 
-# Multiplicity of Actors and Providers
+## Multiplicity of Actors and Providers
+
+Software systems are rarely produced or evolved by a single, stable group of actors.  Instead, they are typically shaped by a **multiplicity of roles, teams, and providers** that contribute at different points in time and from different organizational positions.
+
+Within an organization, software systems often involve multiple teams with distinct responsibilities, expertise, and priorities.  Over time, responsibilities may shift as teams are reorganized, merged, or dissolved.  In parallel, external actors—such as vendors, consultants, and service providers—may participate in the construction, maintenance, or operation of the system.  These arrangements are common in large organizations and long-lived systems, and they introduce additional layers of coordination and dependency.
+
+Research on large-scale and distributed software development highlights that development and evolution frequently occur across organizational and geographical boundaries.  Work is divided among multiple units, often with limited shared context and varying degrees of autonomy ([Herbsleb & Mockus, 2003](../resources/bibliography.md#herbsleb-mockus-2003)).  As a result, no single actor may hold a complete or enduring understanding of the software system as a whole.
+
+Multiplicity of actors also implies diversity in perspectives, incentives, and constraints.  Different stakeholders may have differing interpretations of system goals, quality priorities, or acceptable trade-offs.  These differences are not anomalies; they are inherent to collaborative and multi-actor environments.
+
+Over the lifetime of a software system, actors and providers may change repeatedly, while the system itself remains.  Knowledge is transferred imperfectly across handovers, contracts, and organizational boundaries.  Understanding software systems as artifacts shaped by a succession of actors and providers is therefore essential to characterizing the environment in which they evolve.
+
+This observation does not imply that multiplicity is undesirable or should be reduced.  Rather, it establishes that software systems commonly exist within ecosystems of actors whose composition and relationships change over time, forming a key dimension of the problem space addressed by the Upstream Software Engineering discipline.
+
 
 # Boundaries, Context, and Environment
 
