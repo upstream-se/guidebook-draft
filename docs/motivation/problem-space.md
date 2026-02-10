@@ -107,4 +107,30 @@ The combined effects of time, drift, and accumulation constitute a defining dime
 This observation does not prescribe how drift should be prevented, corrected, or managed.  It establishes that temporal accumulation and interpretive drift are inherent characteristics of long-lived, evolving software systems.
 
 
-# Summary: Characteristics of the Problem Space
+## Summary: Characteristics of the Problem Space
+
+The preceding sections describe a problem space in which software systems are conceived, operated, and evolved under conditions that are common across domains and technologies.
+
+Taken together, these conditions characterize software systems as:
+
+- **Long-lived**  
+  Software systems typically persist beyond the lifespan of individual projects, teams, technologies, and organizational structures.
+
+- **Continuously evolving**  
+  Change is a baseline condition, driven by shifting requirements, environments, and constraints rather than by exceptional failure.
+
+- **Socio-technical**  
+  Software systems are shaped by human, organizational, and institutional factors as much as by technical decisions.
+
+- **Multi-actor and multi-provider**  
+  Their construction and evolution involve multiple roles, teams, and organizations whose composition changes over time.
+
+- **Context-dependent**  
+  Software systems operate within broader environments, with boundaries and interfaces that are variable and perspective-dependent.
+
+- **Historically accumulated**  
+  Their current state reflects layers of past decisions, assumptions, and modifications, subject to drift and loss of original rationale.
+
+These characteristics are not anomalies to be corrected.  They are defining features of the environment in which software systems exist and evolve.
+
+This problem space is addressed by Upstream Software Engineering as a discipline.  The guidebook conveys this discipline by defining the conceptual structures and reasoning needed to operate within these conditions, which are introduced in the subsequent parts.
