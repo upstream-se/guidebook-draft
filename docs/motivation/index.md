@@ -8,7 +8,6 @@ The Motivation part is **pre-normative**.
 It prepares the reader for the normative definitions introduced later in the guidebook, without defining norms itself.
 
 
-
 ## Purpose of the Motivation Part
 
 The purpose of this part is to:
@@ -19,7 +18,6 @@ The purpose of this part is to:
 - justify the need for an explicit upstream perspective
 
 This part establishes **relevance and necessity**, not validity.
-
 
 
 ## Pages in This Part
@@ -44,7 +42,6 @@ The Motivation part is composed of the following pages:
 Each page has a specific role and can be read independently, though a sequential reading is recommended.
 
 
-
 ## What This Part Does Not Do
 
 This part does not:
@@ -57,7 +54,6 @@ This part does not:
 All normative content is defined in the **[Foundations](../foundations/index.md)** part of the guidebook.
 
 
-
 ## How This Part Relates to the Rest of the Guidebook
 
 The Motivation part provides the **contextual grounding** for the guidebook.
@@ -66,7 +62,6 @@ The Motivation part provides the **contextual grounding** for the guidebook.
 - It does not explain *what* is valid or *how* to act.
 
 Readers seeking formal definitions, validity criteria, or transformation rules should proceed to the **[Foundations](../foundations/index.md)** part after completing this section.
-
 
 
 ## How to Read This Part
@@ -80,7 +75,6 @@ This part is typically read:
 Readers already familiar with the problem space may choose to skim individual pages or return to them selectively.
 
 
-
 ## Where to Start
 
 If you are new to the guidebook, continue with:
@@ -88,3 +82,4 @@ If you are new to the guidebook, continue with:
 - **[Problem Space](./problem-space.md)** → to understand the environment in which software systems evolve
 
 If you are revisiting this part, you may jump directly to the page most relevant to your questions.
+
