@@ -56,11 +56,24 @@ This configuration reflects a strong emphasis on regulating activity and improvi
 
 ## Relationship to the upstream problem space
 
-Methodologies and process frameworks directly address challenges related to coordination of work, responsiveness to change, and iterative delivery ([Fitzgerald & Stol, 2017](../../resources/bibliography.md#fitzgerald-stol-2017)).  They provide mechanisms for managing variability in execution and for incorporating feedback into ongoing development cycles.
+Methodologies and process frameworks directly address challenges related to coordination of work, responsiveness to change, and iterative delivery ([Fitzgerald & Stol, 2017](../../resources/bibliography.md#fitzgerald-stol-2017)). Their primary strength lies in structuring execution: making work visible, regulating feedback cycles, and improving team-level adaptability.
 
-However, challenges related to durable articulation of system intent, explicit governance of assumptions over time, and preservation of long-term coherence across organizational or provider boundaries are not systematically addressed within this family ([Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000); [Lehman & Ramil, 2003](../../resources/bibliography.md#lehman-ramil-2003)).
+However, the upstream problem space includes dimensions that extend beyond execution discipline. Questions of durable articulation of system intent, long-term preservation of architectural coherence across initiatives, and explicit governance of assumptions over time require forms of knowledge stewardship that are not central to this family’s design (see [Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000); [Lehman & Ramil, 2003](../../resources/bibliography.md#lehman-ramil-2003)).
 
-This observation does not reflect a deficiency of these approaches within their intended scope.  Rather, it indicates that their dominant orientation lies in governing execution, while other dimensions of the upstream problem space fall outside their primary focus.
+This observation does not indicate a deficiency within their intended scope. Rather, it clarifies the locus of emphasis: methodologies predominantly govern how work is performed, while other dimensions of the upstream problem space concern what is preserved, articulated, and made durable across time and organizational boundaries.
+
+
+## Coverage of recurring challenges
+
+The following table summarizes how methodologies and process frameworks typically address the recurring challenges identified in the upstream problem space. The assessment reflects their dominant orientation and design intent, rather than isolated best-case implementations.
+
+| Recurring Challenge | Typical Coverage | Rationale |
+|---------------------|------------------|-----------|
+| Fragmented system understanding | Medium | Shared ceremonies, visible backlogs, and iterative planning improve local alignment and team-level transparency, but they do not establish durable, system-wide knowledge structures. |
+| Erosion of architectural coherence | Low–Medium | Technical discipline (e.g., refactoring, continuous integration, emergent design) mitigates local structural degradation, yet long-term architectural governance is not systematically institutionalized. |
+| Drift of intent over time | Low | Product visions and roadmaps provide directional guidance, but intentional knowledge is rarely governed as an explicit, evolvable, and inspectable asset across iterations and teams. |
+| Decision opacity and rationale loss | Low | Retrospectives and informal documentation capture short-term reasoning, but architectural and strategic decisions are seldom maintained as durable knowledge objects. |
+| Multi-team or multi-provider discontinuity | Medium | Scaled frameworks introduce coordination mechanisms across teams, yet continuity of knowledge across organizational boundaries and over extended time horizons is not their primary design objective. |
 
 
 ## Transition
