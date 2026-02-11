@@ -11,7 +11,9 @@ In relation to the upstream problem space described in the **[Problem Space](../
 
 Approaches in this family are primarily oriented toward improving coordination, adaptability, and delivery effectiveness.  Their central concern is the organization of work: how tasks are sequenced, how teams interact, how feedback is incorporated, and how decisions are made in the course of execution.
 
-They typically assume that effective governance emerges from disciplined practice and structured interaction.  For example, Scrum emphasizes iterative planning and inspection through defined events and roles, while XP embeds governance in technical discipline through practices such as pair programming and continuous integration.
+They typically assume that effective governance emerges from disciplined practice and structured interaction.  Scrum emphasizes iterative planning and inspection through defined events and roles.  XP embeds governance in technical discipline through practices such as pair programming, test-driven development, and continuous integration.
+
+Lean Software Development reinforces this orientation by framing governance in terms of flow optimization, waste reduction, and continuous improvement.  It treats execution discipline and feedback as primary mechanisms for maintaining control over change and variability.
 
 Scaled frameworks such as SAFe, LeSS, and Disciplined Agile introduce additional layers of coordination across teams and portfolios.  While they extend governance beyond the team level, their primary structuring mechanisms remain centered on execution planning, synchronization, and delivery flow.
 
@@ -22,7 +24,7 @@ Across these variations, governance is largely embedded in workflow structures a
 
 Analyzed through the governance–knowledge lens, methodologies and process frameworks predominantly emphasize **operational governance**.
 
-In Scrum, XP, and Kanban, constraints and expectations are embedded in daily routines, defined roles, iteration cycles, and technical practices.  Governance is enacted through habitualized practice and team discipline.  Decision-making authority is often distributed and situational, occurring within bounded events such as sprint planning or retrospectives.
+In Scrum, XP, Kanban, and Lean Software Development, constraints and expectations are embedded in defined roles, iteration cycles, work-in-progress limits, technical practices, and continuous improvement routines.  Governance is enacted through habitualized practice and team-level discipline.  Decision-making authority is often distributed and situational, occurring within bounded events such as sprint planning, reviews, retrospectives, or improvement cycles.
 
 Scaled frameworks introduce stronger elements of **managerial governance**, particularly in coordinating multiple teams, aligning roadmaps, synchronizing releases, and structuring portfolio-level flow.  Authority becomes more formalized through defined roles, planning cadences, and coordination forums.
 
