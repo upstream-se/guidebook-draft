@@ -56,7 +56,7 @@ This part of the guidebook is composed of the following pages:
 - **[Project and Portfolio Management Approaches](./project-and-portfolio-managemnt-approaches.md)**  
   Analyzes initiative-centric and portfolio-level approaches using the same analytical frame.
 
-- **[Architecture-Centric Approaches](./architecture.md)**  
+- **[Architecture-Centric Approaches](./architecture-centric-approaches.md)**  
   Discusses architectural practices and their characteristic governance configurations.
 
 - **[Governance, Standards, and Compliance Frameworks](./governance-and-standards.md)**  
