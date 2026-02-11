@@ -63,11 +63,12 @@ The following table summarizes how project and portfolio management approaches t
 
 | Recurring Challenge | Typical Coverage | Rationale |
 |---------------------|------------------|-----------|
-| Fragmented system understanding | Low–Medium | Business cases and portfolio artifacts provide initiative-level context, but do not typically establish durable, system-level knowledge structures. |
-| Erosion of architectural coherence | Low | Architectural concerns may be considered during project approval, yet long-term structural stewardship across successive initiatives is not the primary governance object. |
-| Drift of intent over time | Medium | Strategic objectives, roadmaps, and benefit realization frameworks articulate intent at the initiative level, but intent is tied to projects rather than governed as a continuous system-level knowledge asset. |
-| Decision opacity and rationale loss | Medium | Formal approval processes and stage gates document investment decisions, yet technical and architectural rationale often remains outside portfolio governance mechanisms. |
-| Multi-team or multi-provider discontinuity | Medium | Portfolio structures coordinate multiple initiatives, but continuity of system knowledge across organizational boundaries and over extended time horizons is not systematically ensured. |
+| implicit and unexamined decisions | Medium | Stage gates, approval workflows, and formal reviews surface some decisions, but many technical and architectural decisions remain implicit within projects and teams. |
+| loss of original intent and rationale over time | Low–Medium | Business cases, charters, and benefit statements preserve intent at approval time, but rationale is often project-scoped and not maintained as durable system-level knowledge across successive initiatives. |
+| fragmentation of understanding of the software system | Low–Medium | Portfolio artifacts provide initiative-level visibility, but they rarely establish shared, evolving representations of the software system that persist across projects and organizational boundaries. |
+| divergence between intent and realized structure | Low | Governance focuses on intended outcomes and delivery milestones; structural drift and architecture conformance are typically treated as local engineering concerns rather than portfolio-governed knowledge. |
+| difficulty assessing and governing change | Medium–High | These approaches are designed to authorize, prioritize, fund, and control initiatives, providing strong mechanisms for initiating and managing change, but primarily at the level of projects rather than continuous system evolution. |
+| limited ability to revisit and re-evaluate past decisions | Medium | Audit trails, approvals, and reporting support revisiting investment decisions, but do not systematically support re-evaluating technical and architectural decisions as the software system and its context evolve. |
 
 
 ## Transition
