@@ -1,40 +1,73 @@
-<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+
   <style>
-    .axis { font-family: Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #111; }
-    .cellText { font-family: Arial, sans-serif; font-size: 14px; fill: #111; }
-    .line { stroke: #111; stroke-width: 2; }
-    .grid { stroke: #111; stroke-width: 1.5; }
+    .axis-label { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
+    .cell-id { font-family: Arial, sans-serif; font-size: 16px; fill: #666; }
+    .grid-line { stroke: #444; stroke-width: 2; fill: none; }
+    .cell-bg { fill: #f2f2f2; }
   </style>
 
-  <!-- Column headers -->
-  <text x="345" y="85" text-anchor="middle" class="axis">Execution</text>
-  <text x="515" y="85" text-anchor="middle" class="axis">Structural</text>
-  <text x="685" y="85" text-anchor="middle" class="axis">Intentional</text>
+  <!-- Cell Backgrounds -->
+  <!-- Row 1: Epistemic -->
+  <rect x="200" y="100" width="200" height="120" class="cell-bg"/>
+  <rect x="400" y="100" width="200" height="120" class="cell-bg"/>
+  <rect x="600" y="100" width="200" height="120" class="cell-bg"/>
 
-  <!-- Row headers -->
-  <text x="230" y="175" text-anchor="end" class="axis">Operational</text>
-  <text x="230" y="285" text-anchor="end" class="axis">Managerial</text>
-  <text x="230" y="395" text-anchor="end" class="axis">Epistemic</text>
+  <!-- Row 2: Managerial -->
+  <rect x="200" y="220" width="200" height="120" class="cell-bg"/>
+  <rect x="400" y="220" width="200" height="120" class="cell-bg"/>
+  <rect x="600" y="220" width="200" height="120" class="cell-bg"/>
 
-  <!-- Grid outline -->
-  <rect x="260" y="120" width="510" height="330" fill="none" class="line"/>
+  <!-- Row 3: Operational -->
+  <rect x="200" y="340" width="200" height="120" class="cell-bg"/>
+  <rect x="400" y="340" width="200" height="120" class="cell-bg"/>
+  <rect x="600" y="340" width="200" height="120" class="cell-bg"/>
 
-  <!-- Grid internal lines -->
-  <line x1="430" y1="120" x2="430" y2="450" class="grid"/>
-  <line x1="600" y1="120" x2="600" y2="450" class="grid"/>
-  <line x1="260" y1="230" x2="770" y2="230" class="grid"/>
-  <line x1="260" y1="340" x2="770" y2="340" class="grid"/>
+  <!-- Outer Grid -->
+  <rect x="200" y="100" width="600" height="360" class="grid-line"/>
 
-  <!-- Optional cell coordinate labels (kept minimal for an "empty" instrument) -->
-  <text x="345" y="185" text-anchor="middle" class="cellText">O×E</text>
-  <text x="515" y="185" text-anchor="middle" class="cellText">O×S</text>
-  <text x="685" y="185" text-anchor="middle" class="cellText">O×I</text>
+  <!-- Vertical Lines -->
+  <line x1="400" y1="100" x2="400" y2="460" class="grid-line"/>
+  <line x1="600" y1="100" x2="600" y2="460" class="grid-line"/>
 
-  <text x="345" y="295" text-anchor="middle" class="cellText">M×E</text>
-  <text x="515" y="295" text-anchor="middle" class="cellText">M×S</text>
-  <text x="685" y="295" text-anchor="middle" class="cellText">M×I</text>
+  <!-- Horizontal Lines -->
+  <line x1="200" y1="220" x2="800" y2="220" class="grid-line"/>
+  <line x1="200" y1="340" x2="800" y2="340" class="grid-line"/>
 
-  <text x="345" y="405" text-anchor="middle" class="cellText">E×E</text>
-  <text x="515" y="405" text-anchor="middle" class="cellText">E×S</text>
-  <text x="685" y="405" text-anchor="middle" class="cellText">E×I</text>
+  <!-- Column Labels -->
+  <text x="300" y="75" text-anchor="middle" class="axis-label">Execution</text>
+  <text x="500" y="75" text-anchor="middle" class="axis-label">Structural</text>
+  <text x="700" y="75" text-anchor="middle" class="axis-label">Intentional</text>
+
+  <!-- Row Labels -->
+  <text x="170" y="170" text-anchor="end" class="axis-label">Epistemic</text>
+  <text x="170" y="290" text-anchor="end" class="axis-label">Managerial</text>
+  <text x="170" y="410" text-anchor="end" class="axis-label">Operational</text>
+
+  <!-- Axis Titles -->
+  <text x="500" y="40" text-anchor="middle" class="axis-label">
+    Primary Knowledge Object Governed
+  </text>
+
+  <text transform="rotate(-90 60,280)" x="60" y="280"
+        text-anchor="middle" class="axis-label">
+    Governance Mode
+  </text>
+
+  <!-- Cell IDs -->
+  <!-- Epistemic Row -->
+  <text x="300" y="170" text-anchor="middle" class="cell-id">E×E</text>
+  <text x="500" y="170" text-anchor="middle" class="cell-id">E×S</text>
+  <text x="700" y="170" text-anchor="middle" class="cell-id">E×I</text>
+
+  <!-- Managerial Row -->
+  <text x="300" y="290" text-anchor="middle" class="cell-id">M×E</text>
+  <text x="500" y="290" text-anchor="middle" class="cell-id">M×S</text>
+  <text x="700" y="290" text-anchor="middle" class="cell-id">M×I</text>
+
+  <!-- Operational Row -->
+  <text x="300" y="410" text-anchor="middle" class="cell-id">O×E</text>
+  <text x="500" y="410" text-anchor="middle" class="cell-id">O×S</text>
+  <text x="700" y="410" text-anchor="middle" class="cell-id">O×I</text>
+
 </svg>
