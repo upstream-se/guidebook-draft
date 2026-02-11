@@ -32,7 +32,7 @@ The Motivation part is composed of the following pages:
 - **[Recurring Challenges](./recurring-challenges.md)**  
   Identifies patterns of difficulty that repeatedly arise in practice.
 
-- **[Limits of Current Approaches](./limits-of-current-approaches.md)**  
+- **[Coverage Analysis of Existing Approaches](./coverage-analysis-of-existing-approaches/index.md)**  
   Examines why existing methods, practices, and frameworks do not fully address these challenges.
 
 - **[Why an Upstream Perspective](./why-upstream.md)**  
