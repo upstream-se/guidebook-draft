@@ -100,6 +100,8 @@ Maier, M. W. (1998). Architecting principles for systems-of-systems. *Systems En
 <a id="perry-wolf-1992"></a>
 Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes, 17*(4), 40–52. [https://doi.org/10.1145/141874.141884](https://doi.org/10.1145/141874.141884)
 
+<a id="poppendieck-2003"></a>
+Poppendieck, M., & Poppendieck, T. (2003). *Lean software development: An agile toolkit*. Addison-Wesley.
 
 
 ## T
