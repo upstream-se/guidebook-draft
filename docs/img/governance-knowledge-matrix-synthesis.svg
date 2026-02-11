@@ -1,93 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
 
   <style>
     .axis-label { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #111; }
-    .sub-label { font-family: Arial, sans-serif; font-size: 14px; fill: #111; }
-    .cell-id { font-family: Arial, sans-serif; font-size: 13px; fill: #333; font-weight: bold; }
+    .cell-id { font-family: Arial, sans-serif; font-size: 13px; fill: #333; }
+    .cell-id-invert { font-family: Arial, sans-serif; font-size: 13px; fill: #fff; }
     .grid-line { stroke: #444; stroke-width: 2; fill: none; }
-    .legend-label { font-family: Arial, sans-serif; font-size: 13px; fill: #111; }
-    .legend-box { stroke: #666; stroke-width: 1; }
   </style>
 
-  <!--
-    Color Legend:
-      None   = #f2f2f2
-      Low    = #cfe2ff
-      Medium = #6fa8dc
-      High   = #1f4e79
-
-    Aggregation rule: MAX coverage observed across families.
+  <!-- Color Legend:
+       None   = #f2f2f2
+       Low    = #cfe2ff
+       Medium = #6fa8dc
+       High   = #1f4e79
   -->
 
-  <!-- Title -->
-  <text x="490" y="42" text-anchor="middle" class="axis-label">Aggregated Governance–Knowledge Matrix (Max Coverage)</text>
-
-  <!-- Grid origin and cell geometry -->
-  <!-- Grid top-left = (220, 110), cell = 200×120, grid = 600×360 -->
+  <!--
+    Synthesis (MAX across Matrices 1–5):
+      E×E: Low
+      E×S: High
+      E×I: Low
+      M×E: Medium
+      M×S: Medium
+      M×I: High
+      O×E: High
+      O×S: Low
+      O×I: None
+  -->
 
   <!-- Epistemic Row (Top) -->
-  <rect x="220" y="110" width="200" height="120" fill="#f2f2f2"/> <!-- E×E (None) -->
-  <rect x="420" y="110" width="200" height="120" fill="#1f4e79"/> <!-- E×S (High) -->
-  <rect x="620" y="110" width="200" height="120" fill="#f2f2f2"/> <!-- E×I (None) -->
+  <rect x="200" y="100" width="200" height="120" fill="#cfe2ff"/> <!-- E×E Low -->
+  <rect x="400" y="100" width="200" height="120" fill="#1f4e79"/> <!-- E×S High -->
+  <rect x="600" y="100" width="200" height="120" fill="#cfe2ff"/> <!-- E×I Low -->
 
   <!-- Managerial Row (Middle) -->
-  <rect x="220" y="230" width="200" height="120" fill="#1f4e79"/> <!-- M×E (High) -->
-  <rect x="420" y="230" width="200" height="120" fill="#6fa8dc"/> <!-- M×S (Medium) -->
-  <rect x="620" y="230" width="200" height="120" fill="#1f4e79"/> <!-- M×I (High) -->
+  <rect x="200" y="220" width="200" height="120" fill="#6fa8dc"/> <!-- M×E Medium -->
+  <rect x="400" y="220" width="200" height="120" fill="#6fa8dc"/> <!-- M×S Medium -->
+  <rect x="600" y="220" width="200" height="120" fill="#1f4e79"/> <!-- M×I High -->
 
   <!-- Operational Row (Bottom) -->
-  <rect x="220" y="350" width="200" height="120" fill="#1f4e79"/> <!-- O×E (High) -->
-  <rect x="420" y="350" width="200" height="120" fill="#cfe2ff"/> <!-- O×S (Low) -->
-  <rect x="620" y="350" width="200" height="120" fill="#cfe2ff"/> <!-- O×I (Low) -->
+  <rect x="200" y="340" width="200" height="120" fill="#1f4e79"/> <!-- O×E High -->
+  <rect x="400" y="340" width="200" height="120" fill="#cfe2ff"/> <!-- O×S Low -->
+  <rect x="600" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- O×I None -->
 
-  <!-- Grid lines -->
-  <rect x="220" y="110" width="600" height="360" class="grid-line"/>
-  <line x1="420" y1="110" x2="420" y2="470" class="grid-line"/>
-  <line x1="620" y1="110" x2="620" y2="470" class="grid-line"/>
-  <line x1="220" y1="230" x2="820" y2="230" class="grid-line"/>
-  <line x1="220" y1="350" x2="820" y2="350" class="grid-line"/>
+  <!-- Grid -->
+  <rect x="200" y="100" width="600" height="360" class="grid-line"/>
+  <line x1="400" y1="100" x2="400" y2="460" class="grid-line"/>
+  <line x1="600" y1="100" x2="600" y2="460" class="grid-line"/>
+  <line x1="200" y1="220" x2="800" y2="220" class="grid-line"/>
+  <line x1="200" y1="340" x2="800" y2="340" class="grid-line"/>
 
-  <!-- Column labels -->
-  <text x="320" y="86" text-anchor="middle" class="axis-label">Execution</text>
-  <text x="520" y="86" text-anchor="middle" class="axis-label">Structural</text>
-  <text x="720" y="86" text-anchor="middle" class="axis-label">Intentional</text>
+  <!-- Column Labels -->
+  <text x="300" y="75" text-anchor="middle" class="axis-label">Execution</text>
+  <text x="500" y="75" text-anchor="middle" class="axis-label">Structural</text>
+  <text x="700" y="75" text-anchor="middle" class="axis-label">Intentional</text>
 
-  <!-- Row labels -->
-  <text x="195" y="175" text-anchor="end" class="axis-label">Epistemic</text>
-  <text x="195" y="295" text-anchor="end" class="axis-label">Managerial</text>
-  <text x="195" y="415" text-anchor="end" class="axis-label">Operational</text>
+  <!-- Row Labels -->
+  <text x="170" y="170" text-anchor="end" class="axis-label">Epistemic</text>
+  <text x="170" y="290" text-anchor="end" class="axis-label">Managerial</text>
+  <text x="170" y="410" text-anchor="end" class="axis-label">Operational</text>
 
   <!-- Cell IDs -->
-  <text x="320" y="175" text-anchor="middle" class="cell-id">E×E</text>
-  <text x="520" y="175" text-anchor="middle" class="cell-id" fill="#fff">E×S</text>
-  <text x="720" y="175" text-anchor="middle" class="cell-id">E×I</text>
+  <!-- Epistemic -->
+  <text x="300" y="165" text-anchor="middle" class="cell-id">E×E</text>
+  <text x="500" y="165" text-anchor="middle" class="cell-id-invert">E×S</text>
+  <text x="700" y="165" text-anchor="middle" class="cell-id">E×I</text>
 
-  <text x="320" y="295" text-anchor="middle" class="cell-id" fill="#fff">M×E</text>
-  <text x="520" y="295" text-anchor="middle" class="cell-id">M×S</text>
-  <text x="720" y="295" text-anchor="middle" class="cell-id" fill="#fff">M×I</text>
+  <!-- Managerial -->
+  <text x="300" y="285" text-anchor="middle" class="cell-id">M×E</text>
+  <text x="500" y="285" text-anchor="middle" class="cell-id">M×S</text>
+  <text x="700" y="285" text-anchor="middle" class="cell-id-invert">M×I</text>
 
-  <text x="320" y="415" text-anchor="middle" class="cell-id" fill="#fff">O×E</text>
-  <text x="520" y="415" text-anchor="middle" class="cell-id">O×S</text>
-  <text x="720" y="415" text-anchor="middle" class="cell-id">O×I</text>
-
-  <!-- Legend -->
-  <text x="860" y="120" text-anchor="start" class="axis-label" font-size="16">Legend</text>
-
-  <rect x="850" y="140" width="22" height="22" fill="#1f4e79" class="legend-box"/>
-  <text x="880" y="157" class="legend-label">High</text>
-
-  <rect x="850" y="170" width="22" height="22" fill="#6fa8dc" class="legend-box"/>
-  <text x="880" y="187" class="legend-label">Medium</text>
-
-  <rect x="850" y="200" width="22" height="22" fill="#cfe2ff" class="legend-box"/>
-  <text x="880" y="217" class="legend-label">Low</text>
-
-  <rect x="850" y="230" width="22" height="22" fill="#f2f2f2" class="legend-box"/>
-  <text x="880" y="247" class="legend-label">None</text>
-
-  <!-- Footnote -->
-  <text x="490" y="520" text-anchor="middle" class="sub-label">
-    Aggregation rule: per cell, display the maximum typical coverage observed across families.
-  </text>
+  <!-- Operational -->
+  <text x="300" y="405" text-anchor="middle" class="cell-id-invert">O×E</text>
+  <text x="500" y="405" text-anchor="middle" class="cell-id">O×S</text>
+  <text x="700" y="405" text-anchor="middle" class="cell-id">O×I</text>
 
 </svg>
