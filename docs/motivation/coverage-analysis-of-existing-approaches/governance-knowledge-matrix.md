@@ -97,6 +97,7 @@ Each column corresponds to a primary knowledge object governed:
 
 Taken together, the matrix distinguishes nine conceptually different governance configurations.  An approach may emphasize one configuration, combine several, or shift across them depending on context.  The purpose of the matrix is to provide a stable conceptual frame within which such patterns can be analyzed systematically in the pages that follow.
 
+Taken together, the two dimensions yield a 3×3 analytical matrix and distinguish nine conceptually different governance configurations.  An approach may emphasize one configuration, combine several, or shift across them depending on context.  The purpose of the matrix is to provide a stable conceptual frame within which such patterns can be analyzed systematically in the pages that follow.  Figure 1 presents the matrix as the reference space used throughout the coverage analysis.
 
 <p align="center">
   <img src="../../img/governance-knowledge-matrix.svg"
@@ -105,8 +106,10 @@ Taken together, the matrix distinguishes nine conceptually different governance 
 </p>
 
 <p align="center">
-  <em>Figure: The 3×3 governance–knowledge matrix used as an analytical lens to compare existing approaches.</em>
+  <em>Figure 1. The 3×3 governance–knowledge matrix used as an analytical lens to compare existing approaches.</em>
 </p>
+
+Subsequent pages position different families of approaches within this matrix in order to analyze patterns of coverage across the upstream problem space.
 
 
 ## Interpreting the Nine Configurations
