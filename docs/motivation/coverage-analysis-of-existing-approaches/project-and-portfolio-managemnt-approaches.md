@@ -45,7 +45,15 @@ Taken together, project and portfolio management approaches tend to cluster arou
 - **Managerial × Intentional** — governance enacted through formal articulation of objectives, business cases, and strategic alignment criteria.
 - **Managerial × Execution** — governance expressed through planning structures, schedules, milestones, and coordination mechanisms.
 
-Structural knowledge and epistemic governance configurations are not typically central to this family.  Architectural or design considerations may inform decision-making, but they are usually subordinate to planning and investment frameworks rather than governed as explicit knowledge assets.
+Structural knowledge and epistemic governance configurations are not typically central to this family. Architectural or design considerations may inform decision-making, but they are usually subordinate to planning and investment frameworks rather than governed as explicit knowledge assets. As illustrated in Figure 1, governance effort concentrates in the **Managerial × Intentional** configuration, with secondary emphasis on **Managerial × Execution**, while epistemic cells remain largely unactivated.
+
+<p align="center">
+  <img src="../../img/governance-knowledge-matrix-project-and-portfolio-management-approaches.svg"
+       alt="Governance–Knowledge Matrix — Project and portfolio management approaches"
+       width="700" />
+</p>
+
+<p align="center"><em>Figure 1. Governance–knowledge coverage configuration for project and portfolio management approaches.</em></p>
 
 
 ## Relationship to the upstream problem space
