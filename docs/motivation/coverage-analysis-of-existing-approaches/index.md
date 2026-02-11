@@ -38,7 +38,7 @@ This part of the guidebook is composed of the following pages:
 - **[A Comparative Lens: Governance and Knowledge](./governance-knowledge-matrix.md)**  
   Defines the analytical instrument used throughout this part, including the governance modes and primary knowledge objects governed.
 
-- **[Methodologies and Process Frameworks](./methodologies.md)**  
+- **[Methodologies and Process Frameworks](./methodologies-and-process-frameworks.md)**  
   Examines development methodologies and process-oriented approaches through the governance–knowledge lens.
 
 - **[Project and Portfolio Management Approaches](./project-and-portfolio.md)**  
