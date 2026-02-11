@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+
+  <style>
+    .axis-label { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #111; }
+    .cell-id { font-family: Arial, sans-serif; font-size: 16px; fill: #666; }
+    .grid-line { stroke: #444; stroke-width: 2; fill: none; }
+    .cell-bg { fill: #f2f2f2; }
+  </style>
+
+  <!--
+    Methodologies & process frameworks — cell intensities (single-family view)
+
+    High   : O×E  (Operational × Execution)
+    Medium : M×E  (Managerial × Execution)
+    Low    : O×S  (Operational × Structural)  [occasional movement]
+    None   : all others
+
+    Palette (single hue, blue) using opacity:
+      Low    = 0.20
+      Medium = 0.45
+      High   = 0.75
+  -->
+
+  <!-- Cell Backgrounds (light gray) -->
+  <!-- Row 1: Epistemic -->
+  <rect x="200" y="100" width="200" height="120" class="cell-bg"/>
+  <rect x="400" y="100" width="200" height="120" class="cell-bg"/>
+  <rect x="600" y="100" width="200" height="120" class="cell-bg"/>
+
+  <!-- Row 2: Managerial -->
+  <rect x="200" y="220" width="200" height="120" class="cell-bg"/>
+  <rect x="400" y="220" width="200" height="120" class="cell-bg"/>
+  <rect x="600" y="220" width="200" height="120" class="cell-bg"/>
+
+  <!-- Row 3: Operational -->
+  <rect x="200" y="340" width="200" height="120" class="cell-bg"/>
+  <rect x="400" y="340" width="200" height="120" class="cell-bg"/>
+  <rect x="600" y="340" width="200" height="120" class="cell-bg"/>
+
+  <!-- Coverage overlay (blue) -->
+  <!-- Epistemic row: none -->
+
+  <!-- Managerial × Execution: Medium -->
+  <rect x="200" y="220" width="200" height="120" fill="rgb(0,102,204)" fill-opacity="0.45"/>
+
+  <!-- Operational × Execution: High -->
+  <rect x="200" y="340" width="200" height="120" fill="rgb(0,102,204)" fill-opacity="0.75"/>
+
+  <!-- Operational × Structural: Low -->
+  <rect x="400" y="340" width="200" height="120" fill="rgb(0,102,204)" fill-opacity="0.20"/>
+
+  <!-- Outer Grid -->
+  <rect x="200" y="100" width="600" height="360" class="grid-line"/>
+
+  <!-- Vertical Lines -->
+  <line x1="400" y1="100" x2="400" y2="460" class="grid-line"/>
+  <line x1="600" y1="100" x2="600" y2="460" class="grid-line"/>
+
+  <!-- Horizontal Lines -->
+  <line x1="200" y1="220" x2="800" y2="220" class="grid-line"/>
+  <line x1="200" y1="340" x2="800" y2="340" class="grid-line"/>
+
+  <!-- Column Labels -->
+  <text x="300" y="75" text-anchor="middle" class="axis-label">Execution</text>
+  <text x="500" y="75" text-anchor="middle" class="axis-label">Structural</text>
+  <text x="700" y="75" text-anchor="middle" class="axis-label">Intentional</text>
+
+  <!-- Row Labels -->
+  <text x="170" y="170" text-anchor="end" class="axis-label">Epistemic</text>
+  <text x="170" y="290" text-anchor="end" class="axis-label">Managerial</text>
+  <text x="170" y="410" text-anchor="end" class="axis-label">Operational</text>
+
+  <!-- Axis Titles -->
+  <text x="500" y="40" text-anchor="middle" class="axis-label">
+    Primary Knowledge Object Governed
+  </text>
+
+  <text transform="rotate(-90 60,280)" x="60" y="280"
+        text-anchor="middle" class="axis-label">
+    Governance Mode
+  </text>
+
+  <!-- Cell IDs -->
+  <!-- Epistemic Row -->
+  <text x="300" y="170" text-anchor="middle" class="cell-id">E×E</text>
+  <text x="500" y="170" text-anchor="middle" class="cell-id">E×S</text>
+  <text x="700" y="170" text-anchor="middle" class="cell-id">E×I</text>
+
+  <!-- Managerial Row -->
+  <text x="300" y="290" text-anchor="middle" class="cell-id">M×E</text>
+  <text x="500" y="290" text-anchor="middle" class="cell-id">M×S</text>
+  <text x="700" y="290" text-anchor="middle" class="cell-id">M×I</text>
+
+  <!-- Operational Row -->
+  <text x="300" y="410" text-anchor="middle" class="cell-id">O×E</text>
+  <text x="500" y="410" text-anchor="middle" class="cell-id">O×S</text>
+  <text x="700" y="410" text-anchor="middle" class="cell-id">O×I</text>
+
+</svg>
