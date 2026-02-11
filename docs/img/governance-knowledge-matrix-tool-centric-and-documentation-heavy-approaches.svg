@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+
+  <style>
+    .axis-label { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #111; }
+    .cell-id { font-family: Arial, sans-serif; font-size: 13px; fill: #333; }
+    .cell-id-invert { font-family: Arial, sans-serif; font-size: 13px; fill: #fff; }
+    .grid-line { stroke: #444; stroke-width: 2; fill: none; }
+  </style>
+
+  <!-- Color Legend:
+       None   = #f2f2f2
+       Low    = #cfe2ff
+       Medium = #6fa8dc
+       High   = #1f4e79
+  -->
+
+  <!-- Epistemic Row (Top) -->
+  <rect x="200" y="100" width="200" height="120" fill="#f2f2f2"/> <!-- Epistemic × Execution (None) -->
+  <rect x="400" y="100" width="200" height="120" fill="#cfe2ff"/> <!-- Epistemic × Structural (Low) -->
+  <rect x="600" y="100" width="200" height="120" fill="#f2f2f2"/> <!-- Epistemic × Intentional (None) -->
+
+  <!-- Managerial Row (Middle) -->
+  <rect x="200" y="220" width="200" height="120" fill="#6fa8dc"/> <!-- Managerial × Execution (Medium) -->
+  <rect x="400" y="220" width="200" height="120" fill="#6fa8dc"/> <!-- Managerial × Structural (Medium) -->
+  <rect x="600" y="220" width="200" height="120" fill="#cfe2ff"/> <!-- Managerial × Intentional (Low) -->
+
+  <!-- Operational Row (Bottom) -->
+  <rect x="200" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- Operational × Execution (None) -->
+  <rect x="400" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- Operational × Structural (None) -->
+  <rect x="600" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- Operational × Intentional (None) -->
+
+  <!-- Grid -->
+  <rect x="200" y="100" width="600" height="360" class="grid-line"/>
+  <line x1="400" y1="100" x2="400" y2="460" class="grid-line"/>
+  <line x1="600" y1="100" x2="600" y2="460" class="grid-line"/>
+  <line x1="200" y1="220" x2="800" y2="220" class="grid-line"/>
+  <line x1="200" y1="340" x2="800" y2="340" class="grid-line"/>
+
+  <!-- Column Labels -->
+  <text x="300" y="75" text-anchor="middle" class="axis-label">Execution</text>
+  <text x="500" y="75" text-anchor="middle" class="axis-label">Structural</text>
+  <text x="700" y="75" text-anchor="middle" class="axis-label">Intentional</text>
+
+  <!-- Row Labels -->
+  <text x="170" y="170" text-anchor="end" class="axis-label">Epistemic</text>
+  <text x="170" y="290" text-anchor="end" class="axis-label">Managerial</text>
+  <text x="170" y="410" text-anchor="end" class="axis-label">Operational</text>
+
+  <!-- Cell IDs -->
+  <!-- Epistemic -->
+  <text x="300" y="165" text-anchor="middle" class="cell-id">E×E</text>
+  <text x="500" y="165" text-anchor="middle" class="cell-id">E×S</text>
+  <text x="700" y="165" text-anchor="middle" class="cell-id">E×I</text>
+
+  <!-- Managerial -->
+  <text x="300" y="285" text-anchor="middle" class="cell-id">M×E</text>
+  <text x="500" y="285" text-anchor="middle" class="cell-id">M×S</text>
+  <text x="700" y="285" text-anchor="middle" class="cell-id">M×I</text>
+
+  <!-- Operational -->
+  <text x="300" y="405" text-anchor="middle" class="cell-id">O×E</text>
+  <text x="500" y="405" text-anchor="middle" class="cell-id">O×S</text>
+  <text x="700" y="405" text-anchor="middle" class="cell-id">O×I</text>
+
+</svg>
