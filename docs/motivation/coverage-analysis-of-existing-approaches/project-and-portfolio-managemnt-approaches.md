@@ -50,11 +50,24 @@ Structural knowledge and epistemic governance configurations are not typically c
 
 ## Relationship to the upstream problem space
 
-Project and portfolio management approaches directly address challenges related to resource allocation, prioritization of initiatives, risk management, and strategic alignment.  They provide mechanisms for coordinating large-scale change efforts and for making investment decisions visible and accountable.
+Project and portfolio management approaches directly address challenges related to resource allocation, prioritization of initiatives, risk management, and strategic alignment. They provide mechanisms for coordinating large-scale change efforts and for making investment decisions visible and accountable.
 
-However, challenges related to long-lived software system evolution, preservation of architectural coherence across successive initiatives, and explicit governance of assumptions over time extend beyond the primary focus of this family.  Software evolution research has emphasized that systems continue to change long after individual projects conclude, and that project-based structures do not fully account for this continuous evolution ([Lehman & Ramil, 2003](../../resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000)).
+However, the upstream problem space extends beyond the governance of time-bounded initiatives. Long-lived software systems evolve continuously, often across multiple projects and organizational configurations. Software evolution research has emphasized that systems persist and change long after individual projects conclude, and that project-based structures do not fully account for this ongoing evolution ([Lehman & Ramil, 2003](../../resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000)).
 
-This observation does not diminish the importance of project and portfolio management within organizations.  Rather, it highlights that these approaches are structured around governing initiatives and investments, whereas certain dimensions of the upstream problem space concern the sustained evolution of software systems beyond the lifecycle of individual projects.
+This observation does not diminish the importance of project and portfolio management within organizations. Rather, it clarifies their dominant locus of governance: initiatives and investments. Certain upstream challenges, however, concern the sustained articulation, preservation, and evolution of software systems across successive initiatives and beyond individual project lifecycles.
+
+
+## Coverage of recurring challenges
+
+The following table summarizes how project and portfolio management approaches typically address the recurring challenges identified in the upstream problem space. The assessment reflects their dominant orientation and design intent.
+
+| Recurring Challenge | Typical Coverage | Rationale |
+|---------------------|------------------|-----------|
+| Fragmented system understanding | Low–Medium | Business cases and portfolio artifacts provide initiative-level context, but do not typically establish durable, system-level knowledge structures. |
+| Erosion of architectural coherence | Low | Architectural concerns may be considered during project approval, yet long-term structural stewardship across successive initiatives is not the primary governance object. |
+| Drift of intent over time | Medium | Strategic objectives, roadmaps, and benefit realization frameworks articulate intent at the initiative level, but intent is tied to projects rather than governed as a continuous system-level knowledge asset. |
+| Decision opacity and rationale loss | Medium | Formal approval processes and stage gates document investment decisions, yet technical and architectural rationale often remains outside portfolio governance mechanisms. |
+| Multi-team or multi-provider discontinuity | Medium | Portfolio structures coordinate multiple initiatives, but continuity of system knowledge across organizational boundaries and over extended time horizons is not systematically ensured. |
 
 
 ## Transition
