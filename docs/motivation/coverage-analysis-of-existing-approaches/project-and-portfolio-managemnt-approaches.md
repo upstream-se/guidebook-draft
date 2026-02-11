@@ -2,7 +2,7 @@
 
 Project and portfolio management approaches constitute a family of practices concerned with governing initiatives, investments, and resource allocation across time-bounded efforts.  They define structures for planning, prioritization, funding, risk management, and performance evaluation.
 
-Representative examples of this family include the PMBOK-based standards of the [Project Management Institute (PMI)](https://www.pmi.org/pmbok-guide-standards), [PRINCE2](https://www.axelos.com/certifications/prince2), portfolio management practices embedded in [SAFe](https://scaledagileframework.com/portfolio/), and governance-oriented frameworks such as [COBIT](https://www.isaca.org/resources/cobit).  While differing in scope and emphasis, these approaches share a common focus on structuring and governing initiatives rather than on regulating day-to-day development practices.
+Representative examples of this family include the PMBOK-based standards of the [Project Management Institute (PMI)](https://www.pmi.org/pmbok-guide-standards), [PRINCE2](https://www.axelos.com/certifications/prince2), portfolio management practices embedded in [SAFe](https://scaledagileframework.com/portfolio/), and governance-oriented frameworks such as [COBIT](https://www.isaca.org/resources/cobit).  These approaches are grounded in established project and governance standards (see [PMI, 2021](../../resources/bibliography.md#pmi-2021); [AXELOS, 2017](../../resources/bibliography.md#axelos-2017); [ISACA, 2019](../../resources/bibliography.md#isaca-2019)).  While differing in scope and emphasis, they share a common focus on structuring and governing initiatives rather than on regulating day-to-day development practices.
 
 In relation to the upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)**, project and portfolio management approaches are especially relevant because they influence how change is initiated, justified, funded, and evaluated over time.
 
@@ -11,16 +11,16 @@ In relation to the upstream problem space described in the **[Problem Space](../
 
 Approaches in this family are primarily oriented toward governing *initiatives* rather than continuously evolving systems.  Their central concern is the definition, authorization, monitoring, and closure of projects, as well as the alignment of multiple initiatives within broader organizational strategy.
 
-They assume that governance can be achieved through structured planning processes, formal roles, documented objectives, stage gates, performance metrics, and defined approval mechanisms.  Risk management, cost estimation, scheduling, and benefit realization are treated as core instruments of control.
+They assume that governance can be achieved through structured planning processes, formal roles, documented objectives, stage gates, performance metrics, and defined approval mechanisms ([PMI, 2021](../../resources/bibliography.md#pmi-2021); [AXELOS, 2017](../../resources/bibliography.md#axelos-2017)).  Risk management, cost estimation, scheduling, and benefit realization are treated as core instruments of control.
 
-Portfolio-level variants extend this logic by prioritizing and sequencing investments, balancing resource allocation, and aligning initiatives with strategic objectives.  Governance is thus exercised through structured decision-making forums and formalized oversight mechanisms.
+Portfolio-level variants extend this logic by prioritizing and sequencing investments, balancing resource allocation, and aligning initiatives with strategic objectives.  Governance is thus exercised through structured decision-making forums and formalized oversight mechanisms, consistent with enterprise governance models such as COBIT and ISO/IEC 38500 ([ISACA, 2019](../../resources/bibliography.md#isaca-2019); [ISO/IEC, 2015](../../resources/bibliography.md#iso-38500-2015)).
 
 
 ## Governance mode emphasis
 
 Analyzed through the governance–knowledge lens, project and portfolio management approaches predominantly emphasize **managerial governance**.
 
-Constraints and decision authority are expressed through defined roles (e.g., project sponsors, steering committees), stage-gate reviews, funding approvals, and formal reporting structures.  Governance is enacted through coordination mechanisms and hierarchical accountability rather than through embedded daily practice.
+Constraints and decision authority are expressed through defined roles (e.g., project sponsors, steering committees), stage-gate reviews, funding approvals, and formal reporting structures.  Governance is enacted through coordination mechanisms and hierarchical accountability rather than through embedded daily practice.  This orientation reflects classical managerial control structures in which authority, reporting, and oversight are formalized within organizational hierarchies ([ISO/IEC, 2015](../../resources/bibliography.md#iso-38500-2015)).
 
 At the portfolio level, governance extends to investment prioritization, resource balancing, and strategic alignment.  Decision-making is centralized or formally delegated, and control is exercised through planning artifacts, dashboards, and review processes.
 
@@ -52,7 +52,7 @@ Structural knowledge and epistemic governance configurations are not typically c
 
 Project and portfolio management approaches directly address challenges related to resource allocation, prioritization of initiatives, risk management, and strategic alignment.  They provide mechanisms for coordinating large-scale change efforts and for making investment decisions visible and accountable.
 
-However, challenges related to long-lived software system evolution, preservation of architectural coherence across successive initiatives, and explicit governance of assumptions over time extend beyond the primary focus of this family (see [Lehman & Ramil, 2003](../../resources/bibliography.md#lehman-ramil-2003)).
+However, challenges related to long-lived software system evolution, preservation of architectural coherence across successive initiatives, and explicit governance of assumptions over time extend beyond the primary focus of this family.  Software evolution research has emphasized that systems continue to change long after individual projects conclude, and that project-based structures do not fully account for this continuous evolution ([Lehman & Ramil, 2003](../../resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000)).
 
 This observation does not diminish the importance of project and portfolio management within organizations.  Rather, it highlights that these approaches are structured around governing initiatives and investments, whereas certain dimensions of the upstream problem space concern the sustained evolution of software systems beyond the lifecycle of individual projects.
 
