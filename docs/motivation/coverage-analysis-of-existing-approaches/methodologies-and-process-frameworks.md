@@ -51,7 +51,17 @@ Taken together, methodologies and process frameworks tend to cluster around the 
 
 Occasional movement toward **Operational × Structural** may occur through design practices and refactoring discipline. However, structural and intentional knowledge are not typically the primary objects of governance within this family.
 
-This configuration reflects a strong emphasis on regulating activity and improving execution effectiveness, with limited systematic focus on explicit structural or intentional knowledge governance.
+This configuration reflects a strong emphasis on regulating activity and improving execution effectiveness, with limited systematic focus on explicit structural or intentional knowledge governance.  Figure 1 visualizes this concentration in the Operational × Execution and Managerial × Execution cells, with only marginal influence in adjacent structural cells.
+
+<p align="center">
+  <img src="../../img/governance-knowledge-matrix-methodologies-and-process-frameworks.svg"
+       alt="Governance–Knowledge Matrix — Methodologies and Process Frameworks"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Figure 1. Governance–knowledge coverage configuration for methodologies and process frameworks.</em>
+</p>
 
 
 ## Relationship to the upstream problem space
