@@ -98,6 +98,17 @@ Each column corresponds to a primary knowledge object governed:
 Taken together, the matrix distinguishes nine conceptually different governance configurations.  An approach may emphasize one configuration, combine several, or shift across them depending on context.  The purpose of the matrix is to provide a stable conceptual frame within which such patterns can be analyzed systematically in the pages that follow.
 
 
+<p align="center">
+  <img src="../../img/governance-knowledge-matrix.svg"
+       alt="Governance–Knowledge 3×3 Matrix"
+       width="700">
+</p>
+
+<p align="center">
+  <em>Figure: The 3×3 governance–knowledge matrix used as an analytical lens to compare existing approaches.</em>
+</p>
+
+
 ## Interpreting the Nine Configurations
 
 The intersection of governance mode and primary knowledge object yields nine conceptually distinct governance configurations.  Each configuration reflects a different way in which constraints, criteria, and decision authority may be exercised over a software system.
