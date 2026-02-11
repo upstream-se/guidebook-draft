@@ -4,7 +4,7 @@ Methodologies and process frameworks constitute a family of approaches primarily
 
 Representative examples of this family include [Scrum](https://scrumguides.org/), [Extreme Programming (XP)](http://www.extremeprogramming.org/), Lean Software Development ([Poppendieck & Poppendieck, 2003](../../resources/bibliography.md#poppendieck-2003)), [Kanban](https://kanban.university/), [LeSS](https://less.works/), and scaled variants such as [SAFe](https://scaledagileframework.com/) and [Disciplined Agile](https://www.pmi.org/disciplined-agile).  While differing in structure and scope, these approaches share a common focus on governing how work is carried out.
 
-In relation to the upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)**, methodologies are especially relevant because they directly influence the mechanisms through which change is enacted (see [Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000); [Fitzgerald & Stol, 2017](../../resources/bibliography.md#fitzgerald-stol-2017)).
+Empirical and conceptual studies of agile and continuous development characterize these approaches as mechanisms for structuring coordination, feedback, and responsiveness in evolving environments (see [Fitzgerald & Stol, 2017](../../resources/bibliography.md#fitzgerald-stol-2017); [Tamburri et al., 2018](../../resources/bibliography.md#tamburri-etal-2018)).  In relation to the upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)**, methodologies are especially relevant because they directly influence the mechanisms through which change is enacted (see [Bennett & Rajlich, 2000](../../resources/bibliography.md#bennett-rajlich-2000); [Fitzgerald & Stol, 2017](../../resources/bibliography.md#fitzgerald-stol-2017)).
 
 
 ## Characteristic orientation
@@ -13,9 +13,9 @@ Approaches in this family are primarily oriented toward improving coordination, 
 
 They typically assume that effective governance emerges from disciplined practice and structured interaction.  Scrum emphasizes iterative planning and inspection through defined events and roles.  XP embeds governance in technical discipline through practices such as pair programming, test-driven development, and continuous integration.
 
-Lean Software Development reinforces this orientation by framing governance in terms of flow optimization, waste reduction, and continuous improvement.  It treats execution discipline and feedback as primary mechanisms for maintaining control over change and variability.
+Lean Software Development reinforces this orientation by framing governance in terms of flow optimization, waste reduction, and continuous improvement ([Poppendieck & Poppendieck, 2003](../../resources/bibliography.md#poppendieck-2003)).  It treats execution discipline and feedback as primary mechanisms for maintaining control over change and variability.
 
-Scaled frameworks such as SAFe, LeSS, and Disciplined Agile introduce additional layers of coordination across teams and portfolios.  While they extend governance beyond the team level, their primary structuring mechanisms remain centered on execution planning, synchronization, and delivery flow.
+Scaled frameworks such as SAFe, LeSS, and Disciplined Agile introduce additional layers of coordination across teams and portfolios.  Research on large-scale agile development indicates that scaling primarily extends coordination mechanisms rather than fundamentally altering the object of governance ([Tamburri et al., 2018](../../resources/bibliography.md#tamburri-etal-2018)).  While these frameworks extend governance beyond the team level, their primary structuring mechanisms remain centered on execution planning, synchronization, and delivery flow.
 
 Across these variations, governance is largely embedded in workflow structures and team practices rather than in explicit, inspectable knowledge representations about long-term structural coherence or durable articulation of system intent.
 
@@ -35,9 +35,9 @@ However, governance within this family remains primarily oriented toward managin
 
 The primary knowledge object governed by methodologies and process frameworks is **execution**.
 
-These approaches explicitly regulate how work is performed: iteration length, work-in-progress limits, refinement practices, review cycles, and feedback incorporation.  They structure behavior and coordination in order to improve responsiveness, flow, and delivery reliability.
+These approaches explicitly regulate how work is performed: iteration length, work-in-progress limits, refinement practices, review cycles, and feedback incorporation. They structure behavior and coordination in order to improve responsiveness, flow, and delivery reliability.
 
-Structural concerns may be addressed indirectly.  For example, XP promotes refactoring and design simplicity, and Scrum encourages emergent design within iterations.  However, structural knowledge is typically governed implicitly through technical discipline rather than through dedicated architectural knowledge frameworks ([Perry & Wolf, 1992](../../resources/bibliography.md#perry-wolf-1992)).
+Structural concerns may be addressed indirectly. For example, XP promotes refactoring and design simplicity, and Scrum encourages emergent design within iterations.  However, structural knowledge is typically governed implicitly through technical discipline rather than through dedicated architectural knowledge frameworks ([Perry & Wolf, 1992](../../resources/bibliography.md#perry-wolf-1992)).
 
 Intentional knowledge—such as long-term purpose, explicit non-goals, durable articulation of assumptions, or preservation of guiding constraints—is generally expressed in lightweight artifacts such as product visions or roadmap statements.  These serve planning and alignment purposes but are not typically treated as governable knowledge assets in an epistemic sense.
 
@@ -49,7 +49,7 @@ Taken together, methodologies and process frameworks tend to cluster around the 
 - **Operational × Execution** — governance embedded in daily practice and routines governing how work is performed.
 - **Managerial × Execution** — governance enacted through coordination and planning structures, particularly in scaled or enterprise-level variants.
 
-Occasional movement toward **Operational × Structural** may occur through design practices and refactoring discipline.  However, structural and intentional knowledge are not typically the primary objects of governance within this family.
+Occasional movement toward **Operational × Structural** may occur through design practices and refactoring discipline. However, structural and intentional knowledge are not typically the primary objects of governance within this family.
 
 This configuration reflects a strong emphasis on regulating activity and improving execution effectiveness, with limited systematic focus on explicit structural or intentional knowledge governance.
 
