@@ -42,7 +42,15 @@ Within the governance–knowledge matrix, tool-centric and documentation-heavy a
 - **Managerial × Execution** — lifecycle tracking, requirements management, and change control systems.
 - Limited **Epistemic × Structural** activation when architecture descriptions are actively curated as knowledge.
 
-Coverage of **Intentional × Epistemic** governance is typically weak unless explicit mechanisms for managing purpose, assumptions, and non-goals are institutionalized.
+Coverage of **Intentional × Epistemic** governance is typically weak unless explicit mechanisms for managing purpose, assumptions, and non-goals are institutionalized.  Empirical research on architectural knowledge management indicates that even when rationale is documented, sustained epistemic stewardship is rarely institutionalized in practice ([Kruchten et al., 2015](../../resources/bibliography.md#kruchten-etal-2015)).
+
+<p align="center">
+  <img src="../../img/governance-knowledge-matrix-tool-centric-and-documentation-heavy-approaches.svg"
+       alt="Governance–Knowledge Matrix — Tool-centric and documentation-heavy approaches"
+       width="700" />
+</p>
+
+<p align="center"><em>Figure 1. Governance–knowledge coverage configuration for tool-centric and documentation-heavy approaches.</em></p>
 
 
 ## Relationship to the upstream problem space
