@@ -2,7 +2,7 @@
 
 Tool-centric and documentation-heavy approaches constitute a family of practices that attempt to address coordination, traceability, and governance challenges primarily through artifacts and supporting tools.  These approaches assume that making information explicit—through structured documentation, repositories, templates, or lifecycle management systems—improves control and continuity.
 
-Representative examples include Application Lifecycle Management (ALM) platforms such as Jira, Azure DevOps, and IBM Engineering Lifecycle Management; requirements management approaches; documentation-driven governance models; and structured traceability frameworks used in regulated environments.  Architectural documentation practices aligned with [ISO/IEC/IEEE 42010](../../resources/bibliography.md#iso-42010-2011) and rationale management techniques (see [van der Ven et al., 2006](../../resources/bibliography.md#van-der-ven-etal-2006)) also fall within this family when implemented primarily as documentation systems rather than as epistemic governance frameworks.
+Representative examples include Application Lifecycle Management (ALM) platforms such as [Jira](https://www.atlassian.com/software/jira), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), and [IBM Engineering Lifecycle Management](https://www.ibm.com/products/engineering-lifecycle-management); structured requirements engineering approaches; documentation-driven governance models; and traceability frameworks used in regulated environments.  Architectural documentation practices aligned with [ISO/IEC/IEEE 42010](https://www.iso.org/standard/50508.html) (see also [ISO/IEC/IEEE 42010, 2011](../../resources/bibliography.md#iso-42010-2011)) and rationale management techniques (see [van der Ven et al., 2006](../../resources/bibliography.md#van-der-ven-etal-2006)) also fall within this family when implemented primarily as documentation systems rather than as epistemic governance frameworks.
 
 In relation to the upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)**, these approaches are relevant because they explicitly attempt to reduce knowledge loss, improve traceability, and preserve decision artifacts over time.
 
@@ -22,12 +22,12 @@ Analyzed through the governance–knowledge lens, tool-centric and documentation
 
 Managerial governance appears in the enforcement of documentation standards, review processes, traceability requirements, and compliance audits.  Artifacts are required, templates are mandated, and completeness criteria are assessed.
 
-Epistemic governance may be present when documentation is treated as inspectable, evolvable knowledge rather than as a compliance artifact.  For example, architectural viewpoints defined by [ISO/IEC/IEEE 42010](../../resources/bibliography.md#iso-42010-2011) explicitly frame architecture description as a structured representation tied to stakeholder concerns.  However, in many organizational settings, documentation remains primarily a reporting or compliance mechanism rather than a durable epistemic asset.
+Epistemic governance may be present when documentation is treated as inspectable, evolvable knowledge rather than as a compliance artifact.  For example, architectural viewpoints defined by [ISO/IEC/IEEE 42010](https://www.iso.org/standard/50508.html) explicitly frame architecture description as a structured representation tied to stakeholder concerns.  However, in many organizational settings, documentation remains primarily a reporting or compliance mechanism rather than a durable epistemic asset.
 
 
 ## Primary knowledge object governed
 
-The primary knowledge object governed in this family varies, but commonly includes **structural knowledge** (architecture descriptions, component relationships) and **execution knowledge** (requirements, tasks, defects, change logs).
+The primary knowledge object governed in this family commonly includes **structural knowledge** (architecture descriptions, component relationships) and **execution knowledge** (requirements, tasks, defects, change logs).
 
 Intentional knowledge may also be captured in the form of vision documents, requirements baselines, or business cases.  However, such articulation often lacks mechanisms for continuous reinterpretation and systematic re-evaluation as the system evolves.
 
@@ -72,6 +72,6 @@ Accordingly, tool-centric approaches can mitigate symptoms of knowledge loss, bu
 
 ## Transition
 
-This analysis highlights a pattern distinct from both process-oriented methodologies and architecture-centric approaches: explicit artifact production without necessarily establishing durable epistemic governance.  
+This analysis highlights a pattern distinct from both process-oriented methodologies and architecture-centric approaches: explicit artifact production without necessarily establishing durable epistemic governance.
 
-The next family further shifts the focus toward formal governance and compliance frameworks operating at the organizational level.
+The following page synthesizes the patterns observed across families and prepares the ground for identifying systematic areas of sparse coverage.
