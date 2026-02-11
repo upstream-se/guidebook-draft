@@ -41,7 +41,15 @@ Taken together, governance and compliance frameworks tend to cluster around the 
 
 Epistemic governance is not typically central to this family.  While documentation and reporting are emphasized, these serve oversight and accountability rather than sustained, inspectable stewardship of evolving system knowledge.
 
-This configuration reflects strong formal governance of declared intent at the organizational level, with comparatively limited focus on epistemic articulation of system-level structural or intentional knowledge.
+This configuration reflects strong formal governance of declared intent at the organizational level, with secondary reinforcement through structural compliance and control requirements, and only limited epistemic stewardship of system-level structural or intentional knowledge.  As illustrated in Figure 1, governance effort concentrates in the **Managerial × Intentional** configuration, with supporting emphasis in **Managerial × Structural** and only marginal coverage in epistemic cells.
+
+<p align="center">
+  <img src="../../img/governance-knowledge-matrix-governance-and-compliance-frameworks.svg"
+       alt="Governance–Knowledge Matrix — Governance and compliance frameworks"
+       width="700"/>
+</p>
+
+<p align="center"><em>Figure 1: Governance–knowledge coverage configuration for governance and compliance frameworks.</em></p>
 
 
 ## Relationship to the upstream problem space
