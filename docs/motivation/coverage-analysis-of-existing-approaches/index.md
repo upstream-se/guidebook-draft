@@ -59,7 +59,7 @@ This part of the guidebook is composed of the following pages:
 - **[Architecture-Centric Approaches](./architecture-centric-approaches.md)**  
   Discusses architectural practices and their characteristic governance configurations.
 
-- **[Governance, Standards, and Compliance Frameworks](./governance-and-standards.md)**  
+- **[Governance and compliance frameworks](./governance-and-compliance-frameworks.md)**  
   Reviews formal governance and compliance-oriented approaches in terms of governance mode and knowledge object.
 
 - **[Tool-Centric and Documentation-Heavy Approaches](./tools-and-documentation.md)**  
