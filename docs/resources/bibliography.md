@@ -20,6 +20,9 @@ AXELOS. (2017). *Managing successful projects with PRINCE2 (6th ed.)*. TSO.
 Baxter, G., & Sommerville, I. (2011). Socio-technical systems: From design methods to systems engineering. *Interacting with Computers, 23*(1), 4–17.  
 [https://doi.org/10.1016/j.intcom.2010.07.003](https://doi.org/10.1016/j.intcom.2010.07.003)
 
+<a id="beck-2004"></a>
+Beck, K. (2004). *Extreme programming explained: Embrace change* (2nd ed.). Addison-Wesley.
+
 <a id="bennett-rajlich-2000"></a>
 Bennett, K. H., & Rajlich, V. T. (2000). Software maintenance and evolution: A roadmap. In A. Finkelstein (Ed.), *Proceedings of the Conference on The Future of Software Engineering* (pp. 73–87). ACM.  
 [https://doi.org/10.1145/336512.336534](https://doi.org/10.1145/336512.336534)
@@ -106,6 +109,9 @@ Kruchten, P., Avgeriou, P., Ozkaya, I., Seaman, C., & Zdun, U. (2019). Managing 
 LaToza, T. D., & Myers, B. A. (2010). Developers ask reachability questions. In *Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering* (pp. 185–194). ACM.  
 [https://doi.org/10.1145/1806799.1806829](https://doi.org/10.1145/1806799.1806829)
 
+<a id="leffingwell-2018"></a>
+Leffingwell, D. (2018). *SAFe 4.5 reference guide: Scaled Agile Framework for Lean enterprises*. Addison-Wesley.
+
 <a id="lehman-ramil-2003"></a>
 Lehman, M. M., & Ramil, J. F. (2003). Software evolution—background, theory, practice. *Information Processing Letters, 88*(1–2), 33–44.  
 [https://doi.org/10.1016/S0020-0190(03)00382-X](https://doi.org/10.1016/S0020-0190(03)00382-X)
@@ -131,6 +137,13 @@ Project Management Institute. (2021). *A guide to the project management body of
 
 <a id="poppendieck-2003"></a>
 Poppendieck, M., & Poppendieck, T. (2003). *Lean software development: An agile toolkit*. Addison-Wesley.
+
+
+
+## S
+
+<a id="schwaber-sutherland-2020"></a>
+Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. Scrum.org. https://scrumguides.org/
 
 
 
