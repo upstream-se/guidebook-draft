@@ -139,3 +139,12 @@ Governance of structure through explicit, inspectable, and evolvable representat
 
 **Epistemic × Intentional**  
 Governance of system intent through explicit and durable articulation of purpose, assumptions, constraints, and non-goals.  Intent is treated as knowledge that can be examined, debated, and preserved over time.
+
+
+## Using the Lens in the Following Pages
+
+The governance–knowledge matrix provides a structured frame for examining how different families of approaches enact governance and what aspects of the software system they primarily treat as governable.
+
+The pages that follow apply this lens to selected categories of approaches in software development, management, and governance.  Each analysis considers which governance modes are emphasized and which knowledge objects are explicitly addressed.  The purpose of this analysis is to clarify patterns of coverage across approaches in a systematic and comparable manner.
+
+After these analyses have been conducted individually, their aggregate implications can be examined in light of the upstream problem space.
