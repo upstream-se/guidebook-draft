@@ -48,3 +48,31 @@ Governance enacted through explicit, inspectable, and evolvable knowledge about 
 
 Epistemic governance treats knowledge itself as a governable asset.  It enables reasoning about the system and its evolution through structured articulation of decisions, assumptions, constraints, and relationships.
 
+
+### Primary Knowledge Object Governed (Horizontal Axis)
+
+The primary knowledge object governed refers to the principal aspect of the software system that is subject to governance.  It describes *what* is being governed: the domain toward which constraints, criteria, and decision authority are directed.
+
+Three conceptually distinct knowledge objects are identified: execution, structural, and intent.  Governance may focus intensively on execution while leaving structure implicit, or may emphasize structural coherence without explicitly governing intent.  Distinguishing among these objects allows a more precise analysis of how approaches address different dimensions of the upstream problem space.
+
+
+#### Execution Knowledge
+
+Governance of execution concerns how work is performed.  It includes practices, routines, task coordination, operational behavior, and immediate technical decisions.  The focus is on activity and performance in the present.
+
+When execution is the primary object governed, attention is directed toward improving how work is carried out, ensuring discipline in day-to-day practices, and shaping the behavior of teams and operators.
+
+
+#### Structural Knowledge
+
+Governance of structure concerns what the software system is.  It includes architectural decomposition, system boundaries, component relationships, interfaces, and structural constraints.  The focus is on the configuration and organization of the system as a technical artifact.
+
+When structure is the primary object governed, attention is directed toward maintaining coherence of system design, managing complexity, and ensuring consistency across components and teams.
+
+
+#### Intentional Knowledge
+
+Governance of intent concerns why the software system exists and under what assumptions it should evolve.  It includes purpose, constraints, commitments, non-goals, trade-offs, and guiding principles that shape long-term direction.
+
+When intent is the primary object governed, attention is directed toward preserving continuity of purpose over time, making assumptions explicit, and enabling principled reasoning about acceptable and unacceptable change.
+
