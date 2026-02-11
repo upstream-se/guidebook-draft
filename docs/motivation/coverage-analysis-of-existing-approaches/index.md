@@ -22,7 +22,9 @@ Rather than evaluating individual methods or frameworks in isolation, the analys
 
 The families of approaches presented in this part are analytical groupings rather than mutually exclusive classifications.  They reflect dominant orientations within the governance–knowledge matrix, not rigid taxonomic boundaries.
 
-Some approaches—particularly large-scale or enterprise-wide frameworks—activate multiple governance configurations and may therefore be discussed in more than one page.  When this occurs, the focus of the analysis differs according to the dimension under consideration.  An approach may be examined in one page for its execution-oriented governance mechanisms, and in another for its portfolio or structural coordination aspects.
+Some approaches—particularly large-scale or enterprise-wide frameworks—engage multiple governance modes and target more than one primary knowledge object.  Because this analysis is organized by dominant governance configuration rather than by named frameworks, such approaches may be examined in more than one family.
+
+When this occurs, the emphasis of the discussion changes.  In one context, an approach may be analyzed for how it governs execution through coordination mechanisms; in another, for how it structures portfolio-level decisions or architectural alignment.  The repetition reflects the multi-dimensional character of the approach within the governance–knowledge matrix, not a duplication of analysis.
 
 This overlap is intentional.  It reflects the multi-dimensional nature of governance rather than inconsistency in categorization.
 
