@@ -83,4 +83,4 @@ They motivate the need for Upstream Software Engineering as a discipline capable
 
 ## Where to go next
 
-The next page, **[Limits of Current Approaches](./limits-of-current-approaches.md)**, analyzes why established methods, practices, and frameworks often fall short when confronted with these recurring challenges.
+The following part, **[Coverage Analysis of Existing Approaches](./coverage-analysis-of-existing-approaches/index.md)**, examines how existing approaches address these challenges and where coverage remains incomplete.
