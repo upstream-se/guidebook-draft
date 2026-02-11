@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+
+  <style>
+    .axis-label { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #111; }
+    .cell-id { font-family: Arial, sans-serif; font-size: 13px; fill: #333; }
+    .cell-id-invert { font-family: Arial, sans-serif; font-size: 13px; fill: #fff; }
+    .grid-line { stroke: #444; stroke-width: 2; fill: none; }
+  </style>
+
+  <!-- Color Legend:
+       None   = #f2f2f2
+       Low    = #cfe2ff
+       Medium = #6fa8dc
+       High   = #1f4e79
+  -->
+
+  <!--
+    Project & portfolio management approaches — inferred from page content:
+
+    Dominant emphasis:
+      - Managerial × Intentional : High  (objectives, business cases, strategic alignment)
+      - Managerial × Execution   : Medium (planning, milestones, coordination mechanisms)
+
+    Secondary / occasional:
+      - Managerial × Structural  : Low (structure as input to planning; subordinate, not central)
+
+    Otherwise:
+      - Epistemic cells          : None (not primary stewardship of inspectable system knowledge)
+      - Operational cells        : None (not defining characteristic of the family)
+  -->
+
+  <!-- Epistemic Row (Top) -->
+  <rect x="200" y="100" width="200" height="120" fill="#f2f2f2"/> <!-- E×E (None) -->
+  <rect x="400" y="100" width="200" height="120" fill="#f2f2f2"/> <!-- E×S (None) -->
+  <rect x="600" y="100" width="200" height="120" fill="#f2f2f2"/> <!-- E×I (None) -->
+
+  <!-- Managerial Row (Middle) -->
+  <rect x="200" y="220" width="200" height="120" fill="#6fa8dc"/> <!-- M×E (Medium) -->
+  <rect x="400" y="220" width="200" height="120" fill="#cfe2ff"/> <!-- M×S (Low) -->
+  <rect x="600" y="220" width="200" height="120" fill="#1f4e79"/> <!-- M×I (High) -->
+
+  <!-- Operational Row (Bottom) -->
+  <rect x="200" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- O×E (None) -->
+  <rect x="400" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- O×S (None) -->
+  <rect x="600" y="340" width="200" height="120" fill="#f2f2f2"/> <!-- O×I (None) -->
+
+  <!-- Grid -->
+  <rect x="200" y="100" width="600" height="360" class="grid-line"/>
+  <line x1="400" y1="100" x2="400" y2="460" class="grid-line"/>
+  <line x1="600" y1="100" x2="600" y2="460" class="grid-line"/>
+  <line x1="200" y1="220" x2="800" y2="220" class="grid-line"/>
+  <line x1="200" y1="340" x2="800" y2="340" class="grid-line"/>
+
+  <!-- Column Labels -->
+  <text x="300" y="75" text-anchor="middle" class="axis-label">Execution</text>
+  <text x="500" y="75" text-anchor="middle" class="axis-label">Structural</text>
+  <text x="700" y="75" text-anchor="middle" class="axis-label">Intentional</text>
+
+  <!-- Row Labels -->
+  <text x="170" y="170" text-anchor="end" class="axis-label">Epistemic</text>
+  <text x="170" y="290" text-anchor="end" class="axis-label">Managerial</text>
+  <text x="170" y="410" text-anchor="end" class="axis-label">Operational</text>
+
+  <!-- Cell IDs -->
+  <!-- Epistemic -->
+  <text x="300" y="165" text-anchor="middle" class="cell-id">E×E</text>
+  <text x="500" y="165" text-anchor="middle" class="cell-id">E×S</text>
+  <text x="700" y="165" text-anchor="middle" class="cell-id">E×I</text>
+
+  <!-- Managerial -->
+  <text x="300" y="285" text-anchor="middle" class="cell-id">M×E</text>
+  <text x="500" y="285" text-anchor="middle" class="cell-id">M×S</text>
+  <text x="700" y="285" text-anchor="middle" class="cell-id-invert">M×I</text>
+
+  <!-- Operational -->
+  <text x="300" y="405" text-anchor="middle" class="cell-id">O×E</text>
+  <text x="500" y="405" text-anchor="middle" class="cell-id">O×S</text>
+  <text x="700" y="405" text-anchor="middle" class="cell-id">O×I</text>
+
+</svg>
