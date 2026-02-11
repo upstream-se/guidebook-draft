@@ -51,7 +51,17 @@ Taken together, architecture-centric approaches tend to cluster around the follo
 
 Occasional movement toward **Epistemic × Execution** may occur when architectural principles are codified into engineering standards or quality attribute guidelines.  However, intentional knowledge is not typically governed as a first-class epistemic object within this family.
 
-This configuration reflects a strong emphasis on structural coherence and architectural reasoning, with comparatively limited systematic focus on durable articulation of system-level intent.
+This configuration reflects a strong emphasis on structural coherence and architectural reasoning, with comparatively limited systematic focus on durable articulation of system-level intent.  As illustrated in Figure 1, governance effort concentrates in the Structural column—most prominently at the Epistemic × Structural intersection, with secondary managerial reinforcement—while intentional knowledge remains only marginally governed.
+
+<p align="center">
+  <img src="../../img/governance-knowledge-matrix-architecture-centric-approaches.svg"
+       alt="Governance–Knowledge Matrix — Architecture-centric approaches"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Figure 1. Governance–knowledge coverage configuration for architecture-centric approaches.</em>
+</p>
 
 
 ## Relationship to the upstream problem space
