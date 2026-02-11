@@ -15,7 +15,7 @@ Two complementary perspectives are used:
 Figure 1 shows the aggregated coverage across families.  For each cell of the matrix, the highest level of coverage observed among the analyzed families is represented.  The aggregation rule is **maximum-based**, not additive: a cell appears dark only if at least one family strongly activates that configuration.
 
 <p align="center">
-  <img src="../../img/governance-knowledge-matrix-summary.svg"
+  <img src="../../img/governance-knowledge-matrix-synthesis.svg"
        alt="Aggregated governance–knowledge matrix across families"
        width="720" />
 </p>
