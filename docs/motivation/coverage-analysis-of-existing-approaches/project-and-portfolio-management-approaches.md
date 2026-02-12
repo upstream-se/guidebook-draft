@@ -79,6 +79,8 @@ The following table summarizes how project and portfolio management approaches t
 | limited ability to revisit and re-evaluate past decisions | Medium | Audit trails, approvals, and reporting support revisiting investment decisions, but do not systematically support re-evaluating technical and architectural decisions as the software system and its context evolve. |
 
 
-## Transition
+## Next family in the analysis
 
-This analysis complements the examination of methodologies and process frameworks by shifting attention from execution discipline to initiative-level governance.  The following pages continue applying the governance–knowledge lens to additional families of approaches, enabling systematic comparison across governance modes and knowledge objects.
+This analysis complements the examination of methodologies and process frameworks by shifting attention from execution discipline to initiative-level governance, where objectives, funding decisions, and strategic alignment criteria become central.
+
+The governance–knowledge lens is applied next to **[Architecture-centric approaches](./architecture-centric-approaches.md)**, which foreground structural coherence and architectural reasoning as primary objects of governance.
