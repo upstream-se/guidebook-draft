@@ -1,13 +1,13 @@
-# Recurring Challenges
+# Recurring challenges
 
-The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of recurring patterns of difficulty arises across organizations, domains, and technological contexts.
+The characteristics described in the **[Problem space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of recurring patterns of difficulty arises across organizations, domains, and technological contexts.
 
 These challenges are not isolated incidents or the result of individual mistakes.  They emerge as **systemic patterns** shaped by longevity, continuous change, organizational context, multiplicity of actors, shifting boundaries, and historical accumulation.
 
 This page identifies and characterizes these recurring challenges.  It remains **diagnostic**: it does not propose solutions, prescribe practices, or establish norms.  Those concerns are addressed later in this guidebook.
 
 
-## Implicit and Unexamined Decisions
+## Implicit and unexamined decisions
 
 Many decisions that shape a software system are made implicitly, without being explicitly articulated, examined, or recorded.  These include decisions about scope, boundaries, architectural assumptions, quality trade-offs, and acceptable forms of change.
 
@@ -16,7 +16,7 @@ Such decisions are often made under time pressure or as part of local problem so
 The challenge is not that decisions are made implicitly, but that their implicit nature makes them difficult to question, revisit, or reinterpret as context changes.  As a result, later actors may inherit constraints without visibility into the assumptions that produced them.
 
 
-## Loss of Intent and Rationale Over Time
+## Loss of intent and rationale over time
 
 Over time, the effects of implicit decisions are compounded by a second phenomenon: the gradual loss of the intent and rationale that originally justified them.
 
@@ -25,7 +25,7 @@ As software systems evolve, the original intent behind decisions often becomes i
 This loss of intent complicates later evolution.  When rationale is unavailable, changes must be made without knowing which assumptions remain valid, which constraints were deliberate, and which were incidental.  The challenge is therefore not merely one of missing documentation, but of diminished interpretability of the system’s current state.
 
 
-## Fragmented Understanding of the Software System
+## Fragmented understanding of the software system
 
 In long-lived and multi-actor environments, understanding of a software system is typically fragmented.  Knowledge is distributed across people, teams, tools, documents, and codebases, with no single, stable point of synthesis.
 
@@ -34,7 +34,7 @@ Studies of large-scale and distributed development show that work is often parti
 Fragmented understanding is not necessarily a failure of coordination or competence. It is a structural consequence of the problem space. However, it limits the ability to reason about the system as a whole, particularly when making decisions that span components, teams, or organizational boundaries, and when assessing the consequences of change beyond local modifications.
 
 
-## Misalignment Between Intent and Realization
+## Misalignment between intent and realization
 
 When understanding of the software system is fragmented across actors, artifacts, and time, divergence between intended direction and realized structure can emerge without being immediately recognized.
 
@@ -47,7 +47,7 @@ The challenge here is not that systems change, but that changes occur without a 
 This divergence often complicates efforts to evaluate and govern subsequent changes.
 
 
-## Difficulty Governing Change
+## Difficulty governing change
 
 In environments characterized by continuous evolution, organizations often struggle to govern change effectively. Governance mechanisms may focus on process compliance, approval workflows, or control structures, without providing clear criteria for evaluating the substance of proposed changes.
 
@@ -56,7 +56,7 @@ As a result, it becomes difficult to determine which changes are acceptable, whi
 The challenge is therefore not a lack of explicit governance mechanisms, but the absence of criteria grounded in a shared understanding of the software system and its evolving intent.  This difficulty is not primarily procedural; it reflects the absence of a stable and explicit basis for reasoning about change in relation to the system’s purpose, constraints, and context over time.
 
 
-## Limited Ability to Revisit and Re-evaluate Decisions
+## Limited ability to revisit and re-evaluate Decisions
 
 Once decisions are embedded in a software system, they are often treated as irreversible.  Revisiting past decisions may be perceived as costly, risky, or outside the scope of ongoing work.
 
@@ -65,7 +65,7 @@ However, the inability to reconsider decisions is itself a recurring challenge. 
 This limitation concerns capability, not intent.  Even when organizations recognize the need to revisit decisions, they may lack the conceptual structures required to do so in a disciplined and non-disruptive way.  Empirical studies of architectural decision-making and technical debt show that decisions are frequently treated as irreversible, despite changing context and understanding ([Zimmermann et al., 2019](../resources/bibliography.md#zimmermann-etal-2019); [Kruchten et al., 2019](../resources/bibliography.md#kruchten-etal-2019)).
 
 
-## Summary: Patterns of Recurring Challenges
+## Summary: Patterns of recurring challenges
 
 The characteristics described in the **[Problem Space](./problem-space.md)** define the environment in which software systems exist and evolve.  Within this environment, a set of recurring patterns of difficulty arises across organizations, domains, and technological contexts.  These challenges rarely appear in isolation; they tend to co-exist and reinforce one another over time:
 
@@ -83,4 +83,4 @@ They motivate the need for Upstream Software Engineering as a discipline capable
 
 ## Where to go next
 
-The following part, **[Coverage Analysis of Existing Approaches](./coverage-analysis-of-existing-approaches/index.md)**, examines how existing approaches address these challenges and where coverage remains incomplete.
+The following part, **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)**, examines how existing approaches address these challenges and where coverage remains incomplete.
