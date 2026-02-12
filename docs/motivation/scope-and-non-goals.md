@@ -89,10 +89,16 @@ Upstream Software Engineering is positioned as complementary to existing discipl
 Its distinct contribution lies in re-centering governance around the epistemic durability of system-level intent.
 
 
-## Transition to Foundations
+## Foundations of the discipline
 
-With the motivation clarified and the scope delimited, the guidebook now turns to conceptual construction.
+Having clarified the motivation, the guidebook proceeds to articulate the conceptual foundations of Upstream Software Engineering.
 
-The **Foundations** part introduces the metamodel and core concepts required to articulate system-level intent, structure, and governance relationships explicitly.
+The **Foundations** part is structured in three layers:
 
-Proceed to **Foundations**.
+- **The discipline** — its core propositions, positioning, and conceptual commitments.
+- **The metamodel** — the formal vocabulary used to represent system-level intent, structure, context, and governance relationships.
+- **The plays** — recurring governance patterns that operationalize epistemic stewardship of intent across evolution.
+
+Together, these elements define the conceptual infrastructure required to treat system-level intent as durable, governable knowledge.
+
+Proceed to **[Foundations](../foundations/index.md)**.
