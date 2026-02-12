@@ -65,7 +65,7 @@ This part of the guidebook is composed of the following pages:
 - **[Tool-Centric and Documentation-Heavy Approaches](./tool-centric-and-documentation-heavy-approaches.md)**  
   Examines approaches that rely primarily on tools or documentation within the same conceptual frame.
 
-- **Aggregate Coverage and Observed Patterns**  
+- **[Synthesis: Aggregate Coverage and Observed Patterns](./synthesis.md)**  
   Synthesizes the preceding analyses to examine patterns across the governance–knowledge matrix.
 
 
