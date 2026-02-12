@@ -67,14 +67,14 @@ This observation does not diminish the institutional importance of governance fr
 
 The following table summarizes how governance and compliance frameworks typically address the recurring challenges identified in the upstream problem space.
 
-| Recurring Challenge | Typical Coverage | Rationale |
+| Recurring challenge | Typical coverage | Rationale |
 |---------------------|------------------|-----------|
-| implicit and unexamined decisions | Medium | Formal approval processes and oversight mechanisms reduce informal decision-making, but underlying rationale may remain implicit. |
-| loss of original intent and rationale over time | Medium | Strategic intent may be documented in governance artifacts, but system-level rationale is not consistently preserved as an evolvable knowledge asset. |
-| fragmentation of understanding of the software system | Low–Medium | Governance policies clarify responsibilities but do not systematically unify technical understanding across actors. |
-| divergence between intent and realized structure | Medium | Compliance checks may detect deviations, though alignment is assessed at a policy or control level rather than through detailed architectural reasoning. |
-| difficulty assessing and governing change | Medium | Formal review and approval structures provide control over change initiation and authorization. |
-| limited ability to revisit and re-evaluate past decisions | Low–Medium | Audit trails exist, but systematic re-evaluation of architectural and intentional knowledge is not central to the framework. |
+| Implicit and unexamined decisions | Medium | Formal approval processes and oversight mechanisms reduce informal decision-making, but underlying rationale may remain implicit. |
+| Loss of original intent and rationale over time | Medium | Strategic intent may be documented in governance artifacts, but system-level rationale is not consistently preserved as an evolvable knowledge asset. |
+| Fragmentation of understanding of the software system | Low–Medium | Governance policies clarify responsibilities but do not systematically unify technical understanding across actors. |
+| Divergence between intent and realized structure | Medium | Compliance checks may detect deviations, though alignment is assessed at a policy or control level rather than through detailed architectural reasoning. |
+| Difficulty assessing and governing change | Medium | Formal review and approval structures provide control over change initiation and authorization. |
+| Limited ability to revisit and re-evaluate past decisions | Low–Medium | Audit trails exist, but systematic re-evaluation of architectural and intentional knowledge is not central to the framework. |
 
 
 ## Next family in the analysis
