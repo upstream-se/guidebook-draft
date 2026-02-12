@@ -69,14 +69,14 @@ This observation does not diminish the importance of project and portfolio manag
 
 The following table summarizes how project and portfolio management approaches typically address the recurring challenges identified in the upstream problem space. The assessment reflects their dominant orientation and design intent.
 
-| Recurring Challenge | Typical Coverage | Rationale |
+| Recurring challenge | Typical coverage | Rationale |
 |---------------------|------------------|-----------|
-| implicit and unexamined decisions | Medium | Stage gates, approval workflows, and formal reviews surface some decisions, but many technical and architectural decisions remain implicit within projects and teams. |
-| loss of original intent and rationale over time | Low–Medium | Business cases, charters, and benefit statements preserve intent at approval time, but rationale is often project-scoped and not maintained as durable system-level knowledge across successive initiatives. |
-| fragmentation of understanding of the software system | Low–Medium | Portfolio artifacts provide initiative-level visibility, but they rarely establish shared, evolving representations of the software system that persist across projects and organizational boundaries. |
-| divergence between intent and realized structure | Low | Governance focuses on intended outcomes and delivery milestones; structural drift and architecture conformance are typically treated as local engineering concerns rather than portfolio-governed knowledge. |
-| difficulty assessing and governing change | Medium–High | These approaches are designed to authorize, prioritize, fund, and control initiatives, providing strong mechanisms for initiating and managing change, but primarily at the level of projects rather than continuous system evolution. |
-| limited ability to revisit and re-evaluate past decisions | Medium | Audit trails, approvals, and reporting support revisiting investment decisions, but do not systematically support re-evaluating technical and architectural decisions as the software system and its context evolve. |
+| Implicit and unexamined decisions | Medium | Stage gates, approval workflows, and formal reviews surface some decisions, but many technical and architectural decisions remain implicit within projects and teams. |
+| Loss of original intent and rationale over time | Low–Medium | Business cases, charters, and benefit statements preserve intent at approval time, but rationale is often project-scoped and not maintained as durable system-level knowledge across successive initiatives. |
+| Fragmentation of understanding of the software system | Low–Medium | Portfolio artifacts provide initiative-level visibility, but they rarely establish shared, evolving representations of the software system that persist across projects and organizational boundaries. |
+| Divergence between intent and realized structure | Low | Governance focuses on intended outcomes and delivery milestones; structural drift and architecture conformance are typically treated as local engineering concerns rather than portfolio-governed knowledge. |
+| Difficulty assessing and governing change | Medium–High | These approaches are designed to authorize, prioritize, fund, and control initiatives, providing strong mechanisms for initiating and managing change, but primarily at the level of projects rather than continuous system evolution. |
+| Limited ability to revisit and re-evaluate past decisions | Medium | Audit trails, approvals, and reporting support revisiting investment decisions, but do not systematically support re-evaluating technical and architectural decisions as the software system and its context evolve. |
 
 
 ## Next family in the analysis
