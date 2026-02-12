@@ -4,7 +4,7 @@ Project and portfolio management approaches constitute a family of practices con
 
 Representative examples of this family include the PMBOK-based standards of the [Project Management Institute (PMI)](https://www.pmi.org/pmbok-guide-standards), [PRINCE2](https://www.axelos.com/certifications/prince2), portfolio management practices embedded in [SAFe](https://scaledagileframework.com/portfolio/), and governance-oriented frameworks such as [COBIT](https://www.isaca.org/resources/cobit).  These approaches are grounded in established project and governance standards (see [PMI, 2021](../../resources/bibliography.md#pmi-2021); [AXELOS, 2017](../../resources/bibliography.md#axelos-2017); [ISACA, 2019](../../resources/bibliography.md#isaca-2019)).  While differing in scope and emphasis, they share a common focus on structuring and governing initiatives rather than on regulating day-to-day development practices.
 
-In relation to the upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)**, project and portfolio management approaches are especially relevant because they influence how change is initiated, justified, funded, and evaluated over time.
+In relation to the upstream problem space described in the **[Problem space](../problem-space.md)** and articulated through the **[Recurring challenges](../recurring-challenges.md)**, project and portfolio management approaches are especially relevant because they influence how change is initiated, justified, funded, and evaluated over time.
 
 
 ## Characteristic orientation
