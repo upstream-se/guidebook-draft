@@ -7,9 +7,9 @@ The question now is not whether existing approaches are valuable.  They clearly 
 
 ## From recurring challenges to epistemic governance
 
-The recurring challenges are not homogeneous.  Some are primarily execution-level problems.  Others are structural.  A subset, however, are directly tied to the status of system-level intent as a knowledge object.
+The recurring challenges differ in kind.  Some arise from difficulties in coordinating and executing work.  Others arise from managing structural complexity.  A third category emerges when system-level intent — purpose, assumptions, and guiding rationale — is not treated as something that must be explicitly preserved over time.
 
-In particular, three challenges converge:
+The following challenges belong to this third category:
 
 - loss of original intent and rationale over time,  
 - limited ability to revisit and re-evaluate past decisions, and  
@@ -17,18 +17,21 @@ In particular, three challenges converge:
 
 These challenges share a common feature: **they arise when system-level purpose, assumptions, and rationale are not maintained as durable, inspectable, and governable knowledge.**
 
-Execution discipline does not solve them.  
-Project governance does not solve them.  
-Architectural documentation alone does not solve them.
+Methodologies and process frameworks strengthen coordination and responsiveness in ongoing work, but they do not by themselves institutionalize durable stewardship of system-level intent.  
 
-They require sustained epistemic stewardship of intent itself.
+Project and portfolio management approaches articulate objectives, investment criteria, and strategic alignment, yet these mechanisms are typically bounded by initiative lifecycles rather than sustained across the long-term evolution of the software system.  
 
-If purpose and rationale are only articulated at project initiation, they decay.  
-If assumptions are not explicitly preserved, they become implicit.  
-If structural evolution is not continuously related back to declared intent, divergence accumulates gradually and often invisibly.
+Architecture-centric approaches make structural knowledge explicit and inspectable, but without sustained epistemic processes focused on system-level purpose, assumptions, and non-goals, rationale and intent tend to erode over time.
 
-The governance–knowledge matrix introduced in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** makes this relationship precise.  
-The configuration capable of addressing these challenges is **Epistemic × Intentional** governance:
+Taken together, these families govern activity, investment, and structure effectively within their respective scopes.  What remains comparatively under-institutionalized is the long-term epistemic stewardship of system-level intent across initiatives, teams, and organizational transitions.
+
+When intent is not treated as an explicit knowledge asset, predictable patterns emerge:
+
+- If purpose and rationale are only articulated at project initiation, they decay.  
+- If assumptions are not explicitly preserved, they become implicit.  
+- If structural evolution is not continuously related back to declared intent, divergence accumulates gradually and often invisibly.
+
+The governance–knowledge matrix introduced in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** makes this relationship precise.  The configuration capable of directly addressing these challenges is **Epistemic × Intentional** governance:
 
 - **Epistemic** — because intent must be treated as inspectable, evolvable knowledge.
 - **Intentional** — because the object governed is purpose, assumptions, commitments, and non-goals.
@@ -38,45 +41,45 @@ The coverage analysis shows that this configuration is not strongly institutiona
 
 ## Durability as the decisive dimension
 
-Organizations frequently combine methodologies, portfolio frameworks, architecture practices, governance standards, and tool-based documentation systems. This combination improves coordination, alignment, and compliance.
+Organizations frequently combine methodologies, portfolio frameworks, architecture practices, governance standards, and tool-based documentation systems.  This combination improves coordination, alignment, structural visibility, and compliance.
 
-However, combining families does not automatically produce durable epistemic governance of system-level intent.
+Yet combination alone does not guarantee durability.
 
-Software evolution research consistently shows that systems outlive projects and teams ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](../resources/bibliography.md#bennett-rajlich-2000)). Over extended time horizons:
+Software systems outlive projects, roadmaps, and teams.  Software evolution research consistently shows that systems persist and change across extended time horizons ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](../resources/bibliography.md#bennett-rajlich-2000)).  Over time:
 
 - rationale fragments,
-- decision context is lost,
-- alignment between declared purpose and realized structure erodes.
+- decision context fades,
+- assumptions become implicit,
+- alignment between declared purpose and realized structure gradually erodes.
 
-Empirical studies of architectural knowledge management further show that documentation and rationale records decay without sustained governance processes ([van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006); [Kruchten et al., 2015](../resources/bibliography.md#kruchten-etal-2015)).
+Empirical studies of architectural knowledge management further demonstrate that documentation and rationale artifacts decay unless supported by sustained governance processes ([van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006); [Kruchten et al., 2015](../resources/bibliography.md#kruchten-etal-2015)).  Making structure explicit is not equivalent to maintaining intent as living knowledge.
 
-This erosion is not primarily a failure of execution.  
-It is not primarily a failure of project management.  
-It is not primarily a failure of structural modeling.
+The observed erosion does not primarily stem from weaknesses in execution, project coordination, or architectural modeling taken individually.  Each of these dimensions may be well managed within its scope.
 
-It is a failure of durable epistemic governance of intent.
+The deeper issue concerns durability.  When system-level intent is not institutionalized as inspectable and revisitable knowledge, it gradually fragments across initiatives, teams, and structural transformations.  What is lacking is not activity, planning, or documentation, but sustained epistemic governance of intent itself.
 
 
 ## Structural asymmetry revealed by the coverage analysis
 
-The aggregated governance–knowledge matrix in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** revealed a patterned distribution of governance effort:
+The aggregated governance–knowledge matrix in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** reveals not random variation, but a patterned distribution of governance effort:
 
 - Execution is strongly governed.
 - Investment intent is formally governed at managerial levels.
-- Structural knowledge is explicitly articulated in architecture-centric approaches.
-- Durable epistemic governance of system-level intent is comparatively sparse.
+- Structural knowledge is explicitly articulated, particularly in architecture-centric approaches.
+- Durable epistemic governance of system-level intent remains comparatively sparse.
 
-This asymmetry is structural rather than incidental. It reflects how dominant approaches conceptualize what is governable and how governance should be exercised.
+This asymmetry is structural rather than incidental.  It reflects how dominant approaches define what is legitimately governable and through which modes governance should be exercised.
 
-Where intent is governed, it is typically framed managerially—through plans, objectives, funding criteria, and compliance constraints—rather than epistemically, as durable and revisitable system-level knowledge.
+When intent is governed, it is typically framed managerially—through plans, objectives, funding criteria, and compliance constraints.  These mechanisms make intent visible at moments of authorization and oversight.  They do not, however, systematically institutionalize intent as durable, inspectable, and revisitable knowledge across the long-term evolution of the software system.
 
-The recurring challenges most directly tied to long-term system evolution align precisely with this sparsely activated configuration.
+The recurring challenges most closely associated with long-lived system evolution—loss of original intent and rationale, limited revisitability of past decisions, and gradual divergence between intent and realized structure—align precisely with this sparsely activated configuration.
+
+The asymmetry therefore concerns not whether governance exists, but where it concentrates and what it leaves comparatively under-institutionalized.
 
 
 ## The upstream shift
 
-Upstream Software Engineering does not replace existing families of approaches.  
-It redefines what must be treated as governable.
+Upstream Software Engineering does not replace existing families of approaches.  It rearticulates what must be treated as governable within long-lived software systems.
 
 Specifically, it foregrounds:
 
@@ -85,20 +88,19 @@ Specifically, it foregrounds:
 - institutionalized mechanisms for revisiting assumptions and commitments over time,
 - preservation of rationale across organizational and provider transitions.
 
-Its locus of concern is neither execution discipline nor project authorization nor architectural description in isolation.
+Its locus of concern is not execution discipline, project authorization, or architectural description in isolation.  Its locus is the sustained epistemic stewardship of system-level purpose across evolution.
 
-Its locus is the epistemic stewardship of purpose across evolution.
+In light of the structural asymmetry identified in the coverage analysis, this shift is not additive but directional.  
 
-Upstream Software Engineering therefore addresses a structural asymmetry revealed by the coverage analysis:
+Execution is strongly governed.  Investment intent is formally articulated.  Structure is explicitly described.  What remains comparatively under-institutionalized is durable epistemic governance of system-level intent.
 
-While execution, investment intent, and structural articulation are strongly governed,  
-durable epistemic governance of system-level intent is not systematically institutionalized.
-
-Making this configuration explicit is the conceptual shift that motivates an upstream discipline.
+Making this configuration explicit — and treating it as a first-class concern — constitutes the conceptual shift that motivates an upstream discipline.
 
 
-## Link to scope clarification
+## Scope clarification
 
-The argument presented here does not imply that upstream concerns are absent from existing approaches. Elements of epistemic and intentional governance appear in various families. However, they are not consistently foregrounded as a primary locus of governance.
+The argument developed in this page does not claim that upstream concerns are entirely absent from existing approaches.  pElements of epistemic and intentional governance appear across several families.
 
-The next page, **[Scope and non-goals](./scope-and-non-goals.md)**, clarifies what this upstream perspective does and does not attempt to justify.
+The structural observation is narrower: these elements are not systematically institutionalized as a primary locus of governance across long-lived system evolution.
+
+The page **[Scope and non-goals](./scope-and-non-goals.md)** specifies the boundaries of this upstream perspective — what it seeks to establish, and what it does not attempt to replace or subsume.
