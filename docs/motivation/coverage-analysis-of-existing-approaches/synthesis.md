@@ -29,21 +29,19 @@ The matrix distinguishes nine conceptually different governance configurations. 
 
 ### Observed structural concentrations
 
-Several concentrations become immediately visible:
+The aggregated matrix reveals not merely variation, but a patterned distribution of governance effort across configurations.
 
-- **Execution governance is strongly activated.**  
-  Operational × Execution and Managerial × Execution cells show high or medium activation. Methodologies and scaled frameworks dominate this space.
+First, governance of **execution** is strongly institutionalized.  Both operational and managerial modes are heavily activated in the Execution column.  Methodologies concentrate governance in Operational × Execution, while scaled and portfolio frameworks reinforce Managerial × Execution.  As a result, how work is performed and coordinated is extensively governed across families.
 
-- **Managerial governance of declared intent is strongly activated.**  
-  Project, portfolio, and formal governance frameworks concentrate in Managerial × Intentional.
+Second, **managerially articulated intent** is also strongly governed.  Project, portfolio, and enterprise governance frameworks heavily activate the Managerial × Intentional configuration.  Organizational objectives, business cases, funding criteria, and compliance constraints are made explicit and institutionally controlled.
 
-- **Structural knowledge receives focused but uneven epistemic attention.**  
-  Architecture-centric approaches strongly activate Epistemic × Structural, with reinforcement at Managerial × Structural.
+Third, **structural governance** receives partial but uneven emphasis.  Architecture-centric approaches strongly activate Epistemic × Structural, while documentation-heavy and governance frameworks reinforce Managerial × Structural.  Structure is therefore governable and often explicitly represented, though typically within bounded scopes.
 
-- **Epistemic × Intentional governance remains weakly activated.**  
-  No analyzed family systematically centers durable, inspectable articulation of system-level intent as an epistemically governed knowledge asset.
+In contrast, **Epistemic × Intentional governance remains comparatively sparse**.  No analyzed family strongly activates this configuration.  Where intent is articulated, it is generally framed managerially (as plans, objectives, and compliance constraints) rather than epistemically (as durable, inspectable knowledge about system-level purpose, assumptions, non-goals, and long-term commitments).
 
-This pattern does not imply deficiency in any single family. It reveals a structural asymmetry in how governance effort is distributed across knowledge objects and governance modes.
+The most striking structural feature is therefore not a single weak cell, but an *empty configuration with systemic implications*: the absence of strong activation in the Epistemic × Intentional intersection.  This configuration would correspond to sustained, explicit stewardship of system-level intent as a knowledge asset—governed, revisitable, and evolvable across initiatives and organizational transitions.
+
+The asymmetry is structural rather than accidental.  Governance of activity, coordination, investment, and structure is well supported.  Governance of durable system intent as epistemic knowledge is not systematically foregrounded across the analyzed families.
 
 
 ## Cross-family coverage of recurring challenges
