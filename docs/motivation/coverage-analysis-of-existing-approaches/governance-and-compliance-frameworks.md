@@ -77,6 +77,8 @@ The following table summarizes how governance and compliance frameworks typicall
 | limited ability to revisit and re-evaluate past decisions | Low–Medium | Audit trails exist, but systematic re-evaluation of architectural and intentional knowledge is not central to the framework. |
 
 
-## Transition
+## Next family in the analysis
 
-Governance and compliance frameworks demonstrate how intent can be governed managerially at an institutional level.  The next page examines tool-centric and documentation-heavy approaches, which rely primarily on artifacts and repositories rather than on formal governance structures.
+Governance and compliance frameworks demonstrate how declared intent can be governed managerially at an institutional level, emphasizing formal oversight, policy articulation, and accountability structures.
+
+The governance–knowledge lens is applied next to **[Tool-centric and documentation-heavy approaches](./tool-centric-and-documentation-heavy-approaches.md)**, which rely primarily on artifacts, repositories, and documentation systems as instruments of governance.
