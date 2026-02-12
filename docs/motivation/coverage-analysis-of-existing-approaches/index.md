@@ -1,4 +1,4 @@
-# Coverage Analysis of Existing Approaches
+# Coverage analysis of existing approaches
 
 This part presents a coverage analysis of established approaches to software development, management, and governance with respect to the upstream challenges identified in the **[Problem Space](../problem-space.md)** and articulated as **[Recurring Challenges](../recurring-challenges.md)**.
 
@@ -47,31 +47,31 @@ This lens is introduced and explained in detail in **[A Comparative Lens: Govern
 
 This part of the guidebook is composed of the following pages:
 
-- **[A Comparative Lens: Governance and Knowledge](./governance-knowledge-matrix.md)**  
+- **[A comparative lens: Governance and knowledge](./governance-knowledge-matrix.md)**  
   Defines the analytical instrument used throughout this part, including governance modes and primary knowledge objects governed.
 
-- **[Methodologies and Process Frameworks](./methodologies-and-process-frameworks.md)**  
+- **[Methodologies and process frameworks](./methodologies-and-process-frameworks.md)**  
   Examines development methodologies and process-oriented approaches through the governance–knowledge lens.
 
-- **[Project and Portfolio Management Approaches](./project-and-portfolio-management-approaches.md)**  
+- **[Project and portfolio management approaches](./project-and-portfolio-management-approaches.md)**  
   Analyzes initiative-centric and portfolio-level approaches using the same analytical frame.
 
-- **[Architecture-Centric Approaches](./architecture-centric-approaches.md)**  
+- **[Architecture-centric approaches](./architecture-centric-approaches.md)**  
   Discusses architectural practices and their characteristic governance configurations.
 
 - **[Governance and compliance frameworks](./governance-and-compliance-frameworks.md)**  
   Reviews formal governance and compliance-oriented approaches in terms of governance mode and knowledge object.
 
-- **[Tool-Centric and Documentation-Heavy Approaches](./tool-centric-and-documentation-heavy-approaches.md)**  
+- **[Tool-centric and documentation-heavy approaches](./tool-centric-and-documentation-heavy-approaches.md)**  
   Examines approaches that rely primarily on tools or documentation within the same conceptual frame.
 
-- **[Synthesis: Aggregate Coverage and Observed Patterns](./synthesis.md)**  
+- **[Synthesis: Aggregate coverage and observed patterns](./synthesis.md)**  
   Synthesizes the preceding analyses to examine patterns across the governance–knowledge matrix.
 
 
 
 ## How to read this part
 
-Readers are encouraged to begin with **[A Comparative Lens: Governance and Knowledge](./governance-knowledge-matrix.md)**, which establishes the analytical frame used throughout this part.
+Readers are encouraged to begin with **[A comparative lens: Governance and knowledge](./governance-knowledge-matrix.md)**, which establishes the analytical frame used throughout this part.
 
 The subsequent pages apply this lens to different families of approaches.  After reading the individual analyses, the aggregate synthesis can be consulted to understand broader coverage patterns across governance modes and knowledge objects.
