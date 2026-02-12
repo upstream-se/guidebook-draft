@@ -1,8 +1,8 @@
 # Synthesis: Coverage across families of approaches
 
-The previous pages analyzed major families of approaches using a shared analytical lens: the governance–knowledge matrix. Each family was examined in terms of its dominant governance mode and the primary knowledge object it treats as governable.
+The governance–knowledge matrix, applied to major families of approaches, reveals a consistent structural pattern in how software systems are governed. Across methodologies, project and portfolio frameworks, architecture-centric practices, governance standards, and tool-centric approaches, governance effort concentrates in specific configurations while remaining comparatively sparse in others.
 
-This page consolidates those observations. Its purpose remains analytical rather than evaluative. It does not rank approaches or suggest superiority. Instead, it identifies structural patterns of emphasis across families and relates them to the recurring challenges identified in the upstream problem space.
+This page synthesizes those patterns. Its purpose is not evaluative; it does not rank or dismiss approaches. Instead, it identifies structural asymmetries in governance distribution and relates them to the recurring challenges articulated in the upstream problem space.
 
 Two complementary perspectives are used:
 
