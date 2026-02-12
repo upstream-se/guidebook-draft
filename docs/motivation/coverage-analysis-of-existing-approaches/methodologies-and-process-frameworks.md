@@ -75,16 +75,16 @@ This observation does not indicate a deficiency within their intended scope. Rat
 
 ## Coverage of recurring challenges
 
-The following table summarizes how methodologies and process frameworks typically address the recurring challenges identified in the upstream problem space. The assessment reflects their dominant orientation and design intent.
+The following table summarizes how methodologies and process frameworks typically address the recurring challenges identified in the upstream problem space.  The assessment reflects their dominant orientation and design intent.
 
-| Recurring Challenge | Typical Coverage | Rationale |
+| Recurring challenge | Typical coverage | Rationale |
 |---------------------|------------------|-----------|
-| implicit and unexamined decisions | Low–Medium | Iteration planning, reviews, and retrospectives make short-term decisions visible, but many architectural and long-term decisions remain implicit within team practice. |
-| loss of original intent and rationale over time | Low | Product visions and backlog artifacts guide near-term work, yet intent and rationale are rarely maintained as durable, inspectable knowledge across iterations and organizational changes. |
-| fragmentation of understanding of the software system | Medium | Shared backlogs, ceremonies, and collaborative practices improve local alignment, but system-wide understanding across teams and time is not systematically governed. |
-| divergence between intent and realized structure | Low–Medium | Technical practices such as refactoring and continuous integration mitigate local drift, but there is limited explicit governance of long-term structural alignment with intent. |
-| difficulty assessing and governing change | Medium–High | Iterative cycles, feedback loops, and adaptive planning provide strong mechanisms for enacting and adjusting change at the execution level. |
-| limited ability to revisit and re-evaluate past decisions | Low | Retrospectives support short-term reflection, but architectural and strategic decisions are seldom preserved and re-evaluated as durable knowledge assets over extended periods. |
+| Implicit and unexamined decisions | Low–Medium | Iteration planning, reviews, and retrospectives make short-term decisions visible, but many architectural and long-term decisions remain implicit within team practice. |
+| Loss of original intent and rationale over time | Low | Product visions and backlog artifacts guide near-term work, yet intent and rationale are rarely maintained as durable, inspectable knowledge across iterations and organizational changes. |
+| Fragmentation of understanding of the software system | Medium | Shared backlogs, ceremonies, and collaborative practices improve local alignment, but system-wide understanding across teams and time is not systematically governed. |
+| Divergence between intent and realized structure | Low–Medium | Technical practices such as refactoring and continuous integration mitigate local drift, but there is limited explicit governance of long-term structural alignment with intent. |
+| Difficulty assessing and governing change | Medium–High | Iterative cycles, feedback loops, and adaptive planning provide strong mechanisms for enacting and adjusting change at the execution level. |
+| Limited ability to revisit and re-evaluate past decisions | Low | Retrospectives support short-term reflection, but architectural and strategic decisions are seldom preserved and re-evaluated as durable knowledge assets over extended periods. |
 
 
 ## Next family in the analysis
