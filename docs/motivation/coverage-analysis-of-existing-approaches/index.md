@@ -1,6 +1,6 @@
 # Coverage analysis of existing approaches
 
-This part presents a coverage analysis of established approaches to software development, management, and governance with respect to the upstream challenges identified in the **[Problem Space](../problem-space.md)** and articulated as **[Recurring Challenges](../recurring-challenges.md)**.
+This part presents a coverage analysis of established approaches to software development, management, and governance with respect to the upstream challenges identified in the **[Problem space](../problem-space.md)** and articulated as **[Recurring challenges](../recurring-challenges.md)**.
 
 The purpose of this analysis is to examine how existing approaches address different portions of the upstream problem space.  Each approach is considered in terms of how governance is enacted and which aspects of the software system are primarily treated as governable.  Taken together, these analyses make it possible to observe patterns of coverage across approaches in a systematic and comparable manner.
 
@@ -30,7 +30,7 @@ This overlap is intentional.  It reflects the multi-dimensional nature of govern
 
 
 
-## A comparative lens: governance and knowledge
+## A comparative lens: Governance and knowledge
 
 A central element of this analysis is a comparative lens that differentiates:
 
