@@ -1,117 +1,104 @@
 # Why an upstream perspective
 
-The **[Problem space](./problem-space.md)** and **[Recurring challenges](./recurring-challenges.md)** pages described the environment in which long-lived software systems evolve and the patterns of difficulty that repeatedly arise in practice.  
+The **[Problem space](./problem-space.md)** describes the environment in which software systems exist and evolve.  The **[Recurring challenges](./recurring-challenges.md)** identify persistent patterns of difficulty that arise within that environment.  The **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** examined how dominant families of practices distribute governance effort across knowledge objects and governance modes.
 
-The **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** then examined how major families of approaches distribute governance effort across knowledge objects and governance modes.
-
-The question that follows from that analysis is not whether governance exists, nor whether existing approaches are valuable. *The question is whether the observed distribution of governance effort across knowledge objects and governance modes is sufficient to address the recurring challenges of long-lived software systems.*
-
-This page articulates why that configuration calls for an upstream perspective.
+The question now is not whether existing approaches are valuable.  They clearly are.  *The question is whether the distribution of governance configurations revealed by the coverage analysis is sufficient to address the recurring challenges of long-lived software systems.*
 
 
-## From structural asymmetry to conceptual necessity
+## From recurring challenges to epistemic governance
 
-The aggregated governance–knowledge matrix revealed a patterned distribution:
+The recurring challenges are not homogeneous.  Some are primarily execution-level problems.  Others are structural.  A subset, however, are directly tied to the status of system-level intent as a knowledge object.
 
-- Strong governance of execution.
-- Strong managerial governance of declared intent.
-- Partial governance of structural knowledge.
-- Weak activation of epistemic × intentional governance.
+In particular, three challenges converge:
 
-This distribution reflects how dominant approaches conceptualize what is governable:
+- **loss of original intent and rationale over time**,  
+- **limited ability to revisit and re-evaluate past decisions**, and  
+- **divergence between intent and realized structure**.
 
-- Execution is governed through discipline and coordination.
-- Investments and objectives are governed through managerial oversight.
-- Structure is governed through architectural representation and compliance.
-- Intent, however, is typically governed only in managerial planning terms, not as durable epistemic knowledge.
+These challenges share a common feature: **they arise when system-level purpose, assumptions, and rationale are not maintained as durable, inspectable, and governable knowledge.**
 
-The recurring challenges identified in **[Recurring challenges](./recurring-challenges.md)** — particularly:
+Execution discipline does not solve them.  
+Project governance does not solve them.  
+Architectural documentation alone does not solve them.
 
-- loss of original intent and rationale over time,
-- divergence between intent and realized structure,
-- limited ability to revisit and re-evaluate past decisions —
+They require sustained epistemic stewardship of intent itself.
 
-are structurally linked to this distribution.
+If purpose and rationale are only articulated at project initiation, they decay.  
+If assumptions are not explicitly preserved, they become implicit.  
+If structural evolution is not continuously related back to declared intent, divergence accumulates gradually and often invisibly.
 
-If intent is articulated primarily as managerial planning artifact rather than as inspectable and evolvable knowledge, then long-term coherence depends on continuity of individuals, tacit memory, or informal practice. As systems evolve across projects, teams, and organizational transitions, such continuity cannot be assumed.
+The governance–knowledge matrix introduced in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** makes this relationship precise.  
+The configuration capable of addressing these challenges is **Epistemic × Intentional** governance:
 
-The structural asymmetry therefore produces predictable fragilities.
+- **Epistemic** — because intent must be treated as inspectable, evolvable knowledge.
+- **Intentional** — because the object governed is purpose, assumptions, commitments, and non-goals.
 
-
-## The limits of initiative-bound governance
-
-Project and portfolio frameworks govern initiatives.  
-Methodologies govern execution.  
-Architecture approaches govern structure.  
-Compliance frameworks govern institutional control.  
-Tool-centric approaches govern artifacts.
-
-Yet software systems persist beyond individual initiatives and often beyond stable organizational configurations.
-
-Research on software evolution emphasizes that systems continue to change long after their original development context has shifted ([Lehman & Ramil, 2003](./resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](./resources/bibliography.md#bennett-rajlich-2000)). Governance structures tied primarily to projects, iterations, or compliance cycles do not fully account for this persistent evolution.
-
-When governance is initiative-bound, long-lived system intent becomes vulnerable to:
-
-- reinterpretation without traceability,
-- structural drift without explicit comparison to original commitments,
-- incremental erosion of rationale.
-
-These patterns correspond directly to the recurring challenges previously identified.
+The coverage analysis shows that this configuration is not strongly institutionalized across existing families of approaches.
 
 
-## Toward epistemic governance of system intent
+## Durability as the decisive dimension
 
-The synthesis in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** suggests that what is comparatively underrepresented is not additional process, additional documentation, or additional managerial control. Rather, it is sustained epistemic stewardship of system-level intent.
+Organizations frequently combine methodologies, portfolio frameworks, architecture practices, governance standards, and tool-based documentation systems. This combination improves coordination, alignment, and compliance.
 
-An upstream perspective foregrounds:
+However, combining families does not automatically produce durable epistemic governance of system-level intent.
 
-- Explicit articulation of system purpose, assumptions, and non-goals.
-- Inspectable and revisitable representations of intent.
-- Systematic alignment between articulated intent and evolving structure.
-- Governance practices that persist across projects, teams, and organizational transitions.
+Software evolution research consistently shows that systems outlive projects and teams ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003); [Bennett & Rajlich, 2000](../resources/bibliography.md#bennett-rajlich-2000)). Over extended time horizons:
 
-This is not a rejection of existing families. It is a repositioning.
+- rationale fragments,
+- decision context is lost,
+- alignment between declared purpose and realized structure erodes.
 
-Execution governance remains necessary.  
-Managerial oversight remains necessary.  
-Architectural reasoning remains necessary.  
-Compliance remains necessary.
+Empirical studies of architectural knowledge management further show that documentation and rationale records decay without sustained governance processes ([van der Ven et al., 2006](../resources/bibliography.md#van-der-ven-etal-2006); [Kruchten et al., 2015](../resources/bibliography.md#kruchten-etal-2015)).
 
-But without durable epistemic governance of intent, these mechanisms operate without a stable conceptual anchor over long time horizons.
+This erosion is not primarily a failure of execution.  
+It is not primarily a failure of project management.  
+It is not primarily a failure of structural modeling.
 
-
-## What “upstream” means in this context
-
-“Upstream” does not mean earlier in time, nor does it refer to front-loaded specification.
-
-It refers to the governance of foundational knowledge that shapes and constrains downstream activity:
-
-- the declared and implicit commitments that give a system its identity,
-- the rationale that justifies architectural and strategic decisions,
-- the assumptions that frame acceptable change.
-
-Upstream governance concerns the preservation, articulation, and evolution of these elements as inspectable knowledge assets.
-
-In this sense, upstream is not an additional phase.  
-It is a distinct locus of governance.
+It is a failure of durable epistemic governance of intent.
 
 
-## Logical consequence of the coverage analysis
+## Structural asymmetry revealed by the coverage analysis
 
-The need for an upstream perspective is not derived from dissatisfaction with particular methodologies or standards. It follows logically from the structural asymmetry documented in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)**.
+The aggregated governance–knowledge matrix in **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** revealed a patterned distribution of governance effort:
 
-If:
+- Execution is strongly governed.
+- Investment intent is formally governed at managerial levels.
+- Structural knowledge is explicitly articulated in architecture-centric approaches.
+- Durable epistemic governance of system-level intent is comparatively sparse.
 
-- execution is strongly governed,
-- investments are strongly governed,
-- structure is partially governed,
-- but durable epistemic articulation of intent is weak,
+This asymmetry is structural rather than incidental. It reflects how dominant approaches conceptualize what is governable and how governance should be exercised.
 
-then a governance gap exists at the level of system-level intentional knowledge.
+Where intent is governed, it is typically framed managerially—through plans, objectives, funding criteria, and compliance constraints—rather than epistemically, as durable and revisitable system-level knowledge.
 
-The upstream perspective names that gap explicitly and treats it as a primary object of discipline.
+The recurring challenges most directly tied to long-term system evolution align precisely with this sparsely activated configuration.
 
 
-## Transition
+## The upstream shift
 
-Having articulated why an upstream perspective is conceptually warranted, the page **[Scope and non-goals](./scope-and-non-goals.md)** clarifies what this motivation does — and does not — claim about existing approaches and about the proposed discipline.
+Upstream Software Engineering does not replace existing families of approaches.  
+It redefines what must be treated as governable.
+
+Specifically, it foregrounds:
+
+- explicit articulation of system-level intent as a durable knowledge object,
+- traceable linkage between intent and structural decisions,
+- institutionalized mechanisms for revisiting assumptions and commitments over time,
+- preservation of rationale across organizational and provider transitions.
+
+Its locus of concern is neither execution discipline nor project authorization nor architectural description in isolation.
+
+Its locus is the epistemic stewardship of purpose across evolution.
+
+Upstream Software Engineering therefore addresses a structural asymmetry revealed by the coverage analysis:
+
+While execution, investment intent, and structural articulation are strongly governed,  
+durable epistemic governance of system-level intent is not systematically institutionalized.
+
+Making this configuration explicit is the conceptual shift that motivates an upstream discipline.
+
+
+## Link to scope clarification
+
+The argument presented here does not imply that upstream concerns are absent from existing approaches. Elements of epistemic and intentional governance appear in various families. However, they are not consistently foregrounded as a primary locus of governance.
+
+The next page, **[Scope and non-goals](./scope-and-non-goals.md)**, clarifies what this upstream perspective does and does not attempt to justify.
