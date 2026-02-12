@@ -73,21 +73,35 @@ The following table summarizes typical coverage levels based on dominant design 
 
 ### Interpreting the table
 
-Three structural regularities emerge:
+The table reveals not isolated strengths and weaknesses, but a coherent structural pattern.
 
-1. **Execution-level governance is comparatively strong.**  
-   Most families provide mechanisms for coordinating, controlling, and adapting ongoing work.
+**1. Change initiation and coordination are well supported.**  
+The challenge *difficulty assessing and governing change* receives consistently strong coverage. Methodologies support adaptive change at the execution level; project and portfolio approaches institutionalize authorization and prioritization of initiatives; governance frameworks reinforce oversight and compliance. Contemporary approaches are structurally optimized to initiate, fund, control, and monitor change.
 
-2. **Managerial articulation of declared intent is comparatively strong.**  
-   Objectives, business cases, and compliance criteria are often formally governed.
+**2. Visibility of decisions is partially supported — but unevenly.**  
+The challenge *implicit and unexamined decisions* is addressed most strongly by formal governance frameworks and moderately by architecture- and tool-centric approaches. However, execution-focused methodologies provide only partial coverage. Decision visibility improves under compliance pressure, but remains less systematic in everyday practice.
 
-3. **Durable revisitability of intent and rationale remains comparatively weak.**  
-   While decisions are sometimes documented, few families institutionalize systematic, epistemic re-evaluation of system-level assumptions, non-goals, and long-term purpose.
+**3. Structural understanding receives concentrated but specialized attention.**  
+The challenge *fragmentation of understanding of the software system* is most strongly addressed by architecture-centric approaches, with tool-centric repositories providing secondary support. Other families contribute indirectly, but do not treat system-wide structural understanding as a primary governance object.
 
-Notably, the challenges most directly tied to epistemic × intentional governance —  
-*loss of original intent*, *limited revisitability*, and *divergence between intent and realized structure* — remain only partially addressed across families.
+**4. Durable intent and revisitability remain comparatively weak across families.**  
+The most persistent asymmetry concerns:
 
-These observations align with the structural distribution visible in Figure 1.
+- *loss of original intent and rationale over time*, and  
+- *limited ability to revisit and re-evaluate past decisions*.
+
+No family exhibits consistently high coverage of these challenges. Even where intent is articulated (e.g., in business cases or vision statements), it is typically project-scoped or managerially framed, and rarely institutionalized as durable, inspectable, and systematically revisitable system-level knowledge.
+
+**5. Alignment between intent and structure is only partially governed.**  
+The challenge *divergence between intent and realized structure* receives medium-to-high coverage only within architecture-centric approaches. In other families, alignment mechanisms are indirect or localized. As a result, long-term coherence between declared purpose and evolving structure depends heavily on contextual discipline rather than on explicit epistemic governance mechanisms.
+
+---
+
+Taken together, these patterns reinforce the structural asymmetry identified in the aggregated matrix. Contemporary families of approaches are strong in governing execution, investment, and compliance. They are moderately effective in documenting structure and surfacing decisions.  
+
+They are comparatively less systematic in stewarding durable system-level intent and in institutionalizing mechanisms for sustained, epistemic re-evaluation over time.
+
+This asymmetry directly corresponds to several upstream challenges, particularly those involving long-lived intent, rationale preservation, and revisitability across successive initiatives and organizational transitions.
 
 
 ## Structural asymmetry in governance
