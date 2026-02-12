@@ -39,7 +39,7 @@ A central element of this analysis is a comparative lens that differentiates:
 
 These two dimensions form a 3×3 matrix that serves as a typology of governance configurations.
 
-This lens is introduced and explained in detail in **[A Comparative Lens: Governance and Knowledge](./governance-knowledge-matrix.md)**.  It provides the conceptual frame within which subsequent analyses are conducted.
+This lens is introduced and explained in detail in **[A Comparative Lens: Governance and knowledge](./governance-knowledge-matrix.md)**.  It provides the conceptual frame within which subsequent analyses are conducted.
 
 
 
