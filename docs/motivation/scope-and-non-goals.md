@@ -5,7 +5,7 @@ The argument developed in:
 - **[Problem space](./problem-space.md)**  
 - **[Recurring challenges](./recurring-challenges.md)**  
 - **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)**  
-- **[Why an upstream perspective](./why-upstream.md)**  
+- **[Why an upstream perspective](./why-an-upstream-perspective.md)**  
 
 motivates the need for an upstream perspective centered on durable epistemic governance of system-level intent.
 
