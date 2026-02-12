@@ -4,7 +4,7 @@ Tool-centric and documentation-heavy approaches constitute a family of practices
 
 Representative examples include Application Lifecycle Management (ALM) platforms such as [Jira](https://www.atlassian.com/software/jira), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), and [IBM Engineering Lifecycle Management](https://www.ibm.com/products/engineering-lifecycle-management); structured requirements engineering approaches; documentation-driven governance models; and traceability frameworks used in regulated environments.  Architectural documentation practices aligned with [ISO/IEC/IEEE 42010](https://www.iso.org/standard/50508.html) (see also [ISO/IEC/IEEE 42010, 2011](../../resources/bibliography.md#iso-42010-2011)) and rationale management techniques (see [van der Ven et al., 2006](../../resources/bibliography.md#van-der-ven-etal-2006)) also fall within this family when implemented primarily as documentation systems rather than as epistemic governance frameworks.
 
-In relation to the upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)**, these approaches are relevant because they explicitly attempt to reduce knowledge loss, improve traceability, and preserve decision artifacts over time.
+In relation to the upstream problem space described in the **[Problem space](../problem-space.md)** and articulated through the **[Recurring challenges](../recurring-challenges.md)**, these approaches are relevant because they explicitly attempt to reduce knowledge loss, improve traceability, and preserve decision artifacts over time.
 
 
 ## Characteristic orientation
@@ -68,18 +68,18 @@ Accordingly, tool-centric approaches can mitigate symptoms of knowledge loss, bu
 
 ## Coverage of recurring challenges
 
-| Recurring Challenge | Typical Coverage | Rationale |
+| Recurring challenge | Typical coverage | Rationale |
 |---------------------|------------------|-----------|
-| implicit and unexamined decisions | Medium | Documentation requirements encourage explicit recording, but not all decisions are captured or maintained. |
-| loss of original intent and rationale over time | Medium | Rationale may be archived, yet decay occurs if artifacts are not actively governed. |
-| fragmentation of understanding of the software system | Medium–High | Shared repositories centralize information, improving visibility. |
-| divergence between intent and realized structure | Medium | Traceability mechanisms can detect inconsistencies, but do not guarantee alignment. |
-| difficulty assessing and governing change | Medium | Change logs and impact analysis tools support assessment, primarily at execution or compliance levels. |
-| limited ability to revisit and re-evaluate past decisions | Medium | Archived documentation enables retrospective analysis, but systematic re-evaluation is not typically institutionalized. |
+| Implicit and unexamined decisions | Medium | Documentation requirements encourage explicit recording, but not all decisions are captured or maintained. |
+| Loss of original intent and rationale over time | Medium | Rationale may be archived, yet decay occurs if artifacts are not actively governed. |
+| Fragmentation of understanding of the software system | Medium–High | Shared repositories centralize information, improving visibility. |
+| Divergence between intent and realized structure | Medium | Traceability mechanisms can detect inconsistencies, but do not guarantee alignment. |
+| Difficulty assessing and governing change | Medium | Change logs and impact analysis tools support assessment, primarily at execution or compliance levels. |
+| Limited ability to revisit and re-evaluate past decisions | Medium | Archived documentation enables retrospective analysis, but systematic re-evaluation is not typically institutionalized. |
 
 
 ## Synthesis across families
 
 This analysis highlights a pattern distinct from both process-oriented methodologies and architecture-centric approaches: explicit artifact production without necessarily establishing durable epistemic governance.
 
-The governance–knowledge lens is applied next at the aggregate level in **[Synthesis: Patterns of Coverage Across Families](./synthesis.md)**, where the configurations identified across families are examined together to reveal areas of concentrated emphasis and areas of comparatively sparse coverage.
+The governance–knowledge lens is applied next at the aggregate level in **[Synthesis: Patterns of coverage across families](./synthesis.md)**, where the configurations identified across families are examined together to reveal areas of concentrated emphasis and areas of comparatively sparse coverage.
