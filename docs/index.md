@@ -171,12 +171,10 @@ Their instantiation belongs to the context in which they are applied.
 
 If you are new to the guidebook, proceed in the following order:
 
-1. **[How to Read This Guidebook](./how-to-read.md)** — to understand interpretation and normativity
-2. **[Motivation](./motivation/index.md)** — to understand why the discipline is needed
-3. **[Foundations → Discipline](./foundations/discipline.md)** — to see how Upstream Software Engineering is defined
-4. **[Foundations → Metamodel](./foundations/metamodel/index.md)** — to learn the normative structure
-5. **[Foundations → Plays](./foundations/plays/index.md)** — to understand valid transformations
+1. **[How to Read This Guidebook](./how-to-read.md)** — to understand interpretation and normativity  
+2. **[Motivation](./motivation/index.md)** — to understand why the discipline is needed  
+3. **[Foundations](./foundations/index.md)** — to explore the discipline, its metamodel, and its plays  
 
-Use **Guidelines** as a source of inspiration and operational advice.  
+Use **[Guidelines](./guidelines/index.md)** as a source of inspiration and operational advice.  
 
-Consult **Resources** for reusable materials you can download or adapt.
+Consult **[Resources](./resources/index.md)** for reusable materials you can download or adapt.
