@@ -91,9 +91,9 @@ Each row of the matrix corresponds to a governance mode:
 
 Each column corresponds to a primary knowledge object governed:
 
-- **Execution** — how work is performed,
-- **Structural** — what the system is,
-- **Intentional** — why the system exists and under which assumptions it evolves.
+- **Execution knowledge** — how work is performed,
+- **Structural knowledge** — what the system is,
+- **Intentional lnowledge** — why the system exists and under which assumptions it evolves.
 
 Taken together, the matrix distinguishes nine conceptually different governance configurations.  An approach may emphasize one configuration, combine several, or shift across them depending on context.  The purpose of the matrix is to provide a stable conceptual frame within which such patterns can be analyzed systematically in the pages that follow.
 
