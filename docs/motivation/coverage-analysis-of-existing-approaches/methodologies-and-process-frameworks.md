@@ -87,6 +87,8 @@ The following table summarizes how methodologies and process frameworks typicall
 | limited ability to revisit and re-evaluate past decisions | Low | Retrospectives support short-term reflection, but architectural and strategic decisions are seldom preserved and re-evaluated as durable knowledge assets over extended periods. |
 
 
-## Transition
+## Next family in the analysis
 
-This analysis provides a structured basis for comparison with other families of approaches.  The following pages apply the same governance–knowledge lens to additional categories, enabling systematic comparison across governance modes and knowledge objects.
+This analysis establishes a baseline for comparison with other families of approaches by clarifying the dominant governance modes and knowledge objects emphasized by methodologies and process frameworks.
+
+The governance–knowledge lens is applied next to **[Project and portfolio management approaches](./project-and-portfolio-management-approaches.md)**, shifting attention from execution-centered governance to initiative-level and investment-level governance structures.
