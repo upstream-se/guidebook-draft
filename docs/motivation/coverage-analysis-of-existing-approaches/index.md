@@ -53,7 +53,7 @@ This part of the guidebook is composed of the following pages:
 - **[Methodologies and Process Frameworks](./methodologies-and-process-frameworks.md)**  
   Examines development methodologies and process-oriented approaches through the governance–knowledge lens.
 
-- **[Project and Portfolio Management Approaches](./project-and-portfolio-managemnt-approaches.md)**  
+- **[Project and Portfolio Management Approaches](./project-and-portfolio-management-approaches.md)**  
   Analyzes initiative-centric and portfolio-level approaches using the same analytical frame.
 
 - **[Architecture-Centric Approaches](./architecture-centric-approaches.md)**  
