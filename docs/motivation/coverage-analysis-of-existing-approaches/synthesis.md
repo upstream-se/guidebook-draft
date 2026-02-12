@@ -1,8 +1,8 @@
 # Synthesis: Coverage across families of approaches
 
-The previous pages analyzed major families of approaches using a shared analytical lens: the governance–knowledge matrix.  Each family was examined in terms of its dominant governance mode and the primary knowledge object it treats as governable.
+The previous pages analyzed major families of approaches using a shared analytical lens: the governance–knowledge matrix. Each family was examined in terms of its dominant governance mode and the primary knowledge object it treats as governable.
 
-This page aggregates those observations.  Its purpose is not evaluative.  It does not rank approaches or suggest superiority.  Instead, it consolidates patterns of structural emphasis and relates them to the recurring challenges identified in the upstream problem space.
+This page consolidates those observations. Its purpose remains analytical rather than evaluative. It does not rank approaches or suggest superiority. Instead, it identifies structural patterns of emphasis across families and relates them to the recurring challenges identified in the upstream problem space.
 
 Two complementary perspectives are used:
 
@@ -12,7 +12,9 @@ Two complementary perspectives are used:
 
 ## Aggregated governance–knowledge matrix
 
-Figure 1 shows the aggregated coverage across families.  For each cell of the matrix, the highest level of coverage observed among the analyzed families is represented.  The aggregation rule is **maximum-based**, not additive: a cell appears dark only if at least one family strongly activates that configuration.
+Figure 1 shows the aggregated coverage across families. For each cell of the matrix, the highest level of coverage observed among the analyzed families is represented. The aggregation rule is **maximum-based**, not additive: a cell appears dark only if at least one family strongly activates that configuration.
+
+This rule is intentionally conservative. It prevents the appearance of strength through accumulation of weak contributions. A configuration is shown as strong only if at least one family explicitly and systematically foregrounds it.
 
 <p align="center">
   <img src="../../img/governance-knowledge-matrix-synthesis.svg"
@@ -22,21 +24,26 @@ Figure 1 shows the aggregated coverage across families.  For each cell of the ma
 
 <p align="center"><em>Figure 1: Aggregated governance–knowledge coverage across analyzed families of approaches.</em></p>
 
-Taken together, the matrix distinguishes nine conceptually different governance configurations.  An approach may emphasize one configuration, combine several, or shift across them depending on context.  The purpose of the matrix is to provide a stable conceptual frame within which such patterns can be analyzed systematically.
+The matrix distinguishes nine conceptually different governance configurations. An approach may emphasize one configuration, combine several, or shift across them depending on context. The purpose of the matrix is to make these patterns visible in a stable conceptual frame.
 
-### Observed structural patterns
 
-Several structural concentrations become visible:
+### Observed structural concentrations
 
-- **Strong coverage of Execution governance**, particularly in the Operational × Execution and Managerial × Execution cells.  Methodologies and scaled frameworks dominate this space.
+Several concentrations become immediately visible:
 
-- **Strong coverage of Managerial × Intentional governance**, especially through project, portfolio, and formal governance frameworks that articulate strategic objectives and investment intent.
+- **Execution governance is strongly activated.**  
+  Operational × Execution and Managerial × Execution cells show high or medium activation. Methodologies and scaled frameworks dominate this space.
 
-- **Partial coverage of Structural governance**, especially in architecture-centric and documentation-heavy approaches, with emphasis in Epistemic × Structural and Managerial × Structural cells.
+- **Managerial governance of declared intent is strongly activated.**  
+  Project, portfolio, and formal governance frameworks concentrate in Managerial × Intentional.
 
-- **Limited concentration in Epistemic × Intentional governance**, where durable, inspectable articulation of system-level intent would reside.
+- **Structural knowledge receives focused but uneven epistemic attention.**  
+  Architecture-centric approaches strongly activate Epistemic × Structural, with reinforcement at Managerial × Structural.
 
-This distribution does not imply weakness or deficiency in any family.  It reveals a structural asymmetry in how governance effort is distributed across knowledge objects and governance modes.
+- **Epistemic × Intentional governance remains weakly activated.**  
+  No analyzed family systematically centers durable, inspectable articulation of system-level intent as an epistemically governed knowledge asset.
+
+This pattern does not imply deficiency in any single family. It reveals a structural asymmetry in how governance effort is distributed across knowledge objects and governance modes.
 
 
 ## Cross-family coverage of recurring challenges
@@ -64,47 +71,63 @@ The following table summarizes typical coverage levels based on dominant design 
 
 ### Interpreting the table
 
-Several observations emerge:
+Three structural regularities emerge:
 
-1. **Execution-level change governance is well supported.**  
-   Many families provide strong mechanisms for enacting and managing change within bounded scopes.
+1. **Execution-level governance is comparatively strong.**  
+   Most families provide mechanisms for coordinating, controlling, and adapting ongoing work.
 
-2. **Strategic or declared intent is frequently governed at a managerial level.**  
-   Portfolio and governance frameworks articulate objectives, funding criteria, and compliance constraints.
+2. **Managerial articulation of declared intent is comparatively strong.**  
+   Objectives, business cases, and compliance criteria are often formally governed.
 
-3. **Structural coherence receives partial but uneven attention.**  
-   Architecture-centric approaches emphasize structure explicitly, while others treat it as secondary.
+3. **Durable revisitability of intent and rationale remains comparatively weak.**  
+   While decisions are sometimes documented, few families institutionalize systematic, epistemic re-evaluation of system-level assumptions, non-goals, and long-term purpose.
 
-4. **Durable intentional knowledge and systematic revisitability remain comparatively weaker across families.**  
-   Mechanisms for preserving and re-evaluating assumptions, non-goals, and long-term rationale are rarely institutionalized as epistemic governance practices.
+Notably, the challenges most directly tied to epistemic × intentional governance —  
+*loss of original intent*, *limited revisitability*, and *divergence between intent and realized structure* — remain only partially addressed across families.
 
 These observations align with the structural distribution visible in Figure 1.
 
 
 ## Structural asymmetry in governance
 
-When the matrix and the challenge table are considered together, a structural asymmetry becomes visible:
+When Figure 1 and the challenge table are considered together, a structural asymmetry becomes visible:
 
 - Execution is strongly governed.
-- Investment intent is formally governed.
-- Structure is partially governed.
-- Durable, epistemically articulated system-level intent is comparatively underrepresented.
+- Investment intent is managerially governed.
+- Structure is epistemically governed in architecture-centric contexts.
+- **System-level intent as durable, inspectable knowledge is not systematically governed.**
 
-This asymmetry corresponds directly to several upstream challenges, particularly:
+This asymmetry is not accidental. It reflects dominant assumptions embedded in existing approaches:
 
-- loss of original intent and rationale over time,  
-- limited ability to revisit and re-evaluate past decisions, and  
-- divergence between intent and realized structure.
+- Work must be organized and controlled.  
+- Investments must be justified and overseen.  
+- Architecture must be described and structured.  
 
-The pattern is not accidental.  It reflects how dominant approaches conceptualize what is governable and how governance should be exercised.
+But the ongoing epistemic stewardship of *why the system exists*, *under what assumptions it evolves*, and *which commitments must remain stable across time and providers* is rarely institutionalized as a primary governance concern.
+
+As a result, the recurring upstream challenges are not random failures. They are predictable consequences of this structural distribution of governance attention.
+
+
+## Implication for the upstream problem space
+
+The synthesis does not suggest that existing families are insufficient within their intended scope. Each addresses essential dimensions of software development and organizational control.
+
+However, the aggregated analysis shows that:
+
+- Epistemic governance exists — but is concentrated on structure.
+- Managerial governance of intent exists — but is concentrated on initiatives and investment.
+- Execution governance is highly developed.
+- Epistemic governance of system-level intent remains structurally underrepresented.
+
+This structural pattern aligns directly with the persistent upstream challenges identified earlier.
 
 
 ## Transition
 
-The analysis above does not diminish the importance of existing approaches.  Each family addresses essential dimensions of software development and organizational control.
+The synthesis therefore motivates a more precise question:
 
-However, the structural pattern revealed by this synthesis suggests that certain dimensions of the upstream problem space require a form of governance that is not systematically foregrounded within current families of approaches.
+If execution, investment intent, and structural knowledge are already governed in established ways, what form of governance is required to systematically address durable, epistemically articulated system-level intent and its evolution over time?
 
-The next part of this guidebook articulates **Upstream Software Engineering** as a discipline explicitly concerned with epistemic governance of software system intent and its relationship to structure and evolution.
+The next part of this guidebook introduces **Upstream Software Engineering** as a discipline explicitly concerned with that question.
 
 Proceed to **Foundations**.
