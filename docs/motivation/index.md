@@ -33,7 +33,7 @@ The Motivation part is composed of the following pages:
 - **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)**  
   Examines why existing methods, practices, and frameworks do not fully address these challenges.
 
-- **[Why an upstream perspective](./why-upstream.md)**  
+- **[Why an upstream perspective](./why-an-upstream-perspective.md)**  
   Explains why the observed problems call for a distinct upstream focus.
 
 - **[Scope and non-goals](./scope-and-non-goals.md)**  
