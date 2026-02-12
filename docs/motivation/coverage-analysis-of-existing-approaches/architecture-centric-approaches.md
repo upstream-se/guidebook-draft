@@ -91,4 +91,4 @@ The following table summarizes how architecture-centric approaches typically add
 
 Architecture-centric approaches demonstrate how structural knowledge can be governed explicitly and epistemically, foregrounding architectural coherence as a primary object of governance.
 
-The governance–knowledge lens is applied next to **[Governance, standards, and compliance frameworks](./governance-and-standards-and-compliance-frameworks.md)**, which emphasize formal oversight, institutional control, and organizational-level articulation of declared intent.
+The governance–knowledge lens is applied next to **[Governance and compliance frameworks](./governance-and-compliance-frameworks.md)**, which emphasize formal oversight, institutional control, and organizational-level articulation of declared intent.
