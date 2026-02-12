@@ -87,6 +87,8 @@ The following table summarizes how architecture-centric approaches typically add
 | limited ability to revisit and re-evaluate past decisions | Medium–High | Explicit decision documentation enables revisiting structural choices, though systematic re-evaluation of intent remains limited. |
 
 
-## Transition
+## Next family in the analysis
 
-Architecture-centric approaches demonstrate how structural knowledge can be governed explicitly and epistemically.  The following pages extend the analysis to governance and compliance frameworks, which emphasize formal oversight and institutional control across organizational contexts.
+Architecture-centric approaches demonstrate how structural knowledge can be governed explicitly and epistemically, foregrounding architectural coherence as a primary object of governance.
+
+The governance–knowledge lens is applied next to **[Governance, standards, and compliance frameworks](./governance-and-standards-and-compliance-frameworks.md)**, which emphasize formal oversight, institutional control, and organizational-level articulation of declared intent.
