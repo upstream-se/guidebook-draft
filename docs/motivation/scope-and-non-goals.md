@@ -9,7 +9,7 @@ The argument developed in:
 
 motivates the need for an upstream perspective centered on durable epistemic governance of system-level intent.
 
-This page clarifies the scope of that claim and delineates what it does *not* attempt to justify.
+This page clarifies the scope of that claim and delineates what it does not attempt to establish.
 
 
 ## Scope of the upstream argument
@@ -21,11 +21,12 @@ The upstream perspective is concerned with a specific governance configuration:
 
 Its scope includes:
 
-- explicit articulation of system-level intent as a knowledge object,
-- traceable linkage between intent and structural decisions,
-- institutionalized mechanisms for revisiting assumptions and commitments,
-- preservation of rationale across initiatives, teams, and provider transitions,
-- governance of long-lived software systems beyond individual project boundaries.
+- explicit articulation and governance of contextual knowledge (assumptions about environment, stakeholders, constraints, and technological conditions) that frames system-level intent,
+- treatment of system-level intent as a durable and inspectable knowledge object,
+- traceable linkage between declared intent and structural decisions over time,
+- institutionalized mechanisms for revisiting, re-evaluating, and, when necessary, revising assumptions and commitments,
+- preservation and continuity of decision rationale across initiatives, teams, and provider transitions,
+- governance of long-lived software systems beyond the temporal boundaries of individual projects.
 
 The upstream focus therefore operates at the level of sustained system evolution, not at the level of isolated initiatives or local development practices.
 
@@ -42,13 +43,12 @@ The upstream perspective does **not** claim that:
 
 Each of these families addresses essential dimensions of software development and organizational control.
 
-The argument is not comparative in the sense of ranking approaches.  
-It is structural: it identifies a configuration that is not systematically foregrounded as a primary locus of governance.
+The argument is not comparative in the sense of ranking approaches.  It is structural: it identifies a configuration that is not systematically foregrounded as a primary locus of governance.
 
 
 ## No exclusivity claim
 
-The upstream argument does not assert that epistemic × intentional governance is entirely absent from existing approaches.
+The upstream argument does not assert that Epistemic × Intentional governance is entirely absent from existing approaches.
 
 Elements of intent articulation, decision documentation, architectural reasoning, and long-term alignment appear across families.  However:
 
@@ -61,19 +61,21 @@ The claim concerns systematic foregrounding and sustained institutionalization, 
 
 ## Not a methodological prescription
 
-This motivation does not prescribe specific tools, frameworks, or lifecycle models.
-
-It does not define:
+Upstream Software Engineering is not proposed as:
 
 - a development methodology,
 - a project management framework,
 - an architectural modeling notation,
 - or a compliance standard.
 
-Those design choices belong to the constructive part of the discipline.
+It does not compete with Scrum, SAFe, PMBOK, TOGAF, COBIT, or similar families of approaches at the level of lifecycle design, delivery structure, or organizational control.
 
-At the motivational level, the objective is conceptual clarification:  
-to make explicit what must be treated as governable if long-lived system intent is to remain coherent across time.
+Rather than prescribing how software should be developed, funded, or documented, Upstream Software Engineering specifies what must be treated as governable if long-lived system intent is to remain coherent across time.
+
+Its concern is not the orchestration of work, the authorization of initiatives, or the selection of modeling techniques.  
+Its concern is the epistemic stewardship of purpose, assumptions, commitments, and their traceable relationship to evolving structure.
+
+In this sense, it defines a locus of governance that can coexist with, complement, and constrain existing approaches — without replacing them.
 
 
 ## Relationship to existing disciplines
