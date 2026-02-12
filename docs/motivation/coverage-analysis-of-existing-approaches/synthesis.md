@@ -1,4 +1,4 @@
-# Synthesis: Coverage across families of approaches
+# Synthesis: Aggregate coverage and observed patterns
 
 The governance–knowledge matrix, applied to major families of approaches, reveals a consistent structural pattern in how software systems are governed. Across methodologies, project and portfolio frameworks, architecture-centric practices, governance standards, and tool-centric approaches, governance effort concentrates in specific configurations while remaining comparatively sparse in others.
 
@@ -61,14 +61,14 @@ The structural view above can be complemented by examining how families address 
 
 The following table summarizes typical coverage levels based on dominant design intent and characteristic practice patterns.
 
-| Recurring Challenge | Methodologies | Project & Portfolio | Architecture-Centric | Governance & Standards | Tool-Centric |
+| Recurring challenge | Methodologies and process frameworks | Project and portfolio management approaches | Architecture-centric approaches | Governance and compliance frameworks | Tool-centric and documentation-heavy approaches |
 |---------------------|--------------|---------------------|----------------------|------------------------|--------------|
-| implicit and unexamined decisions | Low–Medium | Medium | Medium | High | Medium |
-| loss of original intent and rationale over time | Low | Low–Medium | Medium | Medium | Medium |
-| fragmentation of understanding of the software system | Medium | Medium | High | Medium | Medium–High |
-| divergence between intent and realized structure | Low–Medium | Low | Medium–High | Medium | Medium |
-| difficulty assessing and governing change | Medium–High | High (initiative level) | Medium | High (compliance level) | Medium |
-| limited ability to revisit and re-evaluate past decisions | Low | Low–Medium | Medium | Medium | Medium |
+| Implicit and unexamined decisions | Low–Medium | Medium | Medium | High | Medium |
+| Loss of original intent and rationale over time | Low | Low–Medium | Medium | Medium | Medium |
+| Fragmentation of understanding of the software system | Medium | Medium | High | Medium | Medium–High |
+| Divergence between intent and realized structure | Low–Medium | Low | Medium–High | Medium | Medium |
+| Difficulty assessing and governing change | Medium–High | High (initiative level) | Medium | High (compliance level) | Medium |
+| Limited ability to revisit and re-evaluate past decisions | Low | Low–Medium | Medium | Medium | Medium |
 
 
 ### Interpreting the table
