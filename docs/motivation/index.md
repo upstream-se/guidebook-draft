@@ -39,7 +39,7 @@ The Motivation part is composed of the following pages:
 - **[Scope and non-goals](./scope-and-non-goals.md)**  
   Clarifies what this motivation does and does not attempt to justify.
 
-Each page has a specific role and can be read independently, though a sequential reading is recommended.
+Each page addresses a distinct argumentative step.  While they can be consulted independently, the full rationale emerges most clearly when read sequentially.
 
 
 ## What this part does not do
