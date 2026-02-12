@@ -78,8 +78,8 @@ Accordingly, tool-centric approaches can mitigate symptoms of knowledge loss, bu
 | limited ability to revisit and re-evaluate past decisions | Medium | Archived documentation enables retrospective analysis, but systematic re-evaluation is not typically institutionalized. |
 
 
-## Transition
+## Synthesis across families
 
 This analysis highlights a pattern distinct from both process-oriented methodologies and architecture-centric approaches: explicit artifact production without necessarily establishing durable epistemic governance.
 
-The following page synthesizes the patterns observed across families and prepares the ground for identifying systematic areas of sparse coverage.
+The governance–knowledge lens is applied next at the aggregate level in **[Synthesis: Patterns of Coverage Across Families](./synthesis.md)**, where the configurations identified across families are examined together to reveal areas of concentrated emphasis and areas of comparatively sparse coverage.
