@@ -9,7 +9,7 @@ The purpose of this lens is analytical.  It does not rank approaches, prescribe 
 
 ## Purpose of the comparative lens
 
-The upstream problem space described in the **[Problem Space](../problem-space.md)** and articulated through the **[Recurring Challenges](../recurring-challenges.md)** reveals a set of persistent patterns affecting the evolution and governance of software systems.  Existing approaches address these challenges in different ways and at different levels.  However, comparing them along a single dimension—such as methodology, scale, or degree of formalization—obscures important structural differences in how governance is enacted and what aspects of the system are subject to control.
+The upstream problem space described in the **[Problem space](../problem-space.md)** and articulated through the **[Recurring challenges](../recurring-challenges.md)** reveals a set of persistent patterns affecting the evolution and governance of software systems.  Existing approaches address these challenges in different ways and at different levels.  However, comparing them along a single dimension—such as methodology, scale, or degree of formalization—obscures important structural differences in how governance is enacted and what aspects of the system are subject to control.
 
 To reason systematically about coverage, a more explicit analytical lens is required.  The governance–knowledge matrix introduced in this section differentiates approaches along two orthogonal dimensions: the mode through which governance is exercised, and the primary knowledge object that is governed.  This distinction makes it possible to observe patterns of emphasis and clustering across approaches.
 
