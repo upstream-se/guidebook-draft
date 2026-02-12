@@ -77,14 +77,14 @@ This observation does not diminish the importance of architectural governance.  
 
 The following table summarizes how architecture-centric approaches typically address the recurring challenges identified in the upstream problem space.
 
-| Recurring Challenge | Typical Coverage | Rationale |
+| Recurring challenge | Typical coverage | Rationale |
 |---------------------|------------------|-----------|
-| implicit and unexamined decisions | Medium–High | Architectural evaluation methods and ADRs increase explicit articulation of structural decisions. |
-| loss of original intent and rationale over time | Medium | Structural rationale may be documented, but broader system-level intent and non-goals are not systematically preserved. |
-| fragmentation of understanding of the software system | Medium–High | Architectural models and viewpoints provide shared representations that improve system-wide understanding. |
-| divergence between intent and realized structure | High | Architecture governance directly targets structural coherence and alignment with quality attribute goals. |
-| difficulty assessing and governing change | Medium | Architectural evaluations and impact analyses support reasoned structural change. |
-| limited ability to revisit and re-evaluate past decisions | Medium–High | Explicit decision documentation enables revisiting structural choices, though systematic re-evaluation of intent remains limited. |
+| Implicit and unexamined decisions | Medium–High | Architectural evaluation methods and ADRs increase explicit articulation of structural decisions. |
+| Loss of original intent and rationale over time | Medium | Structural rationale may be documented, but broader system-level intent and non-goals are not systematically preserved. |
+| Fragmentation of understanding of the software system | Medium–High | Architectural models and viewpoints provide shared representations that improve system-wide understanding. |
+| Divergence between intent and realized structure | High | Architecture governance directly targets structural coherence and alignment with quality attribute goals. |
+| Difficulty assessing and governing change | Medium | Architectural evaluations and impact analyses support reasoned structural change. |
+| Limited ability to revisit and re-evaluate past decisions | Medium–High | Explicit decision documentation enables revisiting structural choices, though systematic re-evaluation of intent remains limited. |
 
 
 ## Next family in the analysis
