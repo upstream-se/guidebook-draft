@@ -11,9 +11,9 @@ The recurring challenges are not homogeneous.  Some are primarily execution-leve
 
 In particular, three challenges converge:
 
-- **loss of original intent and rationale over time**,  
-- **limited ability to revisit and re-evaluate past decisions**, and  
-- **divergence between intent and realized structure**.
+- loss of original intent and rationale over time,  
+- limited ability to revisit and re-evaluate past decisions, and  
+- divergence between intent and realized structure.
 
 These challenges share a common feature: **they arise when system-level purpose, assumptions, and rationale are not maintained as durable, inspectable, and governable knowledge.**
 
