@@ -2,7 +2,7 @@
 
 The **[Problem space](./problem-space.md)** describes the environment in which software systems exist and evolve.  The **[Recurring challenges](./recurring-challenges.md)** identify persistent patterns of difficulty that arise within that environment.  The **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)** examined how dominant families of practices distribute governance effort across knowledge objects and governance modes.
 
-The question now is not whether existing approaches are valuable.  They clearly are.  *The question is whether the distribution of governance configurations revealed by the coverage analysis is sufficient to address the recurring challenges of long-lived software systems.*
+The question now is not whether existing approaches are valuable.  They clearly are.  **The question is whether the distribution of governance configurations revealed by the coverage analysis is sufficient to address the recurring challenges of long-lived software systems.**
 
 
 ## From recurring challenges to epistemic governance
