@@ -82,4 +82,4 @@ Accordingly, tool-centric approaches can mitigate symptoms of knowledge loss, bu
 
 This analysis highlights a pattern distinct from both process-oriented methodologies and architecture-centric approaches: explicit artifact production without necessarily establishing durable epistemic governance.
 
-The governance–knowledge lens is applied next at the aggregate level in **[Synthesis: Patterns of coverage across families](./synthesis.md)**, where the configurations identified across families are examined together to reveal areas of concentrated emphasis and areas of comparatively sparse coverage.
+The governance–knowledge lens is applied next at the aggregate level in **[Synthesis: Aggregate coverage and observed patterns](./synthesis.md)**, where the configurations identified across families are examined together to reveal areas of concentrated emphasis and areas of comparatively sparse coverage.
