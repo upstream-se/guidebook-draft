@@ -11,7 +11,7 @@ This page describes the **baseline conditions** under which software systems are
 The purpose of this page is therefore **descriptive**.  It characterizes the environment in which software systems operate, establishing a shared understanding of the setting that motivates Upstream Software Engineering as a discipline.
 
 
-## Software Systems as Long-Lived Entities
+## Software systems as long-lived entities
 
 Software systems are commonly initiated as projects, but they rarely remain confined to the temporal boundaries of those projects.  In practice, many software systems persist for years or decades, continuing to operate and evolve long after their initial development phase has concluded.
 
@@ -31,7 +31,7 @@ Recognizing software systems as long-lived entities is therefore essential to un
 Recognizing software systems as long-lived entities naturally leads to a second foundational condition of the problem space: the fact that such systems are subject to continuous change throughout their lifetime.
 
 
-## Continuous Change as a Baseline Condition
+## Continuous change as a baseline condition
 
 Software systems do not evolve through isolated episodes of change separated by long periods of stability.  Instead, change is a **baseline condition** under which software systems operate throughout their lifetime.
 
@@ -48,7 +48,7 @@ Recognizing continuous change as a baseline condition does not, by itself, presc
 Because change is enacted through decisions and actions, understanding continuous evolution requires examining the organizational and social contexts in which those decisions are made.
 
 
-## Organizational and Social Context
+## Organizational and social context
 
 Software systems are not purely technical constructs.  They are developed, operated, and evolved within organizations composed of people, roles, incentives, power structures, and communication channels.  As a result, the structure and behavior of software systems are deeply intertwined with the social and organizational contexts in which they exist.
 
@@ -63,7 +63,7 @@ Recognizing the organizational and social context of software systems does not i
 Within these organizational and social contexts, software systems are rarely shaped by a single, stable group, but instead by a succession of actors and providers over time.
 
 
-## Multiplicity of Actors and Providers
+## Multiplicity of actors and providers
 
 Software systems are rarely produced or evolved by a single, stable group of actors.  Instead, they are typically shaped by a **multiplicity of roles, teams, and providers** that contribute at different points in time and from different organizational positions.
 
@@ -80,7 +80,7 @@ This observation does not imply that multiplicity is undesirable or should be re
 As multiple actors and providers interact with a software system, perspectives on what constitutes the system and its environment naturally diverge and evolve.
 
 
-## Boundaries, Context, and Environment
+## Boundaries, context, and environment
 
 Software systems do not exist in isolation.  They operate within an environment composed of other software systems, technical infrastructure, organizational arrangements, regulatory constraints, and external actors.  Their behavior and evolution are therefore shaped not only by their internal structure, but also by how they are situated within this broader context.
 
@@ -97,7 +97,7 @@ This observation does not prescribe how boundaries should be defined or represen
 Over time, decisions about boundaries and context accumulate, interact, and change in ways that shape the long-term trajectory of the software system.
 
 
-## Time, Drift, and Accumulation
+## Time, drift, and accumulation
 
 Software systems evolve over extended periods of time, during which decisions, assumptions, and modifications accumulate.  The passage of time is therefore not a neutral background condition; it actively shapes the state and meaning of a software system.
 
@@ -114,7 +114,7 @@ The combined effects of time, drift, and accumulation constitute a defining dime
 This observation does not prescribe how drift should be prevented, corrected, or managed.  It establishes that temporal accumulation and interpretive drift are inherent characteristics of long-lived, evolving software systems.
 
 
-## Summary: Characteristics of the Problem Space
+## Summary: Characteristics of the problem space
 
 The preceding sections describe a problem space in which software systems are conceived, operated, and evolved under conditions that are common across domains and technologies.
 
@@ -145,4 +145,4 @@ This problem space is addressed by Upstream Software Engineering as a discipline
 
 ## Where to go next
 
-The characteristics described on this page define the environment in which software systems exist and evolve.  The next page, **[Recurring Challenges](./recurring-challenges.md)**, examines the recurring difficulties that arise within this problem space, without yet proposing solutions or norms.
+The characteristics described on this page define the environment in which software systems exist and evolve.  The next page, **[Recurring challenges](./recurring-challenges.md)**, examines the recurring difficulties that arise within this problem space, without yet proposing solutions or norms.
