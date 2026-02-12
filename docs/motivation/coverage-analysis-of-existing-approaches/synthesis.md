@@ -1,4 +1,4 @@
-# Synthesis: Coverage Across Families of Approaches
+# Synthesis: Coverage across families of approaches
 
 The previous pages analyzed major families of approaches using a shared analytical lens: the governance–knowledge matrix.  Each family was examined in terms of its dominant governance mode and the primary knowledge object it treats as governable.
 
@@ -10,7 +10,7 @@ Two complementary perspectives are used:
 - a cross-family table mapping recurring challenges to typical coverage levels.
 
 
-## Aggregated Governance–Knowledge Matrix
+## Aggregated governance–knowledge matrix
 
 Figure 1 shows the aggregated coverage across families.  For each cell of the matrix, the highest level of coverage observed among the analyzed families is represented.  The aggregation rule is **maximum-based**, not additive: a cell appears dark only if at least one family strongly activates that configuration.
 
@@ -24,7 +24,7 @@ Figure 1 shows the aggregated coverage across families.  For each cell of the ma
 
 Taken together, the matrix distinguishes nine conceptually different governance configurations.  An approach may emphasize one configuration, combine several, or shift across them depending on context.  The purpose of the matrix is to provide a stable conceptual frame within which such patterns can be analyzed systematically.
 
-### Observed Structural Patterns
+### Observed structural patterns
 
 Several structural concentrations become visible:
 
@@ -39,7 +39,7 @@ Several structural concentrations become visible:
 This distribution does not imply weakness or deficiency in any family.  It reveals a structural asymmetry in how governance effort is distributed across knowledge objects and governance modes.
 
 
-## Cross-Family Coverage of Recurring Challenges
+## Cross-family coverage of recurring challenges
 
 The structural view above can be complemented by examining how families address the recurring challenges identified in the upstream problem space:
 
@@ -61,7 +61,8 @@ The following table summarizes typical coverage levels based on dominant design 
 | difficulty assessing and governing change | Medium–High | High (initiative level) | Medium | High (compliance level) | Medium |
 | limited ability to revisit and re-evaluate past decisions | Low | Low–Medium | Medium | Medium | Medium |
 
-### Interpreting the Table
+
+### Interpreting the table
 
 Several observations emerge:
 
@@ -80,7 +81,7 @@ Several observations emerge:
 These observations align with the structural distribution visible in Figure 1.
 
 
-## Structural Asymmetry in Governance
+## Structural asymmetry in governance
 
 When the matrix and the challenge table are considered together, a structural asymmetry becomes visible:
 
