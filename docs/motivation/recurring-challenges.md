@@ -56,7 +56,7 @@ As a result, it becomes difficult to determine which changes are acceptable, whi
 The challenge is therefore not a lack of explicit governance mechanisms, but the absence of criteria grounded in a shared understanding of the software system and its evolving intent.  This difficulty is not primarily procedural; it reflects the absence of a stable and explicit basis for reasoning about change in relation to the system’s purpose, constraints, and context over time.
 
 
-## Limited ability to revisit and re-evaluate Decisions
+## Limited ability to revisit and re-evaluate decisions
 
 Once decisions are embedded in a software system, they are often treated as irreversible.  Revisiting past decisions may be perceived as costly, risky, or outside the scope of ongoing work.
 
