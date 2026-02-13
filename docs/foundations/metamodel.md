@@ -8,4 +8,4 @@ Return to:
 
 - **[Foundations](../index.md)**
 
-- **[Guidebook Home](../../index.md)**
+- **[Guidebook home](../../index.md)**
