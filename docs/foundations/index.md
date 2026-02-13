@@ -9,7 +9,7 @@ This part is organized into three complementary components: the discipline, the 
 
 ## 1. The Discipline
 
-**[Discipline](./discipline.md)** defines Upstream Software Engineering as a distinct field of study.
+**[Discipline](./discipline/index.md)** defines Upstream Software Engineering as a distinct field of study.
 
 It clarifies:
 
