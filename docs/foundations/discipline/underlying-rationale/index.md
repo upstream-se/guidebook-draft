@@ -26,6 +26,22 @@ Key works:
 
 → [Read the full analysis](./1950s-1960s-production-era.md)
 
+## 1950s–1960s — Production Era
+
+**Focus:** Foundations  
+**Problem:** Coordination failures and requirements ambiguity in large-scale systems.  
+**Governable shift:** Lifecycle stages, requirements control, and system-level safeguards.  
+**Governance mode:** Managerial and procedural control over software production.  
+**Lesson:** Complex software demands explicit engineering discipline and system thinking.  
+**Under-governed:** Durable preservation of system-level intent beyond project delivery.
+
+Key works:  
+[Bennington (1956)](../../resources/bibliography.md#bennington-1956),  
+[Hosier (1961)](../../resources/bibliography.md#hosier-1961),  
+[Conway (1968)](../../resources/bibliography.md#conway-1968), and  
+[Bauer (1968)](../../resources/bibliography.md#bauer-1968).
+
+→ [Read the full analysis](./1950s-1960s-production-era.md)
 
 ## 1970s — Complexity era  
 **Focus:** Structure & Management  
