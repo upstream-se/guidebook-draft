@@ -64,4 +64,7 @@ The recommended reading sequence within Foundations is:
 
 However, each section can be consulted independently depending on the reader’s interest.
 
-Return to **[Guidebook Home](../index.md)** for an overciew of this guidebook.
+
+It is recommended for first-time readers to proceed first to **[Motivation](../motivation/index.md)** to understand why the discipline is needed.
+
+Return to **[Guidebook Home](../index.md)** for an overview of this guidebook.
