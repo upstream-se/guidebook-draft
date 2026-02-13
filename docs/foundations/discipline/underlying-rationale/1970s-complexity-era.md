@@ -1,4 +1,4 @@
-# 1970s — Complexity Era
+# 1970s — Complexity era
 
 By the late 1960s, the central problem of Software Engineering had shifted.  The issue was no longer merely *how to produce programs*, but how to manage their growing complexity.  Systems were expanding in size, teams were increasing, and coordination failures were becoming visible.
 
