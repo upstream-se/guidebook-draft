@@ -1,5 +1,8 @@
 # The Discipline of Upstream Software Engineering
 
+> ⚠️ **This page is under active construction.**  
+> The conceptual structure is stable, but content is being expanded and refined.
+
 This section defines **Upstream Software Engineering** as a discipline.
 
 It does not introduce tools, templates, or practices.  
