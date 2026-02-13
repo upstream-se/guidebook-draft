@@ -11,4 +11,4 @@ The content for this page has not yet been drafted.
 
 Return to:
 
-- **[Guidebook Home](../../index.md)**
+- **[Guidebook Home](../index.md)**
