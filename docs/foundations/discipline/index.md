@@ -1,7 +1,7 @@
-# The Discipline
+# The discipline
 
-> ⚠️ **This section is under active construction.**  
-> Concepts, definitions, and structure may evolve as the discipline is refined.
+> ⚠️ **This page is under active construction.**  
+> Concepts, definitions, and structure may evolve as the page is refined.
 
 This section establishes the conceptual foundations of **Upstream Software Engineering** as a discipline.
 
@@ -9,14 +9,13 @@ It defines what upstream governs, how it understands change and evolution, how i
 
 The pages below develop the discipline progressively—from core concepts, through change and evolution, to stratification and normative structure.
 
----
 
-## Definition and Core Concepts
+## Definition and core concepts
 
 - **[Definition](./definition.md)**  
   Defines Upstream Software Engineering as a discipline and clarifies its locus of concern.
 
-- **[Software System](./software-system.md)**  
+- **[Software system](./software-system.md)**  
   Defines what is governed: the software system as a socio-technical and long-lived entity.
 
 - **[Context](./context.md)**  
@@ -27,45 +26,44 @@ The pages below develop the discipline progressively—from core concepts, throu
 
 ---
 
-## Change and Evolution
+## Change and evolution
 
 - **[Change](./change.md)**  
   Defines what change is and how changes in context may trigger changes in the system.
 
-- **[Software Evolution](./software-evolution.md)**  
+- **[Software evolution](./software-evolution.md)**  
   Presents the upstream understanding of evolution as epistemic helices—structured cycles of reinterpretation and re-articulation of intent and structure across time.
 
----
 
-## Stratification and Reification
+## Stratification and reification
 
-- **[Upstream and Downstream](./upstream-and-downstream.md)**  
+- **[Upstream and downstream](./upstream-and-downstream.md)**  
   Establishes the distinction between epistemic governance (upstream) and execution-oriented practices (downstream).
 
-- **[Reification and Artifacts](./reification-and-artifacts.md)**  
+- **[Reification and artifacts](./reification-and-artifacts.md)**  
   Clarifies the difference between normative knowledge structures and the concrete artifacts that may instantiate them.
 
----
 
-## Normative Foundations
+## Conceptual grounding
 
 - **[Underlying Rationale](./underlying-rationale.md)**  
   Presents the lessons extracted from software engineering history and research that shape the discipline’s design.
 
-- **[Ontological Commitments](./ontological-commitments.md)**  
+
+## Normative fpundations
+
+- **[Ontological commitments](./ontological-commitments.md)**  
   States the explicit commitments about systems, knowledge, governance, and evolution that the discipline adopts.
 
-- **[Normative Structure](./normative-structure.md)**  
-  Explains why a metamodel and formally valid transformations are required, and why upstream does not prescribe specific artifacts.
+- **[Normative structure](./normative-structure.md)**  
+  Explains why a metamodel and formally valid transformations are required, and why upstream does not prescribe specific artifacts and practices.
 
 - **[Positioning](./positioning.md)**  
   Situates Upstream Software Engineering in relation to software engineering, architecture, governance, and related fields.
 
----
 
 ## Where to start
 
 If you are reading this part sequentially, begin with **[Definition](./definition.md)**.
 
-Return to **[Foundations](../index.md)** for an overview of the entire Foundations part.  
-Return to **[Guidebook Home](../../index.md)** for the complete guidebook structure.
+Return to **[Foundations](../index.md)** for an overview of the entire Foundations part.  Return to **[Guidebook Home](../../index.md)** for the complete guidebook structure.
