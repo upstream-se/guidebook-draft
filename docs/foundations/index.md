@@ -58,7 +58,7 @@ This section answers the question:
 
 The recommended reading sequence within Foundations is:
 
-1. **[Discipline](./discipline.md)**  
+1. **[Discipline](./discipline/index.md)**  
 2. **[Metamodel](./metamodel/index.md)**  
 3. **[Plays](./plays/index.md)**  
 
