@@ -69,7 +69,6 @@ and refactoring ([Fowler, 1999](../../resources/bibliography.md#fowler-1999)) fo
 
 → [Read the full analysis](./1990s-blueprint-era.md)
 
----
 
 ## 2000s — Human era  
 **Focus:** Agility & Craft  
@@ -94,7 +93,6 @@ and cloud governance ([ISACA, 2014](../../resources/bibliography.md#isaca-2014))
 
 → [Read the full analysis](./2010s-automation-era.md)
 
----
 
 ## 2020s — AI era  
 **Focus:** Intelligence & Agents  
