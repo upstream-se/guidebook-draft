@@ -1,9 +1,6 @@
-# 1980s — Object Orientation and Risk Governance Era
+# 1980s — Paradigm era
 
-## Historical configuration
-
-By the early 1980s, software engineering had internalized modularity and staged lifecycle control.  
-Yet complexity had not diminished. Systems were growing not only in size, but in conceptual richness, variability, and long-term uncertainty.
+By the early 1980s, Software Engineering had internalized modularity and staged lifecycle control.  Yet complexity had not diminished.  Systems were growing not only in size, but in conceptual richness, variability, and long-term uncertainty.
 
 The foregrounded problem shifted again:
 
@@ -32,7 +29,7 @@ The concern was no longer only decomposition or stage control, but **how to stru
 Two new domains became governable in more systematic ways:
 
 1. **Conceptual abstraction through object orientation.**  
-   Encapsulation, polymorphism, and type hierarchies made conceptual boundaries explicit. Abstraction became a first-class design instrument (see [Booch, 1986](../../../resources/bibliography.md#booch-1986); [Stroustrup, 1983](../../../resources/bibliography.md#stroustrup-1983)).
+   Encapsulation, polymorphism, and type hierarchies made conceptual boundaries explicit.  Abstraction became a first-class design instrument (see [Booch, 1986](../../../resources/bibliography.md#booch-1986); [Stroustrup, 1983](../../../resources/bibliography.md#stroustrup-1983)).
 
 2. **Risk through iterative control.**  
    The Spiral Model reframed lifecycle management around risk assessment and mitigation rather than rigid stage sequencing (see [Boehm, 1986](../../../resources/bibliography.md#boehm-1986)).
@@ -50,8 +47,7 @@ This era was characterized by a strengthening of **Managerial × Structural gove
 
 The introduction of use cases (see [Jacobson, 1987](../../../resources/bibliography.md#jacobson-1987)) linked behavioral intent to structural design more explicitly, but primarily within project scope.
 
-Structural reasoning deepened.  
-Intent articulation remained largely project-bound.
+Structural reasoning deepened.  Intent articulation remained largely project-bound.
 
 
 ## What durable lesson was extracted?
@@ -60,10 +56,9 @@ The durable insight of this era is:
 
 > **Abstraction and risk awareness are essential governance mechanisms for long-lived systems.**
 
-Object orientation institutionalized the idea that structure should reflect stable domain concepts.  
-Risk-driven iteration acknowledged that planning alone cannot eliminate uncertainty.
+Object orientation institutionalized the idea that structure should reflect stable domain concepts.  Risk-driven iteration acknowledged that planning alone cannot eliminate uncertainty.
 
-Software engineering matured from procedural control to **conceptual design under uncertainty**.
+Software Engineering matured from procedural control to **conceptual design under uncertainty**.
 
 
 ## What remained structurally under-governed?
@@ -74,19 +69,18 @@ Despite conceptual advances:
 - Rationale linking abstraction decisions to long-term purpose was rarely institutionalized beyond project artifacts.
 - Risk governance focused on project uncertainty rather than on preserving durable system commitments across organizational transitions.
 
-Intent was better modeled,  
-but not yet treated as durable epistemic knowledge across evolution.
+Intent was better modeled,  but not yet treated as durable epistemic knowledge across evolution.
 
 This gap would become more visible as architectural thinking formalized in the following era.
 
 
 ## Where to go next
 
-Continue to **[1990s — Architectural Consolidation Era](./era-iv-architectural-consolidation.md)**.
+Continue the historical analysis in **[1990s — Blueprint era](./1990s-blueprint-era.md)**.
 
-Return to:
+If preferred, return to:
 
 - **[Underlying rationale](./index.md)**
 - **[Discipline](../index.md)**
 - **[Foundations](../../index.md)**
-- **[Guidebook Home](../../../index.md)**
+- **[Guidebook home](../../../index.md)**
