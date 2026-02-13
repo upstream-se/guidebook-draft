@@ -74,9 +74,9 @@ This asymmetry would persist across subsequent eras and ultimately motivate the 
 
 ## Where to go next
 
-Continue to **[1980s — Paradigm era](./1980s-paradigm-era.md)**.
+Continue the historical analysis in **[1980s — Paradigm era](./1980s-paradigm-era.md)**.
 
-Return to:
+If preferred, return to:
 
 - **[Underlying rationale](./index.md)**
 - **[Discipline](../index.md)**
