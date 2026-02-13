@@ -72,7 +72,7 @@ The durability problem was therefore latent: governance focused on controlling c
 
 ## Where to go next
 
-Continue the historical analysis in **[Era II — Modularity and Lifecycle Control (late 1960s–1970s)](./era-ii-modularity-and-lifecycle-control.md)**.
+Continue the historical analysis in **[1970s — Complexity Era](./1970s-complexity-era.md)**.
 
 If preferred, return to:
 
