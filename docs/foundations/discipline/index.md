@@ -45,7 +45,7 @@ The pages below develop the discipline progressively—from core concepts, throu
 
 ## Conceptual grounding
 
-- **[Underlying rationale](./underlying-rationale.md)**  
+- **[Underlying rationale](./underlying-rationale/index.md)**  
   Presents the lessons extracted from software engineering history and research that shape the discipline’s design.
 
 
