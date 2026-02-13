@@ -49,7 +49,7 @@ The pages below develop the discipline progressively—from core concepts, throu
   Presents the lessons extracted from software engineering history and research that shape the discipline’s design.
 
 
-## Normative fpundations
+## Normative foundations
 
 - **[Ontological commitments](./ontological-commitments.md)**  
   States the explicit commitments about systems, knowledge, governance, and evolution that the discipline adopts.
