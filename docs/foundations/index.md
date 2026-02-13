@@ -67,4 +67,4 @@ However, each section can be consulted independently depending on the reader’s
 
 It is recommended for first-time readers to proceed first to **[Motivation](../motivation/index.md)** to understand why the discipline is needed.
 
-Return to **[Guidebook Home](../index.md)** for an overview of this guidebook.
+Return to **[Guidebook home](../index.md)** for an overview of this guidebook.
