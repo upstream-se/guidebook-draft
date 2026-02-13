@@ -84,7 +84,6 @@ If you are new to the guidebook, continue with:
 If you are revisiting this part, you may jump directly to the page most relevant to your questions.
 
 
+While not recommended for first time readers, you can proceed to **[Foundations](../foundations/index.md)** to explore the discipline, its metamodel, and its plays.
 
-While not recommended for first time readers, you can jump to **[Foundations](../foundations/index.md)** to explore the discipline, its metamodel, and its plays.
-
-Return to **[Guidebook Home](../index.md)** for an overciew of this guidebook.
+Return to **[Guidebook Home](../index.md)** for an overview of this guidebook.
