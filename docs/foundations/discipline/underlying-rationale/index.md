@@ -17,7 +17,7 @@ Each era is examined through a consistent analytical lens.  For every period, we
 Across eras, execution, structure, and managerial articulation of intent progressively became governable.  The question that motivates upstream thinking is whether durable epistemic governance of system-level intent followed the same trajectory.
 
 
-## 1950s–1960s — Production Era  
+## 1950s–1960s — Production era  
 **Focus:** Foundations  
 **Structural shift:** From programming to system thinking  
 
@@ -31,7 +31,7 @@ Key works include [Bennington (1956)](../../resources/bibliography.md#bennington
 → [Read the full analysis](./1950s-1960s-production-era.md)
 
 
-## 1970s — Complexity Era  
+## 1970s — Complexity era  
 **Focus:** Structure & Management  
 **Structural shift:** Managing scale and socio-technical complexity  
 
@@ -43,7 +43,7 @@ and socio-technical awareness ([Brooks, 1975](../../resources/bibliography.md#br
 → [Read the full analysis](./1970s-complexity-era.md)
 
 
-## 1980s — Paradigm Era  
+## 1980s — Paradigm era  
 **Focus:** Risk & Modularity  
 **Structural shift:** Abstraction and object orientation  
 
@@ -56,7 +56,7 @@ and industrial abstraction practices strengthened structural reasoning.
 → [Read the full analysis](./1980s-paradigm-era.md)
 
 
-## 1990s — Blueprint Era  
+## 1990s — Blueprint era  
 **Focus:** Patterns & Standards  
 **Structural shift:** Architecture as an explicit discipline  
 
@@ -71,7 +71,7 @@ and refactoring ([Fowler, 1999](../../resources/bibliography.md#fowler-1999)) fo
 
 ---
 
-## 2000s — Human Era  
+## 2000s — Human era  
 **Focus:** Agility & Craft  
 **Structural shift:** Execution adaptability  
 
@@ -83,7 +83,7 @@ and craftsmanship movements ([McBreen, 2001](../../resources/bibliography.md#mcb
 → [Read the full analysis](./2000s-human-era.md)
 
 
-## 2010s — Automation Era  
+## 2010s — Automation era  
 **Focus:** Delivery & Cloud  
 **Structural shift:** Industrialized execution governance  
 
@@ -96,7 +96,7 @@ and cloud governance ([ISACA, 2014](../../resources/bibliography.md#isaca-2014))
 
 ---
 
-## 2020s — AI Era  
+## 2020s — AI era  
 **Focus:** Intelligence & Agents  
 **Structural shift:** Machine-assisted epistemic production  
 
@@ -106,7 +106,6 @@ and synthetic knowledge generation shift how engineering knowledge itself is pro
 
 → [Read the full analysis](./2020s-ai-era.md)
 
----
 
 ## Structural trajectory
 
