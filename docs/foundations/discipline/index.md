@@ -24,7 +24,6 @@ The pages below develop the discipline progressively—from core concepts, throu
 - **[Intent](./intent.md)**  
   Defines system-level purpose, commitments, assumptions, and non-goals as knowledge objects.
 
----
 
 ## Change and evolution
 
