@@ -1,97 +1,71 @@
-# The Discipline of Upstream Software Engineering
+# The Discipline
 
-> ⚠️ **This page is under active construction.**  
-> The conceptual structure is stable, but content is being expanded and refined.
+> ⚠️ **This section is under active construction.**  
+> Concepts, definitions, and structure may evolve as the discipline is refined.
 
-This section defines **Upstream Software Engineering** as a discipline.
+This section establishes the conceptual foundations of **Upstream Software Engineering** as a discipline.
 
-It does not introduce tools, templates, or practices.  
-It establishes the conceptual structure, ontological commitments, and normative boundaries that make the discipline coherent and distinct.
+It defines what upstream governs, how it understands change and evolution, how it relates to downstream practices, and which normative commitments shape its structure.
 
-Upstream is concerned with the **epistemic governance of software system intent across evolution**.  
-The pages in this section progressively build that definition.
-
+The pages below develop the discipline progressively—from core concepts, through change and evolution, to stratification and normative structure.
 
 ---
 
-## Structure of this section
+## Definition and Core Concepts
 
-The discipline is articulated in four conceptual layers:
+- **[Definition](./definition.md)**  
+  Defines Upstream Software Engineering as a discipline and clarifies its locus of concern.
 
-1. **Core conceptualization**
-2. **Normative commitments**
-3. **Change and evolution**
-4. **Stratification and reification**
+- **[Software System](./software-system.md)**  
+  Defines what is governed: the software system as a socio-technical and long-lived entity.
 
-Each layer clarifies a different dimension of what upstream is and what it is not.
+- **[Context](./context.md)**  
+  Describes the environment that conditions and constrains system-level intent.
 
+- **[Intent](./intent.md)**  
+  Defines system-level purpose, commitments, assumptions, and non-goals as knowledge objects.
 
 ---
 
-# Layer 1 — Core conceptualization
+## Change and Evolution
 
-These pages define the fundamental stance of the discipline.
+- **[Change](./change.md)**  
+  Defines what change is and how changes in context may trigger changes in the system.
 
-- **[Definition of Upstream Software Engineering](./definition.md)**  
-  Provides the formal definition of the discipline and its primary locus of governance.
+- **[Software Evolution](./software-evolution.md)**  
+  Presents the upstream understanding of evolution as epistemic helices—structured cycles of reinterpretation and re-articulation of intent and structure across time.
 
-- **[Positioning within Software Engineering](./positioning.md)**  
-  Situates upstream relative to established traditions, including project-centric, architecture-centric, and governance-centric approaches.
+---
+
+## Stratification and Reification
 
 - **[Upstream and Downstream](./upstream-and-downstream.md)**  
-  Clarifies the distinction between epistemic governance (upstream) and realization/operation (downstream).  
-  This distinction is conceptual rather than chronological.
+  Establishes the distinction between epistemic governance (upstream) and execution-oriented practices (downstream).
 
+- **[Reification and Artifacts](./reification-and-artifacts.md)**  
+  Clarifies the difference between normative knowledge structures and the concrete artifacts that may instantiate them.
 
 ---
 
-# Layer 2 — Normative foundations
+## Normative Foundations
 
-Upstream is not a methodology.  
-It is a normative stance grounded in ontological and epistemic commitments.
+- **[Underlying Rationale](./underlying-rationale.md)**  
+  Presents the lessons extracted from software engineering history and research that shape the discipline’s design.
 
 - **[Ontological Commitments](./ontological-commitments.md)**  
-  Defines the core assumptions about software systems, intent, structure, context, and knowledge.
+  States the explicit commitments about systems, knowledge, governance, and evolution that the discipline adopts.
 
-- **[Principles of the Discipline](./principles.md)**  
-  Extracts foundational lessons from software engineering history that justify the need for upstream governance.
+- **[Normative Structure](./normative-structure.md)**  
+  Explains why a metamodel and formally valid transformations are required, and why upstream does not prescribe specific artifacts.
 
-- **[Why a Metamodel and Plays](./why-metamodel-and-plays.md)**  
-  Explains why the discipline is defined in terms of a metamodel (knowledge structures) and plays (valid transformations), rather than tools or prescribed artifacts.
-
-
----
-
-# Layer 3 — Change and evolution
-
-Upstream is inseparable from a particular understanding of change.
-
-- **[Change and Context](./change-and-context.md)**  
-  Defines change as variation in context that may trigger transformation of the system.
-
-- **[Software Evolution as Epistemic Helices](./evolution-as-epistemic-helices.md)**  
-  Presents software evolution as a structured, recursive, epistemic process in which intent and structure co-evolve across time.
-
+- **[Positioning](./positioning.md)**  
+  Situates Upstream Software Engineering in relation to software engineering, architecture, governance, and related fields.
 
 ---
 
-# Layer 4 — Stratification and reification
+## Where to start
 
-Software systems are realized in artifacts, but upstream does not prescribe artifacts.
+If you are reading this part sequentially, begin with **[Definition](./definition.md)**.
 
-- **[Reification and Knowledge Domains](./reification-and-artifacts.md)**  
-  Clarifies the distinction between knowledge structures (normative) and their concrete realization in organizational artifacts (contingent).
-
-Upstream defines what knowledge must remain governable.  
-It does not define which documents, tools, or templates must exist.
-
-
----
-
-## Reading guidance
-
-This section can be read sequentially from Layer 1 to Layer 4.  
-However, readers primarily interested in evolution may start with **Change and Context**, and readers concerned with practice alignment may start with **Upstream and Downstream**.
-
-Return to **[Foundations Home](../index.md)** for the broader structure of the Foundations part.  
-Return to **[Guidebook Home](../../index.md)** for the full guidebook overview.
+Return to **[Foundations](../index.md)** for an overview of the entire Foundations part.  
+Return to **[Guidebook Home](../../index.md)** for the complete guidebook structure.
