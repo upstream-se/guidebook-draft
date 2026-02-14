@@ -175,3 +175,10 @@ In summary:
 - Use **[Resources](./resources/index.md)** for reusable materials and further application
 
 This separation enables governance **without rigidity**, and guidance **without prescription**.
+
+
+## Where to go next
+
+Proceed to **[Motivation](./motivation/index.md)** to understand why the discipline is needed.
+
+If preferred, return to **[Guidebook home](./index.md)** for an overview of this guidebook.
