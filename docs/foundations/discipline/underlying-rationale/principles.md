@@ -7,14 +7,14 @@
 
 This page articulates the principles of Upstream Software Engineering.
 
-These principles are not arbitrary design choices.  
-They are derived from the historical analysis presented in **[Underlying Rationale](./underlying-rationale/index.md)**, where successive eras of software engineering were examined in terms of what became governable, how governance was exercised, and what remained structurally under-governed.
+These principles are not arbitrary design choices.  They are derived from the historical analysis presented in **[Underlying rationale](./underlying-rationale/index.md)**, where successive eras of Software Engineering were examined in terms of what became governable, how governance was exercised, and what remained structurally under-governed.
 
 The goal of this page is to:
 
 - extract durable lessons from that historical analysis,
 - identify recurring structural patterns across eras,
-- and derive a coherent set of principles that justify the upstream discipline.
+- derive a coherent set of principles that justify the upstream discipline.
+
 
 ## Lessons learned across eras
 
@@ -25,61 +25,53 @@ This section consolidates the durable lessons extracted from each historical era
 
 Large-scale software development requires explicit engineering discipline and formal control mechanisms.
 
-> Unstructured programming does not scale. Explicit sequencing, documentation, and verification are necessary to coordinate complexity.
+> Unstructured programming does not scale.  Explicit sequencing, documentation, and verification are necessary to coordinate complexity.
 
 
 ### 1970s — Complexity era
 
 Complexity must be governed structurally and procedurally, not merely executed competently.
 
-> Modularity is not only a design convenience; it is a governance mechanism for isolating change (Parnas, 1972). > Lifecycle structure is not merely documentation; it is an institutional scaffold for coordination (Royce, 1970).
-> Software engineering became concerned not just with writing programs, but with organizing systems and the processes that produce them.
+> Modularity is not only a design convenience; it is a governance mechanism for isolating change (Parnas, 1972).  Lifecycle structure is not merely documentation; it is an institutional scaffold for coordination (Royce, 1970).  Software Engineering became concerned not just with writing programs, but with organizing systems and the processes that produce them.
 
 
 ### 1980s — Paradigm era
 
 Abstraction and risk awareness are essential governance mechanisms for long-lived systems.
 
-> Object orientation institutionalized the idea that structure should reflect stable domain concepts. Risk-driven iteration acknowledged that planning alone cannot eliminate uncertainty.
-> Software Engineering matured from procedural control to conceptual design under uncertainty.
+> Object orientation institutionalized the idea that structure should reflect stable domain concepts.  Risk-driven iteration acknowledged that planning alone cannot eliminate uncertainty.  Software Engineering matured from procedural control to conceptual design under uncertainty.
 
 
 ### 1990s — Blueprint era
 
 Structural knowledge must be explicitly articulated to sustain large, evolving systems.
 
-> Architecture is not an emergent byproduct of coding activity. It is a governable knowledge asset requiring description, communication, and stewardship.
-> This insight permanently expanded the scope of Software Engineering beyond code and lifecycle sequencing.
+> Architecture is not an emergent byproduct of coding activity.  It is a governable knowledge asset requiring description, communication, and stewardship.  This insight permanently expanded the scope of Software Engineering beyond code and lifecycle sequencing.
 
 
 ### 2000s — Human era
 
 Responsiveness and feedback loops are essential to sustainable software evolution.
 
-> Execution must remain adaptable. Learning must be continuous. Coordination must be frequent and visible.
-> This permanently shifted Software Engineering toward shorter cycles, incremental delivery, and empirical process control.
+> Execution must remain adaptable.  Learning must be continuous.  Coordination must be frequent and visible.  This permanently shifted Software Engineering toward shorter cycles, incremental delivery, and empirical process control.
 
 
 ### 2010s — Automation era
 
 Execution can be automated, instrumented, and continuously governed at scale.
 
-> Automation is not merely technical—it is governance embedded in code.
-> This era permanently institutionalized:
-> * Continuous integration.
-> * Continuous delivery.
-> * Infrastructure as code.
-> * Observability as a governance mechanism.
+> Automation is not merely technical—it is governance embedded in code.  This era permanently institutionalized:
+> - Continuous integration  
+> - Continuous delivery  
+> - Infrastructure as code  
+> - Observability as a governance mechanism
 
 
 ### 2020s — AI era
 
-The production of artifacts can be automated.  The stewardship of intent cannot.
+The production of artifacts can be automated. The stewardship of intent cannot.
 
-> AI may assist in generating structural and execution-level artifacts, but the preservation of purpose, commitments, assumptions, and non-goals requires explicit governance.
-> AI can propose intent. It cannot institutionally commit to it.
-> Intent must therefore be articulated, preserved, and revisited independently of the agents—human or artificial—that generate artifacts.
-> This insight strengthens the case for treating system-level intent as a durable epistemic object.
+> AI may assist in generating structural and execution-level artifacts, but the preservation of purpose, commitments, assumptions, and non-goals requires explicit governance.  AI can propose intent.  It cannot institutionally commit to it.  Intent must therefore be articulated, preserved, and revisited independently of the agents—human or artificial—that generate artifacts.  This insight strengthens the case for treating system-level intent as a durable epistemic object.
 
 
 ## Cross-era synthesis
@@ -87,44 +79,31 @@ The production of artifacts can be automated.  The stewardship of intent cannot.
 Across seven decades, Software Engineering progressively expanded what could be governed.
 
 Execution discipline was formalized.  
-Structural decomposition was institutionalized.  
-Architectural knowledge became explicit.  
-Coordination became iterative and human-centered.  
-Execution became automated and continuously observable.  
-Artifact generation became AI-augmented.
+Structural decomposition was institutionalized.  Architectural knowledge became explicit.  Coordination became iterative and human-centered.  Execution became automated and continuously observable.  Artifact generation became AI-augmented.
 
-Each era strengthened governance along specific dimensions.
+Each era strengthened governance along specific dimensions.  Yet a recurring asymmetry persists:
 
-Yet a recurring asymmetry persists:
-
-- Execution governance becomes increasingly mature.
-- Structural governance becomes increasingly explicit.
-- Managerial articulation of intent becomes formalized.
+- Execution governance has become increasingly mature.
+- Structural governance has become increasingly explicit.
+- Managerial articulation of intent has become increasingly formalized.
 - Durable epistemic governance of system-level intent remains comparatively under-institutionalized.
 
-Intent is repeatedly articulated, but rarely stewarded as a long-lived knowledge object.
+Intent is repeatedly articulated, but rarely stewarded as a long-lived knowledge object.  This asymmetry appears consistently:
 
-This asymmetry appears consistently:
-
-- Requirements are documented but not continuously revisited.
+- Requirements are documented but not systematically revisited.
 - Architectural decisions are recorded but often detached from evolving purpose.
 - Iteration accelerates change without necessarily preserving rationale.
-- Automation governs how change happens, not why.
+- Automation governs how change occurs, not why.
 - AI generates artifacts but does not institutionalize commitment.
 
-Across eras, Software Engineering mastered activity, structure, coordination, and automation.
-
-What remains structurally fragile is the long-term stewardship of purpose.
-
-This cross-era pattern provides the foundation for upstream principles.
+Across eras, Software Engineering mastered activity, structure, coordination, and automation.  What remains structurally fragile is the long-term stewardship of purpose.  This cross-era pattern provides the foundation for upstream principles.
 
 
 ## Derived principles of Upstream Software Engineering
 
 From the historical lessons and structural asymmetries identified above, the following principles are derived.
 
-These principles do not prescribe methods.  
-They articulate what must be treated as governable if long-lived systems are to remain coherent across evolution.
+These principles do not prescribe methods.  They articulate what must be treated as governable if long-lived systems are to remain coherent across evolution.
 
 
 ### Principle 1 — Intent is a governable knowledge object
@@ -204,11 +183,12 @@ Change governance must include systematic revisitability of assumptions, non-goa
 
 ## Relationship to other foundational elements
 
-The principles articulated here will justify:
+The principles articulated here justify:
 
 - the ontological commitments defined in **[Ontological Commitments](../ontological-commitments.md)**,
 - the normative structure introduced in **[Normative Structure](../normative-structure.md)**,
-- and the positioning of Upstream Software Engineering within the broader landscape of software engineering practice.
+- the positioning of Upstream Software Engineering within the broader landscape of software engineering practice.
+
 
 ## Navigation
 
