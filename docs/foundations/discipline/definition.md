@@ -3,7 +3,10 @@
 > ⚠️ **This page is under active construction.**  
 > The conceptual structure is established. Wording and refinement will evolve.
 
-## 1. Definition
+This page defines Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.  It clarifies its locus of concern, its object of governance, and its relationship to the construction, operation, and evolution of long-lived software systems.  The definition is intentionally concise; what follows specifies its precise meaning and scope.
+
+
+## Definition
 
 > **Definition.**  Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems, articulable as durable, revisable commitments about scope and structure that normatively guide their construction, operation, and evolution as their context changes.
 
