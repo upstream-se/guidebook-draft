@@ -84,45 +84,123 @@ The production of artifacts can be automated.  The stewardship of intent cannot.
 
 ## Cross-era synthesis
 
-This section will identify structural regularities across eras.
+Across seven decades, Software Engineering progressively expanded what could be governed.
 
-Questions to guide synthesis:
+Execution discipline was formalized.  
+Structural decomposition was institutionalized.  
+Architectural knowledge became explicit.  
+Coordination became iterative and human-centered.  
+Execution became automated and continuously observable.  
+Artifact generation became AI-augmented.
 
-- Which dimensions of governance progressively strengthened?
-- Which knowledge objects became increasingly formalized?
-- Which governance configurations remained comparatively under-institutionalized?
-- What recurring asymmetries appear across decades?
+Each era strengthened governance along specific dimensions.
 
-*(Synthesis to be developed.)*
+Yet a recurring asymmetry persists:
+
+- Execution governance becomes increasingly mature.
+- Structural governance becomes increasingly explicit.
+- Managerial articulation of intent becomes formalized.
+- Durable epistemic governance of system-level intent remains comparatively under-institutionalized.
+
+Intent is repeatedly articulated, but rarely stewarded as a long-lived knowledge object.
+
+This asymmetry appears consistently:
+
+- Requirements are documented but not continuously revisited.
+- Architectural decisions are recorded but often detached from evolving purpose.
+- Iteration accelerates change without necessarily preserving rationale.
+- Automation governs how change happens, not why.
+- AI generates artifacts but does not institutionalize commitment.
+
+Across eras, Software Engineering mastered activity, structure, coordination, and automation.
+
+What remains structurally fragile is the long-term stewardship of purpose.
+
+This cross-era pattern provides the foundation for upstream principles.
+
 
 ## Derived principles of Upstream Software Engineering
 
-From the historical lessons and cross-era synthesis, this section will articulate a set of explicit principles.
+From the historical lessons and structural asymmetries identified above, the following principles are derived.
 
-Each principle should:
+These principles do not prescribe methods.  
+They articulate what must be treated as governable if long-lived systems are to remain coherent across evolution.
 
-- Be historically grounded.
-- Address a structural asymmetry revealed in the timeline.
-- Justify a core commitment of the upstream discipline.
 
-Provisional structure:
+### Principle 1 — Intent is a governable knowledge object
 
-1. Principle 1 — *(Title to be defined)*  
-   - Rationale  
-   - Historical grounding  
-   - Governance implication  
+**Statement**  
+System-level intent (purpose, assumptions, commitments, constraints, and non-goals) must be treated as an explicit, inspectable, and revisitable knowledge object.
 
-2. Principle 2 — *(Title to be defined)*  
-   - Rationale  
-   - Historical grounding  
-   - Governance implication  
+**Rationale**  
+Across eras, intent is repeatedly articulated but rarely preserved durably. When intent remains project-bound or implicit, rationale fragments and divergence accumulates.
 
-3. Principle 3 — *(Title to be defined)*  
-   - Rationale  
-   - Historical grounding  
-   - Governance implication  
+**Governance implication**  
+Intent must not be reduced to requirements artifacts or planning documents.  
+It must be institutionally stewarded as evolving knowledge.
 
-*(Additional principles to be added.)*
+
+### Principle 2 — Governance must extend beyond initiatives
+
+**Statement**  
+Governance of long-lived systems must transcend project and iteration boundaries.
+
+**Rationale**  
+Software systems persist beyond projects, teams, and provider transitions. Project-scoped governance cannot ensure continuity of meaning across time.
+
+**Governance implication**  
+Structures must exist to preserve and revisit intent independently of initiative lifecycles.
+
+
+### Principle 3 — Structural decisions must remain traceable to intent
+
+**Statement**  
+Structural evolution must remain explicitly related to declared intent.
+
+**Rationale**  
+Architecture-centric approaches made structure governable, but linkage between structure and long-term purpose often remains weak. Divergence accumulates when structural change is not continuously evaluated against intent.
+
+**Governance implication**  
+Traceability is not merely technical; it is epistemic.  
+Structural adaptation must be continuously justified in light of preserved commitments.
+
+
+### Principle 4 — Execution excellence does not substitute epistemic stewardship
+
+**Statement**  
+High maturity in execution governance does not guarantee durability of system-level meaning.
+
+**Rationale**  
+Agile, DevOps, and automation strengthened execution control dramatically. Yet acceleration increases the risk of intent erosion when stewardship mechanisms are absent.
+
+**Governance implication**  
+Speed must be coupled with explicit preservation of purpose.  
+Automation must not obscure accountability for intent.
+
+
+### Principle 5 — Automation amplifies the need for epistemic governance
+
+**Statement**  
+The more artifact production is automated, the more intentional governance must be explicit.
+
+**Rationale**  
+AI systems can generate structure, documentation, and even rationale. However, generated coherence is not equivalent to institutional commitment.
+
+**Governance implication**  
+Intent must remain explicitly governed independently of the agents—human or artificial—that produce artifacts.
+
+
+### Principle 6 — Software evolution is epistemic before it is structural
+
+**Statement**  
+Sustainable evolution requires continuous re-evaluation of knowledge, not only continuous modification of artifacts.
+
+**Rationale**  
+Across decades, structural and procedural governance improved, yet the erosion of rationale persisted. Evolution is not merely code change; it is reinterpretation of commitments under changing context.
+
+**Governance implication**  
+Change governance must include systematic revisitability of assumptions, non-goals, and declared purpose.
+
 
 ## Relationship to other foundational elements
 
