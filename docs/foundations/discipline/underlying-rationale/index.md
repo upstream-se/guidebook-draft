@@ -51,15 +51,19 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./1970s-complexity-era.md)
 
 
-## 1980s — Paradigm era  
-**Focus:** Risk & Modularity  
-**Structural shift:** Abstraction and object orientation  
+## 1980s — Paradigm era
 
-Object-oriented design ([Booch, 1986](../../resources/bibliography.md#booch-1986); 
-[Stroustrup, 1983](../../resources/bibliography.md#stroustrup-1983); 
-[Jacobson, 1987](../../resources/bibliography.md#jacobson-1987)),  
-spiral risk management ([Boehm, 1986](../../resources/bibliography.md#boehm-1986)),  
-and industrial abstraction practices strengthened structural reasoning.
+**Focus:** Abstraction under uncertainty  
+
+**Problem:** Designing systems that could survive evolving requirements, accumulated technical risk, and long-term conceptual complexity.  
+
+**Governable:** Conceptual abstraction through object orientation ([Booch, 1986](../../resources/bibliography.md#booch-1986); [Stroustrup, 1983](../../resources/bibliography.md#stroustrup-1983)); risk through iterative control in the Spiral Model ([Boehm, 1986](../../resources/bibliography.md#boehm-1986)); behavioral intent via use cases ([Jacobson, 1987](../../resources/bibliography.md#jacobson-1987)).  
+
+**Mode:** **Managerial × Structural**, with early movement toward epistemic structuring of conceptual models and risk reasoning.  
+
+**Lesson:** Abstraction and explicit risk management are governance mechanisms; structure must reflect stable domain concepts while remaining adaptable.  
+
+**Under-governed:** Durable system-level intent — abstraction decisions and rationale remained largely project-scoped rather than institutionalized across long-term evolution.  
 
 → [Read the full analysis](./1980s-paradigm-era.md)
 
