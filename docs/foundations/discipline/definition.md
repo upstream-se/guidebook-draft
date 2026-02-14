@@ -5,9 +5,112 @@
 
 ## 1. Definition
 
-*(To be drafted carefully as a concise but strong disciplinary definition.)*
+$1
 
-This section will define Upstream Software Engineering as a discipline concerned with the governance of system-level intent, articulated as binding but revisable commitments justified relative to explicit knowledge of context.
+Upstream Software Engineering is the discipline concerned with the governance of system-level intent as durable and revisable institutional commitment. It treats intent not as a transient project artifact, but as explicit knowledge that binds downstream realization while remaining open to deliberate re-articulation. This intent is dual: commitments regarding the system’s scope (what it must and must not do) and commitments regarding its structure (the architectural, technological, and environmental constraints that must guide its realization). Upstream governs not the external context itself, but the articulated knowledge of that context through which intent is justified and evaluated. Its locus of concern is therefore the preservation, visibility, and continuous stewardship of commitments across initiatives, teams, and technological change. In this sense, Upstream Software Engineering governs meaning before governing execution.
+
+$2
+
+Upstream Software Engineering is the discipline concerned with the governance of system-level intent and its contextual knowledge as explicit, durable, and revisable institutional commitments that normatively bind downstream realization.
+
+$3
+
+## 1. Definition
+
+> **Definition.**  
+> **Upstream Software Engineering governs the intent of a software system as binding, durable, and revisable commitments that normatively guide its construction, operation, and evolution within its context.**
+
+In this discipline, **intent** refers to explicit commitments about what the software system is meant to be and how it is meant to be structured.  
+It has two inseparable dimensions:
+
+- **Intent in scope** — commitments about purpose, capabilities, boundaries, and non-goals that normatively frame system requirements.
+- **Intent in structure** — commitments about architectural decisions, constraints, environments, automation principles, and technological directions that normatively frame system architecture.
+
+These commitments are **binding** in that they constrain downstream realization;  
+**durable** in that they persist beyond individual projects, iterations, teams, and providers;  
+and **revisable** in that they must be explicitly reconsidered and updated when context or understanding changes.
+
+The discipline does not govern the external world itself.  
+It governs the **knowledge about the context** in which the software system is inserted, and the relationship between that context and declared intent.
+
+Upstream Software Engineering therefore concerns the stewardship of commitments that must remain visible, inspectable, and governable across time.
+
+
+## Stress-testing the definition
+
+To assess the robustness of the definition, it is useful to examine how it behaves under boundary conditions. The following cases test whether the definition remains coherent across different types of systems, organizational contexts, and technological environments.
+
+### 1. Short-lived systems
+
+**Case.** Hackathon prototypes, throwaway scripts, or one-off internal tools.
+
+**Observation.** The definition explicitly applies to long lived systems. If durability is not required, epistemic stewardship of intent is unnecessary.
+
+**Implication.** Upstream Software Engineering is not “more process” applied universally. It addresses the structural problem of preserving coherent commitments across time. Where longevity is irrelevant, upstream governance is correspondingly unnecessary.
+
+---
+
+### 2. Greenfield startup environments
+
+**Case.** Early-stage product development with minimal documentation and rapid iteration.
+
+**Observation.** Even in greenfield contexts, there exists intent — vision, commitments, constraints, positioning — that normatively guides development.
+
+**Implication.** Upstream does not require heavy artifacts. It requires that intent be articulable, revisitable, and consciously revised as context shifts. The definition is compatible with lean and iterative environments.
+
+---
+
+### 3. AI-augmented development
+
+**Case.** Large portions of the system are generated or refactored by AI systems.
+
+**Observation.** AI can generate artifacts, but it cannot institutionally commit to intent.
+
+**Implication.** The more artifact production is automated, the more critical explicit intent governance becomes. The definition scales to AI-augmented environments because it governs commitments, not authorship.
+
+---
+
+### 4. Legacy modernization
+
+**Case.** Long-lived systems with decayed documentation and lost rationale.
+
+**Observation.** Intent may be implicit, fragmented, or partially lost.
+
+**Implication.** Upstream practice includes reconstruction and re-articulation of commitments. Durability is not assumed; it is actively re-established.
+
+---
+
+### 5. Highly regulated domains
+
+**Case.** Banking, healthcare, aerospace, or other compliance-intensive environments.
+
+**Observation.** Regulatory frameworks govern risk, controls, and auditability.
+
+**Implication.** Regulatory governance does not necessarily institutionalize durable epistemic stewardship of system-level intent. Upstream governance complements compliance by preserving coherent commitments beyond audit requirements.
+
+---
+
+### 6. Rapid pivot environments
+
+**Case.** Organizations that frequently change business models or strategic direction.
+
+**Observation.** Durability does not imply immutability.
+
+**Implication.** Commitments are durable yet revisable. Upstream governance ensures that revision is explicit and traceable, rather than implicit and accumulative.
+
+---
+
+### 7. Conceptual consistency
+
+Across these boundary cases, the definition remains internally coherent:
+
+- It governs intent rather than artifacts.
+- It applies only where long-term coherence matters.
+- It accommodates iteration and automation.
+- It remains distinct from execution-focused methodologies.
+- It scales to AI-augmented environments.
+
+The stress test confirms that the definition is neither overly restrictive nor vacuous. It isolates a specific and historically persistent governance problem: the preservation and conscious revision of articulated commitments about scope and structure as context changes over time.
 
 
 ## 2. What Is Governed
