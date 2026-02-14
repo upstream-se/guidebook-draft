@@ -5,20 +5,9 @@
 
 ## 1. Definition
 
-$1
+> **Definition.**  Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems, articulable as durable, revisable commitments about scope and structure that normatively guide their construction, operation, and evolution as their context changes.
 
-Upstream Software Engineering is the discipline concerned with the governance of system-level intent as durable and revisable institutional commitment. It treats intent not as a transient project artifact, but as explicit knowledge that binds downstream realization while remaining open to deliberate re-articulation. This intent is dual: commitments regarding the system’s scope (what it must and must not do) and commitments regarding its structure (the architectural, technological, and environmental constraints that must guide its realization). Upstream governs not the external context itself, but the articulated knowledge of that context through which intent is justified and evaluated. Its locus of concern is therefore the preservation, visibility, and continuous stewardship of commitments across initiatives, teams, and technological change. In this sense, Upstream Software Engineering governs meaning before governing execution.
-
-$2
-
-Upstream Software Engineering is the discipline concerned with the governance of system-level intent and its contextual knowledge as explicit, durable, and revisable institutional commitments that normatively bind downstream realization.
-
-$3
-
-## 1. Definition
-
-> **Definition.**  
-> **Upstream Software Engineering governs the intent of a software system as binding, durable, and revisable commitments that normatively guide its construction, operation, and evolution within its context.**
+--
 
 In this discipline, **intent** refers to explicit commitments about what the software system is meant to be and how it is meant to be structured.  
 It has two inseparable dimensions:
