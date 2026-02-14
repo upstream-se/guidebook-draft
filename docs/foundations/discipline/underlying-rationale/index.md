@@ -68,16 +68,19 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./1980s-paradigm-era.md)
 
 
-## 1990s — Blueprint era  
-**Focus:** Patterns & Standards  
-**Structural shift:** Architecture as an explicit discipline  
+## 1990s — Blueprint era
 
-Software architecture ([Perry & Wolf, 1992](../../resources/bibliography.md#perry-wolf-1992)),  
-design patterns ([Gamma et al., 1994](../../resources/bibliography.md#gamma-etal-1994)),  
-UML standardization ([Object Management Group, 1997](../../resources/bibliography.md#omg-uml-1997)),  
-Scrum ([Schwaber & Sutherland, 2017](../../resources/bibliography.md#scrum-guide-2017)),  
-XP ([Beck, 1999](../../resources/bibliography.md#beck-1999)),  
-and refactoring ([Fowler, 1999](../../resources/bibliography.md#fowler-1999)) formalized shared structural knowledge.
+**Focus:** Architectural formalization  
+
+**Problem:** Preserving structural integrity and conceptual coherence across scale, distributed teams, and long-lived enterprise systems.  
+
+**Governable:** Architecture as an explicit knowledge object — components, connectors, and viewpoints ([Perry & Wolf, 1992](../../resources/bibliography.md#perry-wolf-1992)); reusable structural solutions via patterns ([Gamma et al., 1994](../../resources/bibliography.md#gamma-etal-1994)); architectural decision documentation and knowledge management ([Kruchten et al., 2015](../../resources/bibliography.md#kruchten-etal-2015)).  
+
+**Mode:** **Epistemic × Structural**, reinforced by managerial standards and architectural review practices.  
+
+**Lesson:** Structural knowledge must be explicitly articulated and stewarded to sustain large, evolving systems.  
+
+**Under-governed:** Durable system-level intent — architectural rationale and long-term purpose often remained project-scoped and decayed without sustained epistemic processes ([van der Ven et al., 2006](../../resources/bibliography.md#van-der-ven-etal-2006)).  
 
 → [Read the full analysis](./1990s-blueprint-era.md)
 
