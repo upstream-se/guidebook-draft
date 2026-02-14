@@ -175,6 +175,6 @@ The principles articulated here justify:
 
 ## Where to go next
 
-For a sequential reading, proceed to **[Definition](../definition.md)** for the definiton of Upstream Software Engineering an its locus of governance.
+For a sequential reading, proceed to **[Definition](./definition.md)** for the definiton of Upstream Software Engineering an its locus of governance.
 
 If prefered, return to **[The discipline](./index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../index.md)** for an overview of this part, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
