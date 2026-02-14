@@ -175,7 +175,6 @@ The principles articulated here justify:
 
 ## Where to go next
 
-- Back to **[Underlying Rationale](./underlying-rationale/index.md)**
-- Back to **[Discipline](../index.md)**
-- Back to **[Foundations](../../index.md)**
-- Return to **[Guidebook Home](../../../index.md)**
+For a sequential reading, proceed to **[Definition](../definition.md)** for the definiton of Upstream Software Engineering an its locus of governance.
+
+If prefered, return to **[The discipline](./index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../index.md)** for an overview of this part, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
