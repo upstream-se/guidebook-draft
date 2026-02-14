@@ -1,7 +1,5 @@
 # Underlying rationale
 
-> ⚠️ **This section is under active construction.**
-
 Upstream Software Engineering is grounded in lessons accumulated across successive eras of software Engineering.  Each era surfaced a structural tension and institutionalized new forms of governance in response.
 
 This section reconstructs those eras analytically, following the historical progression through which Software Engineering progressively expanded what it treats as governable.
@@ -147,3 +145,10 @@ Across eras:
 Yet the sustained epistemic stewardship of system-level intent — as durable, inspectable, revisitable knowledge across decades — remains comparatively under-governed.
 
 That structural asymmetry motivates the upstream discipline.
+
+
+## Where to go next
+
+For a sequential reading, proceed to **[Principles](../principles.md)** to undersrand the foundational principles derived from the historical analysis and the commitments that shape Upstream Software Engineering.
+
+If prefered, return to **[Foundations](../index.md)** for an overview of this part, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
