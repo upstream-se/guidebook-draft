@@ -101,84 +101,72 @@ Across eras, Software Engineering mastered activity, structure, coordination, an
 
 ## Derived principles of Upstream Software Engineering
 
-From the historical lessons and structural asymmetries identified above, the following principles are derived.
+From the historical analysis and cross-era synthesis, the following principles shape the upstream discipline.  
 
-These principles do not prescribe methods.  They articulate what must be treated as governable if long-lived systems are to remain coherent across evolution.
-
-
-### Principle 1 — Intent is a governable knowledge object
-
-**Statement**  
-System-level intent (purpose, assumptions, commitments, constraints, and non-goals) must be treated as an explicit, inspectable, and revisitable knowledge object.
-
-**Rationale**  
-Across eras, intent is repeatedly articulated but rarely preserved durably. When intent remains project-bound or implicit, rationale fragments and divergence accumulates.
-
-**Governance implication**  
-Intent must not be reduced to requirements artifacts or planning documents.  
-It must be institutionally stewarded as evolving knowledge.
+They do not prescribe specific methods or artifacts.  They define what must be treated as governable if long-lived software systems are to remain coherent across time.
 
 
-### Principle 2 — Governance must extend beyond initiatives
+### I — Intent and context as governable knowledge
 
-**Statement**  
-Governance of long-lived systems must transcend project and iteration boundaries.
+> **Principle.**. System-level intent and its framing context must be treated as explicit, durable, and revisitable knowledge objects.
 
-**Rationale**  
-Software systems persist beyond projects, teams, and provider transitions. Project-scoped governance cannot ensure continuity of meaning across time.
+Across eras, intent is repeatedly articulated but rarely preserved as long-lived knowledge.  Requirements documents, visions, roadmaps, and backlogs capture fragments of purpose, yet assumptions about environment, stakeholders, constraints, and technological conditions often remain implicit.  Over time, these fragments detach from one another.
 
-**Governance implication**  
-Structures must exist to preserve and revisit intent independently of initiative lifecycles.
+When intent and context are not institutionally stewarded, rationale fragments, commitments drift, and structural divergence accumulates.  
 
-
-### Principle 3 — Structural decisions must remain traceable to intent
-
-**Statement**  
-Structural evolution must remain explicitly related to declared intent.
-
-**Rationale**  
-Architecture-centric approaches made structure governable, but linkage between structure and long-term purpose often remains weak. Divergence accumulates when structural change is not continuously evaluated against intent.
-
-**Governance implication**  
-Traceability is not merely technical; it is epistemic.  
-Structural adaptation must be continuously justified in light of preserved commitments.
+Upstream therefore treats intent and context not as transient inputs to projects, but as governable knowledge requiring explicit articulation, preservation, and systematic revisitability.
 
 
-### Principle 4 — Execution excellence does not substitute epistemic stewardship
+### II — Governance beyond initiatives
 
-**Statement**  
-High maturity in execution governance does not guarantee durability of system-level meaning.
+> **Principle.**.  Governance of long-lived systems must transcend initiative lifecycles, organizational restructurings, and provider transitions.
 
-**Rationale**  
-Agile, DevOps, and automation strengthened execution control dramatically. Yet acceleration increases the risk of intent erosion when stewardship mechanisms are absent.
+Software systems routinely outlive the initiatives that create or modify them.  Teams change, roadmaps expire, organizations restructure, and vendors rotate.  Project-scoped governance, no matter how mature, cannot ensure continuity of meaning across these discontinuities.
 
-**Governance implication**  
-Speed must be coupled with explicit preservation of purpose.  
-Automation must not obscure accountability for intent.
+If governance is bounded by initiative lifecycles, stewardship of purpose becomes episodic.  Each project restates intent anew, often without full awareness of prior commitments and assumptions.
+
+Upstream therefore extends governance temporally.  It institutionalizes mechanisms that preserve and revisit intent independently of individual initiatives.
 
 
-### Principle 5 — Automation amplifies the need for epistemic governance
+### III — Structural alignment to intent
 
-**Statement**  
-The more artifact production is automated, the more intentional governance must be explicit.
+> **Principle.**.  Structural evolution must remain continuously aligned with declared intent.
 
-**Rationale**  
-AI systems can generate structure, documentation, and even rationale. However, generated coherence is not equivalent to institutional commitment.
+Architecture-centric approaches made structural knowledge explicit and inspectable.  Yet structural decisions frequently detach from the long-term purpose that originally justified them.  As systems evolve, structure adapts incrementally while intent remains static, implicit, or forgotten.
 
-**Governance implication**  
-Intent must remain explicitly governed independently of the agents—human or artificial—that produce artifacts.
+Divergence rarely appears abruptly.  It accumulates gradually through local optimizations, short-term trade-offs, and unrecorded assumptions.
+
+Upstream therefore requires that structural decisions remain traceable to preserved intent.  Traceability is not merely technical bookkeeping; it is epistemic justification.  Structural change must be evaluated in light of declared commitments, constraints, and non-goals.
 
 
-### Principle 6 — Software evolution is epistemic before it is structural
+### IV — Epistemic stewardship beyond execution
 
-**Statement**  
-Sustainable evolution requires continuous re-evaluation of knowledge, not only continuous modification of artifacts.
+> **Principle.**.  Execution excellence does not substitute for stewardship of meaning.
 
-**Rationale**  
-Across decades, structural and procedural governance improved, yet the erosion of rationale persisted. Evolution is not merely code change; it is reinterpretation of commitments under changing context.
+Over decades, Software Engineering progressively strengthened execution governance.  Iterative coordination, continuous delivery, automation, and observability have achieved unprecedented maturity.  Systems can now be built, tested, and deployed continuously at scale.
 
-**Governance implication**  
-Change governance must include systematic revisitability of assumptions, non-goals, and declared purpose.
+Yet execution discipline governs how change occurs, not why it occurs.  High performance in delivery does not guarantee preservation of rationale, assumptions, or long-term coherence.
+
+Upstream therefore distinguishes execution governance from epistemic stewardship.  Sustainable evolution requires explicit maintenance of purpose, not only efficient production of artifacts.
+
+
+### V — Automation requires intentional governance
+
+> **Principle.**.  The more artifact production is automated, the more intentional governance must be explicit.
+
+Automation and AI amplify the capacity to generate code, architecture, documentation, and even plausible explanations.  Generated coherence, however, is not equivalent to institutional commitment.  AI systems can propose intent; they cannot assume responsibility for it.
+
+As artifact production accelerates, variability increases and divergence can occur more rapidly.  Without explicit stewardship of purpose, acceleration produces faster drift.
+
+Upstream therefore asserts that automation strengthens—not weakens—the necessity of durable intentional governance.  Intent must remain explicitly articulated, preserved, and revisited independently of the agents—human or artificial—that generate artifacts.
+
+
+## Implications for the discipline
+
+Together, these principles ground Upstream Software Engineering.  
+They express the commitments that shape the discipline and orient its conception of governance, evolution, and responsibility.
+
+They justify the ontological commitments, the normative metamodel, and the definition of valid transformations articulated in the following sections.
 
 
 ## Relationship to other foundational elements
