@@ -20,6 +20,10 @@ The following elaboration stabilizes the intended interpretation of the definiti
 
 **Context** itself is not governed as external reality.  What is governed is the explicit knowledge about the context in which the system is embedded and the articulated relationship between that knowledge and system intent.  When context shifts, commitments must be consciously reinterpreted or revised rather than allowed to erode through drift.
 
+The meaning of the definition above can be disciplined by examining borderline cases and adjacent practices.
+
+→ Read the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
+
 
 ## Stress-testing the definition
 
