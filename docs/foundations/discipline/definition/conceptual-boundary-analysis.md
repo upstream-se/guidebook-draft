@@ -81,4 +81,4 @@ The analysis confirms that the definition is neither overly restrictive nor vacu
 
 Proceed to the **[Definition](./index.md)** for more insight in the definition of Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.
 
-If preferred, proceed to **[The discipline](./index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
+If preferred, proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
