@@ -102,14 +102,19 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./2000s-human-era.md)
 
 
-## 2010s — Automation era  
-**Focus:** Delivery & Cloud  
-**Structural shift:** Industrialized execution governance  
+## 2010s — Automation Era
 
-Continuous delivery ([Humble & Farley, 2010](../../resources/bibliography.md#humble-farley-2010)),  
-DevOps ([Kim et al., 2016](../../resources/bibliography.md#kim-etal-2016)),  
-microservices ([Newman, 2015](../../resources/bibliography.md#newman-2015)),  
-and cloud governance ([ISACA, 2014](../../resources/bibliography.md#isaca-2014)) institutionalized automated execution and scalable operational control.
+**Focus:** Continuous scalable execution  
+
+**Problem:** Governing reliable and resilient change under continuous deployment, distributed systems, and cloud-scale operation ([Humble & Farley, 2010](../../resources/bibliography.md#humble-farley-2010)).  
+
+**Governable:** Deployment pipelines, infrastructure as code, observability, incident response, and automated compliance ([Kim et al., 2016](../../resources/bibliography.md#kim-etal-2016); [Newman, 2015](../../resources/bibliography.md#newman-2015); [ISACA, 2014](../../resources/bibliography.md#isaca-2014)).  
+
+**Mode:** Strong **Operational × Execution**, reinforced by **Managerial × Execution** and compliance-oriented **Managerial × Intentional** governance.  
+
+**Lesson:** Execution can be automated, instrumented, and continuously governed at scale.  
+
+**Under-governed:** Durable epistemic stewardship of system-level intent — automation governs *how* change occurs, but not systematically *why* it should occur or how long-term commitments are preserved across rapid evolution.  
 
 → [Read the full analysis](./2010s-automation-era.md)
 
