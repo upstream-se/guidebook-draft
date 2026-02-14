@@ -36,7 +36,7 @@ The guidebook is organized into four main **parts**, each with a distinct role.
 
 ### Motivation
 
-The **Motivation** part explains **why Upstream Software Engineering is needed**.
+The **[Motivation](./motivation/index.md)** part explains **why Upstream Software Engineering is needed**.
 
 It describes the problem space and the limitations observed in current practice that motivate the need for a dedicated discipline to govern software systems over time.
 
@@ -45,37 +45,37 @@ This part prepares the reader for the normative definitions introduced in the Fo
 
 ### Foundations
 
-The **Foundations** part defines the **normative core** of Upstream Software Engineering.
+The **[Foundations](./foundations/index.md)** part defines the **normative core** of Upstream Software Engineering.
 
 It contains:
 
-- **Discipline** — the formal definition of Upstream Software Engineering, including its scope and boundaries
-- **Metamodel** — the normative conceptual structure that defines the concepts, relationships, and constraints used to reason about software systems and their evolution
-- **Plays** — the valid transformation patterns that operate over models conforming to the metamodel
+- **[The discipline](./foundations/discipline/index.md)** — the formal definition of Upstream Software Engineering, including its scope and boundaries.
+- **[The metamodel](./foundations/metamodel/index.md)** — the normative conceptual structure that defines the concepts, relationships, and constraints used to reason about software systems and their evolution.
+- **[The plays](./foundations/plays/index.md)** — the valid transformation patterns that operate over models conforming to the metamodel.
 
 Foundations define **what is considered valid**.  Compliance is assessed against this part.
 
 
 ### Guidelines
 
-The **Guidelines** part provides **recommended ways** to enact the Foundations in practice.
+The **[Guidelines](./guidelines/index.md)** part provides **recommended ways** to enact the **Foundations** in practice.
 
 It contains:
 
-- **Artifacts** — suggested ways of representing, documenting, or managing models that conform to the metamodel
-- **Practices** — situational ways of executing plays in concrete organizational contexts
+- **[The artifacts](./guidelines/artifacts/index.md)** — suggested ways of representing, documenting, or managing models that conform to the metamodel.
+- **[The practices](./guidelines/practices/index.md)** — situational ways of executing plays in concrete organizational contexts.
 
 Guidelines are **non-normative**.  
 They are meant to be adapted, combined, or replaced as needed.
 
-Different practitioners and tool builders may choose different representations, as long as the underlying models conform to the metamodel defined in the Foundations.
+Different practitioners and tool builders may choose different representations, as long as the underlying models conform to the metamodel defined in **Foundations**.
 
 
 ### Resources
 
-The **Resources** part provides **downloadable and reusable materials** produced as part of this initiative.
+The **[Resources](./resources/index.md)** part provides **downloadable and reusable materials** produced as part of this initiative.
 
-It includes white papers, research papers, books, templates, canvases, and other artifacts that support learning, application, and dissemination of Upstream Software Engineering.
+It includes white papers, research papers, books, templates, canvases, multimedia, and other artifacts that support learning, application, and dissemination of Upstream Software Engineering.
 
 Resources are **informative only** and have **no normative force**.
 
@@ -84,16 +84,16 @@ Resources are **informative only** and have **no normative force**.
 
 This guidebook is not meant to be read linearly.
 
-Before engaging with Motivation, Foundations, or Guidelines, readers should consult:
+Before engaging with **Motivation**, **Foundations**, or **Guidelines**, readers should consult:
 
-**→ [How to Read This Guidebook](./how-to-read.md)**
+**→ [How to read this guidebook](./how-to-read.md)**
 
 That page explains:
 
-- how the parts relate to each other
-- how normativity is distributed across the content
-- how different readers may navigate the guidebook
-- how interpretation and compliance should be understood
+- how the parts relate to each other,
+- how normativity is distributed across the content,
+- how different readers may navigate the guidebook, and
+- how interpretation and compliance should be understood.
 
 It serves as the **reader’s contract** for the entire guidebook.
 
@@ -109,10 +109,10 @@ This guidebook evolves over time.
 
 ## Intended audience
 
-This guidebook is intended for professionals and researchers involved in the **definition, governance, and long-term evolution of software systems**, including:
+This guidebook is intended for professionals and researchers involved in the **definition, governance, and long-term evolution of software systems**, including the following.
 
 
-### Product and Technology Leadership
+### Product and technology leadership
 
 - software architects
 - technical leads and principal engineers
@@ -120,28 +120,29 @@ This guidebook is intended for professionals and researchers involved in the **d
 - engineering managers responsible for product direction
 
 
-### Governance and Organizational Roles
+### Governance and organizational roles
 
 - roles responsible for product, portfolio, or architectural governance
 - decision-makers defining boundaries, ownership, and accountability
 - consultants supporting organizations in software system governance and evolution
 
 
-### Software Engineering Practice (Upstream-focused)
+### Software Engineering practice (upstream-focused)
 
 - senior software engineers involved in architectural and structural decisions
 - practitioners operating across multiple teams, systems, or providers
 - roles bridging business intent and technical realization
 
 
-### Research and Education
+### Research and education
 
 - researchers studying software systems, evolution, and governance
 - educators designing curricula or teaching advanced software engineering topics
+- students learning how to govern long-lived software systems
 
 This guidebook assumes familiarity with:
 
-- software engineering concepts and terminology
+- Software Engineering concepts and terminology
 - modern software development practices
 - organizational contexts where software systems evolve over time
 
@@ -171,7 +172,7 @@ Their instantiation belongs to the context in which they are applied.
 
 If you are new to the guidebook, proceed in the following order:
 
-1. **[How to Read This Guidebook](./how-to-read.md)** — to understand interpretation and normativity  
+1. **[How to read this guidebook](./how-to-read.md)** — to understand interpretation and normativity  
 2. **[Motivation](./motivation/index.md)** — to understand why the discipline is needed  
 3. **[Foundations](./foundations/index.md)** — to explore the discipline, its metamodel, and its plays  
 
