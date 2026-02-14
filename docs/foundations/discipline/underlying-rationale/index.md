@@ -17,7 +17,7 @@ Each era is examined through a consistent analytical lens.  For every period, we
 Across eras, execution, structure, and managerial articulation of intent progressively became governable.  The question that motivates upstream thinking is whether durable epistemic governance of system-level intent followed the same trajectory.
 
 
-## 1950s–1960s — Production Era
+## 1950s–1960s — Production era
 
 **Focus:** Foundations  
 
@@ -34,14 +34,19 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./1950s-1960s-production-era.md)
 
 
-## 1970s — Complexity era  
-**Focus:** Structure & Management  
-**Structural shift:** Managing scale and socio-technical complexity  
+## 1970s — Complexity Era
 
-Modularity and information hiding ([Parnas, 1972](../../resources/bibliography.md#parnas-1972)),  
-lifecycle control ([Royce, 1970](../../resources/bibliography.md#royce-1970)),  
-and socio-technical awareness ([Brooks, 1975](../../resources/bibliography.md#brooks-1975);  
-[Dijkstra, 1974](../../resources/bibliography.md#dijkstra-1974)) reshaped how systems were decomposed and governed.
+**Focus:** Structural control  
+
+**Problem:** Escalating system complexity, structural fragility, and lifecycle unpredictability ([Bauer, 1968](../../resources/bibliography.md#bauer-1968)).  
+
+**Governable:** Modular structure through information hiding ([Parnas, 1972](../../resources/bibliography.md#parnas-1972)) and staged lifecycle control ([Royce, 1970](../../resources/bibliography.md#royce-1970)).  
+
+**Mode:** **Managerial × Structural** — explicit decomposition, responsibility boundaries, and formal coordination checkpoints, informed by socio-technical insights ([Conway, 1968](../../resources/bibliography.md#conway-1968); [Brooks, 1975](../../resources/bibliography.md#brooks-1975); [Dijkstra, 1974](../../resources/bibliography.md#dijkstra-1974)).  
+
+**Lesson:** Complexity must be governed structurally and procedurally; modularization and lifecycle discipline are governance instruments, not merely technical devices.  
+
+**Under-governed:** Durable system intent — purpose and rationale were rarely institutionalized as revisitable knowledge assets.  
 
 → [Read the full analysis](./1970s-complexity-era.md)
 
