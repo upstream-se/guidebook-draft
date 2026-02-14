@@ -16,7 +16,7 @@ Each era is examined through a consistent analytical lens. For every period, we 
    This question identifies the knowledge object, activity, or structural dimension that the discipline explicitly brought under governance.
 
 4. **What governance mode dominated?**  
-   This question situates the era within the governance–knowledge matrix introduced in **[Coverage analysis of existing approaches](../../motivation/coverage-analysis-of-existing-approaches/index.md)**.  It identifies the dominant configuration by specifying both the object governed (execution, structure, intent) and the mode of governance (operational, managerial, epistemic).
+   This question situates the era within the governance–knowledge matrix introduced in **[Coverage analysis of existing approaches](../../../motivation/coverage-analysis-of-existing-approaches/governance-knowledge-matrix.md)**.  It identifies the dominant configuration by specifying both the object governed (execution, structure, intent) and the mode of governance (operational, managerial, epistemic).
 
 5. **What durable lesson was extracted?**  
    Each era institutionalized a lasting insight that continues to shape Software Engineering practice.
