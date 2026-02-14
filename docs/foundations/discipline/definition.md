@@ -7,22 +7,15 @@
 
 > **Definition.**  Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems, articulable as durable, revisable commitments about scope and structure that normatively guide their construction, operation, and evolution as their context changes.
 
---
+The following elaboration stabilizes the intended interpretation of the definition and prevents drift in its understanding.
 
-In this discipline, **intent** refers to explicit commitments about what the software system is meant to be and how it is meant to be structured.  
-It has two inseparable dimensions:
+**Epistemic governance** concerns the stewardship of knowledge rather than the coordination of activity.  It determines what must be made explicit, preserved, inspectable, and deliberately revisable over time.  Upstream Software Engineering does not govern execution; it governs the knowledge that orients and constrains execution.
 
-- **Intent in scope** — commitments about purpose, capabilities, boundaries, and non-goals that normatively frame system requirements.
-- **Intent in structure** — commitments about architectural decisions, constraints, environments, automation principles, and technological directions that normatively frame system architecture.
+**Intent** denotes the set of durable yet revisable commitments that define and constrain a software system.  It has two inseparable dimensions.  **Intent in scope** concerns purpose, domain boundaries, assumptions, obligations, and non-goals.  **Intent in structure** concerns binding design decisions and structural constraints that shape organization, integration, deployment, automation, and evolution.  Together, these commitments constitute the normative core against which construction, operation, and structural transformation are evaluated.
 
-These commitments are **binding** in that they constrain downstream realization;  
-**durable** in that they persist beyond individual projects, iterations, teams, and providers;  
-and **revisable** in that they must be explicitly reconsidered and updated when context or understanding changes.
+Long-lived systems persist across projects, iterations, organizational restructuring, technological shifts, and provider transitions.  Coherence across such discontinuities requires commitments that are neither implicit nor frozen.  They must constrain decision-making while remaining explicitly revisitable when contextual conditions change.
 
-The discipline does not govern the external world itself.  
-It governs the **knowledge about the context** in which the software system is inserted, and the relationship between that context and declared intent.
-
-Upstream Software Engineering therefore concerns the stewardship of commitments that must remain visible, inspectable, and governable across time.
+**Context** itself is not governed as external reality.  What is governed is the explicit knowledge about the context in which the system is embedded and the articulated relationship between that knowledge and system intent.  When context shifts, commitments must be consciously reinterpreted or revised rather than allowed to erode through drift.
 
 
 ## Stress-testing the definition
