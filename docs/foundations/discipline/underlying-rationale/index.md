@@ -102,7 +102,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./2000s-human-era.md)
 
 
-## 2010s — Automation Era
+## 2010s — Automation era
 
 **Focus:** Continuous scalable execution  
 
@@ -119,13 +119,19 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./2010s-automation-era.md)
 
 
-## 2020s — AI era  
-**Focus:** Intelligence & Agents  
-**Structural shift:** Machine-assisted epistemic production  
+## 2020s–present — AI era
 
-AI-assisted engineering ([Kolo, 2024](../../resources/bibliography.md#kolo-2024)),  
-context engineering ([Hua et al., 2025](../../resources/bibliography.md#hua-etal-2025)),  
-and synthetic knowledge generation shift how engineering knowledge itself is produced and evaluated.
+**Focus:** Epistemic co-production  
+
+**Problem:** Governing engineering knowledge when part of its production is delegated to probabilistic, generative agents ([Kolo, 2024](../../resources/bibliography.md#kolo-2024); [Hua et al., 2025](../../resources/bibliography.md#hua-etal-2025)).  
+
+**Governable:** Prompt protocols, context engineering pipelines, human-in-the-loop validation, model evaluation, provenance tracking, and AI risk oversight.  
+
+**Mode:** Intensified **Operational × Execution** and **Managerial × Intentional** governance, with rising pressure toward explicit **Epistemic × Intentional** stewardship.  
+
+**Lesson:** Artifact generation can be automated; institutional commitment to system-level intent cannot.  
+
+**Under-governed:** Durable epistemic governance of purpose, assumptions, constraints, and non-goals — especially under accelerated, AI-amplified evolution.  
 
 → [Read the full analysis](./2020s-ai-era.md)
 
