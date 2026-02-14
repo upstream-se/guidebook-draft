@@ -7,7 +7,7 @@
 
 This page articulates the principles of Upstream Software Engineering.
 
-These principles are not arbitrary design choices.  They are derived from the historical analysis presented in **[Underlying rationale](./underlying-rationale/index.md)**, where successive eras of Software Engineering were examined in terms of what became governable, how governance was exercised, and what remained structurally under-governed.
+These principles are not arbitrary design choices.  They are derived from the historical analysis presented in **[Underlying rationale](./index.md)**, where successive eras of Software Engineering were examined in terms of what became governable, how governance was exercised, and what remained structurally under-governed.
 
 The goal of this page is to:
 
