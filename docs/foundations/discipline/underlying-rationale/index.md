@@ -1,18 +1,30 @@
 # Underlying rationale
 
-Upstream Software Engineering is grounded in lessons accumulated across successive eras of software Engineering.  Each era surfaced a structural tension and institutionalized new forms of governance in response.
+Upstream Software Engineering is grounded in lessons accumulated across successive eras of Software Engineering. Each era surfaced a structural tension and institutionalized new forms of governance in response.
 
 This section reconstructs those eras analytically, following the historical progression through which Software Engineering progressively expanded what it treats as governable.
 
-Each era is examined through a consistent analytical lens.  For every period, we ask:
+Each era is examined through a consistent analytical lens. For every period, we ask:
 
-1. **What problem was foregrounded?**  
-2. **What became governable in response?**  
-3. **What governance mode dominated?**  
-4. **What durable lesson was extracted?**  
-5. **What remained structurally under-governed?**
+1. **What was the focus of the era?**  
+   The focus identifies the primary dimension along which governance expanded in that period — for example, production discipline, structural complexity, abstraction, architecture, coordination, automation, or epistemic co-production.  It captures the dominant shift that reoriented the discipline.
 
-Across eras, execution, structure, and managerial articulation of intent progressively became governable.  The question that motivates upstream thinking is whether durable epistemic governance of system-level intent followed the same trajectory.
+2. **What problem was foregrounded?**  
+   Every era crystallized a specific structural tension — a recurring difficulty that demanded institutional response.
+
+3. **What became governable in response?**  
+   This question identifies the knowledge object, activity, or structural dimension that the discipline explicitly brought under governance.
+
+4. **What governance mode dominated?**  
+   This question situates the era within the governance–knowledge matrix introduced in **[Coverage analysis of existing approaches](../../motivation/coverage-analysis-of-existing-approaches/index.md)**.  It identifies the dominant configuration by specifying both the object governed (execution, structure, intent) and the mode of governance (operational, managerial, epistemic).
+
+5. **What durable lesson was extracted?**  
+   Each era institutionalized a lasting insight that continues to shape Software Engineering practice.
+
+6. **What remained structurally under-governed?**  
+   Despite progress, each period left certain dimensions insufficiently institutionalized — gaps that accumulated across decades.
+
+Across eras, execution, structure, and managerial articulation of intent progressively became governable.  The motivating question for upstream thinking is whether durable epistemic governance of system-level intent followed the same trajectory — or whether it remained structurally under-institutionalized.
 
 
 ## 1950s–1960s — Production era
