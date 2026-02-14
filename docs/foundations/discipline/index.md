@@ -21,7 +21,7 @@ The pages below develop the discipline progressively—from conceptual grounding
 
 ## Definition and core concepts
 
-- **[Definition](./definition.md)**  
+- **[Definition](./definition/index.md)**  
   Defines Upstream Software Engineering and clarifies its locus of governance.
 
 - **[Software system](./software-system.md)**  
