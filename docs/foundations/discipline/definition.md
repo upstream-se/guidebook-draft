@@ -13,7 +13,7 @@ The following elaboration stabilizes the intended interpretation of the definiti
 
 **Intent** denotes the set of durable yet revisable commitments that define and constrain a software system.  It has two inseparable dimensions.  **Intent in scope** concerns purpose, domain boundaries, assumptions, obligations, and non-goals.  **Intent in structure** concerns binding design decisions and structural constraints that shape organization, integration, deployment, automation, and evolution.  Together, these commitments constitute the normative core against which construction, operation, and structural transformation are evaluated.
 
-Long-lived systems persist across projects, iterations, organizational restructuring, technological shifts, and provider transitions.  Coherence across such discontinuities requires commitments that are neither implicit nor frozen.  They must constrain decision-making while remaining explicitly revisitable when contextual conditions change.
+**Long-lived software systems** persist across projects, iterations, organizational restructuring, technological shifts, and provider transitions.  Coherence across such discontinuities requires commitments that are neither implicit nor frozen.  They must constrain decision-making while remaining explicitly revisitable when contextual conditions change.
 
 **Context** itself is not governed as external reality.  What is governed is the explicit knowledge about the context in which the system is embedded and the articulated relationship between that knowledge and system intent.  When context shifts, commitments must be consciously reinterpreted or revised rather than allowed to erode through drift.
 
