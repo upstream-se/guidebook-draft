@@ -2,109 +2,83 @@
 
 This page examines borderline cases and adjacent practices to discipline the meaning of the definition of **Upstream Software Engineering**.
 
-The purpose is not to expand the definition, but to stabilize its interpretation. By testing what falls inside and outside its scope, the conceptual boundaries of upstream practice become sharper and less prone to drift.
+The purpose is not to expand the definition, but to stabilize its interpretation.  By testing what falls inside and outside its scope, the conceptual boundaries of upstream practice become sharper and less prone to drift.
 
 The definition under analysis is stated in **[Definition](./index.md)**.
 
 
-## Case 1 — Agile product ownership
-
-Agile product ownership articulates backlog priorities, user stories, and iteration goals. It often includes product vision statements and release planning.
-
-However:
-
-- Intent is frequently iteration-bound.
-- Commitments may be continuously reframed without durable preservation.
-- Rationale may remain implicit or embedded in conversation rather than institutionalized knowledge.
-
-Agile product ownership overlaps with upstream concerns when it preserves and revisits system-level commitments beyond iteration horizons.  
-It remains downstream-oriented when intent is primarily operational and short-cycle scoped.
-
-**Boundary insight:**  
-Iteration governance is not equivalent to durable epistemic governance of intent.
+## Cases
 
 
-## Case 2 — Enterprise architecture boards
+### Case 1. Short-lived systems
 
-Enterprise architecture boards define standards, technology stacks, and structural guidelines.
+**Case.**  Hackathon prototypes, throwaway scripts, or one-off internal tools.
 
-However:
+**Observation.**  The definition explicitly applies to long-lived systems.  If durability is not required, epistemic stewardship of intent is unnecessary.
 
-- Governance may emphasize compliance rather than revisitable commitment.
-- Structural standards may be declared without explicit linkage to evolving system purpose.
-- Architectural rationale may not be continuously re-evaluated in light of contextual change.
-
-Architecture governance becomes upstream when structural commitments are explicitly linked to system-level intent and preserved as revisitable knowledge.
-
-**Boundary insight:**  
-Structural control is not identical to epistemic stewardship of intent.
+**Implication.**  Upstream Software Engineering is not “more process” applied universally.  It addresses the structural problem of preserving coherent commitments across time.  Where longevity is irrelevant, upstream governance is correspondingly unnecessary.
 
 
-## Case 3 — Project and portfolio management
+### Case 2. Greenfield startup environments
 
-Project and portfolio management articulates objectives, funding decisions, and strategic alignment.
+**Case.**  Early-stage product development with minimal documentation and rapid iteration.
 
-However:
+**Observation.**  Even in greenfield contexts, there exists intent — vision, commitments, constraints, positioning — that normatively guides development.
 
-- Intent is frequently scoped to initiatives.
-- Commitments may dissolve at project closure.
-- System-level purpose may fragment across successive initiatives.
-
-Portfolio governance becomes upstream only when commitments persist independently of initiative boundaries.
-
-**Boundary insight:**  
-Managerial articulation of objectives does not guarantee durable governance of intent.
+**Implication.**  Upstream does not require heavy artifacts.  It requires that intent be articulable, revisitable, and consciously revised as context shifts.  The definition is compatible with lean and iterative environments.
 
 
-## Case 4 — DevOps and continuous delivery
+### Case 3. AI-augmented development
 
-DevOps practices institutionalize automated execution, monitoring, and rapid deployment.
+**Case.**  Large portions of the system are generated or refactored by AI systems.
 
-However:
+**Observation.**  AI can generate artifacts, but it cannot institutionally commit to intent.
 
-- Automation governs how change occurs, not necessarily why.
-- Pipelines encode constraints but rarely preserve articulated purpose.
-- Operational speed can accelerate divergence from original commitments.
-
-DevOps intersects with upstream when automation is explicitly linked to preserved and revisitable commitments.
-
-**Boundary insight:**  
-Execution maturity does not substitute for epistemic governance.
+**Implication.**  The more artifact production is automated, the more critical explicit intent governance becomes.  The definition scales to AI-augmented environments because it governs commitments, not authorship.
 
 
-## Case 5 — AI-assisted engineering
+### Case 4. Legacy modernization
 
-AI systems can generate code, documentation, architectural proposals, and even plausible design rationales.
+**Case.**  Long-lived systems with decayed documentation and lost rationale.
 
-However:
+**Observation.**  Intent may be implicit, fragmented, or partially lost.
 
-- Generated coherence is not equivalent to institutional commitment.
-- Explanations may be reconstructed post hoc.
-- Responsibility and provenance may remain diffuse.
-
-AI-assisted development becomes upstream only when generated artifacts are evaluated against preserved commitments about scope and structure.
-
-**Boundary insight:**  
-Artifact generation does not equal stewardship of intent.
+**Implication.**  Upstream practice includes reconstruction and re-articulation of commitments.  Durability is not assumed; it is actively re-established.
 
 
-## Structural boundary of upstream practice
+### Case 5. Highly regulated domains
 
-Across these cases, a consistent pattern emerges:
+**Case.**  Banking, healthcare, aerospace, or other compliance-intensive environments.
 
-Upstream Software Engineering begins where:
+**Observation.**  Regulatory frameworks govern risk, controls, and auditability.
 
-- intent is treated as a durable and revisable commitment,
-- commitments transcend initiative and iteration boundaries,
-- structural evolution remains explicitly linked to preserved purpose,
-- and knowledge about context is continuously related to system intent.
-
-Where these conditions are absent, governance remains primarily downstream.
+**Implication.**  Regulatory governance does not necessarily institutionalize durable epistemic stewardship of system-level intent.  Upstream governance complements compliance by preserving coherent commitments beyond audit requirements.
 
 
-## Navigation
+### Case 6. Rapid pivot environments
 
-- Return to **[Definition](./index.md)**
-- Back to **[Discipline](../index.md)**
-- Back to **[Foundations](../../index.md)**
-- Return to **[Guidebook Home](../../../index.md)**
+**Case.**  Organizations that frequently change business models or strategic direction.
+
+**Observation.**  Durability does not imply immutability.
+
+**Implication.**  Commitments are durable yet revisable.  Upstream governance ensures that revision is explicit and traceable, rather than implicit and accumulative.
+
+
+## Conceptual consistency
+
+Across these boundary cases, the definition remains internally coherent:
+
+- It governs intent rather than artifacts.
+- It applies only where long-term coherence matters.
+- It accommodates iteration and automation.
+- It remains distinct from execution-focused methodologies.
+- It scales to AI-augmented environments.
+
+The analysis confirms that the definition is neither overly restrictive nor vacuous.  It isolates a specific and historically persistent governance problem: the preservation and conscious revision of articulated commitments about scope and structure as context changes over time.
+
+
+## Where to go next
+
+Proceed to the **[Definition](./index.md)** for more insight in the definition of Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.
+
+If preferred, proceed to **[The discipline](./index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
