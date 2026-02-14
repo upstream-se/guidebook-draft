@@ -64,7 +64,7 @@ The pages below develop the discipline progressively—from conceptual grounding
   Situates Upstream Software Engineering in relation to Software Engineering, Architecture, Governance, and related fields.
 
 
-## Where to start
+## Where to go next
 
 For a sequential reading, begin with **[Underlying rationale](./underlying-rationale/index.md)**.
 
