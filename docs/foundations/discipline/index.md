@@ -68,6 +68,4 @@ The pages below develop the discipline progressively—from conceptual grounding
 
 For a sequential reading, begin with **[Underlying rationale](./underlying-rationale/index.md)**.
 
-If prefered, return to:
-- **[Foundations](../index.md)** for an overview of this part.  
-- **[Guidebook home](../../index.md)** for an overview of this guidebook.
+If prefered, return to **[Foundations](../index.md)** for an overview of this part, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
