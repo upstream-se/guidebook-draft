@@ -20,39 +20,67 @@ The goal of this page is to:
 
 This section consolidates the durable lessons extracted from each historical era.
 
-The lessons below are provisional and will be refined.
 
-### 1940s–1950s — Analytical Foundations
+### 1950s–1960s — Production era
 
-*(Lessons to be inserted.)*
+Large-scale software development requires explicit engineering discipline and formal control mechanisms.
 
-### 1950s–1960s — Production Era
+> Unstructured programming does not scale. Explicit sequencing, documentation, and verification are necessary to coordinate complexity.
 
-*(Lessons to be inserted.)*
 
-### 1970s — Structural Control Era
+### 1970s — Complexity era
 
-*(Lessons to be inserted.)*
+Complexity must be governed structurally and procedurally, not merely executed competently.
 
-### 1980s — Engineering & Abstraction Era
+> Modularity is not only a design convenience; it is a governance mechanism for isolating change (Parnas, 1972). > Lifecycle structure is not merely documentation; it is an institutional scaffold for coordination (Royce, 1970).
+> Software engineering became concerned not just with writing programs, but with organizing systems and the processes that produce them.
 
-*(Lessons to be inserted.)*
 
-### 1990s — Architectural & Process Formalization Era
+### 1980s — Paradigm era
 
-*(Lessons to be inserted.)*
+Abstraction and risk awareness are essential governance mechanisms for long-lived systems.
 
-### 2000s — Agile & Responsiveness Era
+> Object orientation institutionalized the idea that structure should reflect stable domain concepts. Risk-driven iteration acknowledged that planning alone cannot eliminate uncertainty.
+> Software Engineering matured from procedural control to conceptual design under uncertainty.
 
-*(Lessons to be inserted.)*
 
-### 2010s — Continuous & Platform Era
+### 1990s — Blueprint era
 
-*(Lessons to be inserted.)*
+Structural knowledge must be explicitly articulated to sustain large, evolving systems.
 
-### 2020s — AI & Epistemic Acceleration Era
+> Architecture is not an emergent byproduct of coding activity. It is a governable knowledge asset requiring description, communication, and stewardship.
+> This insight permanently expanded the scope of Software Engineering beyond code and lifecycle sequencing.
 
-*(Lessons to be inserted.)*
+
+### 2000s — Human era
+
+Responsiveness and feedback loops are essential to sustainable software evolution.
+
+> Execution must remain adaptable. Learning must be continuous. Coordination must be frequent and visible.
+> This permanently shifted Software Engineering toward shorter cycles, incremental delivery, and empirical process control.
+
+
+### 2010s — Automation era
+
+Execution can be automated, instrumented, and continuously governed at scale.
+
+> Automation is not merely technical—it is governance embedded in code.
+> This era permanently institutionalized:
+> * Continuous integration.
+> * Continuous delivery.
+> * Infrastructure as code.
+> * Observability as a governance mechanism.
+
+
+### 2020s — AI era
+
+The production of artifacts can be automated.  The stewardship of intent cannot.
+
+> AI may assist in generating structural and execution-level artifacts, but the preservation of purpose, commitments, assumptions, and non-goals requires explicit governance.
+> AI can propose intent. It cannot institutionally commit to it.
+> Intent must therefore be articulated, preserved, and revisited independently of the agents—human or artificial—that generate artifacts.
+> This insight strengthens the case for treating system-level intent as a durable epistemic object.
+
 
 ## Cross-era synthesis
 
