@@ -1,4 +1,4 @@
-# A comparative lens: governance and knowledge
+# A comparative lens: Governance and knowledge
 
 Existing approaches to software development, management, and governance differ not only in their practices and artifacts, but in how they enact governance and what aspects of the software system they treat as governable.  To understand patterns of coverage across approaches, it is necessary to distinguish these dimensions explicitly.
 
