@@ -16,22 +16,20 @@ Each era is examined through a consistent analytical lens.  For every period, we
 
 Across eras, execution, structure, and managerial articulation of intent progressively became governable.  The question that motivates upstream thinking is whether durable epistemic governance of system-level intent followed the same trajectory.
 
+
 ## 1950s–1960s — Production Era
 
-**Focus:** Foundations
+**Focus — Foundations**
 
-**Problem:** Coordination failures and requirements ambiguity in large-scale systems.
+**Problem foregrounded:** Loss of control in large-scale programming efforts, later framed as the “software crisis” ([Bennington, 1956](../../resources/bibliography.md#bennington-1956); [Hosier, 1961](../../resources/bibliography.md#hosier-1961); [Bauer, 1968](../../resources/bibliography.md#bauer-1968)).  
 
-**Governable shift:** Lifecycle stages, requirements control, and system-level safeguards.
+**What became governable:** Development process sequencing through staged lifecycles, documentation, and verification gates ([Royce, 1970](../../resources/bibliography.md#royce-1970)).  
 
-**Governance mode:** Managerial and procedural control over software production.
+**Dominant governance mode:** **Managerial × Execution** — hierarchical control, milestone reviews, and phase-gated approval mechanisms.  
 
-**Lesson:** Complex software demands explicit engineering discipline and system thinking.
+**Durable lesson extracted:** Large-scale software development requires explicit engineering discipline and formal control structures.  
 
-**Under-governed:** Durable preservation of system-level intent beyond project delivery.
-
-Key works:  
-[Bennington (1956)](../../resources/bibliography.md#bennington-1956), [Hosier (1961)](../../resources/bibliography.md#hosier-1961), [Conway (1968)](../../resources/bibliography.md#conway-1968), and [Bauer (1968)](../../resources/bibliography.md#bauer-1968).
+**Structurally under-governed:** Long-term system meaning — structure was not conceptually separated from implementation, and system-level intent was treated as a project input rather than durable, revisitable knowledge ([Conway, 1968](../../resources/bibliography.md#conway-1968)).  
 
 → [Read the full analysis](./1950s-1960s-production-era.md)
 
