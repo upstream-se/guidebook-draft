@@ -1,4 +1,4 @@
-# Principles of Upstream Software Engineering
+# Principles
 
 This page articulates the principles of Upstream Software Engineering.
 
