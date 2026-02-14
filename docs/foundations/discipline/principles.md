@@ -1,10 +1,5 @@
 # Principles of Upstream Software Engineering
 
-> ⚠️ **This page is under active construction.**  
-> The structure is established. Lessons and principles will be progressively refined and formalized.
-
-## Purpose of this page
-
 This page articulates the principles of Upstream Software Engineering.
 
 These principles are not arbitrary design choices.  They are derived from the historical analysis presented in **[Underlying rationale](./index.md)**, where successive eras of Software Engineering were examined in terms of what became governable, how governance was exercised, and what remained structurally under-governed.
@@ -108,7 +103,7 @@ They do not prescribe specific methods or artifacts.  They define what must be t
 
 ### I — Intent and context as governable knowledge
 
-> **Principle.**. System-level intent and its framing context must be treated as explicit, durable, and revisitable knowledge objects.
+> **Principle.**  System-level intent and its framing context must be treated as explicit, durable, and revisitable knowledge objects.
 
 Across eras, intent is repeatedly articulated but rarely preserved as long-lived knowledge.  Requirements documents, visions, roadmaps, and backlogs capture fragments of purpose, yet assumptions about environment, stakeholders, constraints, and technological conditions often remain implicit.  Over time, these fragments detach from one another.
 
@@ -119,7 +114,7 @@ Upstream therefore treats intent and context not as transient inputs to projects
 
 ### II — Governance beyond initiatives
 
-> **Principle.**.  Governance of long-lived systems must transcend initiative lifecycles, organizational restructurings, and provider transitions.
+> **Principle.**  Governance of long-lived systems must transcend initiative lifecycles, organizational restructurings, and provider transitions.
 
 Software systems routinely outlive the initiatives that create or modify them.  Teams change, roadmaps expire, organizations restructure, and vendors rotate.  Project-scoped governance, no matter how mature, cannot ensure continuity of meaning across these discontinuities.
 
@@ -130,7 +125,7 @@ Upstream therefore extends governance temporally.  It institutionalizes mechanis
 
 ### III — Structural alignment to intent
 
-> **Principle.**.  Structural evolution must remain continuously aligned with declared intent.
+> **Principle.**  Structural evolution must remain continuously aligned with declared intent.
 
 Architecture-centric approaches made structural knowledge explicit and inspectable.  Yet structural decisions frequently detach from the long-term purpose that originally justified them.  As systems evolve, structure adapts incrementally while intent remains static, implicit, or forgotten.
 
@@ -141,7 +136,7 @@ Upstream therefore requires that structural decisions remain traceable to preser
 
 ### IV — Epistemic stewardship beyond execution
 
-> **Principle.**.  Execution excellence does not substitute for stewardship of meaning.
+> **Principle.**  Execution excellence does not substitute for stewardship of meaning.
 
 Over decades, Software Engineering progressively strengthened execution governance.  Iterative coordination, continuous delivery, automation, and observability have achieved unprecedented maturity.  Systems can now be built, tested, and deployed continuously at scale.
 
@@ -152,7 +147,7 @@ Upstream therefore distinguishes execution governance from epistemic stewardship
 
 ### V — Automation requires intentional governance
 
-> **Principle.**.  The more artifact production is automated, the more intentional governance must be explicit.
+> **Principle.**  The more artifact production is automated, the more intentional governance must be explicit.
 
 Automation and AI amplify the capacity to generate code, architecture, documentation, and even plausible explanations.  Generated coherence, however, is not equivalent to institutional commitment.  AI systems can propose intent; they cannot assume responsibility for it.
 
@@ -178,7 +173,7 @@ The principles articulated here justify:
 - the positioning of Upstream Software Engineering within the broader landscape of software engineering practice.
 
 
-## Navigation
+## Where to go next
 
 - Back to **[Underlying Rationale](./underlying-rationale/index.md)**
 - Back to **[Discipline](../index.md)**
