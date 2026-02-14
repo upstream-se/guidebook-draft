@@ -29,7 +29,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system meaning — structure was not yet separated from implementation, and system-level intent was treated as a project input rather than revisitable knowledge ([Conway, 1968](../../resources/bibliography.md#conway-1968)).  
 
-→ [Read the full analysis](./1950s-1960s-production-era.md)
+→ **[Read the full analysis](./1950s-1960s-production-era.md)**
 
 
 ## 1970s — Complexity Era
@@ -46,7 +46,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system intent — purpose and rationale were rarely institutionalized as revisitable knowledge assets.  
 
-→ [Read the full analysis](./1970s-complexity-era.md)
+→ **[Read the full analysis](./1970s-complexity-era.md)**
 
 
 ## 1980s — Paradigm era
@@ -63,7 +63,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system-level intent — abstraction decisions and rationale remained largely project-scoped rather than institutionalized across long-term evolution.  
 
-→ [Read the full analysis](./1980s-paradigm-era.md)
+→ **[Read the full analysis](./1980s-paradigm-era.md)**
 
 
 ## 1990s — Blueprint era
@@ -80,7 +80,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system-level intent — architectural rationale and long-term purpose often remained project-scoped and decayed without sustained epistemic processes ([van der Ven et al., 2006](../../resources/bibliography.md#van-der-ven-etal-2006)).  
 
-→ [Read the full analysis](./1990s-blueprint-era.md)
+→ **[Read the full analysis](./1990s-blueprint-era.md)**
 
 
 ## 2000s — Human era
@@ -97,7 +97,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system-level intent — long-term rationale, assumptions, and non-goals often remained implicit or iteration-bound, with limited epistemic preservation across time.  
 
-→ [Read the full analysis](./2000s-human-era.md)
+→ **[Read the full analysis](./2000s-human-era.md)**
 
 
 ## 2010s — Automation era
@@ -114,7 +114,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable epistemic stewardship of system-level intent — automation governs *how* change occurs, but not systematically *why* it should occur or how long-term commitments are preserved across rapid evolution.  
 
-→ [Read the full analysis](./2010s-automation-era.md)
+→ **[Read the full analysis](./2010s-automation-era.md)**
 
 
 ## 2020s–present — AI era
@@ -131,7 +131,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable epistemic governance of purpose, assumptions, constraints, and non-goals — especially under accelerated, AI-amplified evolution.  
 
-→ [Read the full analysis](./2020s-ai-era.md)
+→ **[Read the full analysis](./2020s-ai-era.md)**
 
 
 ## Structural trajectory
