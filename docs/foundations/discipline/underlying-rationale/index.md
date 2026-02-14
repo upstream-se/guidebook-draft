@@ -85,14 +85,19 @@ Across eras, execution, structure, and managerial articulation of intent progres
 → [Read the full analysis](./1990s-blueprint-era.md)
 
 
-## 2000s — Human era  
-**Focus:** Agility & Craft  
-**Structural shift:** Execution adaptability  
+## 2000s — Human era
 
-The Agile Manifesto ([Beck et al., 2001](../../resources/bibliography.md#beck-etal-2001)),  
-Lean Software Development ([Poppendieck & Poppendieck, 2003](../../resources/bibliography.md#poppendieck-2003)),  
-Domain-Driven Design ([Evans, 2003](../../resources/bibliography.md#evans-2003)),  
-and craftsmanship movements ([McBreen, 2001](../../resources/bibliography.md#mcbreen-2001)) emphasized coordination, iteration, and responsiveness.
+**Focus:** Adaptive coordination  
+
+**Problem:** Maintaining responsiveness under rapid and continuous change, where heavy upfront planning and documentation proved brittle ([Beck et al., 2001](../../resources/bibliography.md#beck-etal-2001)).  
+
+**Governable:** Iteration, feedback loops, and team coordination — short cycles, backlogs, customer collaboration, and empirical process control ([Poppendieck & Poppendieck, 2003](../../resources/bibliography.md#poppendieck-2003); [Evans, 2003](../../resources/bibliography.md#evans-2003)).  
+
+**Mode:** **Operational × Execution**, reinforced by managerial backlog governance.  
+
+**Lesson:** Sustainable evolution requires continuous feedback, adaptive execution, and close human coordination.  
+
+**Under-governed:** Durable system-level intent — long-term rationale, assumptions, and non-goals often remained implicit or iteration-bound, with limited epistemic preservation across time.  
 
 → [Read the full analysis](./2000s-human-era.md)
 
