@@ -60,8 +60,6 @@ The software system does not define itself.
 - Its **context** conditions and challenges the validity of those commitments.  
 - Its **stewardship and authority** determine who is responsible for preserving and revising those commitments across time.
 
-→ Continue to **[Intent](./intent.md)** for the definition of system-level commitments.
-
 
 ## Where to go next
 
