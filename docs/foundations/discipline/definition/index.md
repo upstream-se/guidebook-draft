@@ -182,10 +182,6 @@ Coherent software evolution requires both.
 
 ## Where to go next
 
-Return to:
+Proceed to the **[Definition](./index.md)** for more insight in the definition of Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.
 
-- **[Discipline](./index.md)**
-
-- **[Foundations](../index.md)**
-
-- **[Guidebook home](../../index.md)**
+If preferred, proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
