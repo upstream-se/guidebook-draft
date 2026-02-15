@@ -64,5 +64,5 @@ Proceed to the definition of **[Intent](./intent.md)**.
 
 If preferred, proceed to:
 - **[The discipline](./index.md)** for an oferview of the conceptual foundations of the discipline.
-- **[Foundations](../index.md) for an overview of the normative core of the discipline.
+- **[Foundations](../index.md)** for an overview of the normative core of the discipline.
 - **[Guidebook](../../index.md)** for an overview of this guidebook.
