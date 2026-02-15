@@ -148,7 +148,30 @@ They cannot impose binding authority.
 
 Records are immutable historical artifacts.
 
----
+
+## Authority Level × Artifact Kind Matrix
+
+The following table defines the valid combinations between **Authority Level** and **Artifact Kind**.
+
+Blank cells indicate invalid combinations.
+
+| **Authority Level ↓ / Artifact Kind →** | **Rule** | **Structure** | **Procedure** | **Template** | **Reference** | **Record** |
+|------------------------------------------|----------|--------------|--------------|--------------|--------------|-----------|
+| **Mandatory**                            | ✓ | ✓ | ✓ | ✓ |  |  |
+| **Required**                             | ✓ | ✓ | ✓ | ✓ |  |  |
+| **Recommended**                          | ✓ | ✓ | ✓ | ✓ |  |  |
+| **Advisory**                             | ✓ |  | ✓ |  |  |  |
+| **Illustrative**                         |  |  |  |  | ✓ |  |
+| **Archival**                             |  |  |  |  | ✓ | ✓ |
+
+### Interpretation Rules
+
+1. **Prescriptive artifacts** (Rule, Structure, Procedure, Template) may carry normative authority.
+2. **Descriptive artifacts** (Reference, Record) cannot impose binding authority.
+3. **Record** artifacts are always classified as **Archival**.
+4. **Reference** artifacts may be **Illustrative** or **Archival** only.
+5. Any combination not represented in the table is invalid and must not be used.
+
 
 # 4. Invalid Combinations
 
