@@ -18,7 +18,7 @@ The following elaboration stabilizes the intended interpretation of the definiti
 
 **Long-lived software systems** persist across projects, iterations, organizational restructuring, technological shifts, and provider transitions.  Coherence across such discontinuities requires commitments that are neither implicit nor frozen.  They must constrain decision-making while remaining explicitly revisitable when contextual conditions change.
 
-**Context** itself is not governed as external reality.  What is governed is the explicit knowledge about the context in which the system is embedded and the articulated relationship between that knowledge and system intent.  When context shifts, commitments must be consciously reinterpreted or revised rather than allowed to erode through drift.
+**Context**, as the real-world environment in which the system is embedded, is not governable in itself. The knowledge and assumptions about that environment, and their articulated relationship to system intent, are subject to epistemic governance. When context changes, commitments must be deliberately reinterpreted or revised, rather than allowed to drift implicitly.
 
 The meaning of the definition above can be disciplined by examining borderline cases and adjacent practices.
 
