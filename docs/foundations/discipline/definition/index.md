@@ -78,20 +78,41 @@ Upstream governance therefore requires that:
 The discipline does not attempt to control external reality.  It governs the knowledge that interprets that reality in relation to system intent.
 
 
-## 3. The Intent–Context Relationship
+## The context–intent relationship
 
-This section will explain the directional relationship:
+Intent does not exist in isolation.  It is articulated and justified relative to an understanding of context.
 
-Context (as understood) → justifies → Intent → constrains → Downstream realization.
+The relationship is directional and normative:
 
-When contextual understanding changes:
+- Articulated knowledge about context **justifies** commitments.
+- Commitments about scope and structure **constrain** realization.
+- Realization operationalizes commitments under evolving conditions.
 
-- Commitments may remain valid,
-- Or must be explicitly revised.
+Context, as interpreted and made explicit, provides the reasons for commitments.  Intent translates those reasons into binding decisions.  Construction and operation instantiate those decisions in practice.
 
-Silent drift between context and commitments constitutes a governance failure.
+This relationship is not static.
 
-This prepares the conceptual ground for the pages on Change and Software Evolution.
+When contextual understanding changes, three possibilities arise:
+
+- The existing commitments remain valid.
+- The commitments require reinterpretation.
+- The commitments must be explicitly revised.
+
+What must not occur is silent divergence.
+
+If contextual conditions shift while commitments remain formally unchanged yet practically ignored, coherence erodes.  If commitments are modified implicitly without explicit reconsideration, governance dissolves into drift.
+
+Upstream Software Engineering exists to prevent this asymmetry.
+
+It requires that:
+
+- contextual assumptions be articulated,
+- their relationship to commitments be explicit, and
+- any revision of commitments be deliberate and visible.
+
+The health of a long-lived software system depends not only on structural correctness, but on the sustained alignment between contextual understanding and articulated commitments.
+
+This alignment is the condition for coherent evolution.
 
 
 ## 4. Binding but Revisable
