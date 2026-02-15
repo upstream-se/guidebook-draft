@@ -24,7 +24,7 @@ A software system may evolve in architecture, implementation, technology stack, 
 Longevity, not size, is the decisive attribute.  A small but enduring system may require epistemic governance; a large but ephemeral project may not.
 
 
-## What it is bot
+## What it is not
 
 A software system, in this sense, is not:
 
