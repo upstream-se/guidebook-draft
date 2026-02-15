@@ -27,55 +27,55 @@ Together, these commitments form the normative core against which construction, 
 The meaning of the definition above can be disciplined by examining borderline cases, as anakyzed in the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
 
 
-## What is governed
+## What Is Governed
 
-Upstream Software Engineering does not govern activity, artifacts, or execution practices directly.  It governs the **intent of long-lived software systems**, and the articulated knowledge that conditions and justifies that intent.
+Upstream Software Engineering governs neither activity nor artifacts in themselves.  It governs the articulated commitments that define and constrain a long-lived software system.  The longevity of such systems makes durable epistemic governance necessary.
 
-This requires clarifying three elements: the meaning of *long-lived software systems*, the nature of *intent as commitment*, and the role of *contextual knowledge*.
+This requires distinguishing clearly between:
 
+- execution and its products, and  
+- the normative knowledge that orients and constrains them.
 
-### Long-lived software systems
+Construction, operation, deployment, automation, architectural modeling, documentation, and refactoring are all necessary practices.  They are not, however, the primary object of upstream governance.  They are shaped by upstream commitments, but they are not themselves the locus of epistemic control.
 
-A long-lived software system is not defined merely by runtime duration or technical scale.  It is defined by persistence across initiatives, teams, technologies, and organizational configurations.
-
-Such systems:
-
-- outlive individual projects and development cycles,
-- accumulate structural and intentional history,
-- evolve under changing technological, regulatory, economic, and organizational conditions, and
-- remain operational while being continuously modified.
-
-The durability of these systems is precisely what makes epistemic governance necessary.  When a system persists beyond the lifecycle of any single initiative, its commitments cannot remain project-bound.  They must be articulated, preserved, and consciously revised across time.
-
-Upstream is therefore concerned not with one-off development efforts, but with the sustained coherence of systems that endure and evolve.
+Upstream governs two interrelated knowledge domains.
 
 
-### Intent as commitments
+### Intent as binding commitments
 
-Intent is not aspiration, preference, or informal vision.  Intent consists of **institutional commitments**.
+Intent is not aspiration, preference, or informal vision.  It consists of institutional commitments that define what must be respected unless deliberately revised.
 
-A commitment binds downstream realization while remaining revisable upstream.  It defines what must be respected unless deliberately reconsidered.
+Such commitments are:
 
-Intent has two interrelated dimensions:
+- binding with respect to realization,
+- durable across initiatives and organizational discontinuities, and
+- explicitly revisable through structured reconsideration.
 
-- **Scope-intent** — commitments regarding what the system is meant to do and not do.  These commitments are normative with respect to user requirements and functional evolution.
-- **Structure-intent** — commitments and constraints regarding how the system must be structured.  These include architectural principles, design constraints, technology boundaries, environmental assumptions, automation strategies, and other structural decisions that normatively guide architecture and implementation.
+Intent has two inseparable dimensions:
 
-Structure-intent constitutes the core set of decisions and constraints that must remain visible, respected, and explicitly revisited when obsolete.
+- **Scope-intent** — commitments regarding what the system is meant to do, what obligations it assumes, and what non-goals delimit its domain.  
+- **Structure-intent** — commitments and constraints regarding how the system must be shaped, including architectural principles, structural boundaries, technology constraints, integration assumptions, deployment environments, and automation strategies.
 
-Intent is therefore dual: it concerns both what the system is for and how it must be shaped to remain coherent with that purpose.
+Structure-intent is not architectural description.  It is the set of decisions and constraints that must remain visible, respected, and consciously revisited when they become misaligned with evolving context.
+
+Together, scope-intent and structure-intent form the normative core that governs system realization across time.
 
 
 ### Knowledge of context
 
-Context refers to the external reality within which the system exists: organizational arrangements, regulatory frameworks, technological environments, market conditions, and socio-technical constraints.
+Context refers to the external environment within which the system exists: organizational structures, regulatory conditions, technological ecosystems, market forces, and socio-technical constraints.
 
-Context itself, as real-world environment, is not governable.  
-What is governable is the **articulated knowledge and assumptions about that environment**, and the declared relationship between that knowledge and system intent.
+Context itself is not governable.  What is governable is the articulated knowledge about context and the declared relationship between that knowledge and system intent.
 
-Intent is justified relative to an understanding of its context.  When the context changes, commitments must be consciously reinterpreted or revised rather than allowed to erode through drift.
+Commitments are justified relative to contextual assumptions.  When contextual conditions change, the validity of those commitments must be re-evaluated.
 
-Upstream therefore governs not the external world, but the structured knowledge of how that world conditions and constrains the system's commitments.
+Upstream governance therefore requires that:
+
+- contextual assumptions be made explicit,
+- their linkage to commitments be traceable, and
+- reinterpretation occur deliberately rather than implicitly.
+
+The discipline does not attempt to control external reality.  It governs the knowledge that interprets that reality in relation to system intent.
 
 
 ## 3. The Intent–Context Relationship
