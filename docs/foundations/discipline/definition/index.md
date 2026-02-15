@@ -1,4 +1,4 @@
-# Definition of the Discipline
+# Definition of the discipline
 
 > ⚠️ **This page is under active construction.**  
 > The conceptual structure is established. Wording and refinement will evolve.
@@ -27,7 +27,7 @@ Together, these commitments form the normative core against which construction, 
 The meaning of the definition above can be disciplined by examining borderline cases, as anakyzed in the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
 
 
-## What Is Governed
+## What is governed
 
 Upstream Software Engineering governs neither activity nor artifacts in themselves.  It governs the articulated commitments that define and constrain a long-lived software system.  The longevity of such systems makes durable epistemic governance necessary.
 
