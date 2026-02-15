@@ -43,6 +43,10 @@ The software system is the **bearer of intent**.
 
 Because it persists across discontinuities—projects, iterations, personnel changes, provider transitions, organizational restructurings—it accumulates both structural and intentional history.  This persistence makes durable epistemic governance necessary.
 
+Durable commitments presuppose identifiable stewardship and authority over their preservation and revision.  Without such stewardship, intent collapses into aspiration and governance dissolves into drift.
+
+The institutional dimension of this requirement is examined in **[Stewardship and Authority](./stewardship-and-authority.md)**.
+
 Without explicit governance of commitments, a long-lived system risks gradual divergence between its declared purpose and its realized structure.
 
 Upstream Software Engineering therefore treats the software system not as a transient artifact, but as an enduring entity whose coherence must be preserved across time.
@@ -53,16 +57,16 @@ Upstream Software Engineering therefore treats the software system not as a tran
 The software system does not define itself.
 
 - Its **intent** defines and constrains what it is for and how it must be structured.  
-- Its **context** conditions and challenges the validity of those commitments.
+- Its **context** conditions and challenges the validity of those commitments.  
+- Its **stewardship and authority** determine who is responsible for preserving and revising those commitments across time.
 
-→ Read the definition of these concepts in **[Intent](./intent.md)** and **[Context](./context.md)**
+→ Continue to **[Intent](./intent.md)** for the definition of system-level commitments.
 
 
 ## Where to go next
 
-Proceed to the definition of **[Intent](./intent.md)**.
+Continue to **[Intent](./intent.md)** for the articulation of system-level commitments.
 
-If preferred, proceed to:
-- **[The discipline](./index.md)** for an oferview of the conceptual foundations of the discipline.
-- **[Foundations](../index.md)** for an overview of the normative core of the discipline.
-- **[Guidebook](../../index.md)** for an overview of this guidebook.
+Proceed to **[The discipline](./index.md)** for the conceptual structure of this part,  
+to **[Foundations](../index.md)** for the broader normative framework,  
+or to **[Guidebook](../../index.md)** for the complete guidebook structure.
