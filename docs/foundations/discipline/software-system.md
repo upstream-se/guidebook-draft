@@ -65,8 +65,6 @@ The software system does not define itself.
 
 ## Where to go next
 
-Continue to **[Intent](./intent.md)** for the articulation of system-level commitments.
+Continue to **[Intent](./intent.md)** for the definition of system-level commitments.
 
-Proceed to **[The discipline](./index.md)** for the conceptual structure of this part,  
-to **[Foundations](../index.md)** for the broader normative framework,  
-or to **[Guidebook](../../index.md)** for the complete guidebook structure.
+Proceed to **[The discipline](./index.md)** for the conceptual structure of Upstream Software Engineering, to **[Foundations](../index.md)** for the normative framework of the discipline, or to **[Guidebook](../../index.md)** for the complete guidebook structure.
