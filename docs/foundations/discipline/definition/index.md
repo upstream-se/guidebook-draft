@@ -183,6 +183,6 @@ Coherent software evolution requires both.
 
 ## Where to go next
 
-Proceed to the definiton of **[Software systemm](../software-system.md)**
+Proceed to the definiton of **[Software system](../software-system.md)**.
 
 If preferred, proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
