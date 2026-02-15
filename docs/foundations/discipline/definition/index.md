@@ -1,8 +1,5 @@
 # Definition of the discipline
 
-> ⚠️ **This page is under active construction.**  
-> The conceptual structure is established. Wording and refinement will evolve.
-
 This page defines Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.  It clarifies its locus of concern, its object of governance, and its relationship to the construction, operation, and evolution of long-lived software systems.  The definition is intentionally concise; what follows specifies its precise meaning and scope.
 
 
