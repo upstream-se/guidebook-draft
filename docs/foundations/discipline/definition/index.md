@@ -139,26 +139,46 @@ Revisability does not imply informality.
 Binding but revisable commitments make coherent evolution possible.
 
 
-## 5. Upstream and Downstream
+## Upstream and downstream
 
-This section will describe the stratification in prose before introducing any summary table.
+Software Engineering encompasses multiple layers of concern.  Upstream Software Engineering introduces an explicit stratification between two distinct but interdependent domains of practice.
 
-Downstream concerns:
+**Downstream** refers to the realization of software systems: construction, implementation, deployment, operation, automation, testing, refactoring, monitoring, and the production of concrete artifacts.  It governs how systems are built, executed, and modified in practice.
 
-- execution,
-- construction,
-- deployment,
-- operational control,
-- artifact production.
+**Upstream** refers to the epistemic governance of the commitments that normatively orient and constrain that realization.  It governs the durability, visibility, traceability, and revisability of intent across time.
 
-Upstream concerns:
+The distinction is not hierarchical and not oppositional.
 
-- stewardship of commitments,
-- preservation of coherence across initiatives,
-- governance beyond project boundaries,
-- evolution of meaning across time.
+Downstream practices are necessary.  They embody and enact commitments.  They generate the artifacts through which systems operate and evolve.
 
-A compact comparison table may be included as a summary at the end of the section.
+Upstream does not replace or prescribe downstream methodologies.  It provides the normative core that gives those methodologies coherence across initiatives, teams, technological shifts, and organizational restructuring.
+
+The two domains differ in the following aspects:
+
+- Downstream governs activity and artifact production.  Upstream governs the commitments that define and constrain those activities and artifacts.
+
+- Downstream operates within initiative horizons.  Upstream spans discontinuities.
+
+- Downstream optimizes execution.  Upstream preserves meaning.
+
+- Downstream change modifies structure and behavior.  Upstream change revises commitments.
+
+The stratification becomes visible when systems endure beyond the lifecycle of any single project.  When teams change, technologies shift, or providers transition, downstream execution may be entirely reorganized.  Upstream commitments must remain legible and deliberately revisable if coherence is to persist.
+
+The distinction can be summarized as follows:
+
+| Aspect | Upstream | Downstream |
+|------------|-----------|------------|
+| Primary object of governance | Intent as commitments | Activity and artifacts |
+| Time horizon | Cross-initiative, long-lived | Initiative-bound |
+| Mode of control | Epistemic (knowledge stewardship) | Operational and managerial |
+| Type of change | Revision of commitments | Modification of implementation |
+| Risk when absent | Drift of meaning | Execution failure |
+
+Upstream and downstream are therefore complementary.  Execution without epistemic stewardship leads to drift.  Epistemic articulation without realization remains inert.
+
+Coherent software evolution requires both.
+
 
 ## Where to go next
 
