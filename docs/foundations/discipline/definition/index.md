@@ -115,16 +115,28 @@ The health of a long-lived software system depends not only on structural correc
 This alignment is the condition for coherent evolution.
 
 
-## 4. Binding but Revisable
+## Binding but revisable
 
-This section will clarify the core governance property of intent:
+The central governance property of intent is that it is both binding and revisable.
 
-- Binding means downstream realization must conform to declared commitments.
-- Revisable means upstream may explicitly re-articulate those commitments.
-- Revision must be deliberate and visible.
-- Unarticulated change constitutes erosion of governance.
+**Binding*+ means that articulated commitments normatively constrain realization.  They are not advisory preferences, informal aspirations, or optional guidelines.  They define what must be respected unless deliberately reconsidered.  Structural decisions, requirement refinements, technological choices, and operational configurations must remain coherent with declared commitments.
 
-Intent is neither immutable nor informal; it is governable.
+**Revisable** means that commitments are not immutable.  Long-lived systems evolve under shifting contextual conditions.  Assumptions may become invalid.  Constraints may become obsolete.  Purpose may require reinterpretation.
+
+However, revision must be **explicit, deliberate, and visible**.
+
+Unarticulated modification of commitments constitutes erosion of governance.  Implicit deviation from declared constraints produces drift.  
+Freezing commitments permanently produces rigidity.
+
+Upstream Software Engineering therefore treats intent as a governable object whose legitimacy depends on two conditions:
+
+- it constrains action while valid, and  
+- it can be consciously re-articulated when context demands change.
+
+Durability does not imply immutability.  
+Revisability does not imply informality.
+
+Binding but revisable commitments make coherent evolution possible.
 
 
 ## 5. Upstream and Downstream
