@@ -60,6 +60,8 @@ Structure-intent is not architectural description.  It is the set of decisions a
 
 Together, scope-intent and structure-intent form the normative core that governs system realization across time.
 
+The full conceptual treatment of intent is developed in **[Intent](./intent.md)**.
+
 
 ### Knowledge of context
 
@@ -76,6 +78,8 @@ Upstream governance therefore requires that:
 - reinterpretation occur deliberately rather than implicitly.
 
 The discipline does not attempt to control external reality.  It governs the knowledge that interprets that reality in relation to system intent.
+
+The ontological grounding of context is developed in **[Context](./context.md)**.
 
 
 ## The context–intent relationship
@@ -182,6 +186,6 @@ Coherent software evolution requires both.
 
 ## Where to go next
 
-Proceed to the **[Definition](./index.md)** for more insight in the definition of Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.
+Proceed to the definiton of **[Software systemm](./software-system.md)**
 
 If preferred, proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
