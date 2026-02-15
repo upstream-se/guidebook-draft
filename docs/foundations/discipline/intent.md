@@ -51,11 +51,9 @@ Durability does not imply immutability.  Revisability does not imply informality
 
 ## Intent across time
 
-Long-lived software systems endure across projects, iterations, technological shifts, provider transitions, and organizational restructuring. Intent persists across these discontinuities.
+Long-lived software systems endure across projects, iterations, technological shifts, provider transitions, and organizational restructurings.  Intent persists across these discontinuities.
 
-When intent remains implicit, coherence erodes gradually.  
-When intent is treated as immutable, rigidity emerges.  
-When intent is revised without explicit articulation, governance dissolves into drift.
+When intent remains implicit, coherence erodes gradually.  When intent is treated as immutable, rigidity emerges.  When intent is revised without explicit articulation, governance dissolves into drift.
 
 The health of a long-lived system depends on maintaining intent as an explicit and consciously revisable commitment.
 
@@ -74,4 +72,4 @@ The interplay between context and intent explains how and why commitments must e
 
 Continue to **[Context](./context.md)** for the definition of the environment within which commitments are justified.
 
-Proceed to **[Software System](./software-system.md)** for the definition of the enduring entity that bears intent, to **[The discipline](./index.md)** for the conceptual structure of Upstream Software Engineering, to **[Foundations](../index.md)** for the normative framework of the guidebook, or to **[Guidebook](../../index.md)** for the complete structure of the guidebook.
+Proceed to **[The discipline](./index.md)** for the conceptual structure of Upstream Software Engineering, to **[Foundations](../index.md)** for the normative framework of the guidebook, or to **[Guidebook](../../index.md)** for the complete structure of the guidebook.
