@@ -5,24 +5,21 @@
 
 This page defines Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.  It clarifies its locus of concern, its object of governance, and its relationship to the construction, operation, and evolution of long-lived software systems.  The definition is intentionally concise; what follows specifies its precise meaning and scope.
 
+The definition above fixes the core locus of the discipline.  The following clarifications stabilize its interpretation without expanding its scope.
 
-## Definition
+**Epistemic governance** concerns the stewardship of knowledge rather than the coordination of activity.  It determines what must be made explicit, preserved, inspectable, and deliberately revisable over time.  Upstream Software Engineering does not govern execution; it governs the knowledge that normatively orients and constrains construction, operation, and evolution.
 
-> **Definition.**  Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems, articulable as durable, revisable commitments about scope and structure that normatively guide their construction, operation, and evolution as their context changes.
+**Long-lived software systems** are systems that persist across projects, teams, technological shifts, and organizational restructuring.  Their endurance makes durable yet revisable commitments necessary.
 
-The following elaboration stabilizes the intended interpretation of the definition and prevents drift in its understanding.
+**Intent** denotes articulated commitments that bind realization while remaining explicitly revisable through deliberate reconsideration.  These commitments have two inseparable dimensions:  
+- commitments about **scope**, concerning what the system is for and not for; and  
+- commitments about **structure**, concerning binding design constraints and structural decisions that shape architecture, integration, deployment, automation, and evolution.  
 
-**Epistemic governance** concerns the stewardship of knowledge rather than the coordination of activity.  It determines what must be made explicit, preserved, inspectable, and deliberately revisable over time.  Upstream Software Engineering does not govern execution; it governs the knowledge that orients and constrains execution.
+Together, these commitments form the normative core against which construction, operation, and structural transformation are evaluated.
 
-**Intent** denotes the set of durable yet revisable commitments that define and constrain a software system.  It has two inseparable dimensions.  **Intent in scope** concerns purpose, domain boundaries, assumptions, obligations, and non-goals.  **Intent in structure** concerns binding design decisions and structural constraints that shape organization, integration, deployment, automation, and evolution.  Together, these commitments constitute the normative core against which construction, operation, and structural transformation are evaluated.
+**Context** refers to the real-world environment in which the system is embedded.  Context itself is not governable.  What is subject to governance is the articulated knowledge and assumptions about that environment and their declared relationship to system intent.  When context changes, commitments must be deliberately reinterpreted or revised rather than allowed to drift implicitly.
 
-**Long-lived software systems** persist across projects, iterations, organizational restructuring, technological shifts, and provider transitions.  Coherence across such discontinuities requires commitments that are neither implicit nor frozen.  They must constrain decision-making while remaining explicitly revisitable when contextual conditions change.
-
-**Context**, as the real-world environment in which the system is embedded, is not governable in itself. The knowledge and assumptions about that environment, and their articulated relationship to system intent, are subject to epistemic governance. When context changes, commitments must be deliberately reinterpreted or revised, rather than allowed to drift implicitly.
-
-The meaning of the definition above can be disciplined by examining borderline cases and adjacent practices.
-
-→ Read the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
+The meaning of the definition above can be disciplined by examining borderline cases, as anakyzed in the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
 
 
 ## What is governed
@@ -64,7 +61,7 @@ Structure-intent constitutes the core set of decisions and constraints that must
 Intent is therefore dual: it concerns both what the system is for and how it must be shaped to remain coherent with that purpose.
 
 
-### pKnowledge of context
+### Knowledge of context
 
 Context refers to the external reality within which the system exists: organizational arrangements, regulatory frameworks, technological environments, market conditions, and socio-technical constraints.
 
