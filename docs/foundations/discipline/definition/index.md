@@ -9,8 +9,6 @@ This page defines Upstream Software Engineering as a distinct practice within th
 
 The definition fixes the core locus of the discipline.  What follows stabilizes its interpretation without expanding its scope.
 
-**Epistemic governance** concerns the stewardship of knowledge rather than the coordination of activity. It determines what must be made explicit, preserved, inspectable, and deliberately revisable over time. Upstream Software Engineering does not govern execution; it governs the knowledge that normatively orients and constrains construction, operation, and evolution.
-
 
 ## Core elements of the discipline
 
@@ -22,6 +20,17 @@ Upstream Software Engineering presupposes four interdependent conceptual element
 - and the **stewardship and authority** that make binding governance possible.
 
 Each is stabilized here and developed in its own page.
+
+
+### Epistemic governance
+
+Epistemic governance concerns the stewardship of knowledge rather than the coordination of activity.  It determines what must be made explicit, preserved, inspectable, and deliberately revisable over time.
+
+It does not govern execution directly.  It governs the articulated commitments that normatively orient and constrain construction, operation, and evolution.
+
+Without epistemic governance, intent dissolves into informal understanding and drift replaces deliberate revision.
+
+→ See **[Upstream and downstream](../upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
 
 
 ### Software system
@@ -58,6 +67,7 @@ Binding commitments presuppose identifiable responsibility. If intent is to cons
 Authority does not prescribe a specific organizational form. It establishes a structural requirement: without accountable stewardship, commitments lose binding force and governance collapses into informal practice.
 
 → See **[Stewardship and authority](../stewardship-and-authority.md)** for the institutional conditions that make binding intent possible.
+
 
 ## What is governed
 
