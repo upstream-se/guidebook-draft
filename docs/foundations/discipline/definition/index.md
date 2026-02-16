@@ -23,7 +23,7 @@ Together, these commitments form the normative core against which construction, 
 
 The meaning of the definition above can be disciplined by examining borderline cases, as analyzed in:
 
-→ **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**  
+→ **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**
   Stress-test of the definition by analyzing borderline cases.
 
 
