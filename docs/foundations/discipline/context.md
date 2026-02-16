@@ -47,22 +47,21 @@ It is external reality.
 What is governable is:
 
 - the explicit articulation of contextual assumptions,
-- the declared interpretation of contextual conditions,
-- and the stated relationship between those conditions and system commitments.
+- the declared interpretation of contextual conditions, and
+- the stated relationship between those conditions and system commitments.
 
-When contextual assumptions remain implicit, commitments lack traceable justification.  
-When contextual conditions shift without reconsideration of commitments, coherence erodes.
+When contextual assumptions remain implicit, commitments lack traceable justification.  When contextual conditions shift without reconsideration of commitments, coherence erodes.
 
 Upstream governance therefore requires that:
 
 - contextual conditions relevant to commitments be articulated,
-- assumptions be inspectable,
-- and their linkage to intent be explicit.
+- assumptions be inspectable, and
+- their linkage to intent be explicit.
 
 
 ## Context across time
 
-Context is not static. Organizational structures evolve. Regulations change. Technologies become obsolete. Markets shift. Partnerships dissolve.
+Context is not static.  Organizational structures evolve.  Regulations change.  Technologies become obsolete.  Markets shift.  Partnerships dissolve.  Providers change.
 
 Because context changes, commitments must be revisitable.
 
@@ -79,8 +78,7 @@ Sustained alignment between contextual understanding and articulated intent is a
 
 ## Relation to other concepts
 
-Context justifies and challenges **intent**.  
-Intent normatively constrains the realization of a **software system**.
+Context justifies and challenges **intent**.  Intent normatively constrains the realization of a **software system**.
 
 The directional relationship is:
 
