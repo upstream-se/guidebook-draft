@@ -38,7 +38,7 @@ Authority is distinct from authorship.  The person who drafts a document is not 
 Without authority:
 
 - intent becomes rhetorical,
-- revision becomes drift,
+- revision becomes drift, and
 - governance becomes symbolic rather than operative.
 
 Authority does not imply hierarchy in a specific form.  It may reside in a designated role, a governance body, an accountable executive, or another institutional mechanism.  Upstream does not prescribe structure.  It asserts a structural requirement:
@@ -46,7 +46,52 @@ Authority does not imply hierarchy in a specific form.  It may reside in a desig
 > If no authority is accountable for intent, epistemic governance cannot exist.
 
 
-### Illustrative scenario
+## Differentiated authority over intent
+
+Intent is dual: it concerns both scope and structure.  Authority over these dimensions is often differentiated.
+
+For a single long-lived software system, three lines of responsibility typically emerge:
+
+- **Business authority over scope-intent** — accountable for purpose, obligations, domain boundaries, and non-goals.
+- **Technical authority over structure-intent** — accountable for architectural constraints, technology boundaries, integration principles, deployment assumptions, and structural coherence.
+- **Integrative authority over coherence** — accountable for resolving tensions between scope and structure and for ensuring that commitments remain aligned as the system evolves.
+
+These roles may be embodied in distinct individuals or combined in one person, depending on organizational scale.  What is structurally required is not role proliferation, but clarity of accountability.
+
+Scope-intent cannot be revised solely through technical optimization.  Structure-intent cannot be altered solely through business expediency.
+
+Coherent governance requires explicit recognition of these differentiated responsibilities.
+
+
+## Stewardship without bureaucracy
+
+Epistemic governance does not require complex governance boards or large organizational machinery.
+
+In small and medium organizations, authority over scope and structure may be unified in a founder, product owner, or technical lead.  Organizational simplicity does not invalidate upstream governance.
+
+However:
+
+> Authority may be unified; stewardship must not be personalized.
+
+The structural requirement is not formal bureaucracy.  The structural requirement is epistemic externalization.
+
+Commitments must:
+
+- be articulated in a shared and stable language,
+- remain inspectable independently of their authors,
+- survive turnover and role changes, and
+- be revised explicitly rather than implicitly.
+
+When commitments exist only in the memory of a steward, governance depends on personal continuity.  When commitments are externalized in structured form, stewardship becomes institutional even if the organization is small.
+
+The metamodel provides the structured language for articulating commitments.  The plays define legitimate transformations of those commitments.
+
+Together, they enable durable stewardship without prescribing organizational form.
+
+Intent must not be private knowledge.
+
+
+## Illustrative scenario
 
 Consider a long-lived payments platform within a financial institution.
 
@@ -85,7 +130,8 @@ Upstream Software Engineering presupposes:
 - identifiable stewardship of intent,
 - explicit locus of authority over commitments,
 - visible mechanisms for deliberate revision,
-- continuity of accountability across organizational change.
+- continuity of accountability across organizational change, and
+- epistemic externalization of commitments independent of specific individuals.
 
 This page does not prescribe an organizational model.  It establishes a structural necessity.
 
