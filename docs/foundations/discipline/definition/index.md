@@ -9,9 +9,9 @@ The definition is intentionally concise.  The sections that follow establish the
 
 > **Definition.**  Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems, articulable as durable, revisable commitments about scope and structure that normatively guide their construction, operation, and evolution as their context changes.
 
-The definition fixes the locus of the discipline: governance of articulated commitments that orient and constrain realization across time.
+The definition establishes the locus of the discipline: the governance of articulated commitments that orient and constrain realization across time.
 
-Its precise meaning depends on five interdependent conceptual elements.
+Its meaning is structured through five interdependent conceptual elements.
 
 
 ## Core elements of the discipline
@@ -131,6 +131,22 @@ Execution without epistemic stewardship leads to drift.  Epistemic articulation 
 Coherent software evolution requires both.
 
 → See **[Upstream and downstream](../upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
+
+
+## Conceptual boundary analysis
+
+A definition acquires precision not only through internal clarification but also through examination of its limits.
+
+Upstream Software Engineering defines a specific locus of governance.  Its boundaries become clearer when contrasted with adjacent practices and borderline cases, including:
+
+- project governance without durable commitments,
+- architectural documentation without binding authority,
+- strategic planning without explicit structural constraints,
+- and execution excellence without epistemic stewardship.
+
+These analyses test whether intent is truly binding, durable, and revisable — or merely rhetorical.
+
+→ See **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)** for examining borderline cases that test the limits of the definition.
 
 
 ## Where to go next
