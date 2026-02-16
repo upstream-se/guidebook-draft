@@ -133,7 +133,7 @@ Execution without epistemic stewardship leads to drift.  Epistemic articulation 
 
 Coherent software evolution requires both.
 
-→ See **[Upstream and downstream](./upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
+→ See **[Upstream and downstream](../upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
 
 
 ## Where to go next
