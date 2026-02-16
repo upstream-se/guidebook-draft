@@ -24,14 +24,13 @@ The pages below develop the discipline progressively—from conceptual grounding
 - **[Definition](./definition/index.md)**  
   Defines Upstream Software Engineering and clarifies its locus of governance.
 
-- **[Software system](./software-system.md)**  
-  Defines the governed entity as a socio-technical, long-lived system.
+- **[Software system](./software-system.md)**  Defines the governed entity as a socio-technical, long-lived system.
 
-- **[Context](./context.md)**  
-  Describes the environment that conditions and constrains system-level intent.
+- **[Intent](./intent.md)**  Defines purpose, commitments, assumptions, constraints, and non-goals as explicit knowledge objects.
 
-- **[Intent](./intent.md)**  
-  Defines purpose, commitments, assumptions, constraints, and non-goals as explicit knowledge objects.
+- **[Context](./context.md)**.  Describes the environment that conditions and constrains system-level intent.
+
+- **[Stewardship and authority](./stewardship-and-authority.md)**. 
 
 
 ## Change and evolution
