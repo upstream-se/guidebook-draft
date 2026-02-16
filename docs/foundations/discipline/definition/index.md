@@ -28,9 +28,11 @@ The meaning of the definition above can be disciplined by examining borderline c
 
 ## What is governed
 
-Upstream Software Engineering governs neither activity nor artifacts in themselves.  It governs the articulated commitments that define and constrain a long-lived software system.  The longevity of such systems makes durable epistemic governance necessary.
+Upstream Software Engineering governs neither activity nor artifacts in themselves.  It governs the articulated commitments that define and constrain a long-lived software system.  
 
-This requires distinguishing clearly between:
+→ See **[Software system](../software-system.md)** for the definition of the enduring socio-technical entity that bears intent.
+
+The longevity of such systems makes durable epistemic governance necessary.  This requires distinguishing clearly between:
 
 - execution and its products, and  
 - the normative knowledge that orients and constrains them.
@@ -187,6 +189,6 @@ Coherent software evolution requires both.
 
 ## Where to go next
 
-Proceed to the definiton of **[Software system](../software-system.md)**.
+Continue to **[Software system](./software-system.md)** for the definition of the enduring socio-technical entity that bears intent.
 
-If preferred, proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
+Proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
