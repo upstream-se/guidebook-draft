@@ -59,7 +59,7 @@ Structure-intent is not architectural description.  It is the set of decisions a
 
 Together, scope-intent and structure-intent form the normative core that governs system realization across time.
 
-The full conceptual treatment of intent is developed in **[Intent](../intent.md)**.
+→ **[Intent](../intent.md)**.  Develops the conceptual treatment of intent.
 
 
 ### Knowledge of context
@@ -78,7 +78,7 @@ Upstream governance therefore requires that:
 
 The discipline does not attempt to control external reality.  It governs the knowledge that interprets that reality in relation to system intent.
 
-The ontological grounding of context is developed in **[Context](../context.md)**.
+→ **[Context](../context.md)**.  Defines the ontological grounding of context.
 
 
 ## The context–intent relationship
