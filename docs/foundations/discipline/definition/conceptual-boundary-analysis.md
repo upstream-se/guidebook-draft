@@ -4,7 +4,7 @@ This page examines borderline cases and adjacent practices to discipline the mea
 
 The purpose is not to expand the definition, but to stabilize its interpretation.  By testing what falls inside and outside its scope, the conceptual boundaries of upstream practice become sharper and less prone to drift.
 
-⇄ See **[Upstream Software Engineering discipline](./definition/index.md)** for the definition of the discipline.
+⇄ See **[Upstream Software Engineering discipline](./index.md)** for the definition of the discipline.
 
 
 ## Cases
