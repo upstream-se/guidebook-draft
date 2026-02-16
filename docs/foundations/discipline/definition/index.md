@@ -118,16 +118,13 @@ Software Engineering encompasses multiple layers of concern. Upstream introduces
 
 **Upstream** concerns the epistemic governance of the commitments that normatively orient and constrain that realization.
 
-The distinction is not hierarchical and not oppositional.
+The distinction is not hierarchical and not oppositional:
 
-- Downstream governs activity and artifact production.  
-- Upstream governs the commitments that define and constrain those activities and artifacts.  
+- Downstream governs activity and artifact production.  Upstream governs the commitments that define and constrain those activities and artifacts.  
 
-- Downstream operates within initiative horizons.  
-- Upstream spans discontinuities.  
+- Downstream operates within initiative horizons.  Upstream spans discontinuities.  
 
-- Downstream optimizes execution.  
-- Upstream preserves meaning.
+- Downstream optimizes execution.  Upstream preserves meaning.
 
 Execution without epistemic stewardship leads to drift.  Epistemic articulation without realization remains inert.
 
