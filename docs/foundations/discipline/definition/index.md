@@ -37,7 +37,7 @@ This requires distinguishing clearly between:
 
 Construction, operation, deployment, automation, architectural modeling, documentation, and refactoring are all necessary practices.  They are not, however, the primary object of upstream governance.  They are shaped by upstream commitments, but they are not themselves the locus of epistemic control.
 
-Upstream governs two interrelated knowledge domains.
+Upstream governs two interrelated knowledge domains: intent as binding commitments and knowledge of context.
 
 
 ### Intent as binding commitments
