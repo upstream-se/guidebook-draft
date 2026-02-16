@@ -24,7 +24,7 @@ Epistemic governance concerns the stewardship of knowledge rather than the coord
 
 Upstream does not govern execution directly.  It governs the knowledge that normatively orients and constrains construction, operation, and evolution.
 
-→ See **[Epistemic governance](../epistemic-governance.md)** for the definition of epistemic governance and its role in the discipline.
+↗ See **[Epistemic governance](../epistemic-governance.md)** for the definition of epistemic governance and its role in the discipline.
 
 
 ### Software system
@@ -33,7 +33,7 @@ A software system is the enduring socio-technical entity whose commitments persi
 
 Upstream presupposes such persistence.  Without a long-lived system, durable commitments would not be structurally necessary.
 
-→ See **[Software system](../software-system.md)** for the definition of the enduring entity that bears intent.
+↗ See **[Software system](../software-system.md)** for the definition of the enduring entity that bears intent.
 
 
 ### Intent
@@ -47,7 +47,7 @@ Intent has two inseparable dimensions:
 
 Together, these commitments form the normative core against which construction, operation, and structural transformation are evaluated.
 
-→ See **[Intent](../intent.md)** for the definition of intent and its role in the discipline.
+↗ See **[Intent](../intent.md)** for the definition of intent and its role in the discipline.
 
 
 ### Context
@@ -58,7 +58,7 @@ Context itself is not governable.  What is subject to governance is the articula
 
 When context changes, commitments must be deliberately reinterpreted or revised rather than allowed to drift implicitly.
 
-→ See **[Context](../context.md)** for the definition of context and its role in the discipline.
+↗ See **[Context](../context.md)** for the definition of context and its role in the discipline.
 
 
 ### Stewardship and authority
@@ -73,7 +73,7 @@ Without accountable stewardship:
 
 Upstream does not prescribe organizational structure.  It asserts a structural requirement: durable commitments require accountable authority capable of preserving and revising them.
 
-→ See **[Stewardship and authority](../stewardship-and-authority.md)** for the institutional conditions of epistemic governance.
+↗ See **[Stewardship and authority](../stewardship-and-authority.md)** for the institutional conditions of epistemic governance.
 
 
 ## The context–intent relationship
@@ -130,7 +130,7 @@ Execution without epistemic stewardship leads to drift.  Epistemic articulation 
 
 Coherent software evolution requires both.
 
-→ See **[Upstream and downstream](../upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
+↗ See **[Upstream and downstream](../upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
 
 
 ## Conceptual boundary analysis
@@ -146,11 +146,15 @@ Upstream Software Engineering defines a specific locus of governance.  Its bound
 
 These analyses test whether intent is truly binding, durable, and revisable — or merely rhetorical.
 
-→ See **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)** for examining borderline cases that test the limits of the definition.
+⇄ See **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)** for examining borderline cases that test the limits of the definition.
 
 
 ## Where to go next
 
-Continue to **[Epistemic governance](../epistemic-governance.md)** for the definition of epistemic governance and its role in the discipline.
+→ See **[Epistemic governance](../epistemic-governance.md)** for the definition of epistemic governance and its role in the discipline.
 
-See **[The discipline](../index.md)** for the conceptual structure of Upstream Software Engineering,  **[Foundations](../../index.md)** for the normative framework of the discipline, or **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
+↑ See **[The discipline](../index.md)** for the conceptual structure of Upstream Software Engineering.
+
+↑ See **[Foundations](../../index.md)** for the normative framework of the discipline.
+
+↑ **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
