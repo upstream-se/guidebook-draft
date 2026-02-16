@@ -93,4 +93,4 @@ This interplay prepares the ground for the pages on change and evolution.
 
 Continue to **[Intent](./intent.md)** for the definition of binding commitments about scope and structure.
 
-Proceed to **[Software System](./software-system.md)** for the definition of the enduring entity embedded in context, to **[The discipline](./index.md)** for the conceptual structure of Upstream Software Engineering, to **[Foundations](../index.md)** for the normative framework of the guidebook, or to **[Guidebook](../../index.md)** for the complete structure of the guidebook.
+Proceed to **[The discipline](./index.md)** for the conceptual structure of Upstream Software Engineering, to **[Foundations](../index.md)** for the normative framework of the guidebook, or to **[Guidebook](../../index.md)** for the complete structure of the guidebook.
