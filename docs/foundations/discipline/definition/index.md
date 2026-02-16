@@ -191,4 +191,4 @@ Coherent software evolution requires both.
 
 Continue to **[Software system](./software-system.md)** for the definition of the enduring socio-technical entity that bears intent.
 
-Proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
+Proceed to **[The discipline](../index.md)** for the conceptual structure of Upstream Software Engineering, to **[Foundations](../../index.md)** for the normative framework of the guidebook, or to **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
