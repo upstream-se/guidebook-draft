@@ -124,7 +124,7 @@ This alignment is the condition for coherent evolution.
 
 The central governance property of intent is that it is both binding and revisable.
 
-**Binding*+ means that articulated commitments normatively constrain realization.  They are not advisory preferences, informal aspirations, or optional guidelines.  They define what must be respected unless deliberately reconsidered.  Structural decisions, requirement refinements, technological choices, and operational configurations must remain coherent with declared commitments.
+**Binding** means that articulated commitments normatively constrain realization.  They are not advisory preferences, informal aspirations, or optional guidelines.  They define what must be respected unless deliberately reconsidered.  Structural decisions, requirement refinements, technological choices, and operational configurations must remain coherent with declared commitments.
 
 **Revisable** means that commitments are not immutable.  Long-lived systems evolve under shifting contextual conditions.  Assumptions may become invalid.  Constraints may become obsolete.  Purpose may require reinterpretation.
 
