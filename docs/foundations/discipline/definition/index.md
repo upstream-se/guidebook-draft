@@ -21,7 +21,7 @@ Together, these commitments form the normative core against which construction, 
 
 **Context** refers to the real-world environment in which the system is embedded.  Context itself is not governable.  What is subject to governance is the articulated knowledge and assumptions about that environment and their declared relationship to system intent.  When context changes, commitments must be deliberately reinterpreted or revised rather than allowed to drift implicitly.
 
-The meaning of the definition above can be disciplined by examining borderline cases, as anakyzed in the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
+The meaning of the definition above can be disciplined by examining borderline cases, as analyzed in the **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.
 
 
 ## What is governed
