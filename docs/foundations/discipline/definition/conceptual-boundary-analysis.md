@@ -4,7 +4,7 @@ This page examines borderline cases and adjacent practices to discipline the mea
 
 The purpose is not to expand the definition, but to stabilize its interpretation.  By testing what falls inside and outside its scope, the conceptual boundaries of upstream practice become sharper and less prone to drift.
 
-The definition under analysis is stated in **[Definition](./index.md)**.
+⇄ See **[Upstream Software Engineering discipline](./definition/index.md)** for the definition of the discipline.
 
 
 ## Cases
@@ -79,6 +79,6 @@ The analysis confirms that the definition is neither overly restrictive nor vacu
 
 ## Where to go next
 
-Proceed to the **[Definition](./index.md)** for more insight in the definition of Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.
+⇄ See **[Upstream Software Engineering discipline](./definition/index.md)** for the definition of the discipline.
 
-If preferred, proceed to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../../index.md)** for an overview of the normative core of the discipline, or to **[Guidebook home](../../../index.md)** for an overview of this guidebook.
+ 
