@@ -135,6 +135,6 @@ Coherent software evolution requires both.
 
 ## Where to go next
 
-Continue to **[Software system](../software-system.md)** for the definition of the enduring socio-technical entity that bears intent.
+Continue to **[Epistemic governance](../epistemic-governance.md)** for the definition of epistemic governance and its role in the discipline.
 
 See **[The discipline](../index.md)** for the conceptual structure of Upstream Software Engineering,  **[Foundations](../../index.md)** for the normative framework of the discipline, or **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
