@@ -19,9 +19,9 @@ The pages below develop the discipline progressively—from conceptual grounding
   Articulates the foundational principles derived from that historical analysis and expresses the commitments that shape Upstream Software Engineering.
 
 
-## Definition and core concepts
+## Core concepts
 
-- **[Definition](./definition/index.md)**  
+- **[Upstream Software Engineering discipline](./definition/index.md)**  
   Defines Upstream Software Engineering and clarifies its locus of governance.
 
 - **[Software system](./software-system.md)**  
