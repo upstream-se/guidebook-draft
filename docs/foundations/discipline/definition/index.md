@@ -1,4 +1,4 @@
-# Definition of the discipline
+# Upstream Software Engineering discipline
 
 This page defines Upstream Software Engineering as a distinct practice within the broader field of Software Engineering.  It clarifies its locus of concern, its object of governance, and its relationship to the construction, operation, and evolution of long-lived software systems.  The definition is intentionally concise; what follows specifies its precise meaning and scope.
 
@@ -23,7 +23,7 @@ Together, these commitments form the normative core against which construction, 
 
 The meaning of the definition above can be disciplined by examining borderline cases, as analyzed in:
 
-→ **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)**.  Stress-tests the definition by analyzing borderline cases.
+→ See **[Conceptual boundary analysis](./conceptual-boundary-analysis.md)** for examining borderline cases that test the limits of the definition.
 
 
 ## What is governed
@@ -59,7 +59,7 @@ Structure-intent is not architectural description.  It is the set of decisions a
 
 Together, scope-intent and structure-intent form the normative core that governs system realization across time.
 
-→ **[Intent](../intent.md)**.  Develops the conceptual treatment of intent.
+→ See **[Intent](../intent.md)** for the definition of intent and its role in the discipline.
 
 
 ### Knowledge of context
@@ -78,7 +78,7 @@ Upstream governance therefore requires that:
 
 The discipline does not attempt to control external reality.  It governs the knowledge that interprets that reality in relation to system intent.
 
-→ **[Context](../context.md)**.  Defines the ontological grounding of context.
+→ See **[Context](../context.md)** for the definition of context and its role in the discipline.
 
 
 ## The context–intent relationship
@@ -181,6 +181,8 @@ The distinction can be summarized as follows:
 Upstream and downstream are therefore complementary.  Execution without epistemic stewardship leads to drift.  Epistemic articulation without realization remains inert.
 
 Coherent software evolution requires both.
+
+→ See **[Upstream and downstream](../upstream-and-downstream.md)** for the distinction between epistemic governance and execution-oriented practice.
 
 
 ## Where to go next
