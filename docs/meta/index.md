@@ -13,7 +13,7 @@ This governance framework separates constitutional foundations, structural rules
   Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
 
 - **[Structural governance](./structural-governance/)**  
-  Defines the structural rules that govern how the guidebook is organized and maintained.
+  Defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
 
 - **[Editorial governance](./editorial-governance/)**  
   Defines the standards that govern terminology, expression, and documentation discipline.
