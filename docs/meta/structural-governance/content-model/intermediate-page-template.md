@@ -20,10 +20,9 @@ Additional sections may be added as needed.
 
 Additional substantive content belonging to this page.
 
+## [Contextual Section Title]
 
-## Contained pages
-
-This section lists the pages directly contained under this page.
+Introductory text (if needed).
 
 Brief explanation of grouping, if grouping is being used and an explanation is necessary.
 
