@@ -1,8 +1,5 @@
 # Epistemic governance
 
-> ⚠️ **This page is under active construction.**  
-> The conceptual definition is stable. Refinement of formulation and examples may continue.
-
 Upstream Software Engineering is defined as a practice of *epistemic governance*.  This qualifier is decisive.  It distinguishes upstream from managerial control, operational coordination, and methodological prescription.  Upstream governs knowledge — not activity.
 
 ↗ See **[Upstream Software Engineering discipline](./index.md)** for the definition of the discipline.
@@ -127,6 +124,8 @@ The concept of epistemic governance operationalizes the principles of Upstream S
 
 Epistemic governance is therefore not an auxiliary concern.  It is the conceptual mechanism through which the principles of the discipline become operational.
 
+↗ See **[Principles](../principles.md)** for the foundational principles that shape Upstream Software Engineering as a discipline.
+
 
 ## Where to go next
 
@@ -138,4 +137,4 @@ Epistemic governance is therefore not an auxiliary concern.  It is the conceptua
 
 ↑ See **[Foundations](../../index.md)** for the normative framework of the discipline.
 
-↑ **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
+↑ See **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
