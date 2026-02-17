@@ -9,19 +9,19 @@ This governance framework separates constitutional foundations, structural rules
 
 ## Governance domains
 
-- **[Constitutional foundations](./constitutional-foundations/)**
+- **[Constitutional foundations](./constitutional-foundations/)**  
   Defines the identity and normative boundaries of the guidebook.
 
-- **[Structural governance](./structural-governance/)**
+- **[Structural governance](./structural-governance/)**  
   Defines the structural rules that govern how the guidebook is organized and maintained.
 
-- **[Editorial governance](./editorial-governance/)**
+- **[Editorial governance](./editorial-governance/)**  
   Defines the standards that govern terminology, expression, and documentation discipline.
 
-- **[Operational governance](./operational-governance/)**
+- **[Operational governance](./operational-governance/)**  
   Defines the processes and decision rights that govern how changes are proposed, reviewed, and approved.
 
-- **[Lifecycle governance](./lifecycle-governance/)**
+- **[Lifecycle governance](./lifecycle-governance/)**  
   Defines the rules that govern versioning, deprecation, release discipline, and long-term integrity.
 
 
