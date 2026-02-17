@@ -162,6 +162,10 @@ That structural asymmetry motivates the upstream discipline.
 
 ## Where to go next
 
-For a sequential reading, proceed to **[Principles](../principles.md)** to undersrand the foundational principles derived from the historical analysis and the commitments that shape Upstream Software Engineering.
+→ See **[Principles](../principles.md)** for the foundational principles that shape Upstream Software Engineering as a discipline.
 
-If prefered, return to **[The discipline](../index.md)** for the conception of Upstream Software Engineering as a distinct field of study, to **[Foundations](../index.md)** for an overview of this part, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
+↑ See **[The discipline](../index.md)** for the conceptual structure of Upstream Software Engineering.
+
+↑ See **[Foundations](../../index.md)** for the normative framework of the discipline.
+
+↑ **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
