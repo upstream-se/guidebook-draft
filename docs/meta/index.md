@@ -4,27 +4,25 @@
 
 The guidebook is a governed intellectual artifact.  Its coherence, precision, structural integrity, and controlled evolution depend on a clearly defined governance framework.
 
-Guidebook governance establishes the institutional rules that apply to all pages.  It separates constitutional foundations, structural rules, editorial discipline, operational control, and lifecycle governance into distinct but coordinated domains.
-
-This framework ensures deliberate evolution, conceptual consistency, and traceable authority.
+This governance framework separates constitutional foundations, structural rules, editorial discipline, operational control, and lifecycle governance into distinct but coordinated domains.  It ensures deliberate evolution, conceptual consistency, and traceable authority.
 
 
 ## Governance domains
 
-- **[Constitutional foundations](./constitutional-foundations/)**  
+- **[Constitutional foundations](./constitutional-foundations/)**
   Defines the identity and normative boundaries of the guidebook.
 
-- **[Structural governance](./structural-governance/)**  
-  Defines how knowledge is organized, modeled, and structurally constrained.
+- **[Structural governance](./structural-governance/)**
+  Defines the structural rules that govern how the guidebook is organized and maintained.
 
-- **[Editorial governance](./editorial-governance/)**  
-  Defines expression discipline, terminology control, and documentation standards.
+- **[Editorial governance](./editorial-governance/)**
+  Defines the standards that govern terminology, expression, and documentation discipline.
 
-- **[Operational governance](./operational-governance/)**  
-  Defines how change is proposed, reviewed, and approved.
+- **[Operational governance](./operational-governance/)**
+  Defines the processes and decision rights that govern how changes are proposed, reviewed, and approved.
 
-- **[Lifecycle Governance](./lifecycle-governance/)**  
-  Defines versioning, deprecation, release discipline, and repository operations.
+- **[Lifecycle governance](./lifecycle-governance/)**
+  Defines the rules that govern versioning, deprecation, release discipline, and long-term integrity.
 
 
 ## Where to go next
