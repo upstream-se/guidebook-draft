@@ -2,7 +2,7 @@
 
 > This page defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
 
-Structural governance regulates the architecture of the guidebook as a structured hypertext artifact. It defines how pages relate to each other, how conceptual hierarchy is established, how navigation is constrained, and how structural integrity is preserved.
+Structural governance regulates the architecture of the guidebook as a structured hypertext artifact.  It defines how pages relate to each other, how conceptual hierarchy is established, how navigation is constrained, and how structural integrity is preserved.
 
 This domain ensures that the guidebook remains coherent, navigable, and architecturally disciplined as it evolves.
 
