@@ -26,7 +26,7 @@ These rules constrain all editorial and operational decisions.
   Defines the structural topology, navigation model, and relational conventions of the guidebook.
 
 - **[Content model](./content-model/)**  
-  Defines page types, structural obligations, and composition rules.
+  Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
 
 - **[Concept taxonomy](./concept-taxonomy/)**  
   Defines the classification rules for conceptual entities in the guidebook.
