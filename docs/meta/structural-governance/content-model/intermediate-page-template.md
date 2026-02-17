@@ -20,7 +20,7 @@ Additional sections may be added as needed.
 
 Additional substantive content belonging to this page.
 
-## [Contextual section title]
+## Contextual section title
 
 Introductory text (if needed).
 
