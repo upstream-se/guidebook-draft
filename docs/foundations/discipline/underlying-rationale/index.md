@@ -42,7 +42,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system meaning — structure was not yet separated from implementation, and system-level intent was treated as a project input rather than revisitable knowledge ([Conway, 1968](../../resources/bibliography.md#conway-1968)).  
 
-⟷ ⇄ See **[1950s–1960s — Production Era](./1950s-1960s-production-era.md)** for the full analysis.
+↔ ⟷ ⇄ See **[1950s–1960s — Production Era](./1950s-1960s-production-era.md)** for the full analysis.
 
 
 ## 1970s — Complexity Era
