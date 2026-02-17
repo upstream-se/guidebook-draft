@@ -16,7 +16,8 @@ The governance framework is organized into five coordinated domains.  Each domai
 
 ### Constitutional foundations
 
-- **[Charter](./constitutional-foundations/charter.md)** — Defines the identity, mission, and normative boundaries of the guidebook.
+- **[Charter](./constitutional-foundations/charter.md)**
+  Defines the identity, mission, and normative boundaries of the guidebook.
 
 - **[Scope and non-goals](./constitutional-foundations/scope-and-non-goals.md)** — Clarifies what the guidebook does and does not attempt to cover.
 
