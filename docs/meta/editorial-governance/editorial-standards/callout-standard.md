@@ -2,12 +2,10 @@
 
 > This page defines the normative system for structured callouts used throughout the guidebook.
 
-Callouts provide a controlled mechanism for expressing structured statements, formal classifications, and lifecycle annotations.  
-The system is intentionally minimal, academically neutral, and symbolically disciplined.
+Callouts provide a controlled mechanism for expressing structured statements, formal classifications, and lifecycle annotations.  The system is intentionally minimal, academically neutral, and symbolically disciplined.
 
----
 
-## Page Descriptor Callout
+## Page descriptor callout
 
 Every page must begin with a descriptor callout immediately after the H1 title.
 
@@ -29,9 +27,8 @@ Example:
 
 The descriptor callout is mandatory for all pages.
 
----
 
-## Structured Callouts
+## Structured callouts
 
 Structured callouts use the filled square symbol.
 
@@ -47,28 +44,17 @@ Format:
 Common titles include:
 
 - Definition  
-- Principle  
-- Policy  
-- Rule  
-- Requirement  
-- Assumption  
-- Constraint  
-- Model  
-- Rationale  
-- Observation  
-- Standard  
+- Principle   
 
 Example:
 
 > ■ **Definition**  
 > A software system is ...
 
-The square symbol is uniform across all structured callouts.  
-The title determines semantic meaning.
+The square symbol is uniform across all structured callouts.  The title determines semantic meaning.
 
----
 
-## Versioning Callouts
+## Versioning callouts
 
 Version annotations use the empty square symbol.
 
@@ -96,9 +82,8 @@ Version callouts:
 - Must not introduce new normative content.  
 - Serve as historical annotations.  
 
----
 
-## Warning Callouts
+## Warning callouts
 
 Warnings use the warning symbol.
 
@@ -119,9 +104,8 @@ Warnings are reserved for:
 
 Warnings must be rare and temporary.
 
----
 
-## Deprecation Callouts
+## Deprecation callouts
 
 Deprecated content is explicitly marked.
 
@@ -136,7 +120,6 @@ Format:
 
 Deprecation callouts must include the version in which deprecation occurred.
 
----
 
 ## Usage Discipline
 
@@ -151,7 +134,6 @@ The following rules apply:
 
 Callouts are structural instruments, not decorative elements.
 
----
 
 ## Where to go next
 
