@@ -16,8 +16,8 @@ Each era is examined through a consistent analytical lens. For every period, we 
    This question identifies the knowledge object, activity, or structural dimension that the discipline explicitly brought under governance.
 
 4. **What governance mode dominated?**  
-   This question situates the era within the governance–knowledge matrix introduced in **[A comparative lens: Governance and knowledge](../../../motivation/coverage-analysis-of-existing-approaches/governance-knowledge-matrix.md)**.  It identifies the dominant configuration by specifying both the object governed (execution, structure, intent) and the mode of governance (operational, managerial, epistemic).  
-  -> See...
+   This question situates the era within the governance–knowledge matrix.  It identifies the dominant configuration by specifying both the object governed (execution, structure, intent) and the mode of governance (operational, managerial, epistemic).  
+  ↗ See **[A comparative lens: Governance and knowledge](../../../motivation/coverage-analysis-of-existing-approaches/governance-knowledge-matrix.md)** for the definition of the governance-knowledge matrix.
 
 5. **What durable lesson was extracted?**  
    Each era institutionalized a lasting insight that continues to shape Software Engineering practice.
@@ -42,7 +42,7 @@ Across eras, execution, structure, and managerial articulation of intent progres
 
 **Under-governed:** Durable system meaning — structure was not yet separated from implementation, and system-level intent was treated as a project input rather than revisitable knowledge ([Conway, 1968](../../resources/bibliography.md#conway-1968)).  
 
-→ **[Read the full analysis](./1950s-1960s-production-era.md)**
+⇄ See **[1950s–1960s — Production Era](./1950s-1960s-production-era.md)** for the full analysis.
 
 
 ## 1970s — Complexity Era
