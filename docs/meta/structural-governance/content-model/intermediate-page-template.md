@@ -30,22 +30,22 @@ Brief explanation of grouping, if grouping is being used and an explanation is n
 
 ### Group title
 
-- **[Child Page 1](.)**  
+- **[Child Page 1](./intermediate-page-template.md)**  
   One-sentence descriptor of the page.
 
-- **[Child Page 2](.)**  
+- **[Child Page 2](./intermediate-page-template.md)**  
   One-sentence descriptor of the page.
 
-- **[Child Page 3](.)**  
+- **[Child Page 3](./intermediate-page-template.md)**  
   One-sentence descriptor of the page.
 
 
 ### Another group
 
-- **[Child Page 4](.)**  
+- **[Child Page 4](./intermediate-page-template.md)**  
   One-sentence descriptor of the page.
   
-- **[Child Page 5](.)**  
+- **[Child Page 5](./intermediate-page-template.md)**  
   One-sentence descriptor of the page.
 
 
