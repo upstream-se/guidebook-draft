@@ -5,13 +5,14 @@
 
 Upstream Software Engineering is defined as a practice of *epistemic governance*.  This qualifier is decisive.  It distinguishes upstream from managerial control, operational coordination, and methodological prescription.  Upstream governs knowledge — not activity.
 
+↗ See **[Upstream Software Engineering discipline](./index.md)** for the definition of the discipline.
+
 
 ## Definition
 
 > **Definition.** Epistemic governance is the structured stewardship of articulated commitments, assumptions, constraints, and their justifications, such that they remain explicit, durable, traceable, and deliberately revisable across the evolution of a long-lived software system.
 
-Epistemic governance does not coordinate tasks.  
-It governs the normative knowledge that orients and constrains construction, operation, and structural transformation.
+Epistemic governance does not coordinate tasks.  It governs the normative knowledge that orients and constrains construction, operation, and structural transformation.
 
 
 ## What it governs
@@ -30,13 +31,12 @@ It governs:
 
 - what must remain visible,
 - what must remain binding while valid,
-- what conditions justify revision,
-- and how reinterpretation is made explicit.
+- what conditions justify revision, and
+- how reinterpretation is made explicit.
 
 Epistemic governance therefore establishes the **conditions under which intent remains legitimate across time**.
 
-It does not prescribe how software is built.  
-It governs what must remain epistemically coherent as it is built and evolved.
+It does not prescribe how software is built.  It governs what must remain epistemically coherent as it is built and evolved.
 
 
 ## What it is not
@@ -48,18 +48,16 @@ Epistemic governance is not:
 - performance optimization,
 - configuration management,
 - artifact version control,
-- compliance documentation,
-- or architectural diagram maintenance.
+- compliance documentation, or
+- architectural diagram maintenance.
 
-Documentation may express commitments.  
-Versioning may preserve artifacts.  
-Process may structure execution.
+Documentation may express commitments.  Versioning may preserve artifacts.  Process may structure execution.
 
 None of these, by themselves, ensure that commitments remain:
 
 - institutionally binding,
-- traceable to contextual justification,
-- or deliberately revisable.
+- traceable to contextual justification, or
+- deliberately revisable.
 
 Without epistemic governance, governance reduces to procedure.
 
@@ -75,32 +73,35 @@ For epistemic governance to exist, governed knowledge must be:
 - **Revisable** — commitments must be explicitly reconsiderable when contextual understanding changes.
 - **Accountable** — identifiable stewardship must exist for preservation and revision.
 
-These properties operationalize the principles of the discipline.  
-Without them, intent dissolves into informal interpretation.
+These properties operationalize the principles of the discipline.  Without them, intent dissolves into informal interpretation.
 
 
 ## Conceptual clarification
 
-The term *epistemic* signals that the primary object of governance is meaning, not artifacts.
+Epistemic governance designates governance whose primary object is articulated meaning.
 
-Epistemic governance differs from:
+Its concern is not artifact production, process enforcement, or structural review in isolation, but the stewardship of binding commitments and the contextual knowledge that justifies them.
 
-- **Knowledge management**, which may store documents without binding commitments.
-- **Architecture governance**, which may review structures without preserving rationale.
-- **Compliance governance**, which may enforce procedure without revisiting purpose.
-- **Operational governance**, which optimizes execution without stabilizing intent.
+It differs structurally from adjacent forms of governance:
 
-Epistemic governance governs the **legitimacy of commitments over time**.
+- **Knowledge management** governs the storage, retrieval, and dissemination of information.  It does not, by itself, determine which commitments bind realization or how they are revised.
+
+- **Architecture governance** governs structural coherence and conformance to architectural rules.  It does not, by itself, preserve or reinterpret the commitments that justify those rules.
+
+- **Compliance governance** governs adherence to predefined procedures, standards, or regulations.  It does not, by itself, revisit whether declared commitments remain justified under changing context.
+
+- **Operational governance** governs execution performance, reliability, and efficiency.  It does not, by itself, stabilize the meaning that directs execution.
+
+Epistemic governance operates at a different level: it governs the durability, justification, traceability, and deliberate revision of the commitments that orient all other forms of governance.  Epistemic governance governs the **legitimacy of commitments over time**.
 
 It ensures that:
 
 - structure remains justified by articulated purpose,
 - evolution remains coherent with declared non-goals,
-- revision remains deliberate rather than implicit,
+- revision remains deliberate rather than implicit, and
 - acceleration does not produce silent drift.
 
-Execution excellence does not substitute epistemic stewardship.  
-Automation amplifies the need for it.
+Execution excellence does not substitute epistemic stewardship.  Automation amplifies the need for it.
 
 Epistemic governance is therefore the structural condition that makes coherent evolution possible in long-lived software systems.
 
@@ -124,11 +125,17 @@ The concept of epistemic governance operationalizes the principles of Upstream S
 - **Principle V — Automation amplifies epistemic necessity.**  
   As artifact production accelerates, explicit stewardship of commitments becomes more, not less, critical.
 
-Epistemic governance is therefore not an auxiliary concern.  
-It is the conceptual mechanism through which the principles of the discipline become operational.
+Epistemic governance is therefore not an auxiliary concern.  It is the conceptual mechanism through which the principles of the discipline become operational.
 
 
 ## Where to go next
+
+← See 
+
+
+→ See
+
+↑ 
 
 Continue to **[Intent](./intent.md)** for the definition of intent as binding and revisable commitments.
 
