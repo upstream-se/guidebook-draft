@@ -10,7 +10,7 @@ This governance framework separates constitutional foundations, structural rules
 ## Governance domains
 
 - **[Constitutional foundations](./constitutional-foundations/)**  
-  Defines the identity and normative boundaries of the guidebook.
+  Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
 
 - **[Structural governance](./structural-governance/)**  
   Defines the structural rules that govern how the guidebook is organized and maintained.
