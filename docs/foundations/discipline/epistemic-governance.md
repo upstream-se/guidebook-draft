@@ -130,15 +130,12 @@ Epistemic governance is therefore not an auxiliary concern.  It is the conceptua
 
 ## Where to go next
 
-← See 
+← See **[Upstream Software Engineering discipline](./index.md)** for the definition of the discipline.
 
+→ See **[Software system](./software-system.md)** for the definition of software system and its role in the discipline.
 
-→ See
+↑ See **[The discipline](../index.md)** for the conceptual structure of Upstream Software Engineering.
 
-↑ 
+↑ See **[Foundations](../../index.md)** for the normative framework of the discipline.
 
-Continue to **[Intent](./intent.md)** for the definition of intent as binding and revisable commitments.
-
-Proceed to **[The discipline](./index.md)** for the conceptual structure of Upstream Software Engineering,  
-to **[Foundations](../index.md)** for the normative framework of the guidebook,  
-or to **[Guidebook](../../index.md)** for the complete structure of the guidebook.
+↑ **[Guidebook](../../../index.md)** for the complete structure of the guidebook.
