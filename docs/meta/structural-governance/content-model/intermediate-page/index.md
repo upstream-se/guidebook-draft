@@ -67,13 +67,27 @@ However, editorial groups:
 Grouping is rhetorical, not structural.
 
 
-## Navigation constraints
+## Navigation format
 
-The “Where to go next” section of an intermediate page must:
+The “Where to go next” section must follow a fixed order and must use directional arrows to indicate structural position.
 
-- Identify the first contained page.
-- Identify its parent page.
-- Maintain tree-only traversal.
+Links must appear in the sequence defined below.
+
+- ↓ [First contained page](./child/)
+- ← [Previous sibling](../previous/)
+- → [Next sibling](../next/)
+- ↑ [Parent](../)
+- ↑ [Ancestor](../../)  
+  (Repeated as necessary up to the root)
+
+Rules:
+
+- Only include links that exist.  Do not display placeholders.
+- Preserve the order shown above.
+- List all ancestors explicitly in ascending order.
+- The highest ancestor listed is the root.
+- The section must not include complementary or contextual links.
+- The section must be the final section of the page.
 
 Complementary pages and contextual graph links must not appear in this section.  They must be placed contextually within the page body.
 
