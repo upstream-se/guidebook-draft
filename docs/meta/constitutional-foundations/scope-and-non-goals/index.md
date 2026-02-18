@@ -13,14 +13,14 @@ This page is reserved for defining the scope and non-goals of the guidebook.  It
 
 ## Where to go next
 
-← [Charter](../charter/)  
+← **[Charter](../charter/)**  
   Defines the identity, mission, and normative purpose of the guidebook.
 
-→ [Decision principles](../decision-principles/)  
+→ **[Decision principles](../decision-principles/)**  
   Defines the principles that guide structural, conceptual, and governance decisions.
 
-↑ [Constitutional foundations](../)  
+↑ **[Constitutional foundations](../)**  
   Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
 
-↑ [Guidebook governance](../../)  
+↑ **[Guidebook governance](../../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
