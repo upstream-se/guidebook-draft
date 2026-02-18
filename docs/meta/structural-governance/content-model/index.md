@@ -73,7 +73,17 @@ This group is populated as specialized page types are introduced.
 
 ## Where to go next
 
-**Continue in content model**
-- First contained page: [Intermediate page](./intermediate-page/)
-- Parent: [Structural governance](../)
-- Guidebook home
+↓ **[Intermediate page](./intermediate-page/)**  
+  Defines the structural obligations of pages that contain other pages in the primary hierarchy.
+
+← **[Information architecture](../information-architecture/)**  
+  Defines the structural topology, navigation model, and relational conventions of the guidebook.
+
+→ **[Concept taxonomy](../concept-taxonomy/)**  
+  Defines the classification rules for conceptual entities in the guidebook.
+
+↑ **[Structural governance](../)**  
+  Defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
+
+↑ **[Guidebook governance](../../)**  
+  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
