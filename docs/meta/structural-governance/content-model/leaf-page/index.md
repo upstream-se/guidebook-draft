@@ -63,28 +63,39 @@ It must include, when applicable:
 
 ## Navigation format
 
-The “Where to go next” section must use the same rendering rules defined for intermediate pages.
+The “Where to go next” section must use a fixed order and a fixed rendering format.  Each navigation entry must include the linked page descriptor.
 
-Each navigation entry is a two-line block.
 
-Line 1 begins with an arrow symbol, followed by a single space, followed by a single link, and ends with two spaces.
+### Rendering format
 
-Line 2 contains the linked page descriptor, indented by two spaces.
+Each navigation entry is a two-line block:
 
-Each entry is separated from the next entry by a single empty line.
+- Line 1 begins with an arrow symbol, followed by a single space, followed by a single bold link, and ends with two spaces.
+- Line 2 contains the linked page descriptor, indented by two spaces.
+- The descriptor must reuse the linked page descriptor by removing the leading phrase “This page”.  The remainder of the sentence must not be paraphrased.
+- Each entry must be separated from the next entry by a single empty line.
+- No bullet list syntax is used in the navigation section itself.
+- No additional labels are used.
 
-Order:
 
-← Previous sibling
+### Order
 
-→ Next sibling
+Entries must appear in the following sequence, omitting those that do not exist:
 
-↑ Parent
+- ← Previous sibling
+- → Next sibling
+- ↑ Parent
+- ↑ Ancestor  
+  (Repeated as necessary up to the root)
 
-↑ Ancestor  
-(Repeated as necessary up to the root)
 
-Only include entries that exist.  Preserve the defined order.
+### Rules
+
+- Only include entries that exist.  Do not display placeholders.
+- Preserve the order defined above.
+- List all ancestors explicitly in ascending order.  The last ancestor listed is the root.
+- The section must be the final section of the page.
+- Complementary pages and contextual cross-links must not appear in this section.  They must be placed contextually within the page body.
 
 
 ## Summary
@@ -94,17 +105,17 @@ A leaf page is a terminal node in the primary hierarchy.  It does not contain ch
 
 ## Where to go next
 
-← [Intermediate page](../intermediate-page/)  
+← **[Intermediate page](../intermediate-page/)**  
   Defines the structural obligations of pages that contain other pages in the primary hierarchy.
 
-→ [Complementary page](../complementary-page/)  
+→ **[Complementary page](../complementary-page/)**  
   Defines the structural role and placement rules for pages that deepen or contextualize a tree node without belonging to the primary hierarchy.
 
-↑ [Content model](../)  
+↑ **[Content model](../)**  
   Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
 
-↑ [Structural governance](../../)  
+↑ **[Structural governance](../../)**  
   Defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
 
-↑ [Guidebook governance](../../../)  
+↑ **[Guidebook governance](../../../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
