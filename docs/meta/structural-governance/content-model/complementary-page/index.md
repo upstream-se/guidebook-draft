@@ -1,26 +1,55 @@
 # Complementary page
 
-> This page defines the structural role and placement rules for pages that deepen or contextualize a tree node without belonging to the primary hierarchy.
+> This page defines the structural obligations of pages that deepen or supplement another page.
 
-> ⚠ Warning  
-> This page is not yet specified.  Its structural position is defined, but its content has not been developed.
+A complementary page provides auxiliary material that supports, justifies, or expands the content of another page.  It exists to deepen understanding without introducing new structural containment.
+
+Complementary pages are structurally independent but contextually attached.
+
+
+## Definition
+
+A complementary page is a Page that:
+
+- Does not appear as a contained page in the primary hierarchy.
+- Resides in the same directory as the page it complements.
+- Is referenced contextually within the complemented page.
+- Develops supporting or auxiliary material.
+
+
+## Structural obligations
+
+In addition to the invariants defined for Page, a complementary page must:
+
+- Clearly identify the page it complements.
+- Maintain a bounded auxiliary scope.
+- Include a section titled “Summary”.
+- Include a “Where to go next” section containing only the complemented page.
+
+A complementary page must not:
+
+- List contained pages.
+- Introduce sibling navigation.
+- Introduce hierarchical traversal beyond the complemented page.
+
+
+## Conceptual responsibility
+
+A complementary page exists to:
+
+- Provide justification, rationale, examples, extended analysis, or formal detail.
+- Support comprehension of the complemented page.
+- Preserve clarity in the primary hierarchy by isolating auxiliary depth.
+
+Complementary material must be substantial enough to warrant separation, yet not foundational enough to require placement in the primary hierarchy.
 
 
 ## Summary
 
-A complementary page is not part of the primary hierarchy.  It supplements, justifies, or deepens the content of a tree node without altering structural navigation.  This page will define the placement rules, constraints, and governance implications of complementary pages.
+A complementary page deepens or supplements another page by presenting auxiliary material in a bounded and structurally independent form.  It maintains a single navigational link back to the page it complements.
 
 
 ## Where to go next
 
-← **[Leaf page](../leaf-page/)**  
-  Defines the structural obligations of pages that do not contain child pages in the primary hierarchy.
-
-↑ **[Content model](../)**  
-  Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
-
-↑ **[Structural governance](../../)**  
-  Defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
-
-↑ **[Guidebook governance](../../../)**  
-  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
+↙ **[Complemented page](../)**  
+  Defines the primary page to which this complementary page is contextually attached.
