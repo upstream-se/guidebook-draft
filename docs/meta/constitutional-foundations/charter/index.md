@@ -13,11 +13,11 @@ This page is reserved for the charter of the guidebook.  It will formalize the g
 
 ## Where to go next
 
-→ [Scope and non-goals](../scope-and-non-goals/)  
+→ **[Scope and non-goals](../scope-and-non-goals/)**  
   Defines the boundaries of the guidebook and clarifies what it does not attempt to cover.
 
-↑ [Constitutional foundations](../)  
+↑ **[Constitutional foundations](../)**  
   Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
 
-↑ [Guidebook governance](../../)  
+↑ **[Guidebook governance](../../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
