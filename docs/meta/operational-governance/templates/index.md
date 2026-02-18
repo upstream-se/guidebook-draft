@@ -1,14 +1,54 @@
 # Templates
 
-> This page defines the canonical authoring templates used to instantiate compliant pages.
+> This page defines the canonical authoring templates used to instantiate structurally compliant pages in the guidebook.
 
-> ⚠ Warning  
-> This page is not yet specified.  Its structural position is defined, but its content has not been developed.
+Templates are operational instruments.  They provide reusable scaffolding for constructing pages that comply with structural, editorial, and navigation rules.
+
+Templates ensure disciplined instantiation of page types defined in the content model.
+
+↗ **[Content model](../../structural-governance/content-model/)**  
+  Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
+
+
+## Scope
+
+Templates provide:
+
+- Structural scaffolding aligned with the Content model.
+- Navigation compliance with the Navigation format.
+- Correct callout usage.
+- Consistent section ordering.
+
+Templates implement structural and editorial requirements.  They do not introduce new conceptual content.
+
+
+## Available templates
+
+The following templates are provided as complementary pages:
+
+- **[Intermediate page template](./intermediate-page-template/)**  
+  Provides the canonical structure for pages that contain other pages in the primary hierarchy.
+
+- **[Leaf page template](./leaf-page-template/)**  
+  Provides the canonical structure for pages that do not contain other pages.
+
+- **[Complementary page template](./complementary-page-template/)**  
+  Provides the canonical structure for pages that supplement tree nodes.
+
+- **[Decision record template](./decision-record-template/)**  
+  Provides the canonical structure for documenting governance decisions.
+
+
+## Usage discipline
+
+Templates must be used as starting points.  Contributors must not alter required structural sections unless the Content model explicitly permits it.
+
+All placeholder paths and identifiers must be replaced before publication.
 
 
 ## Summary
 
-This page is reserved for defining the template system used to create structurally compliant pages.  It will specify required sections, ordering rules, and usage discipline.
+Templates ensure structural compliance and editorial consistency.  They operationalize the Content model and Navigation format.
 
 
 ## Where to go next
