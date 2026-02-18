@@ -22,14 +22,14 @@ This page is reserved for defining the decision principles used to justify and c
 
 ## Where to go next
 
-← [Scope and non-goals](../scope-and-non-goals/)  
+← **[Scope and non-goals](../scope-and-non-goals/)**  
   Defines the boundaries of the guidebook and clarifies what it does not attempt to cover.
 
-→ [Authority model](../authority-model/)  
+→ **[Authority model](../authority-model/)**  
   Defines governance actors, roles, and ultimate decision rights.
 
-↑ [Constitutional foundations](../)  
+↑ **[Constitutional foundations](../)**  
   Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
 
-↑ [Guidebook governance](../../)  
+↑ **[Guidebook governance](../../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
