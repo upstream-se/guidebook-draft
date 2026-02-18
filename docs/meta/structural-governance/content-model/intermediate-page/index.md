@@ -113,6 +113,11 @@ The section must be the final section of the page.
 Complementary pages and contextual cross-links must not appear in this section.  They must be placed contextually within the page body.
 
 
+## Summary
+
+An intermediate page is a structural container within the primary hierarchy.  It combines conceptual exposition with the responsibility of indexing its contained pages.  It must provide orientation, preserve descriptor discipline, and implement canonical hierarchical navigation.
+
+
 ## Where to go next
 
 → [Leaf page](../leaf-page/)  
