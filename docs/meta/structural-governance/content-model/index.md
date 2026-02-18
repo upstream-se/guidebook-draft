@@ -1,89 +1,65 @@
 # Content model
 
-> This page defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
+> This page defines the structural types of pages and their specialization rules within the guidebook.
 
-The content model specifies how individual pages are structured and how different page types behave within the conceptual hierarchy.  It ensures consistency of composition, clarity of intent, and structural predictability across the entire guidebook.
+The content model defines how pages are constructed and how they relate structurally.  It specifies the base page type and its specialized forms.  These types regulate structural obligations and navigation behavior.
 
-The model distinguishes between tree nodes and complementary pages.  It also defines the obligations that intermediate and leaf pages must satisfy to preserve architectural coherence.
-
-
-## Structural obligations
-
-The content model establishes non-negotiable structural requirements that apply across page types.  These obligations preserve architectural invariants and prevent structural drift.
-
-These include:
-
-- The mandatory descriptor callout.
-- The disciplined reuse of descriptors in child listings.
-- The correct placement of the “Where to go next” section.
-- The separation between structural navigation and contextual linking.
-- The directory-per-node convention for tree nodes.
-
-Additional obligations are specified within each page type definition.
+The content model governs form.  It does not regulate language modality or editorial tone.
 
 
-## Page type specialization
+## Relation to information architecture
 
-The content model supports specialized page types that extend the base types defined in this section.  Specialized page types inherit the structural obligations of exactly one base type.
+The content model defines page types and their structural obligations.  Information architecture defines how pages are organized and navigated as a graph with a primary hierarchy.
 
-A specialized page type may introduce:
+The content model constrains what a page must contain.  Information architecture constrains how pages are connected, traversed, and referenced.
 
-- Additional mandatory sections.
-- Additional callout requirements.
-- Additional structural constraints.
-- Domain-specific rules.
-
-However, a specialized page type must not:
-
-- Remove mandatory sections required by its base type.
-- Alter the placement or form of the descriptor callout.
-- Modify the structural meaning of the “Where to go next” section.
-- Violate the directory-per-node convention.
-
-Specialization preserves architectural invariants while enabling domain-specific rigor.
+↗ See **[Information architecture](../information-architecture/)** for how knowledge is organized and navigated, including structural topology and linking conventions.
 
 
-## Relationship with information architecture
+## Types of pages
 
-The content model operates in coordination with information architecture.  Information architecture defines the topology of the guidebook.  The content model defines how pages are constructed within that topology.
+### Base type
 
-Topology governs relationships between pages.  Composition governs the internal structure of each page.
+- **[Page](./page/)**  
+  Defines the base structural type from which all page types specialize.  
+  All pages must comply with the structural and navigation invariants defined at this level.
 
 
-## Page types
+### Structural page types
 
-### Base page types
+- **[Container page](./container-page/)**  
+  Defines pages that aggregate and contextualize contained pages within the primary hierarchy.  
+  These pages may include their own substantive content in addition to listing contained pages.
 
-- **[Intermediate page](./intermediate-page/)**  
-  Defines the structural obligations of pages that contain other pages in the primary hierarchy.
-
-- **[Leaf page](./leaf-page/)**  
-  Defines the structural obligations of pages that do not contain child pages in the primary hierarchy.
+- **[Content page](./content-page/)**  
+  Defines pages that develop a single conceptual, normative, or procedural unit without containing other pages.  
+  These pages must include a Summary section.
 
 - **[Complementary page](./complementary-page/)**  
-  Defines the structural role and placement rules for pages that deepen or contextualize a tree node without belonging to the primary hierarchy.
+  Defines pages that deepen or supplement another page without altering the primary hierarchy.  
+  These pages extend the graph but do not participate in navigation.
 
 
 ### Specialized page types
 
-This group is populated as specialized page types are introduced.
+Specialized page types impose additional structural constraints for specific kinds of content.  They must specialize one of the structural page types and must not redefine base structural rules.
 
-- None yet.
+Specialized page types are introduced here as they are defined.
 
 
 ## Where to go next
 
-↓ **[Intermediate page](./intermediate-page/)**  
-  Defines the structural obligations of pages that contain other pages in the primary hierarchy.
+↓ **[Page](./page/)**  
+  Defines the base structural type from which all page types specialize.
 
 ← **[Information architecture](../information-architecture/)**  
-  Defines the structural topology, navigation model, and relational conventions of the guidebook.
+  Defines how knowledge is organized and navigated, including structural topology and linking conventions.
 
 → **[Concept taxonomy](../concept-taxonomy/)**  
-  Defines the classification rules for conceptual entities in the guidebook.
+  Defines how concepts are classified and organized semantically across the guidebook.
 
 ↑ **[Structural governance](../)**  
-  Defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
+  Defines the structural rules that regulate page types, hierarchy, and navigation in the guidebook.
 
 ↑ **[Guidebook governance](../../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
