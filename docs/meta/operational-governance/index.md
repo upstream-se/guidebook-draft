@@ -1,24 +1,24 @@
 # Operational governance
 
-> This page defines the processes, instruments, and decision mechanisms governing how changes to the guidebook are proposed, reviewed, and approved.
+> This page defines the processes, instruments, and decision mechanisms governing how issues and changes to the guidebook are proposed, reviewed, classified, and authorized.
 
-Operational governance defines how contributors interact with the guidebook governance system.  It establishes how issues are raised, how changes are classified, how proposals move through review stages, and how authority is exercised.
+Operational governance regulates how contributors engage with the guidebook governance system.  It defines how issues are introduced, how proposed changes are evaluated, how decisions are made, and how governance actions are recorded.
 
-This domain ensures procedural clarity.  It prevents structural drift while enabling controlled evolution.
+This domain ensures procedural clarity.  It prevents structural drift while enabling controlled and traceable evolution.
 
 
 ## Scope
 
 Operational governance regulates:
 
-- How issues are opened and categorized.
-- How proposed changes are classified.
-- How proposals progress through review stages.
-- How decisions are authorized.
-- How governance decisions are recorded.
-- How templates are used to ensure structural compliance.
+- Issue intake and classification.
+- Change impact classification.
+- Workflow progression through defined stages.
+- Decision authorization and escalation.
+- Recording of governance decisions.
+- Use of templates to ensure structural compliance.
 
-It operationalizes structural and editorial rules.  It does not redefine them.
+It operationalizes structural and editorial rules.  It does not redefine conceptual structure, editorial standards, or lifecycle policies.
 
 
 ## Operational components
@@ -52,5 +52,11 @@ It operationalizes structural and editorial rules.  It does not redefine them.
 
 ## Where to go next
 
-↑ [Guidebook governance](../)  
+↓ **[Issue types](./issue-types/)**  
+  Defines the categories of issues that may be opened and their procedural implications.
+
+← **[Editorial governance](../editorial-governance/)**  
+  Defines the standards governing terminology, language, formatting, referencing, and stylistic discipline in the guidebook.
+
+↑ **[Guidebook governance](../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
