@@ -51,5 +51,14 @@ A complementary page deepens or supplements another page by presenting auxiliary
 
 ## Where to go next
 
-↙ **[Complemented page](../)**  
-  Defines the primary page to which this complementary page is contextually attached.
+← **[Content page](../content-page/)**  
+  Defines the structural obligations of pages that do not contain other pages in the primary hierarchy.
+
+↑ **[Content model](../)**  
+  Defines the structural types of pages and their specialization rules within the guidebook.
+
+↑ **[Structural governance](../../)**  
+  Defines the structural rules that regulate page types, hierarchy, and navigation in the guidebook.
+
+↑ **[Guidebook governance](../../../)**  
+  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
