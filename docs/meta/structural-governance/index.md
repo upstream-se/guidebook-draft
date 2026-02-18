@@ -37,7 +37,14 @@ These rules constrain all editorial and operational decisions.
 
 ## Where to go next
 
-**Continue in structural governance**
-- First contained page: [Information architecture](./information-architecture/)
-- Parent: [Guidebook governance](../)
-- Guidebook home
+↓ **[Information architecture](./information-architecture/)**  
+  Defines the structural topology, navigation model, and relational conventions of the guidebook.
+
+← **[Constitutional foundations](../constitutional-foundations/)**  
+  Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
+
+→ **[Editorial governance](../editorial-governance/)**  
+  Defines the standards that govern terminology, expression, and documentation discipline.
+
+↑ **[Guidebook governance](../)**  
+  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
