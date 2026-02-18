@@ -1,10 +1,11 @@
-# Intermediate page title
+# Page title
 
-> This page...
+> This page defines ...
+
 
 Introductory text.
 
-This introduction explains the purpose, scope, and position of the page within the primary tree.
+This introduction explains the purpose, scope, and position of the page within the primary hierarchy.
 
 
 ## Section title
@@ -16,42 +17,41 @@ This section develops substantive material belonging to this page itself.
 Additional sections may be added as needed.
 
 
-## Another section
+## Section listing contained pages
 
-Additional substantive content belonging to this page.
+Introductory text (optional).
 
-## Contextual section title
-
-Introductory text (if needed).
-
-Brief explanation of grouping, if grouping is being used and an explanation is necessary.
+If grouping is used, briefly explain the grouping logic.
 
 
 ### Group title
 
-- **[Child Page 1](./intermediate-page-template.md)**  
+- **[Contained page A](<path-to-contained-page-a>)**  
   One-sentence descriptor of the page.
 
-- **[Child Page 2](./intermediate-page-template.md)**  
-  One-sentence descriptor of the page.
-
-- **[Child Page 3](./intermediate-page-template.md)**  
+- **[Contained page B](<path-to-contained-page-b>)**  
   One-sentence descriptor of the page.
 
 
 ### Another group
 
-- **[Child Page 4](./intermediate-page-template.md)**  
-  One-sentence descriptor of the page.
-  
-- **[Child Page 5](./intermediate-page-template.md)**  
+- **[Contained page C](<path-to-contained-page-c>)**  
   One-sentence descriptor of the page.
 
 
 ## Where to go next
 
-**Continue in the primary structure**
-- First child: Child Page 1
-- Parent: Parent Page
-- Ancestors as needed
-- Guidebook home
+↓ **[Contained page A](<path-to-contained-page-a>)**  
+  One-sentence descriptor of the page.
+
+← **[Previous sibling](<path-to-previous-sibling>)**  
+  One-sentence descriptor of the page.
+
+→ **[Next sibling](<path-to-next-sibling>)**  
+  One-sentence descriptor of the page.
+
+↑ **[Parent page](<path-to-parent-page>)**  
+  One-sentence descriptor of the page.
+
+↑ **[Ancestor page](<path-to-ancestor-page>)**  
+  One-sentence descriptor of the page.
