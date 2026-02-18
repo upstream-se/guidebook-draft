@@ -89,6 +89,15 @@ If a grouping lacks conceptual responsibility, it must not become a structural n
 Additional subdomains may be introduced if new structural responsibilities are defined.
 
 
+## Relationship with the content model
+
+Information architecture governs the relationships between pages.  It defines hierarchy, containment, and traversal.
+
+The Content model governs the internal structure of individual pages.  It defines page types and their structural obligations.
+
+↗ See **[Content model](../content-model/)** for the structural types of pages and their internal constraints.
+
+
 ## Where to go next
 
 ↓ **[Navigation format](./navigation-format/)**  
