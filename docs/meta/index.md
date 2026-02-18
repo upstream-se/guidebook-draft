@@ -27,6 +27,5 @@ This governance framework separates constitutional foundations, structural rules
 
 ## Where to go next
 
-**Continue in Guidebook Governance**
-- First contained page: [Constitutional Foundations](./constitutional-foundations/)
-- Guidebook home
+↓ **[Constitutional foundations](./constitutional-foundations/)**  
+  Defines the constitutional basis of the guidebook, including its identity, scope, decision principles, and authority model.
