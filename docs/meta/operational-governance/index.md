@@ -58,5 +58,8 @@ It operationalizes structural and editorial rules.  It does not redefine concept
 ← **[Editorial governance](../editorial-governance/)**  
   Defines the standards governing terminology, language, formatting, referencing, and stylistic discipline in the guidebook.
 
+→ **[Lifecycle governance](../lifecycle-governance/)**  
+  Defines how versions are structured, released, deprecated, and evolved over time.
+
 ↑ **[Guidebook governance](../)**  
   Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
