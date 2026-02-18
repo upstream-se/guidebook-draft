@@ -6,37 +6,29 @@ Templates are operational instruments.  They provide reusable scaffolding for co
 
 Templates ensure disciplined instantiation of page types defined in the content model.
 
-↗ **[Content model](../../structural-governance/content-model/)**  
-  Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
+↗ See **[Content model](../../structural-governance/content-model/)** for the structural types of pages and their specialization rules within the guidebook.
 
 
 ## Scope
 
-Templates provide:
+Templates implement structural and editorial requirements.  They:
 
-- Structural scaffolding aligned with the Content model.
-- Navigation compliance with the Navigation format.
-- Correct callout usage.
-- Consistent section ordering.
+- Provide structural scaffolding aligned with the Content model.
+- Ensure navigation compliance aligned with the Navigation format.
+- Enforce descriptor and callout discipline aligned with the Callout standard.
+- Preserve consistent section ordering and rendering rules.
 
-Templates implement structural and editorial requirements.  They do not introduce new conceptual content.
+↗ See **[Navigation format](../../structural-governance/information-architecture/navigation-format/)** for the rendering rules of the “Where to go next” section.
+
+↗ See **[Callout standard](../../editorial-governance/callout-standard/)** for the normative system for structured callouts used throughout the guidebook.
 
 
-## Available templates
+## Structural page templates
 
-The following templates are provided as complementary pages:
+- **[Container page template](./container-page-template/)**  
+  Provides the canonical structure for pages that aggregate and contextualize contained pages within the primary hierarchy.
 
-- **[Intermediate page template](./intermediate-page-template/)**  
-  Provides the canonical structure for pages that contain other pages in the primary hierarchy.
-
-- **[Leaf page template](./leaf-page-template/)**  
-  Provides the canonical structure for pages that do not contain other pages.
-
-- **[Complementary page template](./complementary-page-template/)**  
-  Provides the canonical structure for pages that supplement tree nodes.
-
-- **[Decision record template](./decision-record-template/)**  
-  Provides the canonical structure for documenting governance decisions.
+Additional templates may be introduced here as new structural or specialized page types are defined.
 
 
 ## Usage discipline
@@ -45,13 +37,15 @@ Templates must be used as starting points.  Contributors must not alter required
 
 All placeholder paths and identifiers must be replaced before publication.
 
+Templates must remain aligned with the structural rules defined in Structural governance.
 
-## Summary
-
-Templates ensure structural compliance and editorial consistency.  They operationalize the Content model and Navigation format.
+↗ See **[Structural governance](../../structural-governance/)** for the structural rules that regulate page types, hierarchy, and navigation in the guidebook.
 
 
 ## Where to go next
+
+↓ **[Container page template](./container-page-template/)**  
+  Provides the canonical structure for pages that aggregate and contextualize contained pages within the primary hierarchy.
 
 ← **[Roles and authority](../roles-and-authority/)**  
   Defines governance actors and their decision rights within the operational workflow.
