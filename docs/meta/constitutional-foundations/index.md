@@ -36,7 +36,11 @@ These foundations constrain and orient all structural, editorial, operational, a
 
 ## Where to go next
 
-**Continue in constitutional foundations**
-- First contained page: [Charter](./charter/)
-- Parent: [Guidebook governance](../)
-- Guidebook home
+↓ **[Charter](./charter/)**  
+  Defines the identity, mission, and normative purpose of the guidebook.
+
+→ **[Structural governance](../structural-governance/)**  
+  Defines the structural rules that govern how the guidebook is organized, modeled, and navigated.
+
+↑ **[Guidebook governance](../)**  
+  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
