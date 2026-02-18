@@ -87,10 +87,18 @@ Order:
 Only include entries that exist.  Preserve the defined order.
 
 
+## Summary
+
+A leaf page is a terminal node in the primary hierarchy.  It does not contain child pages and must provide a complete treatment of its conceptual scope.  Leaf pages must include a “Summary” section and the canonical “Where to go next” section, while referencing complementary pages only contextually within the page body.
+
+
 ## Where to go next
 
 ← [Intermediate page](../intermediate-page/)  
   Defines the structural obligations of pages that contain other pages in the primary hierarchy.
+
+→ [Complementary page](../complementary-page/)  
+  Defines the structural role and placement rules for pages that deepen or contextualize a tree node without belonging to the primary hierarchy.
 
 ↑ [Content model](../)  
   Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
