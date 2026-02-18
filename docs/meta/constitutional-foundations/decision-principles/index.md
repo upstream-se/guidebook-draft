@@ -6,6 +6,15 @@
 > This page is not yet specified.  Its structural position is defined, but its content has not been developed.
 
 
+## Principles
+
+> ■ Principle — Contextual Indexing
+Intermediate pages must integrate structural indexing into conceptually meaningful sections rather than relying on fixed structural labels.
+
+> ■ Principle — Conceptual Node Integrity
+A page must exist in the primary tree only if it has independent conceptual significance.
+
+
 ## Summary
 
 This page is reserved for defining the decision principles used to justify and constrain governance and structural choices in the guidebook.
