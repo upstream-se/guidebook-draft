@@ -22,29 +22,27 @@ The content model constrains what a page must contain.  Information architecture
 
 - **[Page](./page/)**  
   Defines the base structural type from which all page types specialize.  
-  All pages must comply with the structural and navigation invariants defined at this level.
+  Establishes the structural invariants that apply to every page.
 
 
 ### Structural page types
 
 - **[Container page](./container-page/)**  
   Defines pages that aggregate and contextualize contained pages within the primary hierarchy.  
-  These pages may include their own substantive content in addition to listing contained pages.
+  Useful for organizing related content and providing conceptual framing.
 
 - **[Content page](./content-page/)**  
   Defines pages that develop a single conceptual, normative, or procedural unit without containing other pages.  
-  These pages must include a Summary section.
+  Useful for presenting focused, self-contained material.
 
 - **[Complementary page](./complementary-page/)**  
-  Defines pages that deepen or supplement another page without altering the primary hierarchy.  
-  These pages extend the graph but do not participate in navigation.
+  Defines pages that deepen or supplement another page.  
+  Useful for presenting auxiliary material that supports understanding but does not warrant placement in the primary hierarchy.
 
 
 ### Specialized page types
 
-Specialized page types impose additional structural constraints for specific kinds of content.  They must specialize one of the structural page types and must not redefine base structural rules.
-
-Specialized page types are introduced here as they are defined.
+Specialized page types impose additional structural constraints for specific kinds of content.  They allow the guidebook to express domain-specific page forms while preserving the base structural model.
 
 
 ## Where to go next
