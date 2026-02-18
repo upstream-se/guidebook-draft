@@ -2,51 +2,59 @@
 
 > This page defines the structural obligations of pages that deepen or supplement another page.
 
-A complementary page provides auxiliary material that supports, justifies, or expands the content of another page.  It exists to deepen understanding without introducing new structural containment.
+A complementary page provides auxiliary material that supports, justifies, or expands the content of another page.  It exists to deepen understanding without introducing additional containment in the primary hierarchy.
 
-Complementary pages are structurally independent but contextually attached.
+Complementary pages isolate supporting material so that the primary hierarchy remains conceptually clear and structurally stable.
 
 
 ## Definition
 
-A complementary page is a Page that:
+A complementary page is a Content page that:
 
 - Does not appear as a contained page in the primary hierarchy.
 - Resides in the same directory as the page it complements.
 - Is referenced contextually within the complemented page.
-- Develops supporting or auxiliary material.
+- Develops supporting or auxiliary material within a bounded scope.
 
 
 ## Structural obligations
 
-In addition to the invariants defined for Page, a complementary page must:
+In addition to the invariants defined for Page and the constraints defined for Content page, a complementary page must:
 
 - Clearly identify the page it complements.
 - Maintain a bounded auxiliary scope.
 - Include a section titled “Summary”.
-- Include a “Where to go next” section containing only the complemented page.
+- Replace hierarchical traversal in its “Where to go next” section with a single contextual return link.
 
-A complementary page must not:
 
-- List contained pages.
-- Introduce sibling navigation.
-- Introduce hierarchical traversal beyond the complemented page.
+## Navigation rule for complementary pages
+
+Concrete complementary pages in the guidebook must conclude with a “Where to go next” section containing exactly one entry.
+
+That entry:
+
+- Must point to the page being complemented.
+- Must use the inverse diagonal arrow symbol (↙).
+- Must reuse the complemented page descriptor without the phrase “This page”.
+- Must not include sibling, parent, or ancestor links.
+
+This rule applies only to concrete complementary pages in the guidebook, not to this structural definition page.
 
 
 ## Conceptual responsibility
 
 A complementary page exists to:
 
-- Provide justification, rationale, examples, extended analysis, or formal detail.
+- Provide extended analysis, rationale, justification, examples, or formal detail.
 - Support comprehension of the complemented page.
-- Preserve clarity in the primary hierarchy by isolating auxiliary depth.
+- Preserve clarity in the primary hierarchy by separating auxiliary depth from structural containment.
 
 Complementary material must be substantial enough to warrant separation, yet not foundational enough to require placement in the primary hierarchy.
 
 
 ## Summary
 
-A complementary page deepens or supplements another page by presenting auxiliary material in a bounded and structurally independent form.  It maintains a single navigational link back to the page it complements.
+A complementary page deepens or supplements another page by presenting auxiliary material in a bounded and structurally independent form.  It replaces hierarchical traversal with a single contextual return link to the page it complements.
 
 
 ## Where to go next
