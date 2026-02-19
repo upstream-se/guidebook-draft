@@ -39,18 +39,6 @@ The guidebook is organized in four main parts:
   Offers reusable materials that support learning, application, and dissemination of the discipline.
 
 
-## How to read this guidebook
-
-This guidebook is not intended to be read linearly.  It is structured as a reference that supports selective and iterative use.
-
-Readers should consult **Motivation** to understand the problem space, use **Foundations** to assess what is considered valid within the discipline, and refer to **Guidelines** for recommended ways of enacting the normative core in practice.  **Resources** provide supporting materials.
-
-Only the content in **Foundations** defines validity.  **Guidelines** are non-normative, and **Motivation** and **Resources** are informative.  Understanding these distinctions is essential for correct use of the guidebook.
-
-↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)**
-  Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
-
-
 ## Guidebook versioning and evolution
 
 The guidebook evolves through structured versioning to ensure stability and traceability over time.
@@ -90,14 +78,21 @@ It is further relevant to researchers and practitioners applying artificial inte
 Familiarity with Software Engineering concepts, modern development practices, and organizational contexts in which software systems transcend individual projects, teams, or providers will facilitate effective use of this guidebook.
 
 
+## How to read this guidebook
+
+This guidebook is not intended to be read linearly.  It is structured as a reference that supports selective and iterative use.
+
+Readers should consult **[Motivation](./motivation/)** to understand the problem space and why the discipline is needed, use **[Foundations](./foundations/)** to assess what is considered valid within the discipline, and refer to **[Guidelines](./guidelines/)** for recommended ways of enacting the normative core in practice.  **[Resources](./resources/)** provide supporting materials.
+
+Only the content in **Foundations** defines validity.  **Guidelines** are non-normative, and **Motivation** and **Resources** are informative.  Understanding these distinctions is essential for correct use of the guidebook.
+
+↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)**
+  Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
+
+The canonical traversal of the guidebook begins with the articulation of its problem space in the **Motivation**.
+
+
 ## Where to go next
 
-If you are new to the guidebook, proceed in the following order:
-
-1. **[How to read this guidebook](./how-to-read.md)** — to understand interpretation and normativity  
-2. **[Motivation](./motivation/index.md)** — to understand why the discipline is needed  
-3. **[Foundations](./foundations/index.md)** — to explore the discipline, its metamodel, and its plays  
-
-Use **[Guidelines](./guidelines/index.md)** as a source of inspiration and operational advice.  
-
-Consult **[Resources](./resources/index.md)** for reusable materials you can download or adapt.
+↓ **[Motivation](./motivation/)**
+  Explains why a distinct upstream discipline is necessary and frames the problem space.
