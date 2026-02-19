@@ -39,6 +39,18 @@ The guidebook is organized in four main parts:
   Offers reusable materials that support learning, application, and dissemination of the discipline.
 
 
+## How to read this guidebook
+
+This guidebook is not intended to be read linearly.  It is structured as a reference that supports selective and iterative use.
+
+Readers should consult **Motivation** to understand the problem space, use **Foundations** to assess what is considered valid within the discipline, and refer to **Guidelines** for recommended ways of enacting the normative core in practice.  **Resources** provide supporting materials.
+
+Only the content in **Foundations** defines validity.  **Guidelines** are non-normative, and **Motivation** and **Resources** are informative.  Understanding these distinctions is essential for correct use of the guidebook.
+
+↘ Refer to [How to read this guidebook](./how-to-read-this-guidebook.md)
+  Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
+
+
 ## Versioning and evolution
 
 This guidebook evolves over time.
