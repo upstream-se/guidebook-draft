@@ -5,6 +5,25 @@
 
 ## What this guidebook is
 
+This guidebook is the authoritative articulation of the practice of Upstream Software Engineering.
+
+It establishes the conceptual and normative framework through which the intent of long-lived software systems is governed.  It formalizes the commitments, structures, and transformation patterns that define valid upstream practice, and distinguishes them from downstream realization activities.
+
+
+## What this guidebook is not
+
+This guidebook is not a methodology for software development, a project management framework, or an operational playbook.
+
+It does not prescribe implementation techniques, delivery processes, or runtime operations.  It does not replace downstream engineering practices, nor does it dictate how systems must be constructed in specific technological contexts.
+
+Its concern is upstream: the governance of intent, commitments, and structural validity that normatively guide downstream realization without prescribing its implementation.
+
+
+
+
+
+## What this guidebook is
+
 This guidebook presents a framework for **Upstream Software Engineering**:  the discipline concerned with **defining, governing, and evolving software systems** before and across their realization.
 
 It addresses questions such as:
