@@ -78,8 +78,8 @@ This separation ensures conceptual clarity for readers and structural integrity 
 
 ## Where to go next
 
-→ **[Navigation format](../navigation-format/)**  
-  Defines the rendering rules and traversal order governing hierarchical navigation in the guidebook.
+→ **[Filesystem conventions](../filesystem-conventions/)**  
+  Defines the naming and layout rules governing page directories and files in the repository.
 
 ↑ **[Information architecture](../)**  
   Defines how knowledge is organized, structured, and navigated within the guidebook.
