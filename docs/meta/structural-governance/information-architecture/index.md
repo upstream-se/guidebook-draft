@@ -83,10 +83,11 @@ If a grouping lacks conceptual responsibility, it must not become a structural n
 
 ## Structural subdomains
 
-- **[Navigation format](./navigation-format/)**  
-  Defines the rendering rules and traversal order for hierarchical navigation.
+- **[Reader tree and meta tree](./reader-tree-and-meta-tree/)**  
+  Defines the dual-tree structure of the guidebook and the separation between reader-facing and contributor-facing hierarchies.
 
-Additional subdomains may be introduced if new structural responsibilities are defined.
+- **[Navigation format](./navigation-format/)**  
+  Defines the rendering rules and traversal order governing hierarchical navigation.
 
 
 ## Relationship with the content model
@@ -100,8 +101,8 @@ The Content model governs the internal structure of individual pages.  It define
 
 ## Where to go next
 
-↓ **[Navigation format](./navigation-format/)**  
-  Defines the rendering rules and traversal order for hierarchical navigation.
+↓ **[Reader tree and meta tree](./reader-tree-and-meta-tree/)**  
+  Defines the dual-tree structure of the guidebook and the separation between reader-facing and contributor-facing hierarchies.
 
 → **[Content model](../content-model/)**  
   Defines the page types, structural obligations, and specialization rules that govern how content is constructed in the guidebook.
