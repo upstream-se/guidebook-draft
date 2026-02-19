@@ -1,21 +1,21 @@
-# Upstream Software Engineering
+# Upstream Software Engineering Guidebook
 
-> This page introduces the guidebook for the practice of Upstream Software Engineering, the epistemic governance of the intent of long-lived software systems.
+> This page introduces the purpose, scope, and structure of this guidebook.
 
 Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems.
 
-Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructuring.  Yet the knowledge that defines their intent — their commitments about scope, structure, constraints, and non-goals — is often fragmented or implicit.
+Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructurings.  However, the knowledge that defines their intent — their commitments concerning scope, structure, constraints, and non-goals — is often fragmented or implicit.
 
-When those commitments are not explicitly governed, intent fragments, drifts, or is repeatedly reconstructed.  Evolution then becomes increasingly effortful and uncertain, as the commitments that define what must remain valid lose clarity and continuity.
+When those commitments are not explicitly governed, intent fragments, drifts, or is repeatedly reconstructed.  Evolution becomes increasingly effortful and uncertain as the commitments that determine what must remain valid lose clarity and continuity.
 
-Upstream Software Engineering addresses this condition.  It establishes durable and revisable commitments about scope and structure, clarifies authority and stewardship over those commitments, and defines the conditions under which change is considered valid.  It governs intent without prescribing implementation.
+Upstream Software Engineering addresses this fragmentation of intent.  It establishes durable and revisable commitments about scope and structure, clarifies authority and stewardship over those commitments, and defines the conditions under which change is considered valid.  It governs intent without prescribing implementation.
 
-The discipline complements development methodologies, architectural practices, and operational frameworks.  It does not replace them.  Instead, it provides the normative reference within which downstream realization and long-term evolution remain coherent across time..
+The discipline complements development methodologies, architectural practices, and operational frameworks.  It does not replace them.  Instead, it provides the normative reference within which downstream realization and long-term evolution remain coherent over time.
 
 
 ## About this guidebook
 
-This guidebook is the reference articulation of the practice of Upstream Software Engineering.
+This guidebook is the reference articulation of Upstream Software Engineering.
 
 It defines the conceptual and normative framework of the discipline, including its formal definitions, metamodel, and valid transformation patterns.  It distinguishes between normative content, which establishes what is considered valid upstream, and non-normative guidance, which supports enactment in practice.
 
@@ -30,7 +30,7 @@ The guidebook is organized in four main parts:
   Explains why a distinct upstream discipline is necessary and frames the problem space.
 
 - **[Foundations](./foundations/)**  
-  Defines the discipline, its formal definitions, metamodel, and valid transformation plays.
+  Defines the discipline, its formal definitions, metamodel, and valid transformation patterns.
 
 - **[Guidelines](./guidelines/)**  
   Provides non-normative recommendations for enacting the discipline in practice.
@@ -47,7 +47,7 @@ Each major version represents a distinct normative state of the discipline, defi
 
 Minor versions refine or clarify content without changing the normative core.  Editorial corrections that do not affect meaning may be introduced as patches.
 
-Normative claims and compliance assessments must identify the major version to which they refer, since prior major versions remain available as stable historical reference states.
+Normative claims and compliance assessments must identify the major version to which they refer, since prior major versions remain stable historical reference states.
 
 
 ## Contributing to the guidebook
