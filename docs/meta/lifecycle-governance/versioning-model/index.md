@@ -123,9 +123,6 @@ This model preserves normative stability while allowing controlled evolution of 
 → **[Maintenance model](../maintenance-model/)**  
   Defines how Prior major version lines are maintained and when maintenance may be closed.
 
-→ **[Release discipline](../release-discipline/)**  
-  Defines release criteria, authorization requirements, and publication cadence.
-
 ↑ **[Lifecycle governance](../)**  
   Defines the rules governing versioning, release discipline, deprecation, and controlled evolution of the guidebook.
 
