@@ -78,12 +78,11 @@ Brief explanation of grouping if necessary.
 
 ```
 
-Notes for contributors:
 - Remove navigation entries that do not exist.
 - Do not reorder navigation entries.
 - Do not paraphrase descriptors.
 - Replace all placeholders before publication.
--Do not include complementary or contextual links in the “Where to go next” section.
+- Do not include complementary or contextual links in the “Where to go next” section.
 
 
 ## Summary
