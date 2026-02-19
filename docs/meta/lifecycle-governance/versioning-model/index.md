@@ -2,7 +2,7 @@
 
 > This page defines how guidebook versions are structured and incremented.
 
-The guidebook is a normative artifact. Its versioning model is designed to preserve stability of the discipline’s core definitions while allowing controlled refinement of explanatory and guiding content.
+The guidebook is a normative artifact.  Its versioning model is designed to preserve stability of the discipline’s core definitions while allowing controlled refinement of explanatory and guiding content.
 
 Versioning ensures that:
 
@@ -18,13 +18,21 @@ MAJOR.MINOR.PATCH
 
 ## Version number structure
 
-Each released version represents a stable and reviewable state of the guidebook.
+Versions are expressed as MAJOR.MINOR.PATCH.
 
-- **MAJOR** versions identify changes that affect the normative core of the discipline.
-- **MINOR** versions identify non-normative changes or clarifications.
-- **PATCH** versions identify editorial corrections that do not affect meaning.
+Each **major version** of the guidebook represents a distinct normative state of the discipline.  It defines a stable configuration of Foundations against which validity and compliance may be assessed.
 
-Version increments are determined by the nature of the change, not by its size.
+Each **minor version** represents a refinement of a major version.  It incorporates clarifications or non-normative improvements while preserving the normative state defined by the major version.
+
+Each **patch version** represents an editorially corrected state of a minor version.  It addresses defects in expression without affecting interpretation or validity conditions.
+
+A change in the MAJOR component occurs only when the normative core defined in Foundations changes.
+
+A change in the MINOR component occurs when refinements or clarifications are introduced that do not alter validity conditions.
+
+A change in the PATCH component occurs when editorial corrections are applied that do not affect meaning.
+
+Minor and patch increments do not establish a new normative state.  Version increments are determined by the nature of the change, not by its size.
 
 
 ## Major version increments
@@ -33,9 +41,9 @@ A major version increment is required when changes alter the normative core of t
 
 This includes:
 
-- Modifications to formal definitions in Foundations.
-- Changes to the metamodel.
-- Changes to transformation plays.
+- Modifications to formal definitions in **Foundations**.
+- Changes to the **Metamodel**.
+- Changes to transformation **Plays**.
 - Any alteration that affects validity conditions.
 
 Major versions are immutable once released.
@@ -90,6 +98,19 @@ All released major versions remain archived and accessible.
 Normative claims, compliance assessments, and scholarly references must specify the major version to which they refer.
 
 Minor and patch increments do not change the major version identifier.
+
+
+## Summary
+
+The guidebook follows a structured MAJOR.MINOR.PATCH versioning model.
+
+- Major increments apply when the normative core defined in Foundations changes.
+- Minor increments apply to clarifications or non-normative content.
+- Patch increments apply only to editorial corrections that do not affect meaning.
+
+Major versions are immutable once released and remain archived. Normative claims must reference a released major version.
+
+This model preserves normative stability while allowing controlled evolution of the guidebook.
 
 
 ## Where to go next
