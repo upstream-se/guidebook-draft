@@ -109,6 +109,9 @@ Navigation format defines the canonical rendering and ordering rules for hierarc
 
 ## Where to go next
 
+← **[Reader tree and meta tree](../reader-tree-and-meta-tree/)**  
+  Defines the dual-tree structure of the guidebook and clarifies the separation between reader-facing content and contributor-facing governance.
+
 ↑ **[Information architecture](../)**  
   Defines how knowledge is organized, structured, and navigated within the guidebook.
 
