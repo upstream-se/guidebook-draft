@@ -91,3 +91,6 @@ This model ensures continuity across major releases while preventing uncontrolle
 
 ↑ **[Lifecycle governance](../)**  
   Defines the temporal governance framework that regulates versioning, maintenance, deprecation, and controlled evolution of the guidebook.
+
+↑ **[Guidebook governance](../../)**  
+  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
