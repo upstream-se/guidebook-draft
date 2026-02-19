@@ -2,9 +2,6 @@
 
 > This page introduces the guidebook for the practice of Upstream Software Engineering, the epistemic governance of the intent of long-lived software systems.
 
-
-## About Upstream Software Engineering
-
 Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems.
 
 Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructuring.  Yet the knowledge that defines their intent — their commitments about scope, structure, constraints, and non-goals — is often fragmented or implicit.
