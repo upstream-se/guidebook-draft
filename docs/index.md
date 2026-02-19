@@ -77,63 +77,17 @@ The guidebook is expected to grow as the discipline evolves.  The evolution of t
 
 ## Intended audience
 
-This guidebook is intended for professionals and researchers involved in the **definition, governance, and long-term evolution of software systems**, including the following.
+This guidebook is intended for **professionals** responsible for the definition, governance, and evolution of long-lived software systems.
 
+This includes those who define structural commitments, establish system boundaries, govern architectural coherence, and steward long-lived systems across projects, teams, organizational restructurings, providers, and technological change.
 
-### Product and technology leadership
+Representative roles include enterprise and software architects, technical leads, principal engineers, product leaders, product owners, engineering managers, governance and portfolio roles, consultants, and roles within **software providers** or development organizations responsible for delivering and evolving systems on behalf of others.
 
-- software architects
-- technical leads and principal engineers
-- product leads and product managers
-- engineering managers responsible for product direction
+The guidebook also serves **educators** and **researchers** in Software Engineering, organizational management and governance, and related fields concerned with system evolution and control.
 
+It is further relevant to researchers and practitioners applying artificial intelligence to software development and evolution, as well as to **organizations adopting AI** in software construction, maintenance, migration, and long-term evolution, where AI-assisted tools and agents must operate within clearly defined structural commitments and governance constraints.
 
-### Governance and organizational roles
-
-- roles responsible for product, portfolio, or architectural governance
-- decision-makers defining boundaries, ownership, and accountability
-- consultants supporting organizations in software system governance and evolution
-
-
-### Software Engineering practice (upstream-focused)
-
-- senior software engineers involved in architectural and structural decisions
-- practitioners operating across multiple teams, systems, or providers
-- roles bridging business intent and technical realization
-
-
-### Research and education
-
-- researchers studying software systems, evolution, and governance
-- educators designing curricula or teaching advanced software engineering topics
-- students learning how to govern long-lived software systems
-
-This guidebook assumes familiarity with:
-
-- Software Engineering concepts and terminology
-- modern software development practices
-- organizational contexts where software systems evolve over time
-
-It is **not intended as an introductory text** to software development.
-
-
-## How this guidebook relates to practice
-
-Concrete applications of this guidebook — including:
-
-- project-specific documents
-- internal working notes
-- customer deliverables
-
-exist **outside** this guidebook.
-
-The guidebook defines:
-
-- the conceptual structures
-- the valid transformations
-- and recommended ways of working
-
-Their instantiation belongs to the context in which they are applied.
+Familiarity with Software Engineering concepts, modern development practices, and organizational contexts in which software systems transcend individual projects, teams, or providers will facilitate effective use of this guidebook.
 
 
 ## Where to go next
