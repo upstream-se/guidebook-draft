@@ -3,6 +3,68 @@
 > This page introduces the guidebook for the practice of Upstream Software Engineering, the epistemic governance of the intent of long-lived software systems.
 
 
+## About Upstream Software Engineering
+
+Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems.
+
+Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructuring.  Yet the knowledge that defines their intent — their commitments about scope, structure, constraints, and non-goals — is often fragmented or implicit.
+
+When those commitments are not explicitly governed, intent fragments, drifts, or is repeatedly reconstructed.  Evolution then becomes increasingly effortful and uncertain.  While change may be intrinsically complex, instability or ambiguity in governing commitments amplifies that complexity and obscures what must remain valid.
+
+Upstream Software Engineering addresses this condition.  It establishes durable and revisable commitments about scope and structure, clarifies authority and stewardship over those commitments, and defines the conditions under which change is considered valid.  It governs intent without prescribing implementation.
+
+The discipline complements development methodologies, architectural practices, and operational frameworks.  It does not replace them.  Instead, it provides the normative reference within which downstream realization and long-term evolution remain coherent across time..
+
+
+## About this guidebook
+
+### What this guidebook is
+
+This guidebook is the authoritative articulation of the practice of Upstream Software Engineering.
+
+It establishes the conceptual and normative framework through which the intent of long-lived software systems is governed.  It formalizes the commitments, structures, and transformation patterns that define valid upstream practice, and distinguishes them from downstream realization activities.
+
+
+### What this guidebook is not
+
+This guidebook is not a methodology for software development, a project management framework, or an operational playbook.
+
+It does not prescribe implementation techniques, delivery processes, or runtime operations.  It does not replace downstream engineering practices, nor does it dictate how systems must be constructed in specific technological contexts.
+
+Its concern is upstream: the governance of intent, commitments, and structural validity that normatively guide downstream realization without determining it.
+
+
+### Questions addressed by this guidebook
+
+This guidebook frames and answers questions such as:
+
+- What is the software system beyond its current implementation?
+- In which context does it exist and evolve?
+- Which commitments are valid, and which are not?
+- How are upstream commitments articulated, justified, revised, and made durable over time?
+
+
+### What this guidebook provides
+
+This guidebook provides the normative and conceptual reference for practicing Upstream Software Engineering.
+
+It defines the concepts, relationships, and validity conditions that govern upstream commitments, and specifies the transformation patterns through which those commitments evolve over time.
+
+It also offers non-normative guidance for enacting the discipline within concrete organizational contexts.
+
+
+### How this guidebook relates to practice
+
+This guidebook does not replace concrete organizational artifacts or delivery processes.
+
+Instead, it establishes the upstream commitments that those artifacts and processes are expected to respect.
+
+Project-specific documents, working notes, contractual agreements, and implementation decisions exist outside this guidebook. They instantiate upstream commitments within specific technological and organizational contexts.
+
+The guidebook defines what is valid at the level of intent and structure; its enactment belongs to the practice of the discipline.
+
+
+
 ## What this guidebook is
 
 This guidebook is the authoritative articulation of the practice of Upstream Software Engineering.
