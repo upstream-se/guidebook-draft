@@ -113,7 +113,7 @@ This guidebook evolves through structured and governed change.
 
 Contributions — including proposals for new definitions, refinements to existing concepts, extensions of analyses, or structural adjustments — are subject to explicit editorial governance.
 
-↗ See [Guidebook governance](./meta/) for the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
+↗ See **[Guidebook governance](./meta/)** for the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
 
 
 ## Intended audience
