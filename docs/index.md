@@ -4,7 +4,7 @@
 
 Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems.
 
-Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructurings.  However, the knowledge that defines their intent — their commitments concerning scope, structure, constraints, and non-goals — is often fragmented or implicit.
+Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructurings.  The knowledge that defines their intent — their commitments concerning scope, structure, constraints, and non-goals — is often fragmented or implicit.
 
 When those commitments are not explicitly governed, intent fragments, drifts, or is repeatedly reconstructed.  Evolution becomes increasingly effortful and uncertain as the commitments that determine what must remain valid lose clarity and continuity.
 
@@ -43,18 +43,18 @@ The guidebook is organized in four main parts:
 
 The guidebook evolves through structured versioning to ensure stability and traceability over time.
 
-Each major version represents a distinct normative state of the discipline, defined by its **Foundations**.  Once released, a major version is stable and remains a valid reference.  Subsequent changes that alter the normative core result in a new major version.
+Each major version represents a distinct normative state of the discipline, defined by the **Foundations** page.  Once released, a major version is stable and remains a valid reference.  Subsequent changes that alter the normative core result in a new major version.
 
 Minor versions refine or clarify content without changing the normative core.  Editorial corrections that do not affect meaning may be introduced as patches.
 
-Normative claims and compliance assessments must identify the major version to which they refer, since prior major versions remain stable historical reference states.
+Normative claims and compliance assessments must identify the major version to which they refer, since prior major versions remain stable historical references.
 
 
 ## Contributing to the guidebook
 
 The guidebook evolves through structured and governed contributions.
 
-Proposals for clarification, refinement, extension, or correction are welcome across all parts of the guidebook. Changes to the normative core defined in **Foundations** undergo stricter review due to their impact on validity and versioning.
+Proposals for clarification, refinement, extension, or correction are welcome across all parts of the guidebook. Changes to the normative core defined in the **Foundations** page undergo stricter review due to their impact on validity and versioning.
 
 All contributions are evaluated according to the guidebook governance policies.  These policies define how proposals are submitted, reviewed, classified, and incorporated.
 
@@ -82,9 +82,9 @@ Familiarity with Software Engineering concepts, modern development practices, an
 
 This guidebook is not intended to be read linearly.  It is structured as a reference that supports selective and iterative use.
 
-Readers should consult **[Motivation](./motivation/)** to understand the problem space and why the discipline is needed, use **[Foundations](./foundations/)** to assess what is considered valid within the discipline, and refer to **[Guidelines](./guidelines/)** for recommended ways of enacting the normative core in practice.  **[Resources](./resources/)** provide supporting materials.
+The **[Motivation](./motivation/)** page frames the problem space and explains why the discipline is needed.  The **[Foundations](./foundations/)** page defines what is considered valid within the discipline.  The **[Guidelines](./guidelines/)** page provides recommended ways of enacting the normative core in practice.  The **[Resources](./resources/)** page offers supporting materials.
 
-Only the content in **Foundations** defines validity.  **Guidelines** are non-normative, and **Motivation** and **Resources** are informative.  Understanding these distinctions is essential for correct use of the guidebook.
+Only the content in the **Foundations** page defines validity. The **Guidelines** page is non-normative, and the **Motivation** and **Resources** pages are informative.  Understanding these distinctions is essential for correct use of the guidebook.
 
 ↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)**
   Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
