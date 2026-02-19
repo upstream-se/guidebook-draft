@@ -84,18 +84,9 @@ Resources are **informative only** and have **no normative force**.
 
 This guidebook is not meant to be read linearly.
 
-Before engaging with **Motivation**, **Foundations**, or **Guidelines**, readers should consult:
+↘ Refer to [How to read this guidebook](./how-to-read.md) for the principles that govern interpretation, normativity, navigation, and compliance across the guidebook.
 
-**→ [How to read this guidebook](./how-to-read.md)**
-
-That page explains:
-
-- how the parts relate to each other,
-- how normativity is distributed across the content,
-- how different readers may navigate the guidebook, and
-- how interpretation and compliance should be understood.
-
-It serves as the **reader’s contract** for the entire guidebook.
+That page functions as the reader’s contract for the entire guidebook.
 
 
 ## Versioning and evolution
