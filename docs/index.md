@@ -53,37 +53,24 @@ Only the content in **Foundations** defines validity.  **Guidelines** are non-no
 
 ## Guidebook versioning and evolution
 
-The guidebook evolves through a structured lifecycle that ensures stability, traceability, and controlled change.
+The guidebook evolves through structured versioning to ensure stability and traceability over time.
 
-At a high level:
+Each major version represents a distinct normative state of the discipline, defined by its **Foundations**.  Once released, a major version is stable and remains a valid reference.  Subsequent changes that alter the normative core result in a new major version.
 
-- Guidebook versions are expressed with a semantic structure (`MAJOR.MINOR.PATCH`). Major versions represent distinct normative states defined by the guidebook’s Foundations, while minor and patch increments refine or correct a given stable state without altering its normative core.  [oai_citation:3‡upstream-se.github.io](https://upstream-se.github.io/guidebook-draft/meta/lifecycle-governance/versioning-model/)  
-- Prior major version lines are maintained in a controlled manner, allowing only editorial corrections after supersession, and may eventually become immutable.  [oai_citation:4‡upstream-se.github.io](https://upstream-se.github.io/guidebook-draft/meta/lifecycle-governance/maintenance-model/)  
-- Releases—whether major, minor, or patch—are governed by explicit criteria and authorization rules that ensure transparency and coherence across the lifecycle, and only released versions constitute published states.  [oai_citation:5‡upstream-se.github.io](https://upstream-se.github.io/guidebook-draft/meta/lifecycle-governance/release-discipline/)
+Minor versions refine or clarify content without changing the normative core.  Editorial corrections that do not affect meaning may be introduced as patches.
 
-This lifecycle governance ensures that normative definitions remain stable and citable, while supporting refinement of explanatory and guiding material over time.
-
-↗ See **Meta → Operational governance → Lifecycle governance** for detailed policies and mechanics.
-
-
-## Guidebook versioning and evolution
-
-The guidebook evolves through structured versioning.
-
-Changes to **Foundations**, which define the normative core of the discipline, require a new major version when they alter validity conditions.  Clarifications in Foundations that do not change normative meaning result in a minor version increment.
-
-Changes to non-normative parts—such as **Motivation**, **Guidelines**, and **Resources**—result in minor version increments and are applied to the current version with an explicit versioning note.  Editorial corrections that do not affect meaning may be introduced as patches.
-
-Work on forthcoming major revisions is developed separately and made available as a preview under a dedicated path.  Upon release, the new major version replaces the current one, and the previous version is archived.
-
-Normative claims should always specify the major version to which they refer.
+Normative claims and compliance assessments must identify the major version to which they refer, since prior major versions remain available as stable historical reference states.
 
 
 ## Contributing
 
-This guidebook evolves through structured and governed change.
+The guidebook evolves through structured and governed contributions.
 
-Contributions — including proposals for new definitions, refinements to existing concepts, extensions of analyses, or structural adjustments — are subject to explicit editorial governance.
+Proposals for clarification, refinement, extension, or correction are welcome across all parts of the guidebook. Changes to the normative core defined in **Foundations** undergo stricter review due to their impact on validity and versioning.
+
+All contributions are evaluated according to the guidebook governance policies.  These policies define how proposals are submitted, reviewed, classified, and incorporated.
+
+The guidebook is expected to grow as the discipline evolves.  The evolution of the guidebook is governed to ensure coherence and stability.
 
 ↗ See **[Guidebook governance](./meta/)** for the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
 
