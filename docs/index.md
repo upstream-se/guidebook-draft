@@ -51,13 +51,17 @@ Only the content in **Foundations** defines validity.  **Guidelines** are non-no
   Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
 
 
-## Versioning and evolution
+## Guidebook versioning and evolution
 
-This guidebook evolves over time.
+The guidebook evolves through structured versioning.
 
-- Each released version is frozen
-- The current version reflects the latest accepted state
-- Future changes are introduced incrementally and transparently
+Changes to **Foundations**, which define the normative core of the discipline, require a new major version when they alter validity conditions.  Clarifications in Foundations that do not change normative meaning result in a minor version increment.
+
+Changes to non-normative parts—such as **Motivation**, **Guidelines**, and **Resources**—result in minor version increments and are applied to the current version with an explicit versioning note.  Editorial corrections that do not affect meaning may be introduced as patches.
+
+Work on forthcoming major revisions is developed separately and made available as a preview under a dedicated path.  Upon release, the new major version replaces the current one, and the previous version is archived.
+
+Normative claims should always specify the major version to which they refer.
 
 
 ## Contributing
