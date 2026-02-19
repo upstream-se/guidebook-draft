@@ -86,6 +86,9 @@ If a grouping lacks conceptual responsibility, it must not become a structural n
 - **[Reader tree and meta tree](./reader-tree-and-meta-tree/)**  
   Defines the dual-tree structure of the guidebook and the separation between reader-facing and contributor-facing hierarchies.
 
+- **[Filesystem conventions](./filesystem-conventions/)**  
+  Defines the naming and layout rules governing page directories and files in the repository.
+
 - **[Navigation format](./navigation-format/)**  
   Defines the rendering rules and traversal order governing hierarchical navigation.
 
