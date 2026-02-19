@@ -14,7 +14,7 @@ It addresses questions such as:
 - Which changes are valid, and which are not?
 - How are decisions justified, recorded, and revisited over time?
 
-The guidebook is **normative where necessary** and **guiding where appropriate**.  The distinction between these roles is explicit and intentional.
+This guidebook contains both normative definitions and non-normative guidance.  Normative content defines what is considered valid within the discipline.  Guidance supports interpretation and enactment, but does not establish validity.
 
 
 ## What this guidebook is not
@@ -105,6 +105,15 @@ This guidebook evolves over time.
 - Each released version is frozen
 - The current version reflects the latest accepted state
 - Future changes are introduced incrementally and transparently
+
+
+## Contributing
+
+This guidebook evolves through structured and governed change.
+
+Contributions — including proposals for new definitions, refinements to existing concepts, extensions of analyses, or structural adjustments — are subject to explicit editorial governance.
+
+↗ See [Guidebook governance](./meta/) for the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
 
 
 ## Intended audience
