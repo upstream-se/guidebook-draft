@@ -9,7 +9,7 @@ Upstream Software Engineering is the practice of epistemic governance of the int
 
 Long-lived software systems are enduring socio-technical entities whose governing commitments persist across initiatives, teams, technological shifts, and organizational restructuring.  Yet the knowledge that defines their intent — their commitments about scope, structure, constraints, and non-goals — is often fragmented or implicit.
 
-When those commitments are not explicitly governed, intent fragments, drifts, or is repeatedly reconstructed.  Evolution then becomes increasingly effortful and uncertain.  While change may be intrinsically complex, instability or ambiguity in governing commitments amplifies that complexity and obscures what must remain valid.
+When those commitments are not explicitly governed, intent fragments, drifts, or is repeatedly reconstructed.  Evolution then becomes increasingly effortful and uncertain, as the commitments that define what must remain valid lose clarity and continuity.
 
 Upstream Software Engineering addresses this condition.  It establishes durable and revisable commitments about scope and structure, clarifies authority and stewardship over those commitments, and defines the conditions under which change is considered valid.  It governs intent without prescribing implementation.
 
