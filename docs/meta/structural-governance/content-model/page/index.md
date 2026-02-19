@@ -26,7 +26,7 @@ These invariants ensure structural consistency across the guidebook.
 
 Every Page must include a descriptor callout of the form:
 
-> This page <verb> <object>.
+> This page \<verb> \<object>.
 
 The descriptor:
 
