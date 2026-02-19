@@ -30,13 +30,13 @@ The guidebook is organized in four main parts:
   Explains why a distinct upstream discipline is necessary and frames the problem space.
 
 - **[Foundations](./foundations/)**  
-  Define the discipline, its formal definitions, metamodel, and valid transformation plays.
+  Defines the discipline, its formal definitions, metamodel, and valid transformation plays.
 
 - **[Guidelines](./guidelines/)**  
-  Provide non-normative recommendations for enacting the discipline in practice.
+  Provides non-normative recommendations for enacting the discipline in practice.
 
 - **[Resources](./resources/)**  
-  Offer reusable materials that support learning, application, and dissemination of the discipline.
+  Offers reusable materials that support learning, application, and dissemination of the discipline.
 
 
 ## Versioning and evolution
