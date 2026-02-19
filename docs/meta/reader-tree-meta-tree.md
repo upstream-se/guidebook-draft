@@ -1,17 +1,16 @@
-# Reader Tree and Meta Tree
+# Reader tree and meta tree
 
-*This page defines the dual-tree structure of the guidebook and clarifies the separation between reader-facing content and contributor-facing governance.*
+> This page defines the dual-tree structure of the guidebook and clarifies the separation between reader-facing content and contributor-facing governance.
 
 The guidebook is organized as two distinct but structurally consistent trees:
 
-- The **Reader Tree**, intended for readers of the discipline.
-- The **Meta Tree**, intended for contributors to the guidebook.
+- The Reader Tree, intended for readers of the discipline.
+- The Meta Tree, intended for contributors to the guidebook.
 
 Both trees follow the same information architecture rules, but they serve different purposes and audiences.
 
----
 
-## The Reader Tree
+## The reader tree
 
 The Reader Tree contains the conceptual exposition of the discipline.
 
@@ -20,16 +19,14 @@ Its purpose is to:
 - Present definitions and models.
 - Develop arguments and analyses.
 - Structure the discipline into coherent conceptual areas.
-- Provide a canonical reading progression through the primary tree.
+- Provide canonical traversal through the primary hierarchy.
 
-The Reader Tree is the guidebook proper.  
-Its structure expresses the decomposition of the discipline.
+The Reader Tree constitutes the guidebook proper.  Its structure expresses the decomposition of the discipline.
 
-Graph links and complementary material appear contextually, as defined in the Information Architecture.
+Graph links and complementary material appear contextually, as governed by structural and editorial rules.
 
----
 
-## The Meta Tree
+## The meta tree
 
 The Meta Tree governs the construction of the guidebook as an artifact.
 
@@ -41,51 +38,54 @@ Its purpose is to:
 - Establish linking discipline.
 - Guide contributors in maintaining coherence and homogeneity.
 
-The Meta Tree is not part of the discipline.  
-It is a governance layer over the guidebook itself.
+The Meta Tree is not part of the discipline.  It is a governance layer over the guidebook itself.
 
----
 
-## Structural Separation
+## Structural separation
 
 The two trees are conceptually and navigationally distinct.
 
-- Reader pages should not depend on Meta pages for conceptual understanding.
+- Reader pages must not depend on Meta pages for conceptual understanding.
 - Meta pages may reference Reader pages as examples.
-- Navigation within each tree remains internal to that tree.
+- Hierarchical navigation remains internal to each tree.
+- Cross-references must not blur tree boundaries.
 
-The Meta Tree does not redefine the discipline; it regulates how the discipline is documented.
+This separation preserves reader clarity while maintaining contributor rigor.
 
----
 
-## Reflexive Consistency
+## Reflexive consistency
 
-Both trees follow the same information architecture rules:
+Both trees follow the same architectural principles:
 
 - Tree-based primary navigation.
 - Contextual graph traversal.
-- Contextual complementary deepening.
+- Complementary auxiliary pages.
 - Homogeneous page structure.
-- Tree-only navigation in “Where to go next”.
+- Hierarchy-only traversal in “Where to go next”.
 
-The guidebook therefore demonstrates the architectural discipline it prescribes.
+The guidebook therefore demonstrates the structural discipline it prescribes.
 
----
 
 ## Summary
 
 The guidebook is structured as two coordinated trees:
 
-- The **Reader Tree**, which expresses the discipline.
-- The **Meta Tree**, which governs the guidebook artifact.
+- The Reader Tree, which expresses the discipline.
+- The Meta Tree, which governs the guidebook artifact.
 
-This separation preserves conceptual clarity for readers while ensuring structural rigor for contributors.
+This separation ensures conceptual clarity for readers and structural integrity for contributors.
 
----
 
 ## Where to go next
 
-**Continue in the Meta structure**
-- Parent: …
-- Next: …
-- Guidebook home (Meta root)
+→ **[Navigation format](../navigation-format/)**  
+  Defines the rendering rules and traversal order governing hierarchical navigation in the guidebook.
+
+↑ **[Information architecture](../)**  
+  Defines how knowledge is organized, structured, and navigated within the guidebook.
+
+↑ **[Structural governance](../../)**  
+  Defines the structural rules that regulate page types, hierarchy, and navigation in the guidebook.
+
+↑ **[Guidebook governance](../../../)**  
+  Defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
