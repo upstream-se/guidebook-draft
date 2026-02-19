@@ -18,156 +18,28 @@ The discipline complements development methodologies, architectural practices, a
 
 ## About this guidebook
 
-### What this guidebook is
+This guidebook is the reference articulation of the practice of Upstream Software Engineering.
 
-This guidebook is the authoritative articulation of the practice of Upstream Software Engineering.
+It defines the conceptual and normative framework of the discipline, including its formal definitions, metamodel, and valid transformation patterns.  It distinguishes between normative content, which establishes what is considered valid upstream, and non-normative guidance, which supports enactment in practice.
 
-It establishes the conceptual and normative framework through which the intent of long-lived software systems is governed.  It formalizes the commitments, structures, and transformation patterns that define valid upstream practice, and distinguishes them from downstream realization activities.
-
-
-### What this guidebook is not
-
-This guidebook is not a methodology for software development, a project management framework, or an operational playbook.
-
-It does not prescribe implementation techniques, delivery processes, or runtime operations.  It does not replace downstream engineering practices, nor does it dictate how systems must be constructed in specific technological contexts.
-
-Its concern is upstream: the governance of intent, commitments, and structural validity that normatively guide downstream realization without determining it.
-
-
-### Questions addressed by this guidebook
-
-This guidebook frames and answers questions such as:
-
-- What is the software system beyond its current implementation?
-- In which context does it exist and evolve?
-- Which commitments are valid, and which are not?
-- How are upstream commitments articulated, justified, revised, and made durable over time?
-
-
-### What this guidebook provides
-
-This guidebook provides the normative and conceptual reference for practicing Upstream Software Engineering.
-
-It defines the concepts, relationships, and validity conditions that govern upstream commitments, and specifies the transformation patterns through which those commitments evolve over time.
-
-It also offers non-normative guidance for enacting the discipline within concrete organizational contexts.
-
-
-### How this guidebook relates to practice
-
-This guidebook does not replace concrete organizational artifacts or delivery processes.
-
-Instead, it establishes the upstream commitments that those artifacts and processes are expected to respect.
-
-Project-specific documents, working notes, contractual agreements, and implementation decisions exist outside this guidebook. They instantiate upstream commitments within specific technological and organizational contexts.
-
-The guidebook defines what is valid at the level of intent and structure; its enactment belongs to the practice of the discipline.
-
-
-
-## What this guidebook is
-
-This guidebook is the authoritative articulation of the practice of Upstream Software Engineering.
-
-It establishes the conceptual and normative framework through which the intent of long-lived software systems is governed.  It formalizes the commitments, structures, and transformation patterns that define valid upstream practice, and distinguishes them from downstream realization activities.
-
-
-## What this guidebook is not
-
-This guidebook is not a methodology for software development, a project management framework, or an operational playbook.
-
-It does not prescribe implementation techniques, delivery processes, or runtime operations.  It does not replace downstream engineering practices, nor does it dictate how systems must be constructed in specific technological contexts.
-
-Its concern is upstream: the governance of intent, commitments, and structural validity that normatively guide downstream realization without prescribing its implementation.
-
-
-
-
-
-## What this guidebook is
-
-This guidebook presents a framework for **Upstream Software Engineering**:  the discipline concerned with **defining, governing, and evolving software systems** before and across their realization.
-
-It addresses questions such as:
-
-- What is the software system, beyond its current implementation?
-- In which context does it exist and evolve?
-- Which changes are valid, and which are not?
-- How are decisions justified, recorded, and revisited over time?
-
-This guidebook contains both normative definitions and non-normative guidance.  Normative content defines what is considered valid within the discipline.  Guidance supports interpretation and enactment, but does not establish validity.
-
-
-## What this guidebook is not
-
-This guidebook is not:
-
-- a development methodology
-- a project management framework
-- a set of mandatory documents or procedures
-- a replacement for downstream engineering practices
-
-It does not prescribe downstream engineering practices, implementation techniques, or operational procedures.  Instead, it focuses on the **intent, constraints, and transformations** that downstream activities are expected to respect.
+The guidebook is structured to support clarity, interpretation, and disciplined evolution of the practice over time.
 
 
 ## How the guidebook is organized
 
-The guidebook is organized into four main **parts**, each with a distinct role.
+The guidebook is organized in four main parts:
 
+- **[Motivation](./motivation/)**  
+  Explains why a distinct upstream discipline is necessary and frames the problem space.
 
-### Motivation
+- **[Foundations](./foundations/)**  
+  Define the discipline, its formal definitions, metamodel, and valid transformation plays.
 
-The **[Motivation](./motivation/index.md)** part explains **why Upstream Software Engineering is needed**.
+- **[Guidelines](./guidelines/)**  
+  Provide non-normative recommendations for enacting the discipline in practice.
 
-It describes the problem space and the limitations observed in current practice that motivate the need for a dedicated discipline to govern software systems over time.
-
-This part prepares the reader for the normative definitions introduced in the Foundations.
-
-
-### Foundations
-
-The **[Foundations](./foundations/index.md)** part defines the **normative core** of Upstream Software Engineering.
-
-It contains:
-
-- **[The discipline](./foundations/discipline/index.md)** — the formal definition of Upstream Software Engineering, including its scope and boundaries.
-- **[The metamodel](./foundations/metamodel/index.md)** — the normative conceptual structure that defines the concepts, relationships, and constraints used to reason about software systems and their evolution.
-- **[The plays](./foundations/plays/index.md)** — the valid transformation patterns that operate over models conforming to the metamodel.
-
-Foundations define **what is considered valid**.  Compliance is assessed against this part.
-
-
-### Guidelines
-
-The **[Guidelines](./guidelines/index.md)** part provides **recommended ways** to enact the **Foundations** in practice.
-
-It contains:
-
-- **[The artifacts](./guidelines/artifacts/index.md)** — suggested ways of representing, documenting, or managing models that conform to the metamodel.
-- **[The practices](./guidelines/practices/index.md)** — situational ways of executing plays in concrete organizational contexts.
-
-Guidelines are **non-normative**.  
-They are meant to be adapted, combined, or replaced as needed.
-
-Different practitioners and tool builders may choose different representations, as long as the underlying models conform to the metamodel defined in **Foundations**.
-
-
-### Resources
-
-The **[Resources](./resources/index.md)** part provides **downloadable and reusable materials** produced as part of this initiative.
-
-It includes white papers, research papers, books, templates, canvases, multimedia, and other artifacts that support learning, application, and dissemination of Upstream Software Engineering.
-
-Resources are **informative only** and have **no normative force**.
-
-
-## How to read this guidebook
-
-This guidebook is not meant to be read linearly.
-
-↘ Refer to [How to read this guidebook](./how-to-read.md) for the principles that govern interpretation, normativity, navigation, and compliance across the guidebook.
-
-That page functions as the reader’s contract for the entire guidebook.
+- **[Resources](./resources/)**  
+  Offer reusable materials that support learning, application, and dissemination of the discipline.
 
 
 ## Versioning and evolution
