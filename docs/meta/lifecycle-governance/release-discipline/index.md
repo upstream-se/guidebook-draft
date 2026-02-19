@@ -13,8 +13,8 @@ This page is reserved for defining how guidebook releases are prepared and autho
 
 ## Where to go next
 
-← **[Versioning model](../versioning-model/)**  
-  Defines how guidebook versions are structured and incremented.
+← **[Maintenance model](../maintenance-model/)**  
+  Defines how Prior major version lines are maintained and when maintenance may be closed.
 
 → **[Quality assurance](../quality-assurance/)**  
   Defines structural validation, consistency checks, and release readiness criteria.
