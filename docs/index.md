@@ -47,8 +47,23 @@ Readers should consult **Motivation** to understand the problem space, use **Fou
 
 Only the content in **Foundations** defines validity.  **Guidelines** are non-normative, and **Motivation** and **Resources** are informative.  Understanding these distinctions is essential for correct use of the guidebook.
 
-↘ Refer to [How to read this guidebook](./how-to-read-this-guidebook.md)
+↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)**
   Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
+
+
+## Guidebook versioning and evolution
+
+The guidebook evolves through a structured lifecycle that ensures stability, traceability, and controlled change.
+
+At a high level:
+
+- Guidebook versions are expressed with a semantic structure (`MAJOR.MINOR.PATCH`). Major versions represent distinct normative states defined by the guidebook’s Foundations, while minor and patch increments refine or correct a given stable state without altering its normative core.  [oai_citation:3‡upstream-se.github.io](https://upstream-se.github.io/guidebook-draft/meta/lifecycle-governance/versioning-model/)  
+- Prior major version lines are maintained in a controlled manner, allowing only editorial corrections after supersession, and may eventually become immutable.  [oai_citation:4‡upstream-se.github.io](https://upstream-se.github.io/guidebook-draft/meta/lifecycle-governance/maintenance-model/)  
+- Releases—whether major, minor, or patch—are governed by explicit criteria and authorization rules that ensure transparency and coherence across the lifecycle, and only released versions constitute published states.  [oai_citation:5‡upstream-se.github.io](https://upstream-se.github.io/guidebook-draft/meta/lifecycle-governance/release-discipline/)
+
+This lifecycle governance ensures that normative definitions remain stable and citable, while supporting refinement of explanatory and guiding material over time.
+
+↗ See **Meta → Operational governance → Lifecycle governance** for detailed policies and mechanics.
 
 
 ## Guidebook versioning and evolution
