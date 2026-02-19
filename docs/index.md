@@ -1,6 +1,6 @@
 # Upstream Software Engineering
 
-*A guidebook for governing the construction and evolution of software systems*
+> This page introduces the guidebook for the practice of Upstream Software Engineering, the epistemic governance of the intent of long-lived software systems.
 
 
 ## What this guidebook is
