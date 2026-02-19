@@ -2,7 +2,7 @@
 
 > This page defines how guidebook versions are structured and incremented.
 
-The guidebook is a normative artifact.  Its versioning model is designed to preserve stability of the discipline’s core definitions while allowing controlled refinement of explanatory and guiding content.
+The guidebook is a normative artifact. Its versioning model is designed to preserve stability of the discipline’s core definitions while allowing controlled refinement of explanatory and guiding content.
 
 Versioning ensures that:
 
@@ -14,13 +14,13 @@ Versioning ensures that:
 
 ## Major version lines and lifecycle states
 
-Each **major version line** (vN.x.y) represents a distinct normative state of the discipline.  It defines a stable configuration of Foundations against which validity and compliance may be assessed.
+Each **major version line** (vN.x.y) represents a distinct normative state of the discipline. It defines a stable configuration of Foundations against which validity and compliance may be assessed.
 
 A major version line may exist in one of three sequential lifecycle states:
 
-- **Next** — The forthcoming major version under development.  It may be publicly visible under `/next`, but does not constitute a normative reference.
-- **Current** — The latest released major version line.  It is the default normative reference and may receive minor and patch increments.
-- **Prior** — A previously Current major version line.  It remains normative and citable but is no longer the default reference.  It may receive patch increments for a defined maintenance window, as specified in lifecycle governance.
+- **Next** — The forthcoming major version under development. It may be publicly visible (e.g., under `/next`) but does not constitute a normative reference.
+- **Current** — The latest released major version line. It is the default normative reference and may receive minor and patch increments.
+- **Prior** — A previously Current major version line. It remains normative and citable but is no longer the default reference. Its maintenance behavior is governed by the Maintenance model.
 
 Only released major version lines (Current or Prior) constitute normative references.
 
@@ -31,8 +31,8 @@ Versions are expressed as MAJOR.MINOR.PATCH.
 
 Within a given major version line:
 
-- A **minor version** represents a refinement of that major version.  It incorporates clarifications or non-normative improvements while preserving the normative state defined by the major version.
-- A **patch version** represents an editorially corrected state of a minor version.  It addresses defects in expression without affecting interpretation or validity conditions.
+- A **minor version** represents a refinement of that major version. It incorporates clarifications or non-normative improvements while preserving the normative state defined by the major version.
+- A **patch version** represents an editorially corrected state of a minor version. It addresses defects in expression without affecting interpretation or validity conditions.
 
 A change in the MAJOR component establishes a new major version line and therefore a new normative state.
 
@@ -40,7 +40,7 @@ A change in the MINOR component introduces refinements or clarifications that do
 
 A change in the PATCH component applies editorial corrections that do not affect meaning.
 
-Minor and patch increments do not establish a new normative state.  Version increments are determined by the nature of the change, not by its size.
+Minor and patch increments do not establish a new normative state. Version increments are determined by the nature of the change, not by its size.
 
 
 ## Major version increments
@@ -54,10 +54,10 @@ This includes:
 - Changes to transformation **Plays**.
 - Any alteration that affects validity conditions.
 
-A major version increment creates a new major version line.  Upon its release:
+Upon release of a new major version line:
 
-- The new major version line becomes **Current**.
-- The previously Current version line becomes **Prior**.
+- The new version becomes **Current**.
+- The previously Current version becomes **Prior**.
 
 
 ## Minor version increments
@@ -71,7 +71,7 @@ This includes:
 - Additions of informative material.
 - Structural refinements that do not modify normative meaning.
 
-Minor increments apply within the Current major version line and are recorded with an explicit version note.
+Minor increments apply only within the **Current** major version line and are recorded with an explicit version note.
 
 
 ## Patch increments
@@ -85,9 +85,7 @@ This includes:
 - Broken links.
 - Non-substantive editorial fixes.
 
-Patch increments may be applied within the **Current** major version line.
-
-Patch increments may also be applied to a **Prior** major version line during its defined maintenance window.  Once the maintenance window of a Prior version line closes, no further increments are permitted.
+Patch increments may apply within Current and, subject to the Maintenance model, within Prior major version lines.
 
 Patch increments do not introduce normative or interpretive change.
 
@@ -98,7 +96,7 @@ Work on a forthcoming major version line occurs in the **Next** state.
 
 A preview of the forthcoming major version line may be made available under the dedicated path `/next`.
 
-Preview versions do not constitute normative references.  Normative claims must refer to a released major version line.
+Preview versions do not constitute normative references. Normative claims must refer to a released major version line.
 
 
 ## Archival and citation
@@ -107,8 +105,6 @@ All released major version lines remain accessible.
 
 Normative claims, compliance assessments, and scholarly references must specify the major version to which they refer.
 
-When a Prior major version line exits its maintenance window, it becomes immutable but remains normative unless otherwise specified under lifecycle governance.
-
 
 ## Summary
 
@@ -116,13 +112,16 @@ The guidebook follows a structured MAJOR.MINOR.PATCH versioning model.
 
 - Each major version line defines a distinct normative state.
 - Minor and patch increments refine a major version line without redefining its normative core.
-- The lifecycle of major version lines progresses through Next → Current → Prior.
-- Only released major version lines constitute normative references.
+- Major version lines progress through the states Next → Current → Prior.
+- Maintenance behavior for Prior versions is defined separately in the Maintenance model.
 
 This model preserves normative stability while allowing controlled evolution of the guidebook.
 
 
 ## Where to go next
+
+→ **[Maintenance model](../maintenance-model/)**  
+  Defines how Prior major version lines are maintained and when maintenance may be closed.
 
 → **[Release discipline](../release-discipline/)**  
   Defines release criteria, authorization requirements, and publication cadence.
