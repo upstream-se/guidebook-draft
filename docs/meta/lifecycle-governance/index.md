@@ -27,6 +27,10 @@ It governs the temporal dimension of the guidebook.  It does not regulate issue 
 - **[Versioning model](./versioning-model/)**  
   Defines how guidebook versions are structured and incremented.
 
+- **[Maintenance model](./maintenance-model/)**  
+  Defines how Prior major version lines are maintained and when maintenance may be closed.
+
+
 ### Release discipline
 
 - **[Release discipline](./release-discipline/)**  
