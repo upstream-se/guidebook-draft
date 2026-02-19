@@ -50,7 +50,7 @@ Minor versions refine or clarify content without changing the normative core.  E
 Normative claims and compliance assessments must identify the major version to which they refer, since prior major versions remain available as stable historical reference states.
 
 
-## Contributing
+## Contributing to the guidebook
 
 The guidebook evolves through structured and governed contributions.
 
