@@ -181,4 +181,4 @@ The guidebook is intended to function as an analytical instrument.  It supports 
 
 ## Where to go next
 
-↖ Return to **[Guidebook](../)** for the purpose, scope, and structure of this guidebook.
+↖ Return to **[Guidebook](./)** for the purpose, scope, and structure of this guidebook.
