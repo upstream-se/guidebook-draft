@@ -90,34 +90,30 @@ Guidelines assist in structuring activity, organizing responsibilities, and shap
 The Resources part provides supporting materials, such as papers, templates, tutorials, and related artifacts.  Depending on their nature, these materials may be informative (providing context or explanation) or guiding (offering examples or structured assistance).  Resources do not define validity and are not subject to compliance assessment.
 
 
-## 6. Page types and epistemic roles
+## Page types and epistemic roles
 
-Within parts, pages serve distinct epistemic functions.
+Pages in the guidebook are classified along two distinct dimensions: structural type and epistemic role.
 
-### Concept Definition pages
 
-Provide precise and stable normative anchors.  
-They establish the canonical vocabulary of the discipline.
+### Structural page types
 
-### Rationale pages
+The content model defines structural page types that regulate how pages are organized and related within the guidebook:
 
-Explain why definitions were adopted.  
-They analyze relevant literature and extract essential aspects that shaped the definition.
+- **Container pages** aggregate and contextualize related pages within the primary hierarchy.
+- **Content pages** develop a focused conceptual, normative, or procedural unit.
+- **Complementary pages** supplement other pages without belonging to the primary hierarchy.
 
-### Usage & Relations pages
+Structural type determines how a page participates in the guidebook’s architecture and navigation.
 
-Clarify interpretation and application.  
-They discuss relationships to other concepts and to external frameworks.
 
-When studying a concept deeply, the recommended sequence is:
+### Epistemic roles
 
-1. Definition  
-2. Rationale  
-3. Usage & Relations  
+Separate from structural type, pages also fulfill epistemic roles.  These roles describe the function the content plays within the discipline — for example, defining a concept, stating a principle, providing justification, or clarifying usage.
 
-This separation prevents confusion between validity, justification, and application.
+Epistemic roles are declared through structured callouts within the page content.  These callouts are marked with a solid square symbol ■ followed by a title that signals the epistemic role of the content of the callout.  Structured callouts titled Definition or Principle, among pthers, are widely used in the guidebook.  A page may contain multiple structured callouts and therefore fulfill more than one epistemic role.
 
----
+Structural type determines how a page is positioned within the guidebook.  Structured callouts determine how its content should be interpreted.
+
 
 ## 7. Analytical usage
 
