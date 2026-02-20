@@ -45,7 +45,7 @@ Parent pages introduce broader conceptual domains.  Child pages refine or specia
 
 Not all conceptual relationships are hierarchical.  Some pages clarify, expand, or complement others without constituting specialization.  These relationships are expressed through cross-references rather than structural containment.
 
-Navigation arrows signal these relationships.  Downward arrows indicate refinement; upward arrows indicate return to a broader conceptual domain; horizontal arrows indicate movement across related refinements; diagonal arrows indicate contextual or complementary references.  These symbols are part of the guidebook’s structural language and assist readers in interpreting conceptual relationships across pages.
+Navigation arrows signal these relationships.  Downward arrows (↓) indicate refinement; upward arrows (↑) indicate return to a broader conceptual domain; horizontal arrows (←, →) indicate movement across related refinements.  A diagonal up-right arrow (↗) indicates a cross-reference to a related page; a diagonal down-right arrow (↘) indicates navigation to a complementary page; and a diagonal up-left arrow (↖) indicates return from a complementary page to its primary page.  These symbols are part of the guidebook’s structural language and assist readers in interpreting conceptual relationships across pages.
 
 
 ## Normativity and compliance
