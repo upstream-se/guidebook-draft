@@ -1,4 +1,4 @@
-# Guidebook governance
+# Guidebook contributor guide
 
 > This page defines the governance framework that regulates the structure, authorship, evolution, and authority of the guidebook.
 
