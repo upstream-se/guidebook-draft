@@ -30,7 +30,7 @@ This section answers the question:
 **What kind of discipline is Upstream Software Engineering?**
 
 
-## 2. The metamodel
+### The metamodel
 
 **[The metamodel](./metamodel/index.md)** introduces the formal conceptual structure that provides a shared vocabulary for articulating system-level intent, structure, governance modes, and their interdependencies.
 
@@ -44,7 +44,7 @@ This section answers the question:
 **What must be explicitly represented to govern intent epistemically?**
 
 
-## 3. The plays
+### The plays
 
 **[The plays](./plays/index.md)** define the valid transformations that may be performed on models conforming to the metamodel.
 
