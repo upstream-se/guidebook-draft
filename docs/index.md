@@ -27,7 +27,7 @@ The guidebook is structured to support clarity, interpretation, and disciplined 
 The guidebook is organized in four main parts:
 
 - **[Motivation](./motivation/)**  
-  Explains why a distinct upstream discipline is necessary and frames the problem space.
+  Explains the problem space and rationale for a distinct upstream discipline.
 
 - **[Foundations](./foundations/)**  
   Defines the discipline, its formal definitions, metamodel, and valid transformation patterns.
