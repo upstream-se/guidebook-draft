@@ -95,4 +95,4 @@ The canonical traversal of the guidebook begins with the articulation of its pro
 ## Where to go next
 
 ↓ **[Motivation](./motivation/)**  
-  Explains why a distinct upstream discipline is necessary and frames the problem space.
+  Explains the problem space and rationale for a distinct upstream discipline.
