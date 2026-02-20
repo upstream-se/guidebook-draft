@@ -1,13 +1,22 @@
 # Foundations
 
-The **Foundations** part establishes the conceptual and normative core of Upstream Software Engineering.
+> This page defines the normative core of the Upstream Software Engineering Guidebook.
 
-Where **[Motivation](../motivation/index.md)** articulated the problem space and the structural asymmetry revealed by existing approaches, **Foundations** defines the conceptual constructs required to address that asymmetry explicitly.
+**Foundations** establishes the normative structures through which intent is governed within Upstream Software Engineering.
 
-This part is organized into three complementary components: the discipline, the meramodel, and the pkays.  They are brielfly described next.
+It formalizes the conceptual constructs that make governing commitments explicit, durable, and assessable for validity over time.
+
+These structures directly address the structural insufficiencies identified in **Motivation** by providing the formal basis through which intent is articulated and governed explicitly.
+
+↗ See **[Motivation](../motivation/)**  
+  Explains why a distinct upstream discipline is necessary and frames the problem space.
+
+The **Foundations** part is structured into three constitutive elements: the discipline, the metamodel, and the plays.
 
 
-## 1. The discipline
+## Constitutive elements
+
+### The discipline
 
 **[The discipline](./discipline/index.md)** defines Upstream Software Engineering as a distinct field of study.
 
