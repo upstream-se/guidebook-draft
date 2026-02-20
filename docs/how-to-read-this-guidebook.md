@@ -181,6 +181,4 @@ This separation enables governance **without rigidity**, and guidance **without 
 
 ## Where to go next
 
-Proceed to **[Motivation](./motivation/index.md)** to understand why the discipline is needed.
-
-If preferred, return to **[Guidebook home](./index.md)** for an overview of this guidebook.
+↖ Return to **[Guidebook](./)** for the purpose, scope, and structure of this guidebook.
