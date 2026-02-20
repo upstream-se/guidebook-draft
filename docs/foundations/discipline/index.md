@@ -81,5 +81,5 @@ The discipline is structured as a layered model.  Each layer depends on the prec
 ↑ **[Foundations](../index.md)**  
   Defines the foundational architecture of the guidebook.
 
-↑ **[Guidebook home](../../index.md)**  
-  Provides the entry point to the guidebook.
+↑ **[Upstream Software Engineering Guidebook](../../index.md)**  
+  Introduces the purpose, scope, and structure of this guidebook.
