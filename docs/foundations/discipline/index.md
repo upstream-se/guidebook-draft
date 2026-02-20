@@ -2,72 +2,84 @@
 
 > This page defines the conceptual foundations and structure of the Upstream Software Engineering discipline.
 
-> ⚠️ **This page is under active construction.**
+> ⚠ **Warning**
+> This page is under active construction.
 
-It first clarifies why the discipline is needed and which principles shape it.  It then defines its core concepts, explains its understanding of change and evolution, distinguishes upstream from downstream practices, and articulates its normative commitments.
-
-The pages below develop the discipline progressively—from conceptual grounding, through ontology and evolution, to stratification and formal structure.
+The discipline is structured as a layered model.  Each layer depends on the preceding one and introduces a distinct analytical dimension: grounding, definition, ontology, stratification, dynamics, and constitutional articulation.  The order reflects conceptual dependency rather than pedagogical convenience.
 
 
-## Conceptual grounding
+## Structure of the discipline
+
+### Conceptual grounding
 
 - **[Underlying rationale](./underlying-rationale/index.md)**  
-  Reconstructs successive eras of Software Engineering and extracts the structural asymmetries that motivate an upstream discipline.
+  Historical reconstruction and structural asymmetries motivating the discipline.
 
 - **[Principles](./principles.md)**  
-  Articulates the foundational principles derived from that historical analysis and expresses the commitments that shape Upstream Software Engineering.
+  Foundational commitments derived from that analysis.
 
 
-## Core concepts
+### Discipline
 
-- **[Upstream Software Engineering discipline](./definition/index.md)**  
-  Defines Upstream Software Engineering and clarifies its locus of governance.
+- **[Upstream Software Engineering](./definition/index.md)**  
+  Defines the discipline, its scope, its locus of governance, and its exclusions.
+
+
+### Ontology
 
 - **[Software system](./software-system.md)**  
-  Defines the governed entity as a socio-technical, long-lived system.
+  The governed socio-technical entity.
 
 - **[Intent](./intent.md)**  
-  Defines purpose, commitments, assumptions, constraints, and non-goals as explicit knowledge objects.
+  Explicit commitments subject to governance.
 
-- **[Context](./context.md)**.  
-  Describes the environment that conditions and constrains system-level intent.
+- **[Context](./context.md)**  
+  Conditioning environment of system-level intent.
 
-- **[Stewardship and authority](./stewardship-and-authority.md)**.  
-  Describes the allocation of responsibility and legitimacy over commitments.
-
-
-## Change and evolution
-
-- **[Change](./change.md)**  
-  Defines change and explains how contextual shifts trigger reinterpretation of system commitments.
-
-- **[Software evolution](./software-evolution.md)**  
-  Presents the upstream understanding of software evolution as epistemic helices—structured cycles of reinterpretation and re-articulation of intent and structure across time.
+- **[Stewardship and authority](./stewardship-and-authority.md)**  
+  Allocation of responsibility and legitimacy over commitments.
 
 
-## Stratification and reification
+### Stratification
 
 - **[Upstream and downstream](./upstream-and-downstream.md)**  
-  Distinguishes epistemic governance (upstream) from execution-oriented realization practices (downstream).
+  Distinction between governance and realization practices, including positioning relative to existing disciplines.
+
+- **[Upstream, downstream, and mainstream](./upstream-downstream-mainstream.md)**  
+  Full triadic structure including enacted production behavior.
+
+
+### Dynamics
+
+- **[Change](./change.md)**  
+  Reinterpretation triggered by contextual shifts.
+
+- **[Software evolution](./software-evolution.md)**  
+  Structured cycles of reinterpretation and re-articulation across time.
+
+
+### Constitutional foundations
 
 - **[Reification and artifacts](./reification-and-artifacts.md)**  
-  Clarifies the relationship between normative knowledge structures and the artifacts that may instantiate them.
-
-
-## Normative foundations
+  Relationship between normative knowledge structures and their instantiating artifacts.
 
 - **[Ontological commitments](./ontological-commitments.md)**  
-  States the commitments about systems, knowledge, governance, and evolution adopted by the discipline.
+  Foundational commitments about systems, knowledge, and governance.
 
 - **[Normative structure](./normative-structure.md)**  
-  Explains why a metamodel and formally valid transformations are required and why upstream does not prescribe specific artifacts.
-
-- **[Positioning](./positioning.md)**  
-  Situates Upstream Software Engineering in relation to Software Engineering, Architecture, Governance, and related fields.
+  Structural validity rules and transformation discipline.
 
 
 ## Where to go next
 
-For a sequential reading, begin with **[Underlying rationale](./underlying-rationale/index.md)**.
+↓ **[Underlying rationale](./underlying-rationale/index.md)**  
+  Reconstructs successive eras of Software Engineering and extracts the structural asymmetries that motivate the discipline.
 
-If prefered, return to **[Foundations](../index.md)** for an overview of this part, or to **[Guidebook home](../../index.md)** for an overview of this guidebook.
+→ **[The metamodel](../the-metamodel/index.md)**  
+  Defines the formal conceptual structure that models governed systems and their commitments.
+
+↑ **[Foundations](../index.md)**  
+  Defines the foundational architecture of the guidebook.
+
+↑ **[Guidebook home](../../index.md)**  
+  Provides the entry point to the guidebook.
