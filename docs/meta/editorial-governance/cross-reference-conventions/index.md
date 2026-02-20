@@ -46,7 +46,7 @@ Contextual cross-links express related material without structural attachment.
 
 Format:
 
-↗ See **[Page]** for <transformed-descriptor>
+↗ See **[Page]** for \<transformed-descriptor>
 
 Rules:
 
