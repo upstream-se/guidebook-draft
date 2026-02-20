@@ -2,6 +2,290 @@
 
 > This page defines the reading and navigation principles of the guidebook.
 
+This guidebook is not intended to be read linearly.  
+It is a structured reference for reasoning about the governance and evolution of software systems.
+
+Different readers will engage with different parts depending on their role, intent, and level of familiarity.  
+This page establishes the interpretive framework for using the guidebook correctly.
+
+---
+
+## 1. Purpose and reading posture
+
+The guidebook is designed as a disciplined reference, not as a narrative exposition.
+
+It supports:
+
+- Selective consultation  
+- Iterative refinement of understanding  
+- Role-dependent entry points  
+
+Readers are expected to move between sections, revisit definitions, and use concepts as stable anchors for reasoning.
+
+Linear reading is possible but not assumed.
+
+---
+
+## 2. Two complementary structures
+
+The initiative comprises two complementary but distinct structures:
+
+- **The guidebook** — the exposition of the discipline of Upstream Software Engineering.
+- **The guidebook governance framework** — the rules, procedures, and criteria that govern how the guidebook itself is maintained and evolved.
+
+This page concerns the guidebook as read by practitioners, researchers, and decision-makers.
+
+The governance framework is relevant to contributors and editors.  
+Its purpose is to ensure conceptual coherence, stability, and controlled evolution.
+
+---
+
+## 3. Conceptual architecture
+
+The structure of the guidebook reflects the conceptual architecture of the discipline.
+
+Concepts are introduced at higher levels of abstraction and refined progressively.  
+Subsections clarify, specialize, or operationalize parent concepts.
+
+The organization is therefore not editorial convenience.  
+It encodes the decomposition of the discipline into coherent conceptual areas.
+
+Cross-references indicate conceptual relationships.  
+They do not necessarily imply containment or hierarchy.
+
+Reading the guidebook means traversing a conceptual structure.
+
+---
+
+## 4. Normativity and compliance
+
+Not all content in the guidebook carries the same normative force.
+
+Three categories are distinguished:
+
+### Normative
+
+Normative content defines what is considered valid within the discipline.
+
+It establishes:
+
+- The scope of the discipline  
+- The metamodel and its constraints  
+- The valid transformation patterns (plays)  
+
+Normative content is located in **Foundations**.
+
+Compliance with the discipline is assessed exclusively against this content.
+
+### Guiding
+
+Guiding content provides recommended ways of enacting the normative core in real contexts.
+
+It may suggest:
+
+- Representations  
+- Artifacts  
+- Practices  
+- Organizational patterns  
+
+Guiding content is located in **Guidelines**.
+
+It does not impose obligations.  
+Multiple enactments may conform equally to the same normative core.
+
+### Informative
+
+Informative content provides context, motivation, or reusable materials.
+
+It includes:
+
+- The problem space that motivates the discipline  
+- Downloadable or referential resources  
+
+Informative content carries no normative force.
+
+---
+
+## 5. Structural parts of the guidebook
+
+The guidebook is organized into four main parts, each with a distinct epistemic role:
+
+### Motivation — Informative / Pre-normative
+
+Explains why Upstream Software Engineering is needed.  
+Describes the problem space and the limitations observed in current practice.
+
+It prepares the reader but does not define validity.
+
+### Foundations — Normative
+
+Defines the core of the discipline.
+
+It includes:
+
+- The formal definition of the discipline  
+- The metamodel  
+- The plays (valid transformations)
+
+Foundations answer:
+
+> What is considered valid within this discipline?
+
+### Guidelines — Guiding
+
+Provides recommended ways of enacting the normative core in practical contexts.
+
+Guidelines are adaptable and optional, provided conformity to Foundations is preserved.
+
+### Resources — Informative
+
+Provides reusable materials such as white papers, templates, canvases, and related artifacts.
+
+Resources support application but do not define validity.
+
+---
+
+## 6. Page types and epistemic roles
+
+Within parts, pages serve distinct epistemic functions.
+
+### Concept Definition pages
+
+Provide precise and stable normative anchors.  
+They establish the canonical vocabulary of the discipline.
+
+### Rationale pages
+
+Explain why definitions were adopted.  
+They analyze relevant literature and extract essential aspects that shaped the definition.
+
+### Usage & Relations pages
+
+Clarify interpretation and application.  
+They discuss relationships to other concepts and to external frameworks.
+
+When studying a concept deeply, the recommended sequence is:
+
+1. Definition  
+2. Rationale  
+3. Usage & Relations  
+
+This separation prevents confusion between validity, justification, and application.
+
+---
+
+## 7. Analytical usage
+
+The guidebook functions as an analytical instrument.
+
+Its concepts can be used to:
+
+- Evaluate governance approaches  
+- Clarify system and portfolio boundaries  
+- Analyze transformation patterns  
+- Compare methodological families  
+- Identify structural gaps in existing practices  
+
+Concepts are designed to operate as lenses.
+
+The guidebook supports disciplined reasoning rather than procedural instruction.
+
+---
+
+## 8. Navigation and reading strategies
+
+Different readers may adopt different entry points.
+
+### First-time readers
+
+Start with **Motivation**, then proceed to **Foundations**.
+
+### Architects and technical leads
+
+Use **Foundations** as a reference model.  
+Consult **Guidelines** selectively when translating concepts into practice.
+
+### Governance roles
+
+Focus on **Foundations**, especially the plays.  
+Use Guidelines to contextualize enactment choices.
+
+### Researchers and educators
+
+Read Foundations in full.  
+Treat Guidelines and Resources as supporting material.
+
+Iterative reading and revisiting definitions is expected.
+
+---
+
+## 9. Using the guidebook in context
+
+The guidebook itself is not a project deliverable.
+
+Concrete outputs—such as internal models, documents, or customer-facing artifacts—are created outside the guidebook.
+
+The guidebook defines:
+
+- Conceptual structures  
+- Valid transformations  
+- Recommended enactment patterns  
+
+Their instantiation is always context-dependent.
+
+---
+
+## 10. Governance and evolution
+
+The guidebook evolves under explicit governance.
+
+Each released version represents a stable and reviewable state.
+
+Changes are introduced incrementally.  
+Prior versions remain valid references.
+
+Normative claims must always reference a specific version.
+
+Conceptual stability is intentional and deliberate.
+
+---
+
+## 11. Active reading
+
+The guidebook assumes intellectual engagement.
+
+Readers are encouraged to:
+
+- Compare definitions with their existing mental models  
+- Trace implications across conceptual boundaries  
+- Examine tensions between frameworks  
+- Identify implicit assumptions in current practices  
+
+The guidebook rewards disciplined and reflective reading.
+
+---
+
+## Summary
+
+- The guidebook encodes the conceptual architecture of a discipline.  
+- Foundations define validity.  
+- Guidelines support enactment without imposing obligations.  
+- Motivation and Resources provide context.  
+- Page types distinguish definition, justification, and application.  
+- Reading paths depend on role and intent.  
+- Versions matter.  
+
+Use this guidebook as a structured instrument for reasoning about the governance and evolution of software systems.
+
+
+---
+---
+
+
+# How to read this guidebook
+
+> This page defines the reading and navigation principles of the guidebook.
+
 This guidebook is not intended to be read linearly.
 
 It is designed as a **reference for reasoning and governance**, where different readers may engage with different parts depending on their role, intent, and level of familiarity.
