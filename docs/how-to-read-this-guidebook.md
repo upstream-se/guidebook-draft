@@ -4,7 +4,7 @@
 
 This guidebook is not intended to be read as a linear narrative.
 
-It is a structured reference designed to support disciplined reasoning about the governance and evolution of long-lived software systems.  Its organization reflects the architecture of the discipline it presents, rather than a sequential exposition.
+It is a structured reference designed to support disciplined reasoning about the governance and evolution of long-lived software systems.  Its organization reflects the conceptual structure through which the discipline is articulated, rather than a sequential exposition.
 
 Not all content in the guidebook carries the same normative force.  Some sections define what is considered valid within the discipline, while others provide guidance, context, or supporting material.  Understanding these distinctions is essential for interpreting the guidebook correctly.
 
@@ -15,11 +15,11 @@ This page explains how to interpret the structure of the guidebook, how to disti
 
 ## Purpose and reading posture
 
-The guidebook presents Upstream Software Engineering as the discipline concerned with the governance of the intent of long-lived software systems.  It articulates the constructs used to express that intent on the scope and structural decisions and constraints within which the system is framed, and the transformation patterns that operate over it.
+The guidebook presents Upstream Software Engineering as the discipline concerned with the governance of *intent* for long-lived software systems.  Here, *intent* refers to the durable, revisable commitments that constrain a system’s scope — what it is for — and its structure — how it is shaped.  The guidebook articulates the constructs through which these commitments are expressed and the transformation patterns that operate over them.
 
-The guidebook contains a normative core.  Certain elements are defined as valid within the discipline, and these definitions are constitutive of adherence to it.  Compliance is therefore conceptually checkable.  At the same time, the guidebook is not issued by a formal standards body and does not derive its authority from institutional regulation, but from the internal coherence and explicit structure of the discipline it presents.
+The guidebook contains elements that define what is considered valid within the discipline.  Certain constructs, distinctions, and transformation patterns are defined as constitutive of adherence to it.  Compliance is therefore conceptually checkable.  At the same time, the guidebook is not issued by a formal standards body and does not derive its authority from institutional regulation, but from the internal coherence and explicit structure of the discipline it presents.
 
-The guidebook is not a cookbook that provides predefined recipes for recurring situations, nor a playbook that enumerates prescribed moves to be executed in sequence, nor a handbook that documents operational procedures for routine execution.  It does not define a single mandatory workflow to be applied uniformly across contexts.  Instead, it integrates normative foundations with structured recommendations, maintaining a clear distinction between what is required for validity and what is suggested as a way of working.
+The guidebook is not a cookbook that provides predefined recipes for recurring situations, nor a playbook that enumerates prescribed moves to be executed in sequence, nor a handbook that documents operational procedures for routine execution.  It does not impose a uniform workflow as a condition of adherence.  Instead, it integrates normative foundations with structured recommendations, maintaining a clear distinction between what is required for validity and what is suggested as a way of working.
 
 Accordingly, the guidebook is intended to support disciplined judgment rather than mechanical execution.  It should be consulted selectively, its definitions revisited when needed, and its distinctions used to guide reasoning and decision-making in concrete contexts.
 
@@ -28,7 +28,7 @@ Accordingly, the guidebook is intended to support disciplined judgment rather th
 
 The initiative comprises two complementary but distinct artifacts: the Guidebook and the Guidebook Contributors Guide.
 
-The Guidebook presents the discipline of Upstream Software Engineering.  It defines its constructs, normative core, and recommended ways of working.  It is addressed to practitioners, architects, researchers, and decision-makers who engage with the discipline.
+The Guidebook presents the discipline of Upstream Software Engineering.  It defines its constructs, normative core, and recommended ways of working.  It is addressed to practitioners, architects, researchers, and decision-makers engaging with the discipline.
 
 The Guidebook Contributors Guide defines how the Guidebook itself is constructed, reviewed, versioned, and evolved.  It specifies the structural, editorial, and lifecycle rules that govern contributions and changes.  It is addressed to those who maintain and develop the Guidebook as an intellectual artifact.  Reading the Guidebook Contributors Guide is not required to understand, adhere to, or enact the discipline; it is relevant only to those participating in the Guidebook’s maintenance and evolution.  
 
@@ -115,96 +115,58 @@ Epistemic roles are declared through structured callouts within the page content
 Structural type determines how a page is positioned within the guidebook; structured callouts determine how its content should be interpreted.
 
 
-## 7. Analytical usage
+## Analytical usage
 
-The guidebook functions as an analytical instrument.
+The guidebook is intended to function as an analytical instrument.
 
-Its concepts can be used to:
+Its constructs, distinctions, and transformation patterns provide a structured vocabulary for examining the governance of long-lived software systems.  They enable readers to articulate intent explicitly, identify structural gaps, and evaluate whether particular decisions or practices conform to the normative core of the discipline.
 
-- Evaluate governance approaches  
-- Clarify system and portfolio boundaries  
-- Analyze transformation patterns  
-- Compare methodological families  
-- Identify structural gaps in existing practices  
+The guidebook may be used to analyze existing approaches, compare alternative strategies, clarify conceptual boundaries, and assess the coherence of organizational structures and decision-making processes.  In this sense, it supports disciplined evaluation rather than prescriptive execution.
 
-Concepts are designed to operate as lenses.
+Used analytically, the guidebook does not replace contextual judgment.  It provides structured criteria and distinctions that make reasoning explicit, disciplined, and defensible.
 
-The guidebook supports disciplined reasoning rather than procedural instruction.
 
----
+## Navigation and reading strategies
 
-## 8. Navigation and reading strategies
+The guidebook supports multiple reading paths.  The appropriate entry point depends on the reader’s objective.
 
-Different readers may adopt different entry points.
+Readers seeking to understand the rationale for the discipline may begin with **Motivation**, which articulates the problem space and the limits of existing approaches.
 
-### First-time readers
+Readers concerned with validity and compliance should consult **Foundations**, where the normative core is defined.
 
-Start with **Motivation**, then proceed to **Foundations**.
+Readers looking for structured ways of working with the discipline’s constructs may turn to **Guidelines**, which provide recommended artifacts, practices, roles, and organizational patterns.
 
-### Architects and technical leads
+The guidebook is not intended to be read once from beginning to end.  Definitions may need to be revisited, related pages consulted through cross-references, and hierarchical refinements explored progressively.  Iterative reading is expected.
 
-Use **Foundations** as a reference model.  
-Consult **Guidelines** selectively when translating concepts into practice.
 
-### Governance roles
+## Using the guidebook in context
 
-Focus on **Foundations**, especially the plays.  
-Use Guidelines to contextualize enactment choices.
+The guidebook is not itself a project deliverable.  It does not replace architectural documentation, governance reports, organizational charters, or operational procedures.
 
-### Researchers and educators
+Instead, it provides the conceptual constructs and validity criteria through which such artifacts may be examined and shaped.  Concrete outputs are always produced within specific organizational, technological, and institutional contexts.
 
-Read Foundations in full.  
-Treat Guidelines and Resources as supporting material.
+The guidebook defines what must hold for adherence to the discipline.  How those constructs are instantiated in a given environment depends on context, constraints, and organizational choices.  Different contexts may produce different configurations while remaining within the bounds of the same normative core.
 
-Iterative reading and revisiting definitions is expected.
 
----
+## Governance and evolution
 
-## 9. Using the guidebook in context
+The guidebook evolves over time.  Its development is structured and controlled in order to preserve coherence, conceptual stability, and clarity of interpretation.
 
-The guidebook itself is not a project deliverable.
+Each released version represents a stable and reviewable state of the discipline as articulated in the guidebook.  Changes are introduced deliberately and recorded through explicit versioning.
 
-Concrete outputs—such as internal models, documents, or customer-facing artifacts—are created outside the guidebook.
+Conformance to the discipline is evaluated against a major version line of the guidebook.  Minor and patch revisions do not alter the normative core and therefore do not change the conditions for adherence.  Normative modifications, when they occur, are reflected in a new major version.
 
-The guidebook defines:
+The procedural rules governing construction, review, and lifecycle management are defined in the Guidebook Contributors Guide.  These rules ensure that evolution does not compromise structural integrity or conceptual consistency.
 
-- Conceptual structures  
-- Valid transformations  
-- Recommended enactment patterns  
 
-Their instantiation is always context-dependent.
+## Active reading
 
----
+The guidebook assumes disciplined engagement from its readers.  It is not intended for passive consumption.
 
-## 10. Governance and evolution
+Readers are expected to compare definitions with their existing mental models, trace implications across related concepts, and examine how distinctions introduced in one part affect reasoning in another.  Cross-references and hierarchical refinements should be followed deliberately rather than incidentally.
 
-The guidebook evolves under explicit governance.
+Active reading involves testing interpretations against the normative core, identifying implicit assumptions in current practices, and using the guidebook’s constructs to make reasoning explicit.  The guidebook rewards careful, iterative, and reflective use.
 
-Each released version represents a stable and reviewable state.
-
-Changes are introduced incrementally.  
-Prior versions remain valid references.
-
-Normative claims must always reference a specific version.
-
-Conceptual stability is intentional and deliberate.
-
----
-
-## 11. Active reading
-
-The guidebook assumes intellectual engagement.
-
-Readers are encouraged to:
-
-- Compare definitions with their existing mental models  
-- Trace implications across conceptual boundaries  
-- Examine tensions between frameworks  
-- Identify implicit assumptions in current practices  
-
-The guidebook rewards disciplined and reflective reading.
-
----
 
 ## Summary
 
