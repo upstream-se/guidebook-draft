@@ -110,9 +110,9 @@ Structural type determines how a page participates in the guidebook’s architec
 
 Separate from structural type, pages also fulfill epistemic roles.  These roles describe the function the content plays within the discipline — for example, defining a concept, stating a principle, providing justification, or clarifying usage.
 
-Epistemic roles are declared through structured callouts within the page content.  These callouts are marked with a solid square symbol ■ followed by a title that signals the epistemic role of the content of the callout.  Structured callouts titled Definition or Principle, among pthers, are widely used in the guidebook.  A page may contain multiple structured callouts and therefore fulfill more than one epistemic role.
+Epistemic roles are declared through structured callouts within the page content.  These callouts are marked with a solid square symbol (■) followed by a title that signals the role of the content.  Structured callouts titled *Definition* or *Principle*, among others, are widely used in the guidebook.  A page may contain multiple structured callouts and therefore fulfill multiple epistemic roles.
 
-Structural type determines how a page is positioned within the guidebook.  Structured callouts determine how its content should be interpreted.
+Structural type determines how a page is positioned within the guidebook; structured callouts determine how its content should be interpreted.
 
 
 ## 7. Analytical usage
