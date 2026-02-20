@@ -13,7 +13,7 @@ Readers may enter the guidebook from different points depending on their role, o
 This page explains how to interpret the structure of the guidebook, how to distinguish between different types of content, and how to navigate it effectively.
 
 
-## 1. Purpose and reading posture
+## Purpose and reading posture
 
 The guidebook presents Upstream Software Engineering as the discipline concerned with the governance of the intent of long-lived software systems.  It articulates the constructs used to express that intent on the scope and structural decisions and constraints within which the system is framed, and the transformation patterns that operate over it.
 
@@ -48,93 +48,47 @@ Not all conceptual relationships are hierarchical.  Some pages clarify, expand, 
 Navigation arrows signal these relationships.  Downward arrows indicate refinement; upward arrows indicate return to a broader conceptual domain; horizontal arrows indicate movement across related refinements; diagonal arrows indicate contextual or complementary references.  These symbols are part of the guidebook’s structural language and assist readers in interpreting conceptual relationships across pages.
 
 
-## 4. Normativity and compliance
+## Normativity and compliance
 
-Not all content in the guidebook carries the same normative force.
+Not all content in the guidebook has the same normative status.
 
-Three categories are distinguished:
+The guidebook distinguishes between normative, guiding, and informative content.
 
-### Normative
+**Normative content** defines what is considered valid within the discipline.  It establishes the constructs, distinctions, and transformation patterns that are constitutive of adherence.  Claims of conformity to the discipline are evaluated against this normative core.  Only normative content is subject to compliance assessment.
 
-Normative content defines what is considered valid within the discipline.
+**Guiding content** provides recommended ways of working with the normative elements.  It suggests structured practices, representations, and approaches, but it does not impose a single mandatory procedure.  Multiple enactments may remain valid provided they conform to the normative core.  Guiding content is not subject to compliance assessment.
 
-It establishes:
+**Informative content** provides context, explanation, or supporting material.  It assists understanding but does not define validity and is not subject to compliance assessment.
 
-- The scope of the discipline  
-- The metamodel and its constraints  
-- The valid transformation patterns (plays)  
+Understanding these distinctions is essential for correct interpretation.  Normative content defines compliance; guiding and informative content support reasoning and enactment.
 
-Normative content is located in **Foundations**.
 
-Compliance with the discipline is assessed exclusively against this content.
+## Structural parts of the guidebook
 
-### Guiding
+The guidebook is organized into four main parts.  Each part has a distinct epistemic role and normative status.
 
-Guiding content provides recommended ways of enacting the normative core in real contexts.
 
-It may suggest:
+### Motivation — Informative
 
-- Representations  
-- Artifacts  
-- Practices  
-- Organizational patterns  
+The Motivation part articulates the problem space within which the discipline emerges.  It identifies recurring challenges, examines the limits of existing approaches, and explains why an upstream perspective is warranted.  Its function is justificatory: it frames and rationalizes the need for the normative core defined in Foundations.  It does not define validity and is not subject to compliance assessment.
 
-Guiding content is located in **Guidelines**.
-
-It does not impose obligations.  
-Multiple enactments may conform equally to the same normative core.
-
-### Informative
-
-Informative content provides context, motivation, or reusable materials.
-
-It includes:
-
-- The problem space that motivates the discipline  
-- Downloadable or referential resources  
-
-Informative content carries no normative force.
-
----
-
-## 5. Structural parts of the guidebook
-
-The guidebook is organized into four main parts, each with a distinct epistemic role:
-
-### Motivation — Informative / Pre-normative
-
-Explains why Upstream Software Engineering is needed.  
-Describes the problem space and the limitations observed in current practice.
-
-It prepares the reader but does not define validity.
 
 ### Foundations — Normative
 
-Defines the core of the discipline.
+The Foundations part defines the normative core of the discipline.  It specifies the scope of Upstream Software Engineering, the constructs used to articulate intent, and the valid transformation patterns that operate over them.  Foundations are constitutive of adherence.  Only this part defines what is considered valid within the discipline and is subject to compliance assessment.
 
-It includes:
-
-- The formal definition of the discipline  
-- The metamodel  
-- The plays (valid transformations)
-
-Foundations answer:
-
-> What is considered valid within this discipline?
 
 ### Guidelines — Guiding
 
-Provides recommended ways of enacting the normative core in practical contexts.
+The Guidelines part provides structured recommendations for working with the normative core defined in Foundations.  It includes suggested artifacts, practices, roles, and organizational patterns that reify and operationalize the discipline’s constructs.
 
-Guidelines are adaptable and optional, provided conformity to Foundations is preserved.
+Guidelines assist in structuring activity, organizing responsibilities, and shaping decision-making contexts.  They support enactment of the discipline but do not define validity.  Conformity to the discipline is evaluated against Foundations, not against the specific practices or artifacts described in Guidelines.
 
-### Resources — Informative
 
-Provides reusable materials such as white papers, templates, canvases, and related artifacts.
+### Resources — Informative and Guiding
 
-Resources support application but do not define validity.
+The Resources part provides supporting materials, such as papers, templates, tutorials, and related artifacts.  Depending on their nature, these materials may be informative (providing context or explanation) or guiding (offering examples or structured assistance).  Resources do not define validity and are not subject to compliance assessment.
 
----
 
 ## 6. Page types and epistemic roles
 
