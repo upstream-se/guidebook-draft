@@ -86,8 +86,7 @@ The **[Motivation](./motivation/)** page frames the problem space and explains w
 
 Only the content in the **Foundations** page defines validity. The **Guidelines** page is non-normative, and the **Motivation** and **Resources** pages are informative.  Understanding these distinctions is essential for correct use of the guidebook.
 
-↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)**
-  Defines how to understand and use the guidebook, including its structure, normativity, and compliance.
+↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)** for the reading and navigation principles of the guidebook.
 
 The canonical traversal of the guidebook begins with the articulation of its problem space in the **Motivation**.
 
