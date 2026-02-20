@@ -2,60 +2,51 @@
 
 > This page defines the reading and navigation principles of the guidebook.
 
-This guidebook is not intended to be read linearly.  
-It is a structured reference for reasoning about the governance and evolution of software systems.
+This guidebook is not intended to be read as a linear narrative.
 
-Different readers will engage with different parts depending on their role, intent, and level of familiarity.  
-This page establishes the interpretive framework for using the guidebook correctly.
+It is a structured reference designed to support disciplined reasoning about the governance and evolution of long-lived software systems.  Its organization reflects the architecture of the discipline it presents, rather than a sequential exposition.
 
----
+Not all content in the guidebook carries the same normative force.  Some sections define what is considered valid within the discipline, while others provide guidance, context, or supporting material.  Understanding these distinctions is essential for interpreting the guidebook correctly.
+
+Readers may enter the guidebook from different points depending on their role, objectives, and familiarity with the subject.  Concepts are refined progressively, and sections are meant to be revisited as understanding deepens.
+
+This page explains how to interpret the structure of the guidebook, how to distinguish between different types of content, and how to navigate it effectively.
+
 
 ## 1. Purpose and reading posture
 
-The guidebook is designed as a disciplined reference, not as a narrative exposition.
+The guidebook presents Upstream Software Engineering as the discipline concerned with the governance of the intent of long-lived software systems.  It articulates the constructs used to express that intent on the scope and structural decisions and constraints within which the system is framed, and the transformation patterns that operate over it.
 
-It supports:
+The guidebook contains a normative core.  Certain elements are defined as valid within the discipline, and these definitions are constitutive of adherence to it.  Compliance is therefore conceptually checkable.  At the same time, the guidebook is not issued by a formal standards body and does not derive its authority from institutional regulation, but from the internal coherence and explicit structure of the discipline it presents.
 
-- Selective consultation  
-- Iterative refinement of understanding  
-- Role-dependent entry points  
+The guidebook is not a cookbook that provides predefined recipes for recurring situations, nor a playbook that enumerates prescribed moves to be executed in sequence, nor a handbook that documents operational procedures for routine execution.  It does not define a single mandatory workflow to be applied uniformly across contexts.  Instead, it integrates normative foundations with structured recommendations, maintaining a clear distinction between what is required for validity and what is suggested as a way of working.
 
-Readers are expected to move between sections, revisit definitions, and use concepts as stable anchors for reasoning.
+Accordingly, the guidebook is intended to support disciplined judgment rather than mechanical execution.  It should be consulted selectively, its definitions revisited when needed, and its distinctions used to guide reasoning and decision-making in concrete contexts.
 
-Linear reading is possible but not assumed.
 
----
+## Two complementary artifacts
 
-## 2. Two complementary structures
+The initiative comprises two complementary but distinct artifacts: the Guidebook and the Guidebook Contributors Guide.
 
-The initiative comprises two complementary but distinct structures:
+The Guidebook presents the discipline of Upstream Software Engineering.  It defines its constructs, normative core, and recommended ways of working.  It is addressed to practitioners, architects, researchers, and decision-makers who engage with the discipline.
 
-- **The guidebook** — the exposition of the discipline of Upstream Software Engineering.
-- **The guidebook governance framework** — the rules, procedures, and criteria that govern how the guidebook itself is maintained and evolved.
+The Guidebook Contributors Guide defines how the Guidebook itself is constructed, reviewed, versioned, and evolved.  It specifies the structural, editorial, and lifecycle rules that govern contributions and changes.  It is addressed to those who maintain and develop the Guidebook as an intellectual artifact.  Reading the Guidebook Contributors Guide is not required to understand, adhere to, or enact the discipline; it is relevant only to those participating in the Guidebook’s maintenance and evolution.  
 
-This page concerns the guidebook as read by practitioners, researchers, and decision-makers.
+This page is intended for readers engaging with the discipline through the guidebook.
 
-The governance framework is relevant to contributors and editors.  
-Its purpose is to ensure conceptual coherence, stability, and controlled evolution.
+↗ See [Guidebook Contributors Guide](../meta/) for the procedural and structural rules governing the construction and evolution of the guidebook.
 
----
 
-## 3. Conceptual architecture
+## Conceptual architecture
 
-The structure of the guidebook reflects the conceptual architecture of the discipline.
+The guidebook encodes a structured conceptual articulation of the discipline.  Its hierarchy is not merely expository; it reflects normative relationships of containment and specialization between concepts.
 
-Concepts are introduced at higher levels of abstraction and refined progressively.  
-Subsections clarify, specialize, or operationalize parent concepts.
+Parent pages introduce broader conceptual domains.  Child pages refine or specialize those domains by adding constraints, distinctions, or structured elaboration.  Pages at the same hierarchical level represent alternative refinements within a shared conceptual scope.  The hierarchy therefore expresses how concepts relate to one another within the articulated system of the guidebook.
 
-The organization is therefore not editorial convenience.  
-It encodes the decomposition of the discipline into coherent conceptual areas.
+Not all conceptual relationships are hierarchical.  Some pages clarify, expand, or complement others without constituting specialization.  These relationships are expressed through cross-references rather than structural containment.
 
-Cross-references indicate conceptual relationships.  
-They do not necessarily imply containment or hierarchy.
+Navigation arrows signal these relationships.  Downward arrows indicate refinement; upward arrows indicate return to a broader conceptual domain; horizontal arrows indicate movement across related refinements; diagonal arrows indicate contextual or complementary references.  These symbols are part of the guidebook’s structural language and assist readers in interpreting conceptual relationships across pages.
 
-Reading the guidebook means traversing a conceptual structure.
-
----
 
 ## 4. Normativity and compliance
 
