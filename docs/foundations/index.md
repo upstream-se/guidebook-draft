@@ -8,8 +8,7 @@ It formalizes the conceptual constructs that make governing commitments explicit
 
 These structures directly address the structural insufficiencies identified in **Motivation** by providing the formal basis through which intent is articulated and governed explicitly.
 
-↗ See **[Motivation](../motivation/)**  
-  Explains why a distinct upstream discipline is necessary and frames the problem space.
+↗ See **[Motivation](../motivation/)** for the problem space and rationale for a distinct upstream discipline.
 
 The **Foundations** part is structured into three constitutive elements: the discipline, the metamodel, and the plays.
 
