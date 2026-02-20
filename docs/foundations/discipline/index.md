@@ -72,14 +72,14 @@ The discipline is structured as a layered model.  Each layer depends on the prec
 
 ## Where to go next
 
-↓ **[Underlying rationale](./underlying-rationale/index.md)**  
+↓ **[Underlying rationale](./underlying-rationale/)**  
   Reconstructs successive eras of Software Engineering and extracts the structural asymmetries that motivate the discipline.
 
-→ **[The metamodel](../the-metamodel/index.md)**  
+→ **[The metamodel](../the-metamodel/)**  
   Defines the formal conceptual structure that models governed systems and their commitments.
 
-↑ **[Foundations](../index.md)**  
+↑ **[Foundations](../)**  
   Defines the foundational architecture of the guidebook.
 
-↑ **[Upstream Software Engineering Guidebook](../../index.md)**  
+↑ **[Guidebook](../../)**  
   Introduces the purpose, scope, and structure of this guidebook.
