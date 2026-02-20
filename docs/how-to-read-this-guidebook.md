@@ -34,7 +34,7 @@ The Guidebook Contributors Guide defines how the Guidebook itself is constructed
 
 This page is intended for readers engaging with the discipline through the guidebook.
 
-↗ See [Guidebook Contributors Guide](../meta/) for the procedural and structural rules governing the construction and evolution of the guidebook.
+↗ See **[Guidebook Contributors Guide](../meta/)** for the procedural and structural rules governing the construction and evolution of the guidebook.
 
 
 ## Conceptual architecture
