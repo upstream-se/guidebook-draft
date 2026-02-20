@@ -1,5 +1,7 @@
 # Motivation
 
+> This page explains the problem space and rationale for a distinct upstream discipline.
+
 This part explains **why Upstream Software Engineering is needed**.
 
 It introduces the problem space in which software systems are conceived, governed, and evolved, and outlines the recurring difficulties that motivate the formulation of a dedicated upstream discipline.
