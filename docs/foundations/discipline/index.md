@@ -1,9 +1,8 @@
 # The discipline
 
-> ⚠️ **This page is under active construction.**  
-> Concepts, definitions, and structure may evolve as this part is refined.
+> This page defines the conceptual foundations and structure of the Upstream Software Engineering discipline.
 
-This section establishes the conceptual foundations of **Upstream Software Engineering** as a discipline.
+> ⚠️ **This page is under active construction.**
 
 It first clarifies why the discipline is needed and which principles shape it.  It then defines its core concepts, explains its understanding of change and evolution, distinguishes upstream from downstream practices, and articulates its normative commitments.
 
