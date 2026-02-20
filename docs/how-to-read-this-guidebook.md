@@ -1,5 +1,7 @@
 # How to read this guidebook
 
+> This page defines the reading and navigation principles of the guidebook.
+
 This guidebook is not intended to be read linearly.
 
 It is designed as a **reference for reasoning and governance**, where different readers may engage with different parts depending on their role, intent, and level of familiarity.
