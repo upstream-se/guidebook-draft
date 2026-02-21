@@ -26,6 +26,24 @@ Specifically, this part:
 This part does not attempt to prove validity or prescribe action.  Its role is to clarify why upstream concerns deserve explicit treatment.
 
 
+## What this part does not do
+
+The Motivation part does not define the discipline formally.  It does not introduce the metamodel, articulate validity conditions, or prescribe practices and artifacts.
+
+It does not establish compliance criteria.  It does not attempt to resolve the challenges it describes.  It does not provide transformation rules or operational guidance.
+
+All normative content is introduced in later parts of the guidebook, where definitions, structural commitments, and validity constraints are made explicit.
+
+
+## Relation to the rest of the guidebook
+
+The Motivation part provides contextual grounding for the guidebook.  It explains why upstream concerns matter before defining what is valid or how to act.
+
+The normative structure of the discipline is introduced in later parts of the guidebook.  There, definitions, structural commitments, and validity conditions are made explicit.
+
+↗ See **[Foundations](../foundations/)** for the part that defines the normative structure of the discipline.
+
+
 ## Pages in this part
 
 The Motivation part is composed of the following pages:
