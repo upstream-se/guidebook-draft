@@ -11,16 +11,19 @@ The Motivation part examines this problem space.  It clarifies why these difficu
 This part is pre-normative.  It prepares the ground for the normative definitions introduced later in the guidebook without defining norms itself.
 
 
-## Purpose of the motivation part
+## Purpose of this part
 
-The purpose of this part is to:
+The purpose of the Motivation part is to establish relevance and necessity before introducing normative structure.  It frames the conditions under which an upstream discipline becomes meaningful.
 
-- describe the context in which software systems operate and evolve
-- surface recurring challenges observed across organizations and domains
-- explain why these challenges are structural rather than incidental
-- justify the need for an explicit upstream perspective
+Specifically, this part:
 
-This part establishes **relevance and necessity**, not validity.
+- describes the context in which software systems operate and evolve  
+- surfaces recurring structural challenges observed across organizations and domains  
+- explains why these challenges are systemic rather than incidental  
+- examines the limits of existing approaches in addressing them  
+- prepares the reader for the normative foundations that follow  
+
+This part does not attempt to prove validity or prescribe action.  Its role is to clarify why upstream concerns deserve explicit treatment.
 
 
 ## Pages in this part
