@@ -44,70 +44,35 @@ The normative structure of the discipline is introduced in later parts of the gu
 ↗ See **[Foundations](../foundations/)** for the normative structure of Upstream Software Engineering.
 
 
-## Pages in this part
+## Structure of this part
 
-The Motivation part is composed of the following pages:
+The Motivation part is composed of the following primary pages.  Each page represents a distinct argumentative step in the overall rationale.
 
 - **[Problem space](./problem-space.md)**  
-  Describes the environment in which software systems exist and evolve.
+  Describes the problem space in which software systems are conceived and evolve.
 
 - **[Recurring challenges](./recurring-challenges.md)**  
-  Identifies patterns of difficulty that repeatedly arise in practice.
+  Identifies and characterizes recurring structural challenges arising within the problem space.
 
 - **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)**  
-  Examines why existing methods, practices, and frameworks do not fully address these challenges.
+  Examines how established approaches cover the recurring upstream challenges.
 
 - **[Why an upstream perspective](./why-an-upstream-perspective.md)**  
-  Explains why the observed problems call for a distinct upstream focus.
+  Explains why the recurring upstream challenges call for an explicit upstream perspective.
 
 - **[Scope and non-goals](./scope-and-non-goals.md)**  
-  Clarifies what this motivation does and does not attempt to justify.
+  Clarifies the scope and non-goals of the upstream perspective.
 
-Each page addresses a distinct argumentative step.  While they can be consulted independently, the full rationale emerges most clearly when read sequentially.
-
-
-## What this part does not do
-
-This part does not:
-
-- define **Upstream Software Engineering** as a discipline
-- introduce the metamodel or plays
-- prescribe practices or artifacts
-- establish compliance criteria
-
-All normative content is defined in the **[Foundations](../foundations/index.md)** part of the guidebook.
+Each page represents a distinct argumentative step.  While they can be consulted independently, the overall rationale becomes clearer when the pages are read in hierarchical order.  This part establishes the conceptual grounding of the guidebook and is therefore commonly read before proceeding to the normative foundations, though individual pages may also be consulted selectively when examining specific upstream concerns.
 
 
-## How this part relates to the rest of the guidebook
+## Where to go next
 
-The Motivation part provides the **contextual grounding** for the guidebook.
+↓ **[Problem space](./problem-space.md)**  
+  Describes the problem space in which software systems are conceived and evolve.
 
-- It explains *why* upstream concerns matter.
-- It does not explain *what* is valid or *how* to act.
+→ **[Foundations](../foundations/index.md)**  
+  Introduces the normative structure of Upstream Software Engineering.
 
-Readers seeking formal definitions, validity criteria, or transformation rules should proceed to the **[Foundations](../foundations/index.md)** part after completing this section.
-
-
-## How to read this part
-
-This part is typically read:
-
-- at the beginning, to understand the purpose of the guidebook
-- when explaining the relevance of upstream concerns to stakeholders
-- when assessing whether the guidebook applies to a given context
-
-Readers already familiar with the problem space may choose to skim individual pages or return to them selectively.
-
-
-## Where to start
-
-If you are new to the guidebook, continue with:
-
-- **[Problem space](./problem-space.md)** → to understand the environment in which software systems evolve
-
-If you are revisiting this part, you may jump directly to the page most relevant to your questions.
-
-
-While not recommended for first time readers, you can proceed to **[Foundations](../foundations/index.md)** to explore the discipline, its metamodel, and its plays.
-
-Return to **[Guidebook Home](../index.md)** for an overview of this guidebook.
+↑ **[Guidebook home](../index.md)**  
+  (Descriptor not yet locked.)
