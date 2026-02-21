@@ -22,9 +22,9 @@ It defines the conceptual and normative framework of the discipline, including i
 The guidebook is structured to support clarity, interpretation, and disciplined evolution of the practice over time.
 
 
-## How the guidebook is organized
+## Structure of the guidebook
 
-The guidebook is organized in four main parts:
+The guidebook is composed of the following primary parts:
 
 - **[Motivation](./motivation/)**  
   Introduces the problem space and structural rationale for Upstream Software Engineering.
@@ -37,6 +37,8 @@ The guidebook is organized in four main parts:
 
 - **[Resources](./resources/)**  
   Offers reusable materials that support learning, application, and dissemination of the discipline.
+
+Each part fulfills a distinct epistemic role.  Motivation establishes the problem space, Foundations defines validity, Guidelines support enactment, and Resources provide supporting material.  While parts may be consulted independently, the overall structure reflects a progression from problem framing to normative articulation and practical support.
 
 
 ## Guidebook versioning and evolution
@@ -80,15 +82,13 @@ Familiarity with Software Engineering concepts, modern development practices, an
 
 ## How to read this guidebook
 
-This guidebook is not intended to be read linearly.  It is structured as a reference that supports selective and iterative use.
+This guidebook distinguishes clearly between normative and non-normative content.  Its parts serve different epistemic functions within the articulation of Upstream Software Engineering.
 
-The **[Motivation](./motivation/)** page frames the problem space and explains why the discipline is needed.  The **[Foundations](./foundations/)** page defines what is considered valid within the discipline.  The **[Guidelines](./guidelines/)** page provides recommended ways of enacting the normative core in practice.  The **[Resources](./resources/)** page offers supporting materials.
+**Foundations** defines the normative structure of the discipline and establishes what is considered valid upstream.  **Guidelines** provides non-normative recommendations for enactment in practice.  **Motivation** and **Resources** are informative and explanatory.
 
-Only the content in the **Foundations** page defines validity. The **Guidelines** page is non-normative, and the **Motivation** and **Resources** pages are informative.  Understanding these distinctions is essential for correct use of the guidebook.
+Normative claims, compliance assessments, and formal interpretation must be grounded explicitly in the **Foundations** of the corresponding major version.  Other parts support understanding and application but do not define validity conditions.
 
 ↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)** for the reading and navigation principles of the guidebook.
-
-The canonical traversal of the guidebook begins with the articulation of its problem space in the **Motivation**.
 
 
 ## Where to go next
