@@ -8,11 +8,11 @@ This page complements **[Guidebook](./)**.  It presents the hierarchical structu
 - **[Guidebook](./)**  
   Provides an overview of Upstream Software Engineering and its guidebook.
 
-  - **[Guidebook site map](./guidebook-site-map.md)** *(Complementary)*  
-    Provides a map of the hierarchical structure of the guidebook.
-
   - **[How to read this guidebook](./how-to-read-this-guidebook.md)** *(Complementary)*  
     Explains the reading principles of the guidebook.
+
+  - **[Guidebook site map](./guidebook-site-map.md)** *(Complementary)*  
+    Provides a map of the hierarchical structure of the guidebook.
 
   - **[Motivation](./motivation/)**  
     Introduces the problem space and structural rationale for Upstream Software Engineering.
