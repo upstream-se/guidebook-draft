@@ -1,13 +1,14 @@
 # Motivation
 
-> This page explains the problem space and rationale for a distinct upstream discipline.
+> This page introduces the problem space and rationale that motivate the need for a distinct upstream discipline.
 
-This part explains **why Upstream Software Engineering is needed**.
+Software systems do not emerge in isolation.  They are conceived, justified, governed, financed, constrained, and evolved within complex organizational and societal contexts.
 
-It introduces the problem space in which software systems are conceived, governed, and evolved, and outlines the recurring difficulties that motivate the formulation of a dedicated upstream discipline.
+Across industries and domains, recurring patterns of difficulty arise before implementation begins and persist throughout evolution.  These patterns concern decisions about direction, scope, responsibility, coordination, knowledge, and change.  They are not merely technical problems; they are structural features of how software-intensive organizations operate.
 
-The Motivation part is **pre-normative**.  
-It prepares the reader for the normative definitions introduced later in the guidebook, without defining norms itself.
+The Motivation part examines this problem space.  It clarifies why these difficulties are systemic rather than incidental and explains why addressing them requires an explicit upstream perspective.
+
+This part is pre-normative.  It prepares the ground for the normative definitions introduced later in the guidebook without defining norms itself.
 
 
 ## Purpose of the motivation part
