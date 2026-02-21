@@ -1,6 +1,6 @@
 # Foundations
 
-> This page defines the normative core of the Upstream Software Engineering Guidebook.
+> This page introduces the normative structure of Upstream Software Engineering.
 
 **Foundations** establishes the normative structures through which intent is governed within Upstream Software Engineering.
 
