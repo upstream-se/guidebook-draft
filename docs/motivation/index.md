@@ -1,6 +1,6 @@
 # Motivation
 
-> This page introduces the problem space and rationale that motivate the need for a distinct upstream discipline.
+> This page introduces the problem space and structural rationale for Upstream Software Engineering.
 
 Software systems do not emerge in isolation.  They are conceived, justified, governed, financed, constrained, and evolved within complex organizational and societal contexts.
 
