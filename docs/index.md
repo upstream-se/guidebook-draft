@@ -30,7 +30,7 @@ The guidebook is organized in four main parts:
   Introduces the problem space and structural rationale for Upstream Software Engineering.
 
 - **[Foundations](./foundations/)**  
-  Defines the discipline, its formal definitions, metamodel, and valid transformation patterns.
+  Introduces the normative structure of Upstream Software Engineering.
 
 - **[Guidelines](./guidelines/)**  
   Provides non-normative recommendations for enacting the discipline in practice.
