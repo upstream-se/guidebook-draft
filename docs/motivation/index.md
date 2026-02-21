@@ -41,7 +41,7 @@ The Motivation part provides contextual grounding for the guidebook.  It explain
 
 The normative structure of the discipline is introduced in later parts of the guidebook.  There, definitions, structural commitments, and validity conditions are made explicit.
 
-↗ See **[Foundations](../foundations/)** for the part that defines the normative structure of the discipline.
+↗ See **[Foundations](../foundations/)** for the normative structure of Upstream Software Engineering.
 
 
 ## Pages in this part
