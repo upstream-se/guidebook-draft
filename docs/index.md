@@ -90,6 +90,8 @@ Normative claims, compliance assessments, and formal interpretation must be grou
 
 ↘ Refer to **[How to read this guidebook](./how-to-read-this-guidebook.md)** for the reading and navigation principles of the guidebook.
 
+↘ Refer to **[Guidebook site map](./guidebook-site-map.md)** for a map of the hierarchical structure of the guidebook.
+
 
 ## Where to go next
 
