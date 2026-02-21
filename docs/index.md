@@ -1,6 +1,6 @@
 # Upstream Software Engineering Guidebook
 
-> This page introduces the purpose, scope, and structure of this guidebook.
+> This page provides an overview of Upstream Software Engineering and its guidebook.
 
 Upstream Software Engineering is the practice of epistemic governance of the intent of long-lived software systems.
 
