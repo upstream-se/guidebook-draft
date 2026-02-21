@@ -75,4 +75,4 @@ Each page represents a distinct argumentative step.  While they can be consulted
   Introduces the normative structure of Upstream Software Engineering.
 
 ↑ **[Guidebook home](../index.md)**  
-  (Descriptor not yet locked.)
+  Provides an overview of Upstream Software Engineering and its guidebook.
