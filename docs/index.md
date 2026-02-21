@@ -27,7 +27,7 @@ The guidebook is structured to support clarity, interpretation, and disciplined 
 The guidebook is organized in four main parts:
 
 - **[Motivation](./motivation/)**  
-  Explains the problem space and rationale for a distinct upstream discipline.
+  Introduces the problem space and structural rationale for Upstream Software Engineering.
 
 - **[Foundations](./foundations/)**  
   Defines the discipline, its formal definitions, metamodel, and valid transformation patterns.
@@ -94,4 +94,4 @@ The canonical traversal of the guidebook begins with the articulation of its pro
 ## Where to go next
 
 ↓ **[Motivation](./motivation/)**  
-  Explains the problem space and rationale for a distinct upstream discipline.
+  Introduces the problem space and structural rationale for Upstream Software Engineering.
