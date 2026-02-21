@@ -2,22 +2,21 @@
 
 > This page provides a map of the hierarchical structure of the guidebook.
 
-This page complements **[Guidebook](./)**.  It presents the hierarchical structure of the guidebook as a single containment tree.  Complementary pages are explicitly labeled and are not part of the primary containment structure.  Descriptors are shown in transformed form by removing “This page” and reusing the remaining text verbatim.
-
+This page presents the hierarchical structure of the guidebook as a single containment tree.  Complementary pages are explicitly labeled as they are not part of the primary containment structure.
 
 - **[Guidebook](./)**  
   Provides an overview of Upstream Software Engineering and its guidebook.
 
-  - **[How to read this guidebook](./how-to-read-this-guidebook.md)** *(Complementary)*  
+  - **[How to read this guidebook](./how-to-read-this-guidebook.md)** *(complementary)*  
     Explains the reading principles of the guidebook.
 
-  - **[Guidebook site map](./guidebook-site-map.md)** *(Complementary)*  
+  - **[Guidebook site map](./guidebook-site-map.md)** *(complementary)*  
     Provides a map of the hierarchical structure of the guidebook.
 
   - **[Motivation](./motivation/)**  
     Introduces the problem space and structural rationale for Upstream Software Engineering.
 
-    - **[Problem space](./motivation/problem-space.md)**  
+    - **[Problem space](./motivation/problem-space/)**  
       Describes the problem space in which software systems are conceived and evolve.
 
     - **[Recurring challenges](./motivation/recurring-challenges.md)**  
