@@ -1,5 +1,21 @@
 # Problem space
 
+> This page describes the problem space in which software systems are conceived and evolve.
+
+Software systems exist and evolve within complex and enduring environments.  Understanding these environments is necessary before examining the structural characteristics that shape long-lived software systems.
+
+Software systems are not isolated technical artifacts.  They are created, operated, and evolved within organizational, social, economic, and regulatory contexts, and they persist over extended periods of time.  Their behavior, structure, and evolution are shaped not only by technical decisions, but also by human activity, institutional arrangements, and external constraints.  
+
+Software systems are also subject to continuous evolution.  Change is not an exception triggered by failure, but a normal condition driven by shifting requirements, technologies, organizational structures, and external pressures.  Research on software evolution shows that long-lived systems inevitably change and adapt over time.  
+
+This page describes the **baseline conditions** under which software systems are conceived and evolve.  These conditions are not exceptional; they are common across domains and industries.  They provide the descriptive background necessary for understanding the environment in which upstream concerns arise.
+
+The purpose of this page is descriptive.  It establishes a shared understanding of the environment in which software systems operate and evolve.
+
+
+
+---
+
 Before discussing challenges, limitations, or possible approaches, it is necessary to understand the **problem space** in which software systems exist and evolve.
 
 Software systems are not isolated technical artifacts.  They are created, operated, and evolved within organizational, social, economic, and regulatory contexts, and they persist over long periods of time.  Their behavior, structure, and evolution are shaped not only by technical decisions, but also by human activity, organizational arrangements, and external constraints.  This socio-technical nature of software systems has been widely recognized in the literature ([Baxter & Sommerville, 2011](../resources/bibliography.md#baxter-sommerville-2011)).
