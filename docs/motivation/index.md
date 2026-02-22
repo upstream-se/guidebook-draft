@@ -48,19 +48,19 @@ The normative structure of the discipline is introduced in later parts of the gu
 
 The Motivation part is composed of the following primary pages.  Each page represents a distinct argumentative step in the overall rationale.
 
-- **[Problem space](./problem-space.md)**  
+- **[Problem space](./problem-space/)**  
   Describes the problem space in which software systems are conceived and evolve.
 
-- **[Recurring challenges](./recurring-challenges.md)**  
+- **[Recurring challenges](./recurring-challenges/)**  
   Identifies and characterizes recurring structural challenges arising within the problem space.
 
-- **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/index.md)**  
+- **[Coverage analysis of existing approaches](./coverage-analysis-of-existing-approaches/)**  
   Examines how established approaches cover the recurring upstream challenges.
 
-- **[Why an upstream perspective](./why-an-upstream-perspective.md)**  
+- **[Why an upstream perspective](./why-an-upstream-perspective/)**  
   Explains why the recurring upstream challenges call for an explicit upstream perspective.
 
-- **[Scope and non-goals](./scope-and-non-goals.md)**  
+- **[Scope and non-goals](./scope-and-non-goals/)**  
   Clarifies the scope and non-goals of the upstream perspective.
 
 Each page represents a distinct argumentative step.  While they can be consulted independently, the overall rationale becomes clearer when the pages are read in hierarchical order.  This part establishes the conceptual grounding of the guidebook and is therefore commonly read before proceeding to the normative foundations, though individual pages may also be consulted selectively when examining specific upstream concerns.
@@ -68,11 +68,11 @@ Each page represents a distinct argumentative step.  While they can be consulted
 
 ## Where to go next
 
-↓ **[Problem space](./problem-space.md)**  
+↓ **[Problem space](./problem-space/)**  
   Describes the problem space in which software systems are conceived and evolve.
 
-→ **[Foundations](../foundations/index.md)**  
+→ **[Foundations](../foundations/)**  
   Introduces the normative structure of Upstream Software Engineering.
 
-↑ **[Guidebook home](../index.md)**  
+↑ **[Guidebook home](../)**  
   Provides an overview of Upstream Software Engineering and its guidebook.
