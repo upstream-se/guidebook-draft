@@ -36,7 +36,7 @@ American Psychological Association. (2020). *Publication manual of the American 
 ### L
 
 <a id="lehman-ramil-2003"></a>
-Lehman, M. M., & Ramil, J. F. (2003). Software evolution and software evolution processes. *Annals of Software Engineering, 14*(1–4), 275–309. [https://doi.org/10.1023/A:1025364220056](https://doi.org/10.1023/A:1025364220056)
+Lehman, M. M., & Ramil, J. F. (2003). Software evolution and software evolution processes. *Annals of Software Engineering, 14*(1–4), 275–309. [https://doi.org/10.1023/A:1020557525901](https://doi.org/10.1023/A:1020557525901)
 
 
 ## Summary
