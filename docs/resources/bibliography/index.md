@@ -33,6 +33,10 @@ BIBLIOGRAPHY RULES (APA 7)
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). American Psychological Association. [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 
+<a id="ampatzoglou-etal-2022"></a>
+Ampatzoglou, A., Chatzigeorgiou, A., Avgeriou, P., & Kruchten, P. (2022). Technical debt: A comprehensive mapping study. *IEEE Transactions on Software Engineering*. [https://doi.org/10.1109/TSE.2021.3080505](https://doi.org/10.1109/TSE.2021.3080505)
+
+
 ### D
 
 <a id="digkas-etal-2017"></a>
