@@ -140,11 +140,11 @@ These characteristics are not anomalies to be corrected.  They are defining stru
 
 ## Where to go next
 
-→ **[Recurring challenges](./recurring-challenges.md)**  
+→ **[Recurring challenges](./recurring-challenges/)**  
   Identifies and characterizes recurring structural challenges arising within the problem space.
 
-↑ **[Motivation](./)**  
+↑ **[Motivation](../)**  
   Introduces the problem space and structural rationale for Upstream Software Engineering.
 
-↑ **[Guidebook](../)**  
+↑ **[Guidebook](../../)**  
   Provides an overview of Upstream Software Engineering and its guidebook.
