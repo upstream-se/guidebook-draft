@@ -17,7 +17,7 @@ The purpose of this page is descriptive.  It establishes a shared understanding 
 
 Software systems are commonly initiated as projects, but they rarely remain confined to the temporal boundaries of those projects.  In practice, many systems persist for years or decades, continuing to operate and evolve long after their initial development phase has concluded.
 
-Research on software evolution consistently characterizes long-lived systems as the norm rather than the exception.  Lehman’s work describes software systems as continuously changing entities whose lifetime extends well beyond their original context of creation ([Lehman & Ramil, 2003](../resources/bibliography.md#lehman-ramil-2003)).  Once deployed and adopted, a system becomes embedded in organizational processes and external dependencies that make replacement costly or impractical.
+Research on software evolution consistently characterizes long-lived systems as the norm rather than the exception.  Lehman’s work describes software systems as continuously changing entities whose lifetime extends well beyond their original context of creation ([Lehman & Ramil, 2003](../../resources/bibliography/#lehman-ramil-2003)).  Once deployed and adopted, a system becomes embedded in organizational processes and external dependencies that make replacement costly or impractical.  Contemporary syntheses of technical debt research likewise show that structural decisions made during early development persist and influence system evolution across extended time horizons ([Ampatzoglou et al., 2022](../../resources/bibliography/#ampatzoglou-etal-2022)).
 
 As software systems persist, they typically outlive:
 
@@ -25,7 +25,7 @@ As software systems persist, they typically outlive:
 - the technologies and platforms on which they were first built,
 - the organizational structures and business assumptions that motivated their creation.
 
-Maintenance and evolution therefore become dominant activities over a system’s lifetime.  Empirical studies indicate that the majority of effort invested in a software system occurs after its initial delivery, as systems are adapted to new requirements, environments, and constraints ([Bennett & Rajlich, 2000](../resources/bibliography.md#bennett-rajlich-2000)).
+Maintenance and evolution therefore become dominant activities over a system’s lifetime.  Empirical studies indicate that the majority of effort invested in a software system occurs after its initial delivery, as systems are adapted to new requirements, environments, and constraints ([Bennett & Rajlich, 2000](../../resources/bibliography/#bennett-rajlich-2000)).  Longitudinal analyses of open-source systems further demonstrate that structural artifacts and technical debt evolve and accumulate over extended operational lifetimes, reinforcing the persistence and ongoing adaptation of deployed systems ([Digkas et al., 2022](../../resources/bibliography/#digkas-etal-2022)).
 
 Longevity also affects knowledge.  Intent, design rationale, and governing assumptions are subject to gradual loss as individuals leave, documentation becomes outdated, and implicit knowledge remains uncodified.  The temporal distance between decision and consequence is a defining characteristic of long-lived software systems.
 
