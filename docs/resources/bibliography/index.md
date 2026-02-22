@@ -8,20 +8,22 @@ References cited across the guidebook are consolidated on this page.  Entries ar
 ## References
 
 <!--
-BIBLIOGRAPHY RULES
+BIBLIOGRAPHY RULES (APA 7)
 
-1. Entries must be ordered alphabetically by the surname of the first author.
-2. Subsections (### Letter) must be created only when at least one entry exists for that letter.
-3. Entries must be formatted according to APA 7th edition.
-4. Each entry must include a stable anchor identifier in the form:
+1. Entries must be formatted according to APA 7.
+2. Entries must be listed in alphabetical order by the surname of the first author.
+3. Each entry must include:
+   - Full author list (per APA 7 rules)
+   - Year of publication
+   - Full title
+   - Venue (journal, conference, publisher)
+   - Volume/issue/pages when applicable
+   - DOI as a clickable URL (https://doi.org/...)
+4. Each entry must include a stable anchor:
    <a id="surname-etal-year"></a>
-   (lowercase, hyphen-separated; omit "etal" when a single author).
-5. DOIs must be included when available.
-6. DOIs must be rendered as clickable Markdown links displaying the full URL:
-   [https://doi.org/DOI_STRING](https://doi.org/DOI_STRING)
-7. No trailing period may appear after the DOI link.
-8. Entries must include sufficient publication metadata to enable independent verification.
-9. Citations throughout the guidebook must reference the anchor identifier.
+5. Anchor identifiers must be lowercase, hyphen-separated, and contain only letters, digits, and hyphens.
+6. If multiple works share the same author and year, append a letter suffix (e.g., 2020a, 2020b).
+7. Only include sources that are cited somewhere in the guidebook.
 -->
 
 
