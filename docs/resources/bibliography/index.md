@@ -33,10 +33,22 @@ BIBLIOGRAPHY RULES (APA 7)
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). American Psychological Association. [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 
+### D
+
+<a id="digkas-etal-2017"></a>
+Digkas, G., Lungu, M., Chatzigeorgiou, A., & Avgeriou, P. (2017). The evolution of technical debt in the Apache ecosystem. In A. Lopes & R. de Lemos (Eds.), *Software Architecture: 11th European Conference* (Lecture Notes in Computer Science, Vol. 10475, pp. 51–66). Springer. [https://doi.org/10.1007/978-3-319-65831-5_4](https://doi.org/10.1007/978-3-319-65831-5_4)
+
+
 ### L
 
 <a id="lehman-ramil-2003"></a>
 Lehman, M. M., & Ramil, J. F. (2003). Software evolution and software evolution processes. *Annals of Software Engineering, 14*(1–4), 275–309. [https://doi.org/10.1023/A:1020557525901](https://doi.org/10.1023/A:1020557525901)
+
+
+### P
+
+<a id="perera-etal-2024"></a>
+Perera, J., Tempero, E., Tu, Y.-C., & Blincoe, K. (2024). A systematic mapping study exploring quantification approaches to code, design, and architecture technical debt. *ACM Transactions on Software Engineering and Methodology*, Article 1. [https://doi.org/10.1145/3675393](https://doi.org/10.1145/3675393)
 
 
 ## Summary
